@@ -1,0 +1,4 @@
+element_type,osmid,amenity,name,name:zh,name:zh-Hans,name:zh-Hant,geometry,addr:city,addr:district,addr:postcode,addr:province,addr:street,cuisine,name:en,note:opening_hours,nodes,building
+node,1827420132,restaurant,禾地,禾地,禾地,禾地,POINT (116.3368324 39.9903045),,,,,,,,,,
+node,5008853026,restaurant,杭州小吃,杭州小吃,杭州小吃,杭州小吃,POINT (116.3372854 39.99057),北京市,海淀区,100083,北京市,成府路,chinese;breakfast,Hangzhou Delicacy,很久，即到既食,,
+way,627109330,restaurant,餐饮中心,,,,"POLYGON ((116.3394448 39.9906459, 116.339456 39.9901482, 116.3397249 39.9901517, 116.3397533 39.9901829, 116.3398875 39.9901767, 116.3399932 39.9902296, 116.3400298 39.9902981, 116.3400217 39.9906536, 116.3394448 39.9906459))",,,,,,,,,"[5920057539, 5920057540, 5920057541, 5920057542, 5920057543, 5920057544, 5920057545, 5920057546, 5920057539]",yes

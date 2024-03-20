@@ -2,6 +2,7 @@
 *.exe
 .pdf
 *.dat
+cache
 
 # Compiled class file
 *.class

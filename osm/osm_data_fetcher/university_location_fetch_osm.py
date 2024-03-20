@@ -1,26 +1,54 @@
 import json
 import requests
+import time
+import osmnx as ox
+import matplotlib.pyplot as plt
+import os
 
-# 定义查询语句
-query = """
-[out:json];
-(
-  node(around:{radius},{latitude},{longitude})["name"="university"];
-  way(around:{radius},{latitude},{longitude})["name"="university"];
-  relation(around:{radius},{latitude},{longitude})["name"="university"];
-);
-out body;
->;
-out skel qt;
-"""
 
-# 替换查询语句中的占位符
-query = query.format(radius=30000, latitude=39.9071, longitude=116.3910)
+input_file_path = 'map_data/beijing_university.json'
+amenities = ["restaurant", "cafe", "library", "hospital",
+        	"cinema", "bar", "bus_station", 
+			"parking", "police", "bicycle_parking", 
+			"food_court", "toilets"]
+with open(input_file_path, 'r', encoding='utf-8') as input_file:
+	university_list = json.load(input_file)['university']
 
-# 发送查询请求并获取响应
-response = requests.get("http://overpass-api.de/api/interpreter", params={"data": query})
-data = response.json()
+	for university in university_list:
+		query = university['name']
+		csv_node_path = f'map_data/university_map/{query}/{query}_nodes.csv'
+		csv_edge_path = f'map_data/university_map/{query}/{query}_edges.csv'
+		csv_features_path = 'map_data/university_map/{query}/{query}_{feature}.csv'
+		if not os.path.exists(f'map_data/university_map/{query}'):
+			os.makedirs(f'map_data/university_map/{query}')
 
-output_file_path = "output_data.json"
-with open(output_file_path, "w+", encoding='utf-8') as output_file:
-    json.dump(data, output_file, indent=4, ensure_ascii=False)
+		try:
+			graph = ox.graph_from_place(query)
+			nodes, edges = ox.graph_to_gdfs(graph)
+			
+			nodes.to_csv(csv_node_path)
+			edges.to_csv(csv_edge_path)
+			print(f"Nodes and Edges for {query} have been found and were stored at map_data/university_map/{query}/{csv_node_path} and map_data/university_map/{query}/{csv_edge_path}")
+		except:
+			print(f"Nodes and Edges for {query} have not been found")
+		
+		try:
+			area = ox.geocode_to_gdf(query)
+			area.to_csv(f"Area in {query} has been found and were stored at {csv_features_path.format(query=query, feature='area')}")
+		except:
+			print(f"No area was found in {query}")
+
+		try:
+			buildings = ox.features_from_place(query, {"building": True})
+			buildings.to_csv(csv_features_path.format(query=query, features='bulidings'))
+			print(f"{len(buildings)} buildings in {query} have been found and were stored at {csv_features_path.format(query=query, feature='bulidings')}")
+		except:
+			print(f"No building was found in {query}")
+		for amenity in amenities:
+			try:
+				feature = ox.features_from_place(query, {"amenity": amenity})
+				feature.to_csv(csv_features_path.format(query=query, feature=amenity))
+				print(f"{len(feature)} {amenity} in {query} have been found and were stored at {csv_features_path.format(query=query, feature=amenity)}")
+			except:
+				print(f"No {amenity} was found in {query}")
+		print("\n")

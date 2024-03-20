@@ -1,0 +1,23 @@
+{
+    "university": [
+        {"name": "Peking University", "location": "116.310918,39.992873"},
+        {"name": "Tsinghua University", "location": "116.326936,40.003213"},
+        {"name": "Capital Medical University", "location": "116.352850,39.863411"},
+        {"name": "Beijing Normal University", "location": "116.365503,39.961076"},
+        {"name": "Renmin University of China", "location": "116.313226,39.970598"},
+        {"name": "Beijing University of Aeronautics and Astronautics", "location": "116.347310,39.981819"},
+        {"name": "University of Science and Technology Beijing", "location": "116.359265,39.990384"},
+        {"name": "Beijing Jiaotong University", "location": "116.342835,39.952270"},
+        {"name": "Beijing Institute of Technology", "location": "116.315196,39.959971"},
+        {"name": "Communication University of China", "location": "116.557351,39.912182"},
+        {"name": "Beijing Sport University", "location": "116.318746,40.024529"},
+        {"name": "University of International Business and Economics", "location": "116.427753,39.980360"},
+        {"name": "Capital Normal University", "location": "116.305766,39.930146"},
+        {"name": "Beijing University of Posts and Telecommunications", "location": "116.358104,39.961554"},
+        {"name": "Beijing Forestry University", "location": "116.347477,40.005901"},
+        {"name": "Beijing University of Technology", "location": "116.481686,39.875344"},
+        {"name": "中国农业大学", "location": "116.357122,40.004989"},
+        {"name": "North China Electric Power University", "location": "116.310446,40.089821"},
+        {"name": "China University of Geosciences at Beijing", "location": "116.348879,39.991325"}
+    ]
+}

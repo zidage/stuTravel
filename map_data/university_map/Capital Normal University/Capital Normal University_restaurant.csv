@@ -1,0 +1,2 @@
+element_type,osmid,nodes,addr:city,addr:district,addr:housenumber,addr:postcode,addr:province,addr:street,amenity,building,building:levels,name,name:zh,name:zh-Hans,name:zh-Hant,geometry
+way,646169860,"[6072122632, 6072122633, 6072122634, 6072122635, 6072122632]",海淀区,八里庄街道,105号,100048,北京市,西三环北路,restaurant,yes,3,后勤集团饮食中心,后勤集团饮食中心,后勤集团饮食中心,後勤集團飲食中心,"POLYGON ((116.2995868 39.9278731, 116.3000737 39.9278676, 116.3000666 39.9273954, 116.2995868 39.9274119, 116.2995868 39.9278731))"
