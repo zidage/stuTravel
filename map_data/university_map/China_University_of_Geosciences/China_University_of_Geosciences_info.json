@@ -2,6 +2,7 @@
     "university": {
         "name": "中国地质大学（武汉）",
         "address": "中国湖北省武汉市洪山区鲁磨路388号 邮政编码: 430079",
+        "formatted_address": "GC82+CX_洪山区_中国湖北省武汉市",
         "rating": 4.9
     }
 }

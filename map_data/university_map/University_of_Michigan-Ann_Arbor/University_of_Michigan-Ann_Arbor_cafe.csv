@@ -1,0 +1,8 @@
+element_type,osmid,amenity,cuisine,name,opening_hours,geometry,addr:housenumber,addr:street,check_date,addr:city,website,addr:postcode,payment:mcard
+node,3062442003,cafe,sandwich;coffee_shop,Fireside Roast,,POINT (-83.7176968 42.2908776),,,,,,,yes
+node,3065601646,cafe,sandwich;pizza,Blue Apple,Mo-Th 07:00-01:00; Fr 07:00-23:00; Sa 09:00-23:00; Su 09:00-01:00,POINT (-83.7212721 42.2936353),,,,,,,yes
+node,3065610484,cafe,sandwich;pizza,Victors,Mo-Th 07:00-01:00; Fr 07:00-23:00; Sa 09:00-23:00; Su 09:00-01:00,POINT (-83.7317467 42.2802225),,,,,,,yes
+node,3068653993,cafe,sandwich;coffee_shop,Bert's Cafe,Mo-Th 08:00-01:00; Fr 08:00-17:00; Sa 12:00-17:00,POINT (-83.7371092 42.2758825),,,2023-09-02,,https://dining.umich.edu/menus-locations/cafes/berts-cafe/,,yes
+node,3072665433,cafe,sandwich,Mujo Cafe,Mo-Th 07:00-02:00; Fr 07:00-18:00; Sa off; Su 12:00-02:00,POINT (-83.7158408 42.2914942),,,2023-07-26,,,,
+node,3072665436,cafe,coffee_shop,M-36 Coffee Roasters,"Mo-Fr 06:30-20:00, Fr,Sa 07:00-20:00",POINT (-83.7356467 42.2751221),1101,South University Avenue,,Ann Arbor,https://www.m36coffeeroasters.com/,48104,
+node,10942330076,cafe,coffee_shop,Sweetwaters,,POINT (-83.7414418 42.2751656),,,,,,,

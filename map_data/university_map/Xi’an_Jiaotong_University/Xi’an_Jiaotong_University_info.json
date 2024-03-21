@@ -2,6 +2,7 @@
     "university": {
         "name": "西安交通大学",
         "address": "中国陕西省西安市碑林区交大商业街区咸宁西路28号 邮政编码: 710049",
+        "formatted_address": "7X2M+8F_碑林区_中国陕西省西安市",
         "rating": 4.6
     }
 }

@@ -2,6 +2,7 @@
     "university": {
         "name": "上海财经大学",
         "address": "中国上海市杨浦区五角场武川路318号 邮政编码: 200437",
+        "formatted_address": "8F4V+JJ_杨浦区_中国上海市",
         "rating": 4.6
     }
 }

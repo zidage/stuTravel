@@ -1,0 +1,5 @@
+element_type,osmid,amenity,name,geometry,cuisine,opening_hours,payment:mcard,toilets,toilets:wheelchair
+node,3062442001,restaurant,Fireside Café,POINT (-83.7176483 42.2909189),,Mo-Fr 09:00-17:00,yes,,
+node,3072665434,restaurant,Maizie's,POINT (-83.737422 42.279008),,Mo-Fr 08:00-18:00,,,
+node,6795747839,restaurant,Hibachi san,POINT (-83.717704 42.2908394),,,,,
+node,9403993530,restaurant,Joe's Pizza,POINT (-83.7356682 42.2752067),pizza,,,yes,yes

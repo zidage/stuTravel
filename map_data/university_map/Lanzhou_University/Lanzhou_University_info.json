@@ -2,6 +2,7 @@
     "university": {
         "name": "兰州大学",
         "address": "中国甘肃省兰州市城关区天水南路222号 邮政编码: 730000",
+        "formatted_address": "2VX5+4C_城关区_中国甘肃省兰州市",
         "rating": 4.5
     }
 }

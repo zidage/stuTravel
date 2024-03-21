@@ -1,0 +1,3 @@
+element_type,osmid,alt_name,amenity,name,opening_hours,operator,geometry,screen,website
+node,4121851182,Barbro Osher Theater,cinema,Pacific Film Archive Theater,We-Su 11:00-19:00,Berkeley Art Museum and Pacific Film Archive,POINT (-122.266261 37.8712267),,
+node,9487538483,,cinema,Lawrence Hall of Science 3D Theater,,Lawrence Hall of Science,POINT (-122.2463958 37.8789017),1,https://www.lawrencehallofscience.org/exhibits/3d-theater/

@@ -2,6 +2,7 @@
     "university": {
         "name": "郑州大学",
         "address": "中国河南省郑州市中原区科学大道100号 邮政编码: 450001",
+        "formatted_address": "RG5P+68_中原区_中国河南省郑州市",
         "rating": 4.6
     }
 }

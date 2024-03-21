@@ -2,6 +2,7 @@
     "university": {
         "name": "重庆大学",
         "address": "中国重庆市沙坪坝区沙正街174号 邮政编码: 400044",
+        "formatted_address": "HF79+X6_沙坪坝区_中国重庆市",
         "rating": 4.4
     }
 }

@@ -2,6 +2,7 @@
     "university": {
         "name": "浙江大学",
         "address": "中国浙江省杭州市西湖区余杭塘路866号 邮政编码: 310027",
+        "formatted_address": "835P+FH_西湖区_中国浙江省杭州市",
         "rating": 4.6
     }
 }

@@ -1,4 +1,0 @@
-element_type,osmid,amenity,brand,brand:wikidata,brand:wikipedia,cuisine,name,name:de,name:en,name:zh,official_name,opening_hours,takeaway,geometry
-node,4391736218,cafe,Starbucks,Q37158,en:Starbucks,coffee_shop,Starbucks,Starbucks coffee,Starbucks coffee,星巴克,Starbucks Coffee,"Mo-Su,PH 07:00-22:00",yes,POINT (121.4277677 31.2016065)
-node,4391736219,cafe,,,,,法学院咖啡厅,,,,,Mo-Su 08:00-21:00,,POINT (121.4277819 31.2011585)
-node,4391736220,cafe,,,,,Juice bar,,,,,Mo-Su 08:00-21:00,,POINT (121.4293179 31.2017488)

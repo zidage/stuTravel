@@ -2,6 +2,7 @@
     "university": {
         "name": "南京师范大学",
         "address": "中国江苏省南京市鼓楼区宁海路122号 邮政编码: 210098",
+        "formatted_address": "3Q37+XX_鼓楼区_中国江苏省南京市",
         "rating": 4.7
     }
 }

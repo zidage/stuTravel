@@ -2,6 +2,7 @@
     "university": {
         "name": "华东理工大学",
         "address": "中国上海市徐汇区梅陇路130号 邮政编码: 200231",
+        "formatted_address": "4CRG+93_徐汇区_中国上海市",
         "rating": 4.5
     }
 }

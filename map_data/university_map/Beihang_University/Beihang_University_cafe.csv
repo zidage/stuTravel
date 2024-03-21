@@ -1,0 +1,3 @@
+element_type,osmid,amenity,name,name:en,name:zh,name:zh-Hans,name:zh-Hant,geometry,check_date
+node,1030342290,cafe,雕刻时光,Sculpting In Time,雕刻时光,雕刻时光,雕刻時光,POINT (116.342179 39.9785551),
+node,6813625759,cafe,海棠咖啡,Hai Tang,,,,POINT (116.3440075 39.9810218),2023-10-16

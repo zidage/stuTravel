@@ -1,0 +1,4 @@
+element_type,osmid,amenity,geometry,nodes,access,bicycle_parking,building,building:colour,building:levels,building:material,roof:colour,roof:material
+node,5169269829,bicycle_parking,POINT (116.3028574 39.9710421),,,,,,,,,
+node,5169269830,bicycle_parking,POINT (116.3029432 39.9703761),,,,,,,,,
+way,515292443,bicycle_parking,"POLYGON ((116.3070899 39.9706865, 116.3078443 39.9707394, 116.307857 39.970633, 116.3071026 39.9705801, 116.3070899 39.9706865))","[5032671892, 5032671891, 5032671890, 5032671889, 5032671892]",private,building,yes,#c8aa8c,1,brick,blue,metal

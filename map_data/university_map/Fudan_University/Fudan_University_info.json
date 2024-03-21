@@ -2,6 +2,7 @@
     "university": {
         "name": "复旦大学",
         "address": "中国上海市杨浦区邯郸路220号 邮政编码: 200437",
+        "formatted_address": "7GW3+XC_杨浦区_中国上海市",
         "rating": 4.5
     }
 }

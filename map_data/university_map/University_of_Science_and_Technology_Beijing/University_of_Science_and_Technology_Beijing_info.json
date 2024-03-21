@@ -2,6 +2,7 @@
     "university": {
         "name": "北京科技大学",
         "address": "中国北京市海淀区学院路30号 邮政编码: 100083",
+        "formatted_address": "X9Q6+Q2_海淀区_中国北京市",
         "rating": 4.6
     }
 }

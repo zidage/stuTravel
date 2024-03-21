@@ -2,6 +2,7 @@
     "university": {
         "name": "华中科技大学",
         "address": "中国湖北省武汉市洪山区珞喻路1037号 邮政编码: 430074",
+        "formatted_address": "GC7C+64_洪山区_中国湖北省武汉市",
         "rating": 4.4
     }
 }

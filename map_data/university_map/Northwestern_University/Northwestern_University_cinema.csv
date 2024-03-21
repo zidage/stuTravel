@@ -1,0 +1,2 @@
+element_type,osmid,addr:city,addr:housenumber,addr:postcode,addr:state,addr:street,amenity,name,website,wikidata,geometry
+node,7313805184,Evanston,40,60208,IL,Arts Circle Drive,cinema,Block Cinema,https://www.blockmuseum.northwestern.edu/cinema/,Q88106325,POINT (-87.6728657 42.0523227)

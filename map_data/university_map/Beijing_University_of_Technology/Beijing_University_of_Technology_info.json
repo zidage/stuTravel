@@ -2,6 +2,7 @@
     "university": {
         "name": "北京工业大学",
         "address": "中国北京市朝阳区 邮政编码: 100021",
+        "formatted_address": "VFCH+JR_朝阳区_中国北京市",
         "rating": 4.8
     }
 }

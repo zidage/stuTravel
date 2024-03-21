@@ -1,0 +1,5 @@
+element_type,osmid,access,amenity,bicycle_parking,covered,fee,geometry,nodes
+node,7994162421,yes,bicycle_parking,shed,yes,no,POINT (113.3451154 23.16178),
+node,8067839968,,bicycle_parking,,,,POINT (113.3487044 23.158251),
+node,8221407029,,bicycle_parking,,,,POINT (113.3452346 23.1615776),
+way,939233113,,bicycle_parking,,,,"POLYGON ((113.346954 23.1569523, 113.3469544 23.1568409, 113.3474029 23.1568423, 113.3474025 23.1569538, 113.346954 23.1569523))","[8700617990, 8700617991, 8700617992, 8700617993, 8700617990]"

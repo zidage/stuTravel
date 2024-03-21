@@ -2,6 +2,7 @@
     "university": {
         "name": "中国政法大学",
         "address": "中国北京市海淀区西土城路25号 邮政编码: 100088",
+        "formatted_address": "X982+8P_海淀区_中国北京市",
         "rating": 4.6
     }
 }

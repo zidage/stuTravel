@@ -1,0 +1,6 @@
+element_type,osmid,addr:city,addr:housenumber,addr:postcode,addr:state,addr:street,amenity,check_date,indoor_seating,name,opening_hours,outdoor_seating,takeaway,wheelchair,geometry,diet:halal,internet_access,payment:credit_cards,payment:debit_cards,smoking,internet_access:fee,level,phone,website
+node,3624042852,Baltimore,3400,21218,MD,North Charles Street,cafe,,,Alkimia,,,,,POINT (-76.621647 39.3290268),no,yes,yes,yes,no,,,,
+node,5429326901,,,,,,cafe,,,Daily Grind,,,,,POINT (-76.620691 39.3305905),no,,yes,yes,,,,,http://brodydailygrind.com/
+node,9822844092,,,,,,cafe,,,Good Part & Company,,,,,POINT (-76.6209726 39.3321976),,,,,,,,,
+node,9921621161,,,,,,cafe,2022-07-30,,Barnes & Noble Café,Mo-Fr 09:00-19:00; Sa-Su 10:00-19:00,,,yes,POINT (-76.6165669 39.3283247),,,,,,,0,,
+node,10082317913,,,,MD,Bowman Drive,cafe,,yes,Levering Cafe,Mo-Fr 11:00-14:00,no,yes,,POINT (-76.6217293 39.32812),,wlan,,,no,no,0,410-516-3383,https://hopkinsdining.nutrislice.com

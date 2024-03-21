@@ -1,0 +1,8 @@
+element_type,osmid,alt_name,amenity,cuisine,level,name,opening_hours,operator,outdoor_seating,payment:cash,payment:mastercard,payment:visa,start_date,geometry,diet:vegetarian,name:en,name:zh,smoking,wheelchair,delivery,internet_access,internet_access:fee,payment:ep_octopus,takeaway,phone,diet:halal,construction
+node,1925678683,學生會餐廳 Union Restaurant,restaurant,chinese,4,EAT,Mo-Su 07:30-21:30,Sodexo,yes,no,yes,yes,2018-09-27,POINT (114.1364905 22.2830057),,,,,,,,,,,,,
+node,1925678747,,restaurant,international,,Joseph's,,,,,,,,POINT (114.1374162 22.2819669),,,,,,,,,,,,,
+node,1932297114,,restaurant,regional,0,一念素食 Bijas Vegetarian,Mo-Fr 08:00-21:00; PH Sa 11:30-21:00; Su off,,,,,,,POINT (114.134177 22.2838172),only,Bijas Vegetarian,一念素食,no,yes,,,,,,,,
+node,5211827929,,restaurant,burger,-1,OBC Grill,,,,yes,,,2018-11-14,POINT (114.1349509 22.2832635),,,,no,yes,no,yes,no,yes,yes,,,
+node,5872343405,,restaurant,,2,Fong Shu Chuen Amenities Centre Restaurant,Mo-Fr 07:30-20:00; Sa 11:00-14:00; PH Su off,Asia Pacific Catering,,,,,,POINT (114.1396956 22.2838689),,,,,,,,,,,+852 2548 1109,,
+node,5872350035,,restaurant,kebab,,Ebeneezer's Kebabs & Pizzeria,,,,,,,,POINT (114.1397631 22.2838987),,Ebeneezer's Kebabs & Pizzeria,,,,,,,,,,only,
+node,5872371137,,restaurant,asian,0,Pan Asian strEAT Food,,,,,,,,POINT (114.1338722 22.2836132),,Pan Asian strEAT Food,,no,,,wlan,,,,,,yes

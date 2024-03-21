@@ -2,6 +2,7 @@
     "university": {
         "name": "中国海洋大学",
         "address": "中国山东省青岛市市南区鱼山路5号 邮政编码: 266005",
+        "formatted_address": "386P+G4_市南区_中国山东省青岛市",
         "rating": 4.7
     }
 }

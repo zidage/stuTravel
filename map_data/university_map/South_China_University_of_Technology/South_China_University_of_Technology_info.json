@@ -2,6 +2,7 @@
     "university": {
         "name": "华南理工大学",
         "address": "中国广东省广州市天河区五山路381号",
+        "formatted_address": "582V+GV_天河区_中国广东省广州市",
         "rating": 4.3
     }
 }

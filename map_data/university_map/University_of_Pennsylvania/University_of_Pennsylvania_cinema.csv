@@ -1,0 +1,2 @@
+element_type,osmid,addr:city,addr:housenumber,addr:postcode,addr:state,addr:street,amenity,brand,brand:wikidata,contact:phone,description,email,name,phone,website,wheelchair,wikidata,geometry
+node,343293151,Philadelphia,4012,19104,PA,Walnut Street,cinema,Cinemark,Q707530,+1-215-386-9800,Movie theatre. Does not allow bags or backpacks.,1109@cinemark.com,Cinemark University City Penn 6,+1-215-386-9800,https://www.cinemark.com/pennsylvania/cinemark-university-city-penn-6,yes,Q43385693,POINT (-75.2032852 39.9538723)

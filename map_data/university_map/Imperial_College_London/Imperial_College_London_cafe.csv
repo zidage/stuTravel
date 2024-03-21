@@ -1,0 +1,4 @@
+element_type,osmid,amenity,name,geometry,opening_hours,outdoor_seating,wheelchair
+node,4275158055,cafe,College Café,POINT (-0.1750273 51.4991901),,,
+node,5409238758,cafe,EEE Café,POINT (-0.1762931 51.4990988),,,
+node,5409238759,cafe,Library Café,POINT (-0.177943 51.4980744),"Mo-Th 08:00-23:00; Fr 08:00-21:00; Sa,Su 10:00-17:00",no,yes

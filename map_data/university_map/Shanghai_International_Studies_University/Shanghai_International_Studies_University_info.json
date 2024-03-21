@@ -2,6 +2,7 @@
     "university": {
         "name": "上海外国语大学",
         "address": "中国上海市松江区文翔路1550号 邮政编码: 201613",
+        "formatted_address": "26VG+24_松江区_中国上海市",
         "rating": 4.5
     }
 }

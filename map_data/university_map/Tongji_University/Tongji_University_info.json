@@ -2,6 +2,7 @@
     "university": {
         "name": "同济大学",
         "address": "中国上海市闸北区中山北路共和新路1238号 邮政编码: 200070",
+        "formatted_address": "7F75+3X_静安区_中国上海市",
         "rating": 4.7
     }
 }

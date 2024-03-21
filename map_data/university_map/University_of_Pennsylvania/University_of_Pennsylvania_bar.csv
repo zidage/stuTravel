@@ -1,0 +1,3 @@
+element_type,osmid,amenity,name,geometry,addr:city,addr:housenumber,addr:postcode,addr:state,addr:street
+node,1700198702,bar,Smokey Joe's,POINT (-75.2028345 39.9537387),Philadelphia,,,,
+node,10682204580,bar,The Living Room Lounge,POINT (-75.1957911 39.9537491),Philadelphia,3600,19104,PA,Sansom Street

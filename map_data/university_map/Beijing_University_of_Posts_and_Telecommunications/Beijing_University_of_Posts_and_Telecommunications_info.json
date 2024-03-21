@@ -2,6 +2,7 @@
     "university": {
         "name": "北京邮电大学",
         "address": "中国北京市海淀区北太平庄西土城路10号 邮政编码: 100876",
+        "formatted_address": "X975+46_海淀区_中国北京市",
         "rating": 4.6
     }
 }

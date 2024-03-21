@@ -1,0 +1,8 @@
+element_type,osmid,amenity,bicycle_parking,geometry,capacity,covered,source:capacity,note
+node,4362566042,bicycle_parking,stands,POINT (103.7845926 1.2942626),,,,
+node,4379292089,bicycle_parking,wall_loops,POINT (103.7805221 1.2972535),,,,
+node,9075249707,bicycle_parking,,POINT (103.7701036 1.2970557),10,yes,,
+node,9781262727,bicycle_parking,,POINT (103.775546 1.2943009),,yes,,
+node,10128318316,bicycle_parking,,POINT (103.7748782 1.2950388),20,,guess,
+node,10951250041,bicycle_parking,,POINT (103.7845729 1.2950554),,,,
+node,10982066580,bicycle_parking,,POINT (103.7699698 1.2978261),,,,valid anywheel parking space

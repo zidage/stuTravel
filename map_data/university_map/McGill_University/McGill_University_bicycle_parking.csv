@@ -1,0 +1,17 @@
+element_type,osmid,amenity,geometry,capacity,smoothness,source,surface,covered,access,bicycle_parking,fee
+node,392505307,bicycle_parking,POINT (-73.5780014 45.5047145),,,,,,,,
+node,392505308,bicycle_parking,POINT (-73.5772123 45.5044616),,,,,,,,
+node,1013055074,bicycle_parking,POINT (-73.576754 45.506345),32,,,,,,,
+node,1282761428,bicycle_parking,POINT (-73.5743804 45.5048349),,good,McGill accessibility mapping,concrete,,,,
+node,1361528151,bicycle_parking,POINT (-73.5820323 45.5028473),,,,,yes,,,
+node,1574393311,bicycle_parking,POINT (-73.572911 45.506068),,,,,,,,
+node,1599126693,bicycle_parking,POINT (-73.5778548 45.5036125),5,,,,no,yes,stands,no
+node,4631371690,bicycle_parking,POINT (-73.5748387 45.5045321),30,,,,no,,wall_loops,
+node,4631371691,bicycle_parking,POINT (-73.5751339 45.5048188),,,,,no,,stands,
+node,4869938920,bicycle_parking,POINT (-73.5731631 45.5057633),,,,,,,,
+node,6096782510,bicycle_parking,POINT (-73.5752276 45.5047303),,,,,no,,,
+node,11022826955,bicycle_parking,POINT (-73.5794744 45.5095893),,,,,,,,
+node,11289831272,bicycle_parking,POINT (-73.577768 45.5047135),,,,,,,,
+node,11289831273,bicycle_parking,POINT (-73.5778825 45.5046),,,,,,,,
+node,11289831280,bicycle_parking,POINT (-73.5766185 45.505896),,,,,,,,
+node,11582567476,bicycle_parking,POINT (-73.5748283 45.5040741),46,,,,no,,stands,

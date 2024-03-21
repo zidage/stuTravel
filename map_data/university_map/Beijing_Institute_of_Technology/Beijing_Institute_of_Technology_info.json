@@ -2,6 +2,7 @@
     "university": {
         "name": "北京理工大学",
         "address": "中国北京市海淀区魏公村中关村大街5号 邮政编码: 100811",
+        "formatted_address": "X866+4X_海淀区_中国北京市",
         "rating": 4.5
     }
 }

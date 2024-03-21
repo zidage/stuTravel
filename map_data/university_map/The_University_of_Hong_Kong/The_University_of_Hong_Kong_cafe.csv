@@ -1,0 +1,6 @@
+element_type,osmid,amenity,cuisine,delivery,internet_access,internet_access:fee,level,name,opening_hours,operator,outdoor_seating,payment:cash,payment:ep_octopus,phone,smoking,takeaway,geometry,brand,brand:en,brand:wikidata,brand:wikipedia,brand:zh,name:en,name:zh,official_name,website
+node,1925678352,cafe,coffee_shop;pastry,no,yes,no,0,Délifrance,"Mo-Fr 07:30-22:00;Sa-Su,PH 08:00-20:00",Délifrance,yes,yes,yes,+852 25462121,no,yes,POINT (114.1349751 22.2831086),,,,,,,,,
+node,1926823773,cafe,coffee_shop,,,,0,太平洋咖啡 Pacific Coffee,,,,,,,,yes,POINT (114.1396208 22.2838667),太平洋咖啡 Pacific Coffee,Pacific Coffee,Q7122398,en:Pacific Coffee,太平洋咖啡,Pacific Coffee,太平洋咖啡,,
+node,4236919992,cafe,coffee_shop,,wlan,,,星巴克 Starbucks,"Mo-Fr 07:30-22:00; Sa 07:30-19:00; Su,SH 10:00-19:00",,,,,,,yes,POINT (114.137955 22.28307),星巴克 Starbucks,Starbucks,Q37158,en:Starbucks,星巴克,Starbucks,星巴克,Starbucks Coffee,https://www.starbucks.com/
+node,5872337761,cafe,,,,,2,Cafe 330,Mo-Fr 07:30-20:30; Sa-Su PH 10:00-18:30,New Life Support Enterprises Ltd.,,,,+852 2794 3778,,,POINT (114.139121 22.2827211),,,,,,,,,
+node,5872368049,cafe,coffee_shop,,wlan,,0,星巴克 Starbucks,"Mo-Fr 07:30-22:00;Sa 07:30-20:00;Su,PH 11:00-18:30",,,,,+852 2559 9061,,yes,POINT (114.1357695 22.2831356),星巴克 Starbucks,Starbucks,Q37158,en:Starbucks,星巴克,Starbucks,星巴克,Starbucks Coffee,https://www.starbucks.com/

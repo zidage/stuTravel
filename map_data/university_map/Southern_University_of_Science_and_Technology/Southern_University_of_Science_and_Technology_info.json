@@ -2,6 +2,7 @@
     "university": {
         "name": "南方科技大学",
         "address": "中国广东省深圳市南山区学苑大道1088号 邮政编码: 518055",
+        "formatted_address": "HXVX+HH_南山区_中国广东省深圳市",
         "rating": 4.9
     }
 }

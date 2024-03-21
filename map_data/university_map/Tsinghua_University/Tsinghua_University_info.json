@@ -2,6 +2,7 @@
     "university": {
         "name": "清华大学",
         "address": "中国北京市海淀区蓝旗营双清路30号 邮政编码: 100190",
+        "formatted_address": "X8XG+VH_海淀区_中国北京市",
         "rating": 4.6
     }
 }

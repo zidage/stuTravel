@@ -1,0 +1,5 @@
+element_type,osmid,access,amenity,geometry,indoor,layer,level,nodes,building,drinking_water
+node,4422378711,customers,toilets,POINT (-122.2381226 37.8750885),,,,,,
+node,9438368511,,toilets,POINT (-122.2589647 37.8720756),yes,,,,,
+node,9526101023,,toilets,POINT (-122.2583971 37.8739237),,-1,1,,,
+way,257411981,,toilets,"POLYGON ((-122.2379761 37.8741361, -122.23795 37.8741197, -122.2378865 37.8741828, -122.2379127 37.8741992, -122.2379761 37.8741361))",,,,"[2629427497, 2629427496, 2629427498, 2629427499, 2629427497]",yes,yes

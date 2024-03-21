@@ -2,6 +2,7 @@
     "university": {
         "name": "中国石油大学",
         "address": "中国北京市昌平区府学路18号 邮政编码: 102200",
+        "formatted_address": "669W+PX_昌平区_中国北京市",
         "rating": 4.5
     }
 }

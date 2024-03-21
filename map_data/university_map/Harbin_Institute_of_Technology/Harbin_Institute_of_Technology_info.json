@@ -2,6 +2,7 @@
     "university": {
         "name": "哈尔滨工业大学",
         "address": "中国黑龙江省哈尔滨市南岗区西大直街92号 邮政编码: 150001",
+        "formatted_address": "PJWM+R9_南岗区_中国黑龙江省哈尔滨市",
         "rating": 4.7
     }
 }

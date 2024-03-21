@@ -1,0 +1,8 @@
+element_type,osmid,addr:city,addr:country,addr:housenumber,addr:interpolation,addr:postcode,addr:state,addr:street,amenity,name,geometry,indoor_seating,outdoor_seating,toilets:wheelchair,wheelchair,cuisine,opening_hours,opening_hours:covid19,website
+node,977202978,Ithaca,US,415,odd,14850,NY,College Avenue,restaurant,Collegetown Bagels,POINT (-76.4854725 42.4422537),yes,yes,no,no,,,,
+node,2095822851,,,,,,,,restaurant,Risley Dining,POINT (-76.4822066 42.4532608),,,,,american,,,
+node,2095832657,,,,,,,,restaurant,Okenshields,POINT (-76.4857954 42.4465778),,,,,,Mo-Fr 11:00-14:30,,
+node,2095834016,,,,,,,,restaurant,Trillium,POINT (-76.4790952 42.447945),,,,,,,,
+node,2108337074,Ithaca,,186,,14853,NY,Cradit Farm Drive,restaurant,North Star Dining,POINT (-76.4759957 42.4535179),,,,,,,,
+node,2108342502,,,,,,,,restaurant,Robert Purcell Marketplace Eatery,POINT (-76.4777169 42.4559956),,,,,,,off,
+node,3840051820,,,,,,,,restaurant,Franny's,POINT (-76.4842285 42.4510624),,,,,vietnamese,Mo-Fr 11:00-16:00,,https://scl.cornell.edu/frannys

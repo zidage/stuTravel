@@ -2,6 +2,7 @@
     "university": {
         "name": "苏州大学",
         "address": "中国江苏省苏州市姑苏区东环路50号 邮政编码: 215006",
+        "formatted_address": "8M32+8Q_姑苏区_中国江苏省苏州市",
         "rating": 4.5
     }
 }

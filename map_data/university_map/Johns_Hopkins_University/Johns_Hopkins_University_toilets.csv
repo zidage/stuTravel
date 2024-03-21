@@ -1,0 +1,4 @@
+element_type,osmid,amenity,fee,geometry,check_date,male,female
+node,9169583738,toilets,no,POINT (-76.6188532 39.3321598),,,
+node,10800009792,toilets,,POINT (-76.6211462 39.3331493),2023-04-10,yes,
+node,10800009793,toilets,,POINT (-76.6212469 39.3332154),2023-04-10,,yes

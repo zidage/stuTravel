@@ -1,0 +1,5 @@
+element_type,osmid,amenity,name,geometry,cuisine
+node,286081409,restaurant,Pat Brown's Grille,POINT (-122.2648839 37.8733273),
+node,366352407,restaurant,Crossroads,POINT (-122.2563567 37.8670418),
+node,1421339345,restaurant,The Faculty Club,POINT (-122.255922 37.8718606),
+node,9906770661,restaurant,Blaze Pizza,POINT (-122.2612933 37.8683264),pizza

@@ -1,5 +1,0 @@
-element_type,osmid,amenity,name,name:zh,name:zh-Hans,name:zh-Hant,geometry,brand,brand:en,brand:wikidata,brand:wikipedia,brand:zh,cuisine,name:en,takeaway
-node,1678269071,cafe,船长日记,船长日记,船长日记,船長日記,POINT (116.3320067 39.9490513),,,,,,,,
-node,9105357464,cafe,CoCo都可,CoCo都可,,,POINT (116.33708 39.9473021),CoCo都可,CoCo Fresh Tea & Juice,Q65084369,zh:CoCo都可,CoCo都可,bubble_tea,CoCo Fresh Tea & Juice,yes
-node,9105357465,cafe,一点点,,,,POINT (116.3366118 39.9471935),一点点,alittle-tea,Q106926258,zh:五十嵐 (臺灣),,bubble_tea,alittle-tea,yes
-node,9105357466,cafe,蜜雪冰城,蜜雪冰城,,,POINT (116.3363654 39.9471276),蜜雪冰城,MIXUEBINGCHENG,Q107406476,,蜜雪冰城,ice_cream;bubble_tea,MIXUEBINGCHENG,yes

@@ -2,6 +2,7 @@
     "university": {
         "name": "山东大学",
         "address": "中国山东省济南市历城区山大南路27号CN 山东省 济南市 山大南路27号",
+        "formatted_address": "J2XH+HJ_历城区_中国山东省济南市",
         "rating": 4.1
     }
 }
