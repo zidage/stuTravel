@@ -6,16 +6,16 @@ import matplotlib.pyplot as plt
 import os
 
 
-input_file_path = 'map_data/beijing_university.json'
+input_file_path = 'map_data/china_university.json'
 amenities = ["restaurant", "cafe", "library", "hospital",
         	"cinema", "bar", "bus_station", 
 			"parking", "police", "bicycle_parking", 
 			"food_court", "toilets"]
 with open(input_file_path, 'r', encoding='utf-8') as input_file:
-	university_list = json.load(input_file)['university']
+	university_list = json.load(input_file)
 
 	for university in university_list:
-		query = university['name']
+		query = university
 		csv_node_path = f'map_data/university_map/{query}/{query}_nodes.csv'
 		csv_edge_path = f'map_data/university_map/{query}/{query}_edges.csv'
 		csv_features_path = 'map_data/university_map/{query}/{query}_{feature}.csv'
@@ -34,13 +34,14 @@ with open(input_file_path, 'r', encoding='utf-8') as input_file:
 		
 		try:
 			area = ox.geocode_to_gdf(query)
-			area.to_csv(f"Area in {query} has been found and were stored at {csv_features_path.format(query=query, feature='area')}")
+			area.to_csv(csv_features_path.format(query=query, feature='area'))
+			print(f"Area in {query} has been found and were stored at {csv_features_path.format(query=query, feature='area')}")
 		except:
 			print(f"No area was found in {query}")
 
 		try:
 			buildings = ox.features_from_place(query, {"building": True})
-			buildings.to_csv(csv_features_path.format(query=query, features='bulidings'))
+			buildings.to_csv(csv_features_path.format(query=query, feature='bulidings'))
 			print(f"{len(buildings)} buildings in {query} have been found and were stored at {csv_features_path.format(query=query, feature='bulidings')}")
 		except:
 			print(f"No building was found in {query}")

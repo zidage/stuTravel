@@ -6,11 +6,13 @@ import matplotlib.pyplot as plt
 import os
 
 
-query = "Tsinghua University"
+query = "University of Electronic Science and Technology of China"
 
-area = ox.geocode_to_gdf(query)
+
 graph = ox.graph_from_place(query)
 nodes, edges = ox.graph_to_gdfs(graph)
+area = ox.geocode_to_gdf(query)
+area.to_csv()
 buildings = ox.features_from_place(query, {"building": True})
 # restaurants = ox.features_from_place(query, {"amenity": "restaurant"})
 fig, ax = plt.subplots(figsize=(12, 8))

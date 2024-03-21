@@ -1,0 +1,2 @@
+element_type,osmid,nodes,amenity,bicycle_parking,building,covered,fee,supervised,geometry
+way,128247587,"[1417702665, 1417702669, 1417702660, 1417702628, 1417702665]",bicycle_parking,shed,hut,yes,no,no,"POLYGON ((114.3537136 30.5393158, 114.3537685 30.5393107, 114.3537854 30.539447, 114.3537306 30.5394521, 114.3537136 30.5393158))"

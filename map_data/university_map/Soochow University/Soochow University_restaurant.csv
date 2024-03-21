@@ -1,0 +1,5 @@
+element_type,osmid,amenity,name,toilets:wheelchair,wheelchair,geometry,wheelchair:description
+node,5151430122,restaurant,loveling 夢屋,no,yes,POINT (121.5471135 25.0945621),
+node,5151431921,restaurant,東吳大學學生餐廳,yes,yes,POINT (121.5463404 25.0938471),0
+node,5174346322,restaurant,大樹下,no,no,POINT (121.544646 25.0953044),1
+node,5956649387,restaurant,貝殼之家,,limited,POINT (121.5445241 25.0952632),

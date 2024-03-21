@@ -1,0 +1,2 @@
+element_type,osmid,nodes,addr:city,addr:housenumber,addr:postcode,addr:street,amenity,building,building:levels,fast_food,name,geometry
+way,283729607,"[2875654306, 2875654307, 2875654308, 2875654309, 2875654306]",武汉,388,430074,鲁磨路,food_court,yes,1,cafeteria,学一食堂,"POLYGON ((114.3904273 30.5245945, 114.390944 30.5245945, 114.3909403 30.5242811, 114.39042 30.5242842, 114.3904273 30.5245945))"

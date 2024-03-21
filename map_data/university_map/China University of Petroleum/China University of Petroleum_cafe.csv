@@ -1,0 +1,4 @@
+element_type,osmid,amenity,name,geometry,brand,brand:en,brand:wikidata,brand:zh,cuisine,name:en,name:zh,takeaway
+node,8579025257,cafe,索尔咖啡,POINT (120.1695551 35.9429222),,,,,,,,
+node,9122015374,cafe,沪上阿姨,POINT (120.1666945 35.9416483),沪上阿姨,AUNTEA JENNY,Q108165945,沪上阿姨,bubble_tea,AUNTEA JENNY,沪上阿姨,yes
+node,9122015375,cafe,超级奶爸,POINT (120.1669397 35.9424858),,,,,bubble_tea,,,

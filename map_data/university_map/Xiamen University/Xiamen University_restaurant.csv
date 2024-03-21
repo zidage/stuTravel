@@ -1,0 +1,4 @@
+element_type,osmid,amenity,name,geometry,addr:city,addr:housenumber,addr:postcode,addr:street
+node,1761690575,restaurant,Villa 6,POINT (118.0936374 24.44182),,,,
+node,3051160184,restaurant,芙蓉餐厅,POINT (118.0973197 24.4381454),,,,
+node,3841272927,restaurant,东苑餐厅,POINT (118.0971948 24.4384482),厦门,422,361005,思明南路

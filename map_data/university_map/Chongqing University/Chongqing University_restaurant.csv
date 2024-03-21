@@ -1,0 +1,3 @@
+element_type,osmid,amenity,fast_food,name,geometry
+node,1633754235,restaurant,cafeteria,学生二食堂,POINT (106.5062977 29.536844)
+node,1633754248,restaurant,cafeteria,学生一食堂,POINT (106.5038834 29.53711)

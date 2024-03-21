@@ -1,0 +1,3 @@
+element_type,osmid,access,amenity,bicycle_parking,capacity,operator,operator:type,geometry,nodes,building
+node,10582890637,private,bicycle_parking,shed,科大车行,中国科学技术大学,government,POINT (117.2621208 31.8384029),,
+way,1135310354,private,bicycle_parking,shed,,中国科学技术大学,government,"POLYGON ((117.2668053 31.8413251, 117.2672358 31.8413351, 117.2672418 31.8412462, 117.2671509 31.8412462, 117.2670482 31.8412462, 117.2668053 31.8412411, 117.2668053 31.8413251))","[10582890689, 10582890690, 10582890691, 10582890698, 10582890697, 10582890692, 10582890689]",yes

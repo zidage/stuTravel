@@ -1,0 +1,2 @@
+,geometry,bbox_north,bbox_south,bbox_east,bbox_west,place_id,osm_type,osm_id,lat,lon,class,type,place_rank,importance,addresstype,name,display_name
+0,"POLYGON ((120.673683 36.3682676, 120.6740183 36.3682669, 120.6740215 36.3692788, 120.6736862 36.3692794, 120.673683 36.3682676))",36.3692794,36.3682669,120.6740215,120.673683,197114547,way,1066287292,36.3687732,120.67385225007902,building,yes,30,9.99999999995449e-06,building,Shandong University,"Shandong University, 蓝谷路, Jimo, Qingdao, Shandong, 266200, China"

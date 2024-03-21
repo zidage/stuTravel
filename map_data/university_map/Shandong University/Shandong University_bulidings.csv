@@ -1,0 +1,2 @@
+element_type,osmid,nodes,building,name,name:en,name:zh,name:zh-Hans,name:zh-Hant,public_transport,geometry
+way,1066287292,"[9791536389, 9791536388, 9791536387, 9791536386, 9791536389]",yes,山东大学站,Shandong University,山东大学站,山东大学站,山東大學站,station,"POLYGON ((120.6736862 36.3692794, 120.6740215 36.3692788, 120.6740183 36.3682669, 120.673683 36.3682676, 120.6736862 36.3692794))"

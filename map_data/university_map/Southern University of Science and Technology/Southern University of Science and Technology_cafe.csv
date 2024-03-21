@@ -1,0 +1,3 @@
+element_type,osmid,amenity,brand,brand:en,brand:wikidata,brand:wikipedia,brand:zh,cuisine,name,name:en,name:zh,official_name,takeaway,geometry,drink:espresso,drink:filter_coffee,level,name:zh-Hans,name:zh-Hant
+node,8361013234,cafe,星巴克,Starbucks,Q37158,en:Starbucks,星巴克,coffee_shop,星巴克,Starbucks,星巴克,Starbucks Coffee,yes,POINT (113.9932053 22.5980786),,,,,
+node,8509306256,cafe,,,,,,coffee_shop,致仁咖啡店,,致仁咖啡店,,,POINT (113.9937158 22.6019552),*,*,0,致仁咖啡店,致仁咖啡店

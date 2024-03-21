@@ -1,0 +1,4 @@
+element_type,osmid,amenity,geometry,name,name:zh,name:zh-Hans,name:zh-Hant
+node,2428981698,cafe,POINT (113.9249406 22.5298534),,,,
+node,3255140829,cafe,POINT (113.9285791 22.5371553),,,,
+node,3255140830,cafe,POINT (113.9292581 22.5374125),2楼西餐厅,2楼西餐厅,2楼西餐厅,2樓西餐廳

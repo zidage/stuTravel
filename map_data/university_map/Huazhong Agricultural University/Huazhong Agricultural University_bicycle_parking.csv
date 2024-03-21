@@ -1,0 +1,9 @@
+element_type,osmid,amenity,geometry,covered
+node,1145388002,bicycle_parking,POINT (114.345526 30.4784284),
+node,1145388003,bicycle_parking,POINT (114.3452516 30.4784952),
+node,1145394684,bicycle_parking,POINT (114.3487368 30.4810495),
+node,1157121723,bicycle_parking,POINT (114.3495979 30.4788444),
+node,1179096453,bicycle_parking,POINT (114.3504454 30.4790178),
+node,1220958711,bicycle_parking,POINT (114.3491728 30.4750752),yes
+node,1295647911,bicycle_parking,POINT (114.347904 30.4761667),
+node,1401837711,bicycle_parking,POINT (114.3560316 30.4785755),

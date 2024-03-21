@@ -1,4 +1,0 @@
-element_type,osmid,amenity,fast_food,name,name:zh,name:zh-Hans,name:zh-Hant,geometry,nodes,building,cuisine
-node,1561196463,restaurant,cafeteria,二食堂,二食堂,二食堂,二食堂,POINT (116.335662 40.0011529),,,
-node,4603600793,restaurant,,山林风,山林风,山林风,山林風,POINT (116.3373819 39.9996662),,,
-way,1003838049,restaurant,,禾谷园,禾谷园,禾谷园,禾穀園,"POLYGON ((116.3355663 40.0058692, 116.3359228 40.0058026, 116.3357516 40.0053427, 116.3353933 40.005424, 116.3355663 40.0058692))","[9262615015, 9262615016, 9262626317, 9262626318, 9262615015]",yes,chinese

@@ -1,0 +1,3 @@
+element_type,osmid,access,amenity,toilets:disposal,unisex,wheelchair,geometry
+node,9122015341,permissive,toilets,flush,yes,no,POINT (120.1656317 35.9429063)
+node,9122015342,yes,toilets,flush,yes,,POINT (120.1699035 35.9435796)

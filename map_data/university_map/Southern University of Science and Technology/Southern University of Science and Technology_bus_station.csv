@@ -1,0 +1,2 @@
+element_type,osmid,nodes,amenity,bus,name,name:en,name:zh,name:zh-Hans,name:zh-Hant,public_transport,geometry
+way,638398875,"[6016888327, 6016888328, 11262987482, 6016888329, 6016888330, 6016888327]",bus_station,yes,欣园总站,Joy Highland School Bus Terminal,欣园总站,欣园总站,欣園總站,station,"POLYGON ((113.9972795 22.610823, 113.9975709 22.6105719, 113.9974878 22.6104914, 113.9972977 22.6104834, 113.997137 22.610689, 113.9972795 22.610823))"

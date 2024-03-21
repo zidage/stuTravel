@@ -1,0 +1,3 @@
+element_type,osmid,amenity,brand,brand:en,brand:wikidata,brand:wikipedia,brand:zh,cuisine,name,name:en,name:zh,outdoor_seating,takeaway,geometry
+node,6617132827,cafe,瑞幸咖啡,Luckin Coffee,Q56811344,zh:瑞幸咖啡,瑞幸咖啡,coffee_shop,瑞幸咖啡,Luckin Coffee,瑞幸咖啡,yes,yes,POINT (114.3914236 30.5227869)
+node,8434929758,cafe,,,,,,bubble_tea,书亦烧仙草,,,,,POINT (114.3905116 30.524556)

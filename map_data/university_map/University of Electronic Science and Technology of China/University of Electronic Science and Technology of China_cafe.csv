@@ -1,0 +1,4 @@
+element_type,osmid,amenity,brand,brand:en,brand:wikidata,brand:zh,cuisine,name,name:en,name:zh,payment:alipay,takeaway,geometry
+node,6403469799,cafe,蜜雪冰城,MIXUEBINGCHENG,Q107406476,蜜雪冰城,ice_cream;bubble_tea,蜜雪冰城,MIXUEBINGCHENG,蜜雪冰城,yes,yes,POINT (103.9276297 30.759485)
+node,7545152455,cafe,,,,,,品诺咖啡,,,,,POINT (103.926708 30.75313)
+node,9139805611,cafe,,,,,,宾诺咖啡,,,,,POINT (103.9228732 30.7528073)
