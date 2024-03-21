@@ -1,4 +1,0 @@
-element_type,osmid,amenity,fast_food,name,name:zh,name:zh-Hans,name:zh-Hant,geometry,check_date,cuisine,level,name:en,operator,nodes,building
-node,2924754019,restaurant,cafeteria,学生食堂（含回民餐厅）,学生食堂（含回民餐厅）,学生食堂（含回民餐厅）,學生食堂（含回民餐廳）,POINT (116.3387579 39.9809165),,,,,,,
-node,11277366075,restaurant,,米大碗,,,,POINT (116.3385937 39.9839004),2023-10-20,chinese,-1,Midawan,北航学三食堂,,
-way,190427995,restaurant,,东区食堂,东区食堂,东区食堂,東區食堂,"POLYGON ((116.3411352 39.9807245, 116.3411411 39.9804901, 116.3416681 39.9804983, 116.3416618 39.9807323, 116.3411352 39.9807245))",,,,,,"[2010562695, 2010562694, 2706659351, 2010562693, 2010562695]",yes

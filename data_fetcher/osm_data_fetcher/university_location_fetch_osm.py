@@ -1,55 +1,69 @@
 import json
+from urllib import response
 import requests
 import time
 import osmnx as ox
 import matplotlib.pyplot as plt
 import os
 
-
-input_file_path = 'map_data/china_university.json'
+google_api_url = 'https://maps.googleapis.com/maps/api/place/textsearch/json?query={query}&language=zh-CN&key={API_KEY}'
+input_file_path = ['map_data/catagory/china_university.json', 'map_data/catagory/world_university.json']
 amenities = ["restaurant", "cafe", "library", "hospital",
         	"cinema", "bar", "bus_station", 
 			"parking", "police", "bicycle_parking", 
 			"food_court", "toilets"]
-with open(input_file_path, 'r', encoding='utf-8') as input_file:
-	university_list = json.load(input_file)
 
-	for university in university_list:
-		query = university
-		csv_node_path = f'map_data/university_map/{query}/{query}_nodes.csv'
-		csv_edge_path = f'map_data/university_map/{query}/{query}_edges.csv'
-		csv_features_path = 'map_data/university_map/{query}/{query}_{feature}.csv'
-		if not os.path.exists(f'map_data/university_map/{query}'):
-			os.makedirs(f'map_data/university_map/{query}')
-
-		try:
-			graph = ox.graph_from_place(query)
-			nodes, edges = ox.graph_to_gdfs(graph)
-			
-			nodes.to_csv(csv_node_path)
-			edges.to_csv(csv_edge_path)
-			print(f"Nodes and Edges for {query} have been found and were stored at map_data/university_map/{query}/{csv_node_path} and map_data/university_map/{query}/{csv_edge_path}")
-		except:
-			print(f"Nodes and Edges for {query} have not been found")
+for input_path in input_file_path:
+	with open(input_path, 'r', encoding='utf-8') as input_file:
+		university_list = json.load(input_file)
 		
-		try:
-			area = ox.geocode_to_gdf(query)
-			area.to_csv(csv_features_path.format(query=query, feature='area'))
-			print(f"Area in {query} has been found and were stored at {csv_features_path.format(query=query, feature='area')}")
-		except:
-			print(f"No area was found in {query}")
-
-		try:
-			buildings = ox.features_from_place(query, {"building": True})
-			buildings.to_csv(csv_features_path.format(query=query, feature='bulidings'))
-			print(f"{len(buildings)} buildings in {query} have been found and were stored at {csv_features_path.format(query=query, feature='bulidings')}")
-		except:
-			print(f"No building was found in {query}")
-		for amenity in amenities:
+		for university in university_list:
+			query = university
+			query_formal_name = query.replace(' ', '_')
+			csv_features_path = 'map_data/university_map/{query}/{query}_{feature}.csv'
+			
 			try:
-				feature = ox.features_from_place(query, {"amenity": amenity})
-				feature.to_csv(csv_features_path.format(query=query, feature=amenity))
-				print(f"{len(feature)} {amenity} in {query} have been found and were stored at {csv_features_path.format(query=query, feature=amenity)}")
+				response = requests.get(google_api_url.format(query=query, API_KEY='AIzaSyAa2ZdkUiY7jLWkZJABgUtKMwEdHQA1pvU'))
+				assert(response.status_code == 200)
+				result = response.json()['results'][0]
+				data = {'name': result['name'], 'address': result['formatted_address'], 'rating': result['rating']}
+				data_with_parent = {'university': data}
+				if not os.path.exists(f'map_data/university_map/{query}'):
+					os.makedirs(f'map_data/university_map/{query_formal_name}')
+				with open(f'map_data/university_map/{query_formal_name}/{query_formal_name}_info.json', 'w', encoding='gb2312') as f:
+					json.dump(data_with_parent, f, indent=4, ensure_ascii=False)
+					print(f'Basic info of {query} has been found and stored at map_data/university_map/{query}/{query_formal_name}_info.json')
 			except:
-				print(f"No {amenity} was found in {query}")
-		print("\n")
+				time.sleep(1)
+				print('\n')
+				break
+			try:
+				graph = ox.graph_from_place(query)
+				nodes, edges = ox.graph_to_gdfs(graph)
+				nodes.to_csv(csv_features_path.format(query=query_formal_name, feature='nodes'))
+				edges.to_csv(csv_features_path.format(query=query_formal_name, feature='edges'))
+				print(f"Nodes and Edges for {query} have been found and were stored at {csv_features_path.format(query=query_formal_name, feature='nodes/edges')}")
+			except:
+				print(f"Neither node nor edge for {query} was found")
+			
+			try:
+				area = ox.geocode_to_gdf(query)
+				area.to_csv(csv_features_path.format(query=query_formal_name, feature='area'))
+				print(f"Area in {query} has been found and was stored at {csv_features_path.format(query=query_formal_name, feature='area')}")
+			except:
+				print(f"No area was found in {query}")
+
+			try:
+				buildings = ox.features_from_place(query, {"building": True})
+				buildings.to_csv(csv_features_path.format(query=query_formal_name, feature='bulidings'))
+				print(f"{len(buildings)} buildings in {query} have been found and stored at {csv_features_path.format(query=query_formal_name, feature='bulidings')}")
+			except:
+				print(f"No building was found in {query}")
+			for amenity in amenities:
+				try:
+					feature = ox.features_from_place(query, {"amenity": amenity})
+					feature.to_csv(csv_features_path.format(query=query_formal_name, feature=amenity))
+					print(f"{len(feature)} {amenity} in {query} have been found andstored at {csv_features_path.format(query=query_formal_name, feature=amenity)}")
+				except:
+					print(f"No {amenity} was found in {query}")
+			print("\n")

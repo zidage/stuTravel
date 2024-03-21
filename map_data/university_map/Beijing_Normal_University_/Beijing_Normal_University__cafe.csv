@@ -1,0 +1,2 @@
+element_type,osmid,addr:housename,addr:housenumber,addr:postcode,addr:street,amenity,cuisine,internet_access,internet_access:fee,name,name:zh,name:zh-Hans,name:zh-Hant,geometry
+node,1924729425,励耘学苑,19,100875,新街口外大街,cafe,coffee_shop,wlan,no,12橡树咖啡,12橡树咖啡,12橡树咖啡,12橡樹咖啡,POINT (116.3640468 39.9603023)
