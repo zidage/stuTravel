@@ -1,4 +1,0 @@
-element_type,osmid,access,amenity,changing_table,fee,gender_segregated,toilets:handwashing,unisex,wheelchair,geometry,handwashing:soap,male,opening_hours,repeat_on,toilets:disposal,female
-node,9308550515,yes,toilets,no,no,no,yes,yes,no,POINT (113.2939482 23.1017232),,,,,,
-node,9308664084,yes,toilets,no,,,yes,no,yes,POINT (113.29075 23.0982471),yes,yes,24/7,0-5,flush,
-node,9308664085,yes,toilets,no,,,yes,no,yes,POINT (113.2907662 23.0983278),yes,,24/7,0-5,flush,yes

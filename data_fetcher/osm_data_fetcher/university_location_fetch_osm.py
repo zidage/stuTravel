@@ -21,6 +21,7 @@ for input_path in input_file_path:
 		for university in university_list:
 			query = university
 			query_formal_name = query.replace(' ', '_')
+			geojson_features_path = 'map_data/university_map/{query}/{query}_{feature}.geojson'
 			csv_features_path = 'map_data/university_map/{query}/{query}_{feature}.csv'
 			
 			try:
@@ -47,34 +48,37 @@ for input_path in input_file_path:
 				nodes, edges = ox.graph_to_gdfs(graph)
 				nodes.to_csv(csv_features_path.format(query=query_formal_name, feature='nodes'))
 				edges.to_csv(csv_features_path.format(query=query_formal_name, feature='edges'))
-				print(f"Nodes and Edges for {query} have been found and were stored at {csv_features_path.format(query=query_formal_name, feature='nodes/edges')}")
+				print(f"Nodes and Edges for {query} have been found and were stored at {geojson_features_path.format(query=query_formal_name, feature='nodes/edges')}")
 			except:
 				print(f"Neither node nor edge for {query} was found")
 			
 			try:
 				area = ox.geocode_to_gdf(query)
-				area.to_csv(csv_features_path.format(query=query_formal_name, feature='area'))
-				print(f"Area in {query} has been found and was stored at {csv_features_path.format(query=query_formal_name, feature='area')}")
+				area.to_file(geojson_features_path.format(query=query_formal_name, feature='area'), driver='GeoJSON')
+				print(f"Area in {query} has been found and was stored at {geojson_features_path.format(query=query_formal_name, feature='area')}")
 			except:
 				print(f"No area was found in {query}")
 
 			try:
 				buildings = ox.features_from_place(query, {"building": True})
-				buildings.to_csv(csv_features_path.format(query=query_formal_name, feature='bulidings'))
-				print(f"{len(buildings)} buildings in {query} have been found and stored at {csv_features_path.format(query=query_formal_name, feature='bulidings')}")
+				assert(len(buildings) > 0)
+				buildings.to_file(geojson_features_path.format(query=query_formal_name, feature='bulidings'), driver='GeoJSON')
+				print(f"{len(buildings)} buildings in {query} have been found and stored at {geojson_features_path.format(query=query_formal_name, feature='bulidings')}")
 			except:
 				print(f"No building was found in {query}")
 			for amenity in amenities:
 				try:
 					feature = ox.features_from_place(query, {"amenity": amenity})
-					feature.to_csv(csv_features_path.format(query=query_formal_name, feature=amenity))
-					print(f"{len(feature)} {amenity} in {query} have been found andstored at {csv_features_path.format(query=query_formal_name, feature=amenity)}")
+					assert(len(feature) > 0)
+					feature.to_file(geojson_features_path.format(query=query_formal_name, feature=amenity), driver='GeoJSON')
+					print(f"{len(feature)} {amenity} in {query} have been found andstored at {geojson_features_path.format(query=query_formal_name, feature=amenity)}")
 				except:
 					print(f"No {amenity} was found in {query}")
 			try:
 				water = ox.features_from_place(query, {"natural": "water"})
-				water.to_csv(csv_features_path.format(query=query_formal_name, feature='water'))
-				print(f"{len(water)} water area in {query} have been found and stored at {csv_features_path.format(query=query_formal_name, feature='water')}")
+				assert(len(water) > 0)
+				water.to_file(geojson_features_path.format(query=query_formal_name, feature='water'), driver='GeoJSON')
+				print(f"{len(water)} water area in {query} have been found and stored at {geojson_features_path.format(query=query_formal_name, feature='water')}")
 			except:
 				print(f"No water was found in {query}")
 			print("\n")

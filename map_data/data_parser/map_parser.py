@@ -1,7 +1,8 @@
 import geopandas as gpd
 import os
 import shutil
-import matplotlib as plt
+import matplotlib.pyplot as plt
+import json
 
 
 
@@ -37,15 +38,46 @@ def get_files_in_folder(folder_path):
 
 
 def info_parser(file):
-    return
+    with open(file, 'r', encoding='gb2312') as f:
+        js = json.load(f)
+        return js["university"]["name"]
 
 
 def regular_parser(file):
-    return gpd.read_file(file, GEOM_POSSIBLE_NAMES="geometry", KEEP_GEOM_COLUMNS="NO")
+    return gpd.read_file(file)
 
 
 def amenity_parser(file):
     return gpd.read_file(file, GEOM_POSSIBLE_NAMES="geometry", KEEP_GEOM_COLUMNS="NO")
+
+
+def map_view_generator(map_basket, university):
+    if not os.path.exists(f'map_data/map_thumbnail'):
+        os.makedirs(f'map_data/map_thumbnail')
+    fig, ax = plt.subplots(figsize=(12, 8))
+    # Plot the footprint
+    if map_basket["area"] is not None:
+        map_basket["area"].plot(ax=ax, facecolor="black")
+
+    # Plot street edges
+    if map_basket["edge"] is not None:
+        map_basket["edge"].plot(ax=ax, linewidth=1, edgecolor="dimgray")
+
+    # Plot buildings
+    if map_basket["building"] is not None:
+        map_basket["building"].plot(ax=ax, facecolor="silver", alpha=0.7)
+
+    if map_basket["water"] is not None:
+        map_basket["water"].plot(ax=ax, facecolor="xkcd:sky blue")
+
+    # Plot restaurants
+    # restaurants.plot(ax=ax, color="yellow", alpha=0.7, markersize=10)
+    plt.tight_layout()
+    file_name = university.split('\\')[1]
+    plt.show()
+    plt.savefig(f'map_data/map_thumbnail/map_thumbnail_{file_name}.png', bbox_inches='tight')
+    plt.close()
+
 
 
 root_dir = 'map_data/university_map'
@@ -54,13 +86,13 @@ university_directories = list_subdirectories(root_dir)
 
 for university in university_directories:
     files_path = get_files_in_folder(university)
-    map_basket = {"node": None, "edge": None, "area": None, 
+    map_basket = {"name": None, "node": None, "edge": None, "area": None, 
                   "building": None, "water": None, "amenity": []}
     for file in files_path:   
         parsed_line = file.split('_')
         file_type = parsed_line[-1]
         if file_type == 'info.json':
-            info_parser(file)
+            map_basket["name"] = info_parser(file)
         elif file_type == 'nodes.csv':
             map_basket["node"] = regular_parser(file)
         elif file_type == 'edges.csv':
@@ -71,10 +103,11 @@ for university in university_directories:
             map_basket["building"] = regular_parser(file)
         elif file_type == 'water.csv':
             map_basket["water"] = regular_parser(file)
-        else:
-            map_basket["amenity"].append(amenity_parser(file))
-    print(map_basket)
-    print()
+        # else:
+            #map_basket["amenity"].append(amenity_parser(file))
+    # print(os.getcwd())
+    map_view_generator(map_basket, university)
+    print(university + ' thumbnail generated!')
         
             
 

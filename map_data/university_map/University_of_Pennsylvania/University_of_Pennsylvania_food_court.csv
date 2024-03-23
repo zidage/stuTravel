@@ -1,2 +1,0 @@
-element_type,osmid,addr:city,addr:housenumber,addr:postcode,addr:state,addr:street,amenity,description,name,geometry
-node,2158088062,Philadelphia,3405,19104,PA,Walnut Street,food_court,Food court.,Franklin's Table,POINT (-75.192517 39.9529939)

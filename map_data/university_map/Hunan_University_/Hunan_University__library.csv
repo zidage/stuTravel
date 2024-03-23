@@ -1,2 +1,0 @@
-element_type,osmid,geometry,nodes,addr:city,addr:district,addr:postcode,addr:province,addr:street,amenity,building,building:levels,name,source
-way,54827275,"POLYGON ((112.9386081 28.1834061, 112.938584 28.1837388, 112.9385667 28.1839787, 112.9390687 28.1840069, 112.9391101 28.1834343, 112.9388147 28.1834177, 112.9386081 28.1834061))","[690149751, 2774498621, 690149752, 690149753, 690149754, 3202641520, 690149751]",CHANGSHA,岳麓区,410012,湖南省,麓山南路,library,yes,1,湖南大学图书馆,CSU

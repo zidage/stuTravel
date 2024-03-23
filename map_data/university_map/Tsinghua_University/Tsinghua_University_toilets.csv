@@ -1,8 +1,0 @@
-element_type,osmid,amenity,fee,geometry,access,changing_table,toilets:disposal,unisex,wheelchair
-node,931695612,toilets,no,POINT (116.3218545 40.0087059),,,,,
-node,2354019864,toilets,,POINT (116.3149666 40.0000826),,,,,
-node,2354047028,toilets,,POINT (116.319672 39.9984305),,,,,
-node,2354395661,toilets,,POINT (116.3180734 39.9960425),,,,,
-node,9634378960,toilets,,POINT (116.3251966 40.0040451),yes,no,flush,yes,no
-node,10188901409,toilets,,POINT (116.3181916 39.9993002),,,,,
-node,10188911947,toilets,,POINT (116.3175586 40.0019795),,,,,

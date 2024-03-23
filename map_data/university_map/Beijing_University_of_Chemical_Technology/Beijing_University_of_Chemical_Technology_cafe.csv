@@ -1,6 +1,0 @@
-element_type,osmid,amenity,cuisine,name,opening_hours,opening_hours:covid19,outdoor_seating,wheelchair,geometry,brand,brand:en,brand:wikidata,brand:wikipedia,brand:zh,indoor,level,name:en,name:zh,smoking,takeaway
-node,6305137176,cafe,coffee_shop,1958咖啡馆,Mo-Sa 08:30-22:30,closed,no,limited,POINT (116.1399569 40.2494124),,,,,,,,,,,
-node,8735253517,cafe,bubble_tea,沪上阿姨,,,no,,POINT (116.1453147 40.2482739),沪上阿姨,AUNTEA JENNY,Q108165945,zh:一芳水果茶,沪上阿姨,yes,1,AUNTEA JENNY,沪上阿姨,no,yes
-node,10702498385,cafe,bubble_tea,北化早餐车-奶茶,,,,,POINT (116.1429559 40.2486441),,,,,,,,,,,
-node,10702498386,cafe,bubble_tea,北化早餐车-奶茶,,,,,POINT (116.1433519 40.2484169),,,,,,,,,,,
-node,11370089772,cafe,ice_cream;bubble_tea,蜜雪冰城,,,,,POINT (116.1399498 40.2519308),蜜雪冰城,MIXUEBINGCHENG,Q107406476,,蜜雪冰城,,3,MIXUEBINGCHENG,蜜雪冰城,,yes

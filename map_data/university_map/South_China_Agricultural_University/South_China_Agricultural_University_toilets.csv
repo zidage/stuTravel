@@ -1,6 +1,0 @@
-element_type,osmid,amenity,geometry,access,changing_table,fee,opening_hours
-node,8565497464,toilets,POINT (113.3388553 23.1622825),,,,
-node,8857392814,toilets,POINT (113.3604946 23.1563898),customers,no,no,Mo-Su 06:00-21:00
-node,8857415218,toilets,POINT (113.3596155 23.1553251),yes,no,no,
-node,8857415240,toilets,POINT (113.3497089 23.1587135),customers,,,
-node,9383028106,toilets,POINT (113.3584543 23.1567706),customers,,,

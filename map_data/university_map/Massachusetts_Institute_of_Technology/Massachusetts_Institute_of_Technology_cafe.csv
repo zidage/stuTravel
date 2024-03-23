@@ -1,7 +1,0 @@
-element_type,osmid,amenity,name,opening_hours,geometry,cuisine,internet_access,takeaway,addr:city,addr:housenumber,addr:postcode,addr:state,addr:street
-node,441291604,cafe,Pacific Street Cafe,Mo-Fr 07:00-18:00,POINT (-71.102461 42.3602168),,,,,,,,
-node,1884055322,cafe,Forbes Family Cafe,Mo-Fr 11:00-15:00,POINT (-71.0900125 42.3617308),,,,,,,,
-node,1884056372,cafe,Bosworth's Cafe,,POINT (-71.0930385 42.3591037),coffee_shop,yes,yes,,,,,
-node,4378381010,cafe,Cafe 4,,POINT (-71.0913169 42.3598525),,,,Cambridge,,,MA,
-node,5921721885,cafe,TeaDo,,POINT (-71.0947195 42.3588746),bubble_tea,,,Cambridge,84,02139,MA,Massachusetts Avenue
-node,11173231405,cafe,Ripple Cafe,,POINT (-71.0863681 42.3622285),,,,,,,,

@@ -1,2 +1,0 @@
-element_type,osmid,nodes,amenity,building,name,name:en,name:zh,operator,toilets:wheelchair,wheelchair,geometry
-way,453933597,"[4505924106, 4505924107, 4505924108, 7700263009, 4505924109, 4505924106]",library,library,中正圖書館,Soochow University Library,中正圖書館,東吳大學,limited,yes,"POLYGON ((121.5463127 25.0936446, 121.5466994 25.0934922, 121.5465889 25.0932623, 121.5462486 25.0933963, 121.5462022 25.0934146, 121.5463127 25.0936446))"

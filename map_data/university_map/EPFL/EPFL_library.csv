@@ -1,2 +1,0 @@
-element_type,osmid,addr:city,addr:country,addr:postcode,addr:street,amenity,contact:email,contact:phone,contact:website,internet_access,name,opening_hours,operator,operator:wikidata,ref:isil,wheelchair,wikidata,wikimedia_commons,geometry
-node,1978513805,Ecublens,CH,1024,Rolex Learning Center,library,questions.bib@epfl.ch,+41 21 693 21 56,https://library.epfl.ch,wlan,Bibliothèque de l'EPFL,"Mo-Su,PH 07:00-24:00",École Polytechnique Fédérale de Lausanne EPFL,Q262760,CH-000010-4,yes,Q27480131,Category:Bibliothèque de l'EPFL,POINT (6.5684654 46.5184121)

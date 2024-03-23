@@ -1,3 +1,0 @@
-element_type,osmid,addr:housenumber,addr:street,amenity,check_date,cuisine,level,name,payment:contactless,payment:credit_cards,payment:debit_cards,payment:mastercard,payment:visa,website,wheelchair,geometry,addr:city,addr:postcode,fhrs:id,fhrs:local_authority_id,phone
-node,6036818762,51,Princes Gate,restaurant,2023-08-27,german,0,Stein's Berlin,yes,yes,yes,yes,yes,https://www.berlininkensington.stein-s.com/,no,POINT (-0.1738916 51.4994917),,,,,
-node,6036818763,55,Exhibition Road,restaurant,2023-08-27,polish,0,Ognisko Restaurant,,,,,,https://www.ogniskorestaurant.co.uk/,no,POINT (-0.1740456 51.4990874),London,SW7 2PN,946309,13/00230/COMM,+44 20 7589 4635

@@ -1,4 +1,0 @@
-element_type,osmid,amenity,brand,brand:en,brand:wikidata,brand:zh,cuisine,name,name:en,name:zh,takeaway,geometry
-node,9054860245,cafe,蜜雪冰城,MIXUEBINGCHENG,Q107406476,蜜雪冰城,ice_cream;bubble_tea,蜜雪冰城,MIXUEBINGCHENG,蜜雪冰城,yes,POINT (121.3834924 31.3177885)
-node,9364002517,cafe,,,,,juice;fruitmix,芯茶,Xintea,芯茶,,POINT (121.3835011 31.3176475)
-node,9364002520,cafe,,,,,,瑞幸咖啡,,,,POINT (121.3832594 31.3176352)

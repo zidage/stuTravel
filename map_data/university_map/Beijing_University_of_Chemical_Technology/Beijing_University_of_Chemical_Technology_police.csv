@@ -1,2 +1,0 @@
-element_type,osmid,nodes,amenity,building,building:colour,building:levels,building:material,height,name,roof:colour,roof:material,roof:shape,geometry
-way,838013200,"[7821451144, 7821451145, 7821451146, 7821451147, 7821451144]",police,yes,maroon,1,concrete,3,保卫处,darkgrey,concrete,flat,"POLYGON ((116.1387281 40.2516372, 116.1387797 40.2516375, 116.1387808 40.2515019, 116.1387292 40.2515017, 116.1387281 40.2516372))"

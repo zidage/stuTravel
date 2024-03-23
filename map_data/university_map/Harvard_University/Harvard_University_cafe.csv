@@ -1,5 +1,0 @@
-element_type,osmid,addr:city,amenity,name,geometry,source,website,opening_hours,outdoor_seating
-node,1816988564,Cambridge,cafe,Bauer Cafe,POINT (-71.1153803 42.3775378),,,,
-node,2752899899,,cafe,Cafe Gato Rojo,POINT (-71.1184022 42.3735895),http://www.dudley.harvard.edu/icb/icb.do?keyword=k73092&pageid=icb.page359690,http://www.dudley.harvard.edu/icb/icb.do?keyword=k73092&pageid=icb.page359690,,
-node,7100193739,,cafe,Pavement Coffeehouse,POINT (-71.1187857 42.3729747),,,Mo-Fr 07:00-20:00; Sa-Su 08:00-18:30,yes
-node,7855184466,,cafe,Clover Food Lab,POINT (-71.1164724 42.3762106),,,,

@@ -1,7 +1,0 @@
-element_type,osmid,addr:city,addr:state,amenity,name,name:en,geometry,wheelchair,operator,check_date,access,addr:housenumber,addr:street,operator:type
-node,1982224208,Cambridge,MA,library,Barker Library,Barker Library,POINT (-71.0920607 42.3597611),,,,,,,
-node,1982225129,,,library,Rotch Library,,POINT (-71.0933124 42.359247),,,,,,,
-node,1982225149,,,library,Dewey Library,,POINT (-71.0837124 42.3611465),yes,,,,,,
-node,4329266296,Cambridge,MA,library,Hayden Memorial Library,,POINT (-71.0891802 42.3590664),,Massachusetts Institute of Technology,,,,,
-node,4329266297,,,library,Lewis Music Library,,POINT (-71.0890183 42.359328),,,2023-10-28,,,,
-node,10053848378,,,library,MIT Library Storage Annex,,POINT (-71.0988449 42.3627738),,Massachusetts Institute of Technology,,permit,1,State Street,university

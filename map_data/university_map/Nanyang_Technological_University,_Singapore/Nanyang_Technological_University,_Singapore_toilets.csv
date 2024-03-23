@@ -1,6 +1,0 @@
-element_type,osmid,amenity,geometry,access,toilets:disposal,toilets:hand_drying,toilets:handwashing,toilets:paper_supplied,toilets:position,drinking_water,shower,wheelchair
-node,7169785191,toilets,POINT (103.6800565 1.3473909),,,,,,,,,
-node,10951103536,toilets,POINT (103.6797697 1.3438738),permissive,flush,paper_towel,washlet,yes,seated,,,
-node,10951103537,toilets,POINT (103.683236 1.3420197),permissive,flush,electric_hand_dryer,washlet,yes,seated,no,,
-node,10951103539,toilets,POINT (103.6882225 1.3535789),private,flush,electric_hand_dryer,no,yes,seated,no,hot,yes
-node,10951103542,toilets,POINT (103.6880583 1.3540127),private,flush,electric_hand_dryer,no,yes,seated,no,hot,yes

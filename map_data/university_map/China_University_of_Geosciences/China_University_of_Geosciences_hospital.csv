@@ -1,2 +1,0 @@
-element_type,osmid,addr:city,addr:district,addr:postcode,addr:province,addr:street,amenity,emergency,healthcare,name,geometry
-node,3061019294,武汉市,洪山区,430074,湖北省,鲁磨路,hospital,yes,hospital,中国地质大学医院,POINT (114.3977511 30.5231498)

@@ -1,7 +1,0 @@
-element_type,osmid,addr:city,addr:housenumber,addr:postcode,addr:state,addr:street,amenity,cuisine,name,phone,website,geometry,opening_hours,brand,brand:wikidata,shop
-node,3658341425,Cambridge,24,02138,MA,Holyoke Street,restaurant,japanese,Bosso Ramen Tavern,,,POINT (-71.118338 42.372168),,,,
-node,5869749334,Cambridge,65,02138,MA,Mount Auburn Street,restaurant,bakery,Insomnia Cookies,+16176572567,https://insomniacookies.com/goto/store/42,POINT (-71.1181628 42.3720083),Mo-We 11:00-01:00; Th-Fr 11:00-03:00; Sa 12:00-03:00; Su 12:00-01:00,Insomnia Cookies,Q16997024,pastry
-node,6124473602,,,,,,restaurant,pizza,Oggi,,,POINT (-71.1190977 42.3724155),,,,
-node,7100193740,,,,,,restaurant,,Saloniki Greek,,,POINT (-71.1188514 42.3728171),,,,
-node,7110645317,,,,,,restaurant,vietnamese,Bon Me,,,POINT (-71.118513 42.3727178),,,,
-node,7110645318,,,,,,restaurant,,Whole Heart Provisions,,,POINT (-71.118741 42.3727832),,,,
