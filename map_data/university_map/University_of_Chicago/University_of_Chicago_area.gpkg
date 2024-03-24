@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 41.786034, "bbox_south": 41.783426, "bbox_east": -87.5894292, "bbox_west": -87.5913939, "place_id": 322146592, "osm_type": "way", "osm_id": 330872770, "lat": 41.784977, "lon": -87.590523712301703, "class": "amenity", "type": "university", "place_rank": 30, "importance": 0.63469831389519316, "addresstype": "amenity", "name": "The University of Chicago", "display_name": "The University of Chicago, 5801, South Ellis Avenue, Woodlawn, Chicago, Hyde Park Township, Cook County, Illinois, 60637, United States" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.5913939, 41.786016 ], [ -87.5913859, 41.7853 ], [ -87.5913644, 41.78425 ], [ -87.5911257, 41.784256 ], [ -87.5907368, 41.78437 ], [ -87.590482, 41.784492 ], [ -87.5904645, 41.784514 ], [ -87.5902553, 41.784654 ], [ -87.5902279, 41.7838706 ], [ -87.5902124, 41.783426 ], [ -87.5900622, 41.78343 ], [ -87.5899764, 41.783746 ], [ -87.5897511, 41.78461 ], [ -87.5894292, 41.786034 ], [ -87.5913604, 41.786014 ], [ -87.5913939, 41.786016 ] ] ] } }
+]
+}

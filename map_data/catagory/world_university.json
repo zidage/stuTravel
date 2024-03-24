@@ -1,13 +1,13 @@
 [
     "Massachusetts Institute of Technology",
-    "University of Cambridge",
+    "Cambridge University",
     "Stanford University",
     "University of Oxford",
     "Harvard University",
     "California Institute of Technology",
     "Imperial College London",
-    "UCL",
-    "ETH Zurich - Swiss Federal Institute of Technology",
+    "University College London",
+    "ETH Zurich",
     "University of Chicago",
     "National University of Singapore",
     "University of Pennsylvania",
@@ -28,5 +28,6 @@
     "Seoul National University",
     "The Australian National University",
     "McGill University",
-    "Northwestern University"
+    "Northwestern University",
+    "University of Maryland, College Park"
 ]

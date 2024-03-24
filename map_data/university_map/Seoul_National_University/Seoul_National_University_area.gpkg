@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 37.3659304, "bbox_south": 37.3642988, "bbox_east": 126.7180341, "bbox_west": 126.7158999, "place_id": 196443967, "osm_type": "way", "osm_id": 937478505, "lat": 37.36512945, "lon": 126.71686180201053, "class": "tourism", "type": "hotel", "place_rank": 30, "importance": 9.9999999999544897e-06, "addresstype": "tourism", "name": "Seoul National University Siheung Smart Campus - Hotel", "display_name": "Seoul National University Siheung Smart Campus - Hotel, 서울 대학교 시흥 스마트 캠퍼스-호텔, Baegot-dong, Baegot 2(i)-dong, Siheung-si, Gyeonggi, 15011, South Korea" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 126.7158999, 37.3646934 ], [ 126.7165583, 37.3642988 ], [ 126.7174367, 37.365196 ], [ 126.7179136, 37.3649312 ], [ 126.7180341, 37.3650629 ], [ 126.717562, 37.3653348 ], [ 126.7178022, 37.3655754 ], [ 126.7171826, 37.3659304 ], [ 126.7158999, 37.3646934 ] ] ] } }
+]
+}

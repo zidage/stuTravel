@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 39.9600597, "bbox_south": 39.9556583, "bbox_east": 116.3167991, "bbox_west": 116.3026816, "place_id": 200618794, "osm_type": "way", "osm_id": 30748230, "lat": 39.9578214, "lon": 116.3098236715735, "class": "amenity", "type": "university", "place_rank": 30, "importance": 0.42921638734870171, "addresstype": "amenity", "name": "Beijing Institute of Technology (BIT)", "display_name": "Beijing Institute of Technology (BIT), 5, South Zhongguancun Street, 友谊社区, Zhongguancun, Haidian Town, Haidian District, Beijing, 100086, China" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 116.3026816, 39.9599912 ], [ 116.3031294, 39.9574043 ], [ 116.3033897, 39.9557559 ], [ 116.3089874, 39.9557833 ], [ 116.3163689, 39.9556583 ], [ 116.316635, 39.9556587 ], [ 116.3167991, 39.9556962 ], [ 116.3167014, 39.9566685 ], [ 116.3165489, 39.9582488 ], [ 116.3164913, 39.9582385 ], [ 116.3164877, 39.9582659 ], [ 116.3164581, 39.9584653 ], [ 116.3164341, 39.9586124 ], [ 116.3164274, 39.9586426 ], [ 116.3164941, 39.958654 ], [ 116.3163002, 39.9600597 ], [ 116.3077515, 39.9599544 ], [ 116.3034723, 39.9600034 ], [ 116.3030757, 39.9599977 ], [ 116.3026816, 39.9599912 ] ] ] } }
+]
+}

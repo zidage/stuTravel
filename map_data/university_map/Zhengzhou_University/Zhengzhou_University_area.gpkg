@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 34.7846685, "bbox_south": 34.7810688, "bbox_east": 113.6604336, "bbox_west": 113.6524165, "place_id": 196314468, "osm_type": "way", "osm_id": 724847302, "lat": 34.7828929, "lon": 113.65640526759447, "class": "amenity", "type": "university", "place_rank": 30, "importance": 9.9999999999544897e-06, "addresstype": "amenity", "name": "Zhengzhou University (North Campus)", "display_name": "Zhengzhou University (North Campus), Fengchan Road, Wenhualu Subdistrict, Jinshui District, Zhengzhou, 金水区, Henan, 450002, China" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 113.6524165, 34.7846685 ], [ 113.6524191, 34.7811239 ], [ 113.6604336, 34.7810688 ], [ 113.6603531, 34.7846619 ], [ 113.6524165, 34.7846685 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 55.9485162, "bbox_south": 55.9481917, "bbox_east": -3.1854007, "bbox_west": -3.1859015, "place_id": 269091960, "osm_type": "way", "osm_id": 300857424, "lat": 55.94836645, "lon": -3.1856813200079812, "class": "building", "type": "university", "place_rank": 30, "importance": 9.9999999999544897e-06, "addresstype": "building", "name": "The University of Edinburgh Estates Department", "display_name": "The University of Edinburgh Estates Department, 9-11, Infirmary Street, Old Town, City of Edinburgh, Scotland, EH1 1LT, United Kingdom" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.1859015, 55.9483962 ], [ -3.1858305, 55.9483367 ], [ -3.1856998, 55.9482272 ], [ -3.1856577, 55.9481917 ], [ -3.1855783, 55.9482211 ], [ -3.1855743, 55.9482178 ], [ -3.185527, 55.9482353 ], [ -3.1854739, 55.948255 ], [ -3.1854766, 55.9482572 ], [ -3.1854007, 55.9482854 ], [ -3.1854516, 55.9483284 ], [ -3.1856739, 55.9485162 ], [ -3.1858464, 55.9484589 ], [ -3.1858117, 55.9484296 ], [ -3.1859015, 55.9483962 ] ] ] } }
+]
+}

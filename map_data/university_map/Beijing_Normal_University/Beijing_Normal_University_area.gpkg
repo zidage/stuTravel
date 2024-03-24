@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 39.963853, "bbox_south": 39.9568013, "bbox_east": 116.3644624, "bbox_west": 116.3549964, "place_id": 227768048, "osm_type": "way", "osm_id": 30784020, "lat": 39.959732, "lon": 116.35973697755406, "class": "amenity", "type": "university", "place_rank": 30, "importance": 0.47763589697377656, "addresstype": "amenity", "name": "Beijing Normal University (BNU)", "display_name": "Beijing Normal University (BNU), 19, Xinjiekouwai Street, Desheng, 首都功能核心区, Xicheng District, Beijing, 100875, China" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 116.3549964, 39.9636552 ], [ 116.3551218, 39.9613076 ], [ 116.3551409, 39.9609494 ], [ 116.3552463, 39.9589755 ], [ 116.355258, 39.9579268 ], [ 116.3552998, 39.9568482 ], [ 116.3602372, 39.9568403 ], [ 116.3602372, 39.9568013 ], [ 116.3605322, 39.9568054 ], [ 116.3640752, 39.9569005 ], [ 116.3644624, 39.9569251 ], [ 116.3644114, 39.9576878 ], [ 116.364215, 39.9604885 ], [ 116.3640739, 39.9625003 ], [ 116.3640335, 39.9630756 ], [ 116.3631447, 39.9630385 ], [ 116.3630974, 39.963853 ], [ 116.361954, 39.9638251 ], [ 116.3549964, 39.9636552 ] ] ] } }
+]
+}

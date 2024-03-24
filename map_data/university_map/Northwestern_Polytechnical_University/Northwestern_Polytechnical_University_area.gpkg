@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 34.2496321, "bbox_south": 34.242953, "bbox_east": 108.9155569, "bbox_west": 108.9056871, "place_id": 193394632, "osm_type": "way", "osm_id": 177231509, "lat": 34.24691835, "lon": 108.91061577542916, "class": "amenity", "type": "university", "place_rank": 30, "importance": 0.41290628056093881, "addresstype": "amenity", "name": "Northwestern Polytechnical University (Youyi Campus)", "display_name": "Northwestern Polytechnical University (Youyi Campus), 127号, 友谊西路, Wenyilu, Beilin District, Xi'an, Shaanxi, 710072, China" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 108.9056871, 34.2462748 ], [ 108.9057093, 34.2455416 ], [ 108.90576, 34.2437627 ], [ 108.9058563, 34.2435279 ], [ 108.9069941, 34.242953 ], [ 108.9123646, 34.2429978 ], [ 108.9123523, 34.2440487 ], [ 108.9135197, 34.2440346 ], [ 108.9154753, 34.2440304 ], [ 108.9155106, 34.2440326 ], [ 108.9155079, 34.2462421 ], [ 108.9155569, 34.2475619 ], [ 108.9155515, 34.2476494 ], [ 108.915467, 34.2476611 ], [ 108.915461, 34.2496321 ], [ 108.9112821, 34.2496099 ], [ 108.9091551, 34.2496121 ], [ 108.9091567, 34.2483853 ], [ 108.9067901, 34.2484247 ], [ 108.9060475, 34.247733 ], [ 108.905713, 34.2477313 ], [ 108.9056871, 34.2462748 ] ] ] } }
+]
+}

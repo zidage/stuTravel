@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 39.9724613, "bbox_south": 39.9660555, "bbox_east": 116.3141392, "bbox_west": 116.3007488, "place_id": 195753933, "osm_type": "way", "osm_id": 30725330, "lat": 39.96976785, "lon": 116.30709330596794, "class": "amenity", "type": "university", "place_rank": 30, "importance": 9.9999999999544897e-06, "addresstype": "amenity", "name": "Renmin University of China", "display_name": "Renmin University of China, 友谊路, 友谊社区, Zhongguancun, Haidian Town, Haidian District, Beijing, 100872, China" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 116.3007488, 39.9712948 ], [ 116.3010994, 39.9688394 ], [ 116.3011454, 39.9686095 ], [ 116.3012963, 39.9670965 ], [ 116.3047527, 39.9673973 ], [ 116.3049198, 39.9661684 ], [ 116.3050105, 39.9660555 ], [ 116.3141392, 39.9673733 ], [ 116.312832, 39.9707778 ], [ 116.3123047, 39.9706963 ], [ 116.3118611, 39.9724613 ], [ 116.3061279, 39.9720641 ], [ 116.3049873, 39.9719203 ], [ 116.3029164, 39.9716187 ], [ 116.3007488, 39.9712948 ] ] ] } }
+]
+}

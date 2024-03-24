@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 35.8948416, "bbox_south": 35.8945268, "bbox_east": 139.9527657, "bbox_west": 139.9523829, "place_id": 260225697, "osm_type": "way", "osm_id": 28573817, "lat": 35.89465155000001, "lon": 139.95256223410615, "class": "building", "type": "university", "place_rank": 30, "importance": 9.9999999999544897e-06, "addresstype": "building", "name": "The University of Tokyo (Satellite Building)", "display_name": "The University of Tokyo (Satellite Building), 4, 若柴, Kashiwa, Chiba Prefecture, 277-8518, Japan" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 139.9523829, 35.8945828 ], [ 139.9526836, 35.8945268 ], [ 139.952765699999986, 35.8947802 ], [ 139.952448800000013, 35.8948416 ], [ 139.952418, 35.8947203 ], [ 139.9523829, 35.8945828 ] ] ] } }
+]
+}

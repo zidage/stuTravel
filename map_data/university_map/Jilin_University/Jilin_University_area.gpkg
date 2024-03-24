@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 43.8839823, "bbox_south": 43.87876, "bbox_east": 125.3041176, "bbox_west": 125.2981326, "place_id": 228074632, "osm_type": "way", "osm_id": 297554556, "lat": 43.880146, "lon": 125.30115101345075, "class": "amenity", "type": "university", "place_rank": 30, "importance": 0.4469177900028567, "addresstype": "amenity", "name": "Jilin University", "display_name": "Jilin University, West Minzhu Street, Qinghe Subdistrict, Chaoyang District, Changchun City, Jilin, 130000, China" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 125.2981326, 43.8839561 ], [ 125.2982397, 43.87876 ], [ 125.300743, 43.8787868 ], [ 125.3008757, 43.8787882 ], [ 125.3041176, 43.8788229 ], [ 125.3040634, 43.8815082 ], [ 125.3011371, 43.8814691 ], [ 125.3011151, 43.8827964 ], [ 125.2994699, 43.8827787 ], [ 125.299442, 43.8839823 ], [ 125.2981326, 43.8839561 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 53.4869228, "bbox_south": 53.4859533, "bbox_east": -2.2623999, "bbox_west": -2.2646129, "place_id": 240919091, "osm_type": "way", "osm_id": 186657322, "lat": 53.4863381, "lon": -2.2635472835611941, "class": "amenity", "type": "university", "place_rank": 30, "importance": 9.9999999999544897e-06, "addresstype": "amenity", "name": "Salford University School of Art & Design", "display_name": "Salford University School of Art & Design, Damask Avenue, Blackfriars, Lower Broughton, Salford, Greater Manchester, England, M3 6EE, United Kingdom" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.2646129, 53.4859923 ], [ -2.2645548, 53.4859533 ], [ -2.2629378, 53.485989 ], [ -2.2624662, 53.4859974 ], [ -2.2623999, 53.4860258 ], [ -2.2626749, 53.4869228 ], [ -2.2628818, 53.4868782 ], [ -2.2633408, 53.4868245 ], [ -2.2637941, 53.4867713 ], [ -2.2645273, 53.4866854 ], [ -2.2645863, 53.4866504 ], [ -2.2646129, 53.4859923 ] ] ] } }
+]
+}

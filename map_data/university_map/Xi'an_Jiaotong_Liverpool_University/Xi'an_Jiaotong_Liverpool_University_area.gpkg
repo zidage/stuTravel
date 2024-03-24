@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 31.2731458, "bbox_south": 31.2700941, "bbox_east": 120.7394591, "bbox_west": 120.7340216, "place_id": 196794057, "osm_type": "way", "osm_id": 498894654, "lat": 31.27217325, "lon": 120.73679031822311, "class": "amenity", "type": "university", "place_rank": 30, "importance": 0.39736292979669935, "addresstype": "amenity", "name": "Xi'an Jiaotong-Liverpool University (South Campus)", "display_name": "Xi'an Jiaotong-Liverpool University (South Campus), 松涛街, 星慧社区, 月亮湾社工委, 金鸡湖街道, Suzhou Industrial Park, Suzhou City, Jiangsu, 215123, China" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.7340216, 31.2729765 ], [ 120.7353718, 31.2700941 ], [ 120.7394591, 31.27137 ], [ 120.7388482, 31.2731458 ], [ 120.7340216, 31.2729765 ] ] ] } }
+]
+}

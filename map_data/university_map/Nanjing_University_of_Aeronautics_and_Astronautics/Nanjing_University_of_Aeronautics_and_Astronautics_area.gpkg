@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 32.0412379, "bbox_south": 32.0338122, "bbox_east": 118.8189067, "bbox_west": 118.8119944, "place_id": 194944689, "osm_type": "way", "osm_id": 447816548, "lat": 32.03741895, "lon": 118.81535367339066, "class": "amenity", "type": "university", "place_rank": 30, "importance": 0.40850209315404734, "addresstype": "amenity", "name": "Nanjing University of Aeronautics and Astronautics (Minggugong Campus)", "display_name": "Nanjing University of Aeronautics and Astronautics (Minggugong Campus), 明故宫路, Ruijinlu, 瑞金路街道, Qinhuai District, Nanjing City, Jiangsu, 210018, China" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 118.8119944, 32.0343341 ], [ 118.8159129, 32.0339714 ], [ 118.8179876, 32.0338122 ], [ 118.8182142, 32.0359359 ], [ 118.8183524, 32.037158 ], [ 118.8184436, 32.0376799 ], [ 118.8186092, 32.0383677 ], [ 118.8186273, 32.0384018 ], [ 118.8189067, 32.0408875 ], [ 118.8163997, 32.0410779 ], [ 118.8134324, 32.0412379 ], [ 118.8133162, 32.0397773 ], [ 118.8131671, 32.0392316 ], [ 118.813071, 32.0390678 ], [ 118.8129285, 32.0389817 ], [ 118.8127386, 32.0389284 ], [ 118.8125971, 32.0388653 ], [ 118.8125454, 32.0387553 ], [ 118.8123737, 32.0380676 ], [ 118.8121285, 32.0355961 ], [ 118.8119944, 32.0343341 ] ] ] } }
+]
+}
