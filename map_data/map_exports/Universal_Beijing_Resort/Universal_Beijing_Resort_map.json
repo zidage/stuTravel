@@ -1,0 +1,400 @@
+{
+    "id": 447696377171433324,
+    "name": "The Universal Studios Grand Hotel",
+    "address": "VM6V+898 Universal Beijing Resort Project, jiangjunfen bus station Liuyuaan, Town, 北京市中国101113",
+    "rating": 4.9,
+    "popularity": 76,
+    "data_path": "map_data/university_map/Universal_Beijing_Resort",
+    "description": "No description available",
+    "images": "",
+    "amenity": {
+        "affiliation": 447696377171433324,
+        "amenity_list": [
+            {
+                "id": 8575679028,
+                "name": "奥利凡德",
+                "type": "theatre",
+                "latitude": 39.8550818,
+                "longitude": 116.6802093
+            },
+            {
+                "id": 8575679035,
+                "name": "霍格沃茨特快列车长",
+                "type": "theatre",
+                "latitude": 39.8545715,
+                "longitude": 116.6798397
+            },
+            {
+                "id": 8575679036,
+                "name": "青蛙合唱团",
+                "type": "theatre",
+                "latitude": 39.8550233,
+                "longitude": 116.6806975
+            },
+            {
+                "id": 8575679037,
+                "name": "智慧仙桃树",
+                "type": "theatre",
+                "latitude": 39.857714,
+                "longitude": 116.6779601
+            },
+            {
+                "id": 8575679038,
+                "name": "变形金刚：传奇现场",
+                "type": "theatre",
+                "latitude": 39.856605,
+                "longitude": 116.6752654
+            },
+            {
+                "id": 8575679043,
+                "name": "美食广场",
+                "type": "food_court",
+                "latitude": 39.8539113,
+                "longitude": 116.6785035
+            },
+            {
+                "id": 8575679044,
+                "name": "三把扫帚",
+                "type": "restaurant",
+                "latitude": 39.8549424,
+                "longitude": 116.6797733
+            },
+            {
+                "id": 8575679045,
+                "name": "猪头酒吧",
+                "type": "bar",
+                "latitude": 39.8549599,
+                "longitude": 116.6798857
+            },
+            {
+                "id": 8575679046,
+                "name": "平先生面馆",
+                "type": "restaurant",
+                "latitude": 39.8572161,
+                "longitude": 116.6768771
+            },
+            {
+                "id": 9689162146,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 39.856381,
+                "longitude": 116.6787044
+            },
+            {
+                "id": 9690934259,
+                "name": "落霞餐厅",
+                "type": "restaurant",
+                "latitude": 39.8550614,
+                "longitude": 116.6751084
+            },
+            {
+                "id": 9690934261,
+                "name": "不可驯服",
+                "type": "theatre",
+                "latitude": 39.8547317,
+                "longitude": 116.674604
+            },
+            {
+                "id": 10242568448,
+                "name": "小黄人闹翻天",
+                "type": "theatre",
+                "latitude": 39.8528573,
+                "longitude": 116.6782983
+            },
+            {
+                "id": 10245273652,
+                "name": "能量晶体冰乐",
+                "type": "ice_cream",
+                "latitude": 39.8570763,
+                "longitude": 116.6749924
+            },
+            {
+                "id": 10245273689,
+                "name": "熊猫婆婆私房菜",
+                "type": "restaurant",
+                "latitude": 39.8575694,
+                "longitude": 116.6785517
+            },
+            {
+                "id": 10245273699,
+                "name": "功夫小吃",
+                "type": "restaurant",
+                "latitude": 39.8570958,
+                "longitude": 116.6777953
+            },
+            {
+                "id": 10245320294,
+                "name": "努布拉冰沙",
+                "type": "ice_cream",
+                "latitude": 39.8559222,
+                "longitude": 116.6763738
+            },
+            {
+                "id": 10245320296,
+                "name": "冰冻射线冰淇淋",
+                "type": "ice_cream",
+                "latitude": 39.8540845,
+                "longitude": 116.678073
+            },
+            {
+                "id": 10245320297,
+                "name": "火山爆米花",
+                "type": "fast_food",
+                "latitude": 39.854485,
+                "longitude": 116.6781923
+            },
+            {
+                "id": 10245320302,
+                "name": "侏罗纪世界玉米热狗",
+                "type": "fast_food",
+                "latitude": 39.8551439,
+                "longitude": 116.6772012
+            },
+            {
+                "id": 10245323211,
+                "name": "皮爷咖啡",
+                "type": "cafe",
+                "latitude": 39.8537046,
+                "longitude": 116.6750474
+            },
+            {
+                "id": 10245323213,
+                "name": "爆米花",
+                "type": "fast_food",
+                "latitude": 39.8549751,
+                "longitude": 116.6745499
+            },
+            {
+                "id": 765446324,
+                "name": "灯光，摄像，开拍！",
+                "type": "theatre",
+                "latitude": 39.853328360341756,
+                "longitude": 116.67532656948747
+            },
+            {
+                "id": 910437914,
+                "name": "梅尔斯餐厅",
+                "type": "restaurant",
+                "latitude": 39.853450240704426,
+                "longitude": 116.67606682627982
+            },
+            {
+                "id": 910452376,
+                "name": "漂流者小馆",
+                "type": "restaurant",
+                "latitude": 39.856201404689166,
+                "longitude": 116.67877951275275
+            },
+            {
+                "id": 923037702,
+                "name": "赛博坦骑士餐厅",
+                "type": "restaurant",
+                "latitude": 39.85726567431021,
+                "longitude": 116.67545773953961
+            },
+            {
+                "id": 923050375,
+                "name": "至景餐厅",
+                "type": "restaurant",
+                "latitude": 39.85507499999999,
+                "longitude": 116.6783715
+            },
+            {
+                "id": 923050382,
+                "name": "琥珀岭餐厅",
+                "type": "restaurant",
+                "latitude": 39.85628413694887,
+                "longitude": 116.6763581236949
+            },
+            {
+                "id": 923050391,
+                "name": "哈蒙德餐厅",
+                "type": "restaurant",
+                "latitude": 39.85469974205137,
+                "longitude": 116.67714926488449
+            },
+            {
+                "id": 923050394,
+                "name": "欢乐好声音巡演",
+                "type": "theatre",
+                "latitude": 39.85327617823394,
+                "longitude": 116.67898516334698
+            },
+            {
+                "id": 923055699,
+                "name": "Birds of Prey Cafe",
+                "type": "restaurant",
+                "latitude": 39.85541778027218,
+                "longitude": 116.6766131931813
+            },
+            {
+                "id": 923078996,
+                "name": "Paradise Mall",
+                "type": "restaurant",
+                "latitude": 39.85391714901912,
+                "longitude": 116.67864348795601
+            },
+            {
+                "id": 923079004,
+                "name": "老巢餐厅",
+                "type": "restaurant",
+                "latitude": 39.85260764048056,
+                "longitude": 116.67747971612036
+            },
+            {
+                "id": 923079006,
+                "name": "甜甜屋",
+                "type": "restaurant",
+                "latitude": 39.85315718445088,
+                "longitude": 116.67729106312606
+            },
+            {
+                "id": 924659398,
+                "name": "背离的秘密餐吧",
+                "type": "restaurant",
+                "latitude": 39.856656373340606,
+                "longitude": 116.6757123965025
+            },
+            {
+                "id": 1119536944,
+                "name": "Lake View",
+                "type": "theatre",
+                "latitude": 39.853834832860876,
+                "longitude": 116.67650690379517
+            },
+            {
+                "id": 1119877409,
+                "name": "蕉蕉爆米花",
+                "type": "fast_food",
+                "latitude": 39.85349974999999,
+                "longitude": 116.67871905
+            },
+            {
+                "id": 1119877410,
+                "name": "萌乐快餐",
+                "type": "restaurant",
+                "latitude": 39.85338675,
+                "longitude": 116.67835760000001
+            },
+            {
+                "id": 1119877412,
+                "name": "小黄人来一口",
+                "type": "ice_cream",
+                "latitude": 39.85348734763056,
+                "longitude": 116.67751936177964
+            },
+            {
+                "id": 1120166427,
+                "name": "盐老板",
+                "type": "fast_food",
+                "latitude": 39.85651238283908,
+                "longitude": 116.67904561262236
+            },
+            {
+                "id": 1120166429,
+                "name": "高地美食屋",
+                "type": "fast_food",
+                "latitude": 39.85610287921375,
+                "longitude": 116.67962680551477
+            },
+            {
+                "id": 1120176775,
+                "name": "大黄蜂嘭嘭",
+                "type": "fast_food",
+                "latitude": 39.85693499600964,
+                "longitude": 116.6746400665168
+            },
+            {
+                "id": 765446329,
+                "name": "侏罗纪世界大冒险",
+                "type": "nan",
+                "latitude": 39.856057201077476,
+                "longitude": 116.6776025120556
+            },
+            {
+                "id": 867200072,
+                "name": "环球影城大酒店",
+                "type": "nan",
+                "latitude": 39.852743911131654,
+                "longitude": 116.67335870505954
+            },
+            {
+                "id": 923021469,
+                "name": "变形金刚：火种源争夺战",
+                "type": "nan",
+                "latitude": 39.857571240725306,
+                "longitude": 116.67460020090539
+            },
+            {
+                "id": 923037698,
+                "name": "能量晶体补充站",
+                "type": "nan",
+                "latitude": 39.856918529938426,
+                "longitude": 116.67415188098846
+            },
+            {
+                "id": 923050368,
+                "name": "大黄蜂回旋机",
+                "type": "nan",
+                "latitude": 39.856891655170024,
+                "longitude": 116.67492176178838
+            },
+            {
+                "id": 923050373,
+                "name": "奇遇迅猛龙",
+                "type": "nan",
+                "latitude": 39.85515599457135,
+                "longitude": 116.67787655216797
+            },
+            {
+                "id": 923064761,
+                "name": "蜂蜜公爵",
+                "type": "nan",
+                "latitude": 39.85473270961245,
+                "longitude": 116.67970078219355
+            },
+            {
+                "id": 923064763,
+                "name": "霍格莫德车站",
+                "type": "nan",
+                "latitude": 39.85461915,
+                "longitude": 116.67991479999999
+            },
+            {
+                "id": 923064768,
+                "name": "小黄人见面会",
+                "type": "nan",
+                "latitude": 39.8535703743922,
+                "longitude": 116.67791920381357
+            },
+            {
+                "id": 926428874,
+                "name": "Jurassic World",
+                "type": "nan",
+                "latitude": 39.8546562679637,
+                "longitude": 116.67824898752905
+            },
+            {
+                "id": 926428875,
+                "name": "Jurassic World",
+                "type": "nan",
+                "latitude": 39.85571383443058,
+                "longitude": 116.6754819058819
+            },
+            {
+                "id": 926428876,
+                "name": "Hogwarts Castle",
+                "type": "nan",
+                "latitude": 39.85560046168908,
+                "longitude": 116.68070310297878
+            },
+            {
+                "id": 1119536952,
+                "name": "可口可乐塔",
+                "type": "nan",
+                "latitude": 39.855693265834134,
+                "longitude": 116.67458860931592
+            }
+        ]
+    }
+}

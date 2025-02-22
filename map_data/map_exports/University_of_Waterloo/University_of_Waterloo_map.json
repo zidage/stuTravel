@@ -1,0 +1,1860 @@
+{
+    "id": 1748269021169358264,
+    "name": "滑铁卢大学",
+    "address": "200 University Ave W, Waterloo, ON N2L 3G1加拿大",
+    "rating": 4.3,
+    "popularity": 72,
+    "data_path": "map_data/university_map/University_of_Waterloo",
+    "description": "滑鐵盧大學（英語：University of Waterloo，常簡稱為UWaterloo、UW、滑大）是加拿大安大略省滑铁卢的一所省立研究型大學，前身為教會學校，建校於1957年。因加拿大最早成立的計算機科學系而知名，工程系全科為建教合作制度，且擁有全球最大規模与北美洲唯一的的獨立數學院（Faculty of Mathematics）和加拿大最大的環境學院（Faculty of Environment）。占地面積約為1000英畝，屬于中型。另設四個分校區，是U15大學聯盟成員。滑鐵盧的代表隊曾多次獲得ACM國際大學生程序設計競賽的北美冠軍。校隊名為「Warriors」。\n滑鐵盧大學以學習與實習並重的建教合作（co-operative education）而立足，本科生在課程進行期間將在相關機構工作以作實習。多年來畢業生在硅谷各大公司就業率名列前茅。\n相較于其他安省的類似理工科大學，該校的學生有着傑出的表現。在Maclean杂志15年来对加拿大非医学博士类别的综合性大学的排名裡，University of Waterloo有13次排名第一。2014在Maclean的Best Overall排名中例第三，2015年升上Best Overall 第一，躋身UBC和多倫多大學之上。計算機科學2016世界排名第18名。\n2018年十月，滑鐵盧大學副教授唐娜·斯特里克蘭獲得諾貝爾物理學獎，斯特里克蘭研發了一種「產生高密度、超短光學脈衝」的方法。這種脈衝放大技術能讓激光以極高的精確度在各種材料商進行切割、鑽洞等操作，還可對生物組織進行操作，並應用於眼科手術，瑞典皇家科學院贊此成就是具有「革命性的」。斯特里克蘭為歷史上第三位獲得此獎項的女性，也成為55年以來首位榮獲諾貝爾物理學獎的女科學家。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0e/WaterlooMathBuilding.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a4/Waterloo_ontario_campus_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ed/Waterloo_ontario_campus_3.jpg"
+    ],
+    "amenity": {
+        "affiliation": 1748269021169358264,
+        "amenity_list": [
+            {
+                "id": 308161455,
+                "name": "可能感兴趣的地点",
+                "type": "bicycle_parking",
+                "latitude": 43.4718278,
+                "longitude": -80.5458104
+            },
+            {
+                "id": 513826412,
+                "name": "Tim Hortons",
+                "type": "cafe",
+                "latitude": 43.4712821,
+                "longitude": -80.5451992
+            },
+            {
+                "id": 513874827,
+                "name": "Chatime",
+                "type": "cafe",
+                "latitude": 43.4728712,
+                "longitude": -80.5429665
+            },
+            {
+                "id": 626125008,
+                "name": "Subway",
+                "type": "fast_food",
+                "latitude": 43.472094,
+                "longitude": -80.5452043
+            },
+            {
+                "id": 626125011,
+                "name": "Brubakers",
+                "type": "fast_food",
+                "latitude": 43.4720044,
+                "longitude": -80.5453572
+            },
+            {
+                "id": 632543769,
+                "name": "Environment Students' Coffee Shop",
+                "type": "cafe",
+                "latitude": 43.4682762,
+                "longitude": -80.5429494
+            },
+            {
+                "id": 702776031,
+                "name": "Math CnD",
+                "type": "cafe",
+                "latitude": 43.4718958,
+                "longitude": -80.5435624
+            },
+            {
+                "id": 983650900,
+                "name": "Wasabi",
+                "type": "restaurant",
+                "latitude": 43.4717314,
+                "longitude": -80.5449437
+            },
+            {
+                "id": 983650904,
+                "name": "Browsers Café",
+                "type": "cafe",
+                "latitude": 43.4697022,
+                "longitude": -80.5420583
+            },
+            {
+                "id": 983650907,
+                "name": "ML's Diner",
+                "type": "cafe",
+                "latitude": 43.4688622,
+                "longitude": -80.5427237
+            },
+            {
+                "id": 1503534623,
+                "name": "Ev3rgreen Cafe",
+                "type": "cafe",
+                "latitude": 43.4681872,
+                "longitude": -80.5435124
+            },
+            {
+                "id": 1505832285,
+                "name": "Davis Centre Library",
+                "type": "library",
+                "latitude": 43.4724277,
+                "longitude": -80.5419973
+            },
+            {
+                "id": 1551340175,
+                "name": "St. Jeromes Caf",
+                "type": "restaurant",
+                "latitude": 43.4694079,
+                "longitude": -80.5454591
+            },
+            {
+                "id": 1551340188,
+                "name": "Notre Dame Chapel",
+                "type": "place_of_worship",
+                "latitude": 43.468698,
+                "longitude": -80.5454615
+            },
+            {
+                "id": 1551364977,
+                "name": "Early Childhood Education Centre",
+                "type": "kindergarten",
+                "latitude": 43.4673173,
+                "longitude": -80.5428789
+            },
+            {
+                "id": 1563802049,
+                "name": "University of Waterloo Campus Police Station",
+                "type": "police",
+                "latitude": 43.4743473,
+                "longitude": -80.5427185
+            },
+            {
+                "id": 1584710927,
+                "name": "Student Health Pharmacy",
+                "type": "pharmacy",
+                "latitude": 43.4719566,
+                "longitude": -80.5453206
+            },
+            {
+                "id": 1666625112,
+                "name": "CIBC",
+                "type": "bank",
+                "latitude": 43.4715608,
+                "longitude": -80.5455923
+            },
+            {
+                "id": 1666625115,
+                "name": "REVelation",
+                "type": "fast_food",
+                "latitude": 43.4702928,
+                "longitude": -80.5541652
+            },
+            {
+                "id": 1666625122,
+                "name": "Mudie's",
+                "type": "fast_food",
+                "latitude": 43.4717021,
+                "longitude": -80.5500078
+            },
+            {
+                "id": 1669416514,
+                "name": "Turnkey Desk",
+                "type": "reception_desk",
+                "latitude": 43.4714789,
+                "longitude": -80.5455755
+            },
+            {
+                "id": 1671296197,
+                "name": "Lusi Wong Library",
+                "type": "library",
+                "latitude": 43.4690102,
+                "longitude": -80.5472538
+            },
+            {
+                "id": 1671296206,
+                "name": "St. Jerome's Library",
+                "type": "library",
+                "latitude": 43.468712,
+                "longitude": -80.5458987
+            },
+            {
+                "id": 1715707389,
+                "name": "Grand River CarShare",
+                "type": "car_sharing",
+                "latitude": 43.4691106,
+                "longitude": -80.5384489
+            },
+            {
+                "id": 1926299762,
+                "name": "Engineering 2 Fountain",
+                "type": "fountain",
+                "latitude": 43.4706691,
+                "longitude": -80.5402249
+            },
+            {
+                "id": 1928272457,
+                "name": "Liquid Assets Cafe",
+                "type": "cafe",
+                "latitude": 43.4684441,
+                "longitude": -80.5414337
+            },
+            {
+                "id": 1928272560,
+                "name": "Engineering Coffee & Doughnut Shop",
+                "type": "cafe",
+                "latitude": 43.4706524,
+                "longitude": -80.5390423
+            },
+            {
+                "id": 1941952834,
+                "name": "Davis Centre",
+                "type": "taxi",
+                "latitude": 43.4722101,
+                "longitude": -80.541051
+            },
+            {
+                "id": 1947762169,
+                "name": "POETS",
+                "type": "pub",
+                "latitude": 43.4706599,
+                "longitude": -80.5393071
+            },
+            {
+                "id": 1983533625,
+                "name": "Festival Fare",
+                "type": "restaurant",
+                "latitude": 43.4692364,
+                "longitude": -80.5402133
+            },
+            {
+                "id": 2017454866,
+                "name": "Science C&D",
+                "type": "cafe",
+                "latitude": 43.4710194,
+                "longitude": -80.5430459
+            },
+            {
+                "id": 2620473384,
+                "name": "Watson's Eatery",
+                "type": "restaurant",
+                "latitude": 43.4677902,
+                "longitude": -80.5463102
+            },
+            {
+                "id": 2714958195,
+                "name": "DC BYTES",
+                "type": "fast_food",
+                "latitude": 43.4728396,
+                "longitude": -80.5430994
+            },
+            {
+                "id": 2800159462,
+                "name": "Melville Cafe",
+                "type": "cafe",
+                "latitude": 43.3584854,
+                "longitude": -80.3164306
+            },
+            {
+                "id": 4381169048,
+                "name": "The Funken Cafe",
+                "type": "cafe",
+                "latitude": 43.4689768,
+                "longitude": -80.5457416
+            },
+            {
+                "id": 4624404968,
+                "name": "CEIT Café",
+                "type": "cafe",
+                "latitude": 43.4714532,
+                "longitude": -80.542134
+            },
+            {
+                "id": 4624404969,
+                "name": "Eye Opener Café",
+                "type": "cafe",
+                "latitude": 43.4754643,
+                "longitude": -80.5455798
+            },
+            {
+                "id": 4624404970,
+                "name": "FRSH",
+                "type": "cafe",
+                "latitude": 43.4737,
+                "longitude": -80.5452208
+            },
+            {
+                "id": 4624616781,
+                "name": "PAS Lounge",
+                "type": "cafe",
+                "latitude": 43.4671795,
+                "longitude": -80.5422431
+            },
+            {
+                "id": 4624616782,
+                "name": "Pastry Plus",
+                "type": "cafe",
+                "latitude": 43.469662,
+                "longitude": -80.5434522
+            },
+            {
+                "id": 4624616784,
+                "name": "South Side Marketplace",
+                "type": "food_court",
+                "latitude": 43.4692814,
+                "longitude": -80.5404399
+            },
+            {
+                "id": 4624616785,
+                "name": "Starbucks",
+                "type": "cafe",
+                "latitude": 43.4734105,
+                "longitude": -80.546098
+            },
+            {
+                "id": 5366431383,
+                "name": "Booster Juice",
+                "type": "fast_food",
+                "latitude": 43.4701797,
+                "longitude": -80.5358285
+            },
+            {
+                "id": 5366431384,
+                "name": "The Market At UWP",
+                "type": "fast_food",
+                "latitude": 43.4702649,
+                "longitude": -80.5359084
+            },
+            {
+                "id": 5367310669,
+                "name": "Simply Church at Saint Paul's",
+                "type": "place_of_worship",
+                "latitude": 43.4677841,
+                "longitude": -80.5463834
+            },
+            {
+                "id": 5367323435,
+                "name": "Waterloo Aboriginal Education Centre",
+                "type": "community_centre",
+                "latitude": 43.4677959,
+                "longitude": -80.5465776
+            },
+            {
+                "id": 5367506921,
+                "name": "Watson's Cafe",
+                "type": "cafe",
+                "latitude": 43.46795,
+                "longitude": -80.5464922
+            },
+            {
+                "id": 5367507052,
+                "name": "Scotiabank",
+                "type": "atm",
+                "latitude": 43.4677437,
+                "longitude": -80.5463474
+            },
+            {
+                "id": 6504186605,
+                "name": "E7 Coffee & Doughnut Shop",
+                "type": "cafe",
+                "latitude": 43.4726613,
+                "longitude": -80.539561
+            },
+            {
+                "id": 6917334488,
+                "name": "Turnkey@DC",
+                "type": "reception_desk",
+                "latitude": 43.4730908,
+                "longitude": -80.5423042
+            },
+            {
+                "id": 7074160994,
+                "name": "IT Service Desk",
+                "type": "reception_desk",
+                "latitude": 43.4726145,
+                "longitude": -80.5416808
+            },
+            {
+                "id": 7074161017,
+                "name": "Library Help",
+                "type": "reception_desk",
+                "latitude": 43.472567,
+                "longitude": -80.5420388
+            },
+            {
+                "id": 7935712615,
+                "name": "Waterloo Public Library - John M. Harper Branch",
+                "type": "library",
+                "latitude": 43.474567,
+                "longitude": -80.571169
+            },
+            {
+                "id": 9091683395,
+                "name": "Jugo Juice",
+                "type": "fast_food",
+                "latitude": 43.4724084,
+                "longitude": -80.5453447
+            },
+            {
+                "id": 9160824000,
+                "name": "Teriyaki Experience",
+                "type": "fast_food",
+                "latitude": 43.4721599,
+                "longitude": -80.5452079
+            },
+            {
+                "id": 9160824001,
+                "name": "Smokehouse",
+                "type": "fast_food",
+                "latitude": 43.4721922,
+                "longitude": -80.545237
+            },
+            {
+                "id": 9160824002,
+                "name": "Quesada",
+                "type": "fast_food",
+                "latitude": 43.472081,
+                "longitude": -80.545237
+            },
+            {
+                "id": 9160824003,
+                "name": "Pita Pit",
+                "type": "fast_food",
+                "latitude": 43.4720643,
+                "longitude": -80.5452745
+            },
+            {
+                "id": 9160824004,
+                "name": "Shawarma Hub",
+                "type": "fast_food",
+                "latitude": 43.4720387,
+                "longitude": -80.5453052
+            },
+            {
+                "id": 9412123831,
+                "name": "University of Waterloo Station",
+                "type": "bus_station",
+                "latitude": 43.4742536,
+                "longitude": -80.5402109
+            },
+            {
+                "id": 10795635674,
+                "name": "FLO",
+                "type": "charging_station",
+                "latitude": 43.4748298,
+                "longitude": -80.5393203
+            },
+            {
+                "id": 11144638656,
+                "name": "Humanities Theatre",
+                "type": "theatre",
+                "latitude": 43.4678052,
+                "longitude": -80.541231
+            },
+            {
+                "id": 30689463,
+                "name": "Lot A",
+                "type": "parking",
+                "latitude": 43.46923814174136,
+                "longitude": -80.53737902275988
+            },
+            {
+                "id": 43250611,
+                "name": "Health Services",
+                "type": "doctors",
+                "latitude": 43.470475077782424,
+                "longitude": -80.54609349159931
+            },
+            {
+                "id": 43250617,
+                "name": "University Club",
+                "type": "restaurant",
+                "latitude": 43.47233805030186,
+                "longitude": -80.54738364974935
+            },
+            {
+                "id": 43250626,
+                "name": "Dana Porter Library",
+                "type": "library",
+                "latitude": 43.46972418198412,
+                "longitude": -80.54226487722835
+            },
+            {
+                "id": 55991158,
+                "name": "Clinical Parking Lot",
+                "type": "parking",
+                "latitude": 43.467317964892295,
+                "longitude": -80.54191175121416
+            },
+            {
+                "id": 56067797,
+                "name": "Lot H",
+                "type": "parking",
+                "latitude": 43.46741634796543,
+                "longitude": -80.54035464701678
+            },
+            {
+                "id": 133945881,
+                "name": "Lot B",
+                "type": "parking",
+                "latitude": 43.47366973080053,
+                "longitude": -80.54043275503513
+            },
+            {
+                "id": 133945891,
+                "name": "Lot R",
+                "type": "parking",
+                "latitude": 43.473968932547066,
+                "longitude": -80.54704251900255
+            },
+            {
+                "id": 133945892,
+                "name": "Lot N",
+                "type": "parking",
+                "latitude": 43.47486790426927,
+                "longitude": -80.54455240886914
+            },
+            {
+                "id": 133945967,
+                "name": "Lot L",
+                "type": "parking",
+                "latitude": 43.474318539741084,
+                "longitude": -80.54414474561435
+            },
+            {
+                "id": 133946118,
+                "name": "Lot OV",
+                "type": "parking",
+                "latitude": 43.47610409364678,
+                "longitude": -80.54389701665694
+            },
+            {
+                "id": 133946119,
+                "name": "Lot X",
+                "type": "parking",
+                "latitude": 43.4776408372653,
+                "longitude": -80.54542855838051
+            },
+            {
+                "id": 133946120,
+                "name": "Lot O",
+                "type": "parking",
+                "latitude": 43.47657309185393,
+                "longitude": -80.54425474353
+            },
+            {
+                "id": 137280548,
+                "name": "V1-Lot",
+                "type": "parking",
+                "latitude": 43.472423397725855,
+                "longitude": -80.54862408968569
+            },
+            {
+                "id": 137280554,
+                "name": "Lot M",
+                "type": "parking",
+                "latitude": 43.47322739126474,
+                "longitude": -80.54686982956314
+            },
+            {
+                "id": 141718285,
+                "name": "Lot W",
+                "type": "parking",
+                "latitude": 43.47480521880253,
+                "longitude": -80.54761532601013
+            },
+            {
+                "id": 142431345,
+                "name": "Lot K",
+                "type": "parking",
+                "latitude": 43.47231324597567,
+                "longitude": -80.55180030146393
+            },
+            {
+                "id": 142431347,
+                "name": "Lot V",
+                "type": "parking",
+                "latitude": 43.4713358026229,
+                "longitude": -80.55455560498994
+            },
+            {
+                "id": 142431348,
+                "name": "Lot J",
+                "type": "parking",
+                "latitude": 43.47287448199009,
+                "longitude": -80.55020096445622
+            },
+            {
+                "id": 142431350,
+                "name": "Lot S",
+                "type": "parking",
+                "latitude": 43.471805857505494,
+                "longitude": -80.55322326692097
+            },
+            {
+                "id": 145890265,
+                "name": "Graduate House",
+                "type": "pub",
+                "latitude": 43.46972402776912,
+                "longitude": -80.5409410933507
+            },
+            {
+                "id": 156032529,
+                "name": "University of Waterloo: Lot T",
+                "type": "parking",
+                "latitude": 43.4652845601725,
+                "longitude": -80.5423086789272
+            },
+            {
+                "id": 157487007,
+                "name": "Lot HV",
+                "type": "parking",
+                "latitude": 43.468371819762766,
+                "longitude": -80.53988233172184
+            },
+            {
+                "id": 182450369,
+                "name": "Break",
+                "type": "fountain",
+                "latitude": 43.471748503145236,
+                "longitude": -80.54329323140666
+            },
+            {
+                "id": 232461252,
+                "name": "Lot C",
+                "type": "parking",
+                "latitude": 43.46743431476702,
+                "longitude": -80.53844480546628
+            },
+            {
+                "id": 368656349,
+                "name": "Bright Starts Co-operative Early Learning Centre",
+                "type": "childcare",
+                "latitude": 43.477059441921604,
+                "longitude": -80.54492325683668
+            },
+            {
+                "id": 502224327,
+                "name": "The Village at University Gates",
+                "type": "social_facility",
+                "latitude": 43.47688228199862,
+                "longitude": -80.5706126543983
+            },
+            {
+                "id": 4381017964,
+                "name": "Siegfried Hall (Residence)",
+                "type": "nan",
+                "latitude": 43.4692314,
+                "longitude": -80.5466535
+            },
+            {
+                "id": 4381017965,
+                "name": "Ryan Hall (Residence)",
+                "type": "nan",
+                "latitude": 43.4695579,
+                "longitude": -80.5471138
+            },
+            {
+                "id": 4381017966,
+                "name": "St. Jerome's University Wellness Centre",
+                "type": "nan",
+                "latitude": 43.469005,
+                "longitude": -80.5463171
+            },
+            {
+                "id": 28196791,
+                "name": "Accelerator Building",
+                "type": "nan",
+                "latitude": 43.477403659688214,
+                "longitude": -80.54910786043223
+            },
+            {
+                "id": 39277289,
+                "name": "OpenText Building 1",
+                "type": "nan",
+                "latitude": 43.476961233094606,
+                "longitude": -80.5530286677244
+            },
+            {
+                "id": 43250588,
+                "name": "Ron Eydt Village",
+                "type": "nan",
+                "latitude": 43.469508355173616,
+                "longitude": -80.55384576887161
+            },
+            {
+                "id": 43250589,
+                "name": "Ron Eydt Village",
+                "type": "nan",
+                "latitude": 43.47067207443751,
+                "longitude": -80.5542177395241
+            },
+            {
+                "id": 43250590,
+                "name": "Ron Eydt Village",
+                "type": "nan",
+                "latitude": 43.47031398265392,
+                "longitude": -80.55422881588713
+            },
+            {
+                "id": 43250591,
+                "name": "Tutor's Houses",
+                "type": "nan",
+                "latitude": 43.470662975857465,
+                "longitude": -80.5527205890235
+            },
+            {
+                "id": 43250596,
+                "name": "Physical Activities Complex",
+                "type": "nan",
+                "latitude": 43.47232250779069,
+                "longitude": -80.54612291815208
+            },
+            {
+                "id": 43250604,
+                "name": "Engineering 2",
+                "type": "nan",
+                "latitude": 43.470922574951274,
+                "longitude": -80.54027078413704
+            },
+            {
+                "id": 43250605,
+                "name": "Engineering 3",
+                "type": "nan",
+                "latitude": 43.4716276458037,
+                "longitude": -80.54076480968169
+            },
+            {
+                "id": 43250606,
+                "name": "Psychology, Anthropology & Sociology",
+                "type": "nan",
+                "latitude": 43.46723187965117,
+                "longitude": -80.54240370490321
+            },
+            {
+                "id": 43250607,
+                "name": "J. R. Coutts Engineering Lecture Hall",
+                "type": "nan",
+                "latitude": 43.470282580027465,
+                "longitude": -80.54071509362161
+            },
+            {
+                "id": 43250608,
+                "name": "United College",
+                "type": "nan",
+                "latitude": 43.467714713290434,
+                "longitude": -80.5464576219241
+            },
+            {
+                "id": 43250609,
+                "name": "Minota Hagey Residence",
+                "type": "nan",
+                "latitude": 43.46579979039072,
+                "longitude": -80.54256868191347
+            },
+            {
+                "id": 43250610,
+                "name": "Conrad Grebel University College",
+                "type": "nan",
+                "latitude": 43.46642953913909,
+                "longitude": -80.5451066320317
+            },
+            {
+                "id": 43250612,
+                "name": "St. Jerome's University",
+                "type": "nan",
+                "latitude": 43.46942910552048,
+                "longitude": -80.5458228478216
+            },
+            {
+                "id": 43250618,
+                "name": "St. Jerome's University",
+                "type": "nan",
+                "latitude": 43.46881938339022,
+                "longitude": -80.54572527777825
+            },
+            {
+                "id": 43250619,
+                "name": "Arts Lecture Hall",
+                "type": "nan",
+                "latitude": 43.46886505615412,
+                "longitude": -80.54181169842596
+            },
+            {
+                "id": 43250620,
+                "name": "Ira G. Needles Hall",
+                "type": "nan",
+                "latitude": 43.46980686870843,
+                "longitude": -80.54361856029857
+            },
+            {
+                "id": 43250621,
+                "name": "Modern Languages",
+                "type": "nan",
+                "latitude": 43.468935616649574,
+                "longitude": -80.54290182361153
+            },
+            {
+                "id": 43250623,
+                "name": "St. Jerome's University",
+                "type": "nan",
+                "latitude": 43.46895104240237,
+                "longitude": -80.54514751418891
+            },
+            {
+                "id": 43250624,
+                "name": "J. G. Hagey Hall of the Humanities",
+                "type": "nan",
+                "latitude": 43.468028193408756,
+                "longitude": -80.54163231940505
+            },
+            {
+                "id": 43250627,
+                "name": "Student Life Centre",
+                "type": "nan",
+                "latitude": 43.47189745100277,
+                "longitude": -80.54529957183622
+            },
+            {
+                "id": 43250628,
+                "name": "Biology 2",
+                "type": "nan",
+                "latitude": 43.47078321682598,
+                "longitude": -80.54372255878157
+            },
+            {
+                "id": 43250629,
+                "name": "Earth Sciences & Chemistry",
+                "type": "nan",
+                "latitude": 43.47133111904392,
+                "longitude": -80.54276558860647
+            },
+            {
+                "id": 43250630,
+                "name": "Mathematics & Computer",
+                "type": "nan",
+                "latitude": 43.47207243028632,
+                "longitude": -80.54390229930887
+            },
+            {
+                "id": 43250631,
+                "name": "Physics",
+                "type": "nan",
+                "latitude": 43.47078926183978,
+                "longitude": -80.54159189964325
+            },
+            {
+                "id": 43250632,
+                "name": "Biology 1",
+                "type": "nan",
+                "latitude": 43.47075892175396,
+                "longitude": -80.54300419216268
+            },
+            {
+                "id": 43250634,
+                "name": "Chemistry 2",
+                "type": "nan",
+                "latitude": 43.47207006644182,
+                "longitude": -80.54295563132575
+            },
+            {
+                "id": 43250635,
+                "name": "Carl A. Pollock Hall",
+                "type": "nan",
+                "latitude": 43.47094374866339,
+                "longitude": -80.53930892397584
+            },
+            {
+                "id": 43250637,
+                "name": "South Campus Hall",
+                "type": "nan",
+                "latitude": 43.4692390632894,
+                "longitude": -80.54030420028842
+            },
+            {
+                "id": 43250638,
+                "name": "School of Optometry & Vision Science",
+                "type": "nan",
+                "latitude": 43.475811086545725,
+                "longitude": -80.54560173817954
+            },
+            {
+                "id": 43250639,
+                "name": "Columbia Icefield",
+                "type": "nan",
+                "latitude": 43.475424260292314,
+                "longitude": -80.54853744299933
+            },
+            {
+                "id": 43250640,
+                "name": "Federation Hall",
+                "type": "nan",
+                "latitude": 43.47319734335284,
+                "longitude": -80.54860047624614
+            },
+            {
+                "id": 43250641,
+                "name": "Central Services Building",
+                "type": "nan",
+                "latitude": 43.47375977442481,
+                "longitude": -80.54372113941336
+            },
+            {
+                "id": 43250642,
+                "name": "Commisary",
+                "type": "nan",
+                "latitude": 43.47414397350326,
+                "longitude": -80.54291110868357
+            },
+            {
+                "id": 43250643,
+                "name": "B.C. Matthews Hall",
+                "type": "nan",
+                "latitude": 43.473646989751586,
+                "longitude": -80.54549443059094
+            },
+            {
+                "id": 43250646,
+                "name": "East Campus Hall",
+                "type": "nan",
+                "latitude": 43.473717539939926,
+                "longitude": -80.53868959894713
+            },
+            {
+                "id": 43325856,
+                "name": "East Campus 1",
+                "type": "nan",
+                "latitude": 43.47615506978169,
+                "longitude": -80.54030799706194
+            },
+            {
+                "id": 43325857,
+                "name": "East Campus 3",
+                "type": "nan",
+                "latitude": 43.47560955618356,
+                "longitude": -80.54213542059976
+            },
+            {
+                "id": 43325858,
+                "name": "East Campus 2",
+                "type": "nan",
+                "latitude": 43.47455591210565,
+                "longitude": -80.54135402327844
+            },
+            {
+                "id": 43325862,
+                "name": "Bauer Warehouse",
+                "type": "nan",
+                "latitude": 43.48336099723696,
+                "longitude": -80.54569654873536
+            },
+            {
+                "id": 43325864,
+                "name": "East Campus 4",
+                "type": "nan",
+                "latitude": 43.47483807035503,
+                "longitude": -80.53978274503527
+            },
+            {
+                "id": 45845764,
+                "name": "Eby Hall",
+                "type": "nan",
+                "latitude": 43.47057373470499,
+                "longitude": -80.5355322020143
+            },
+            {
+                "id": 48359806,
+                "name": "Environment 2",
+                "type": "nan",
+                "latitude": 43.467937748500205,
+                "longitude": -80.54321964261706
+            },
+            {
+                "id": 48359807,
+                "name": "Environment 1",
+                "type": "nan",
+                "latitude": 43.46829940121556,
+                "longitude": -80.54252568396248
+            },
+            {
+                "id": 51125806,
+                "name": "Engineering 5",
+                "type": "nan",
+                "latitude": 43.472861785737315,
+                "longitude": -80.54002841207752
+            },
+            {
+                "id": 59036407,
+                "name": "East Campus 5",
+                "type": "nan",
+                "latitude": 43.4754847321338,
+                "longitude": -80.54062332525199
+            },
+            {
+                "id": 68126301,
+                "name": "University of Waterloo School of Architecture",
+                "type": "nan",
+                "latitude": 43.35816212525157,
+                "longitude": -80.31666601467332
+            },
+            {
+                "id": 102691857,
+                "name": "United College Apartments",
+                "type": "nan",
+                "latitude": 43.46815229131662,
+                "longitude": -80.54598050616919
+            },
+            {
+                "id": 117549202,
+                "name": "SAP (Sybase)",
+                "type": "nan",
+                "latitude": 43.48020324405347,
+                "longitude": -80.55097218175825
+            },
+            {
+                "id": 130345096,
+                "name": "Conrad Grebel University College",
+                "type": "nan",
+                "latitude": 43.46706599541816,
+                "longitude": -80.54537889670343
+            },
+            {
+                "id": 130348900,
+                "name": "Tatham Centre for Co-operative Education and Career Action",
+                "type": "nan",
+                "latitude": 43.46895825769543,
+                "longitude": -80.54124906320355
+            },
+            {
+                "id": 132778101,
+                "name": "Michael G. DeGroote School of Medicine",
+                "type": "nan",
+                "latitude": 43.45231036213759,
+                "longitude": -80.4991858686704
+            },
+            {
+                "id": 132778102,
+                "name": "School of Pharmacy",
+                "type": "nan",
+                "latitude": 43.45280930581261,
+                "longitude": -80.49904546056447
+            },
+            {
+                "id": 141711583,
+                "name": "Brubacher House",
+                "type": "nan",
+                "latitude": 43.475548730455124,
+                "longitude": -80.55231914073603
+            },
+            {
+                "id": 141711588,
+                "name": "South 8",
+                "type": "nan",
+                "latitude": 43.47096979985747,
+                "longitude": -80.55154836418954
+            },
+            {
+                "id": 141712440,
+                "name": "North 5",
+                "type": "nan",
+                "latitude": 43.47228444822079,
+                "longitude": -80.54930705720055
+            },
+            {
+                "id": 141712445,
+                "name": "Student Village 1 Central Complex",
+                "type": "nan",
+                "latitude": 43.471582342738934,
+                "longitude": -80.54996818568114
+            },
+            {
+                "id": 141718251,
+                "name": "East 2",
+                "type": "nan",
+                "latitude": 43.47181540635361,
+                "longitude": -80.54900384703761
+            },
+            {
+                "id": 141718267,
+                "name": "East 5",
+                "type": "nan",
+                "latitude": 43.47153721075696,
+                "longitude": -80.54893887813716
+            },
+            {
+                "id": 142821935,
+                "name": "Columbia Lake Village South Block B",
+                "type": "nan",
+                "latitude": 43.47076928635371,
+                "longitude": -80.56009640824807
+            },
+            {
+                "id": 142821936,
+                "name": "Columbia Lake Village South Block A",
+                "type": "nan",
+                "latitude": 43.470483297550246,
+                "longitude": -80.55966831014227
+            },
+            {
+                "id": 142821939,
+                "name": "Columbia Lake Village South Block C",
+                "type": "nan",
+                "latitude": 43.470868639310495,
+                "longitude": -80.55958640300881
+            },
+            {
+                "id": 142917787,
+                "name": "Lyle S. Hallman Institute for Health Promotion",
+                "type": "nan",
+                "latitude": 43.4731377766398,
+                "longitude": -80.54605945711037
+            },
+            {
+                "id": 143668848,
+                "name": "UW Place Grand Commons",
+                "type": "nan",
+                "latitude": 43.47068990520467,
+                "longitude": -80.53514990389677
+            },
+            {
+                "id": 143668849,
+                "name": "Beck Hall",
+                "type": "nan",
+                "latitude": 43.47073197059151,
+                "longitude": -80.53470734022535
+            },
+            {
+                "id": 144575020,
+                "name": "Conrad Grebel University College",
+                "type": "nan",
+                "latitude": 43.466815788823865,
+                "longitude": -80.54545886873798
+            },
+            {
+                "id": 145078340,
+                "name": "Wilmot Court",
+                "type": "nan",
+                "latitude": 43.47102836140899,
+                "longitude": -80.5366069230568
+            },
+            {
+                "id": 145078401,
+                "name": "Wellesley Court",
+                "type": "nan",
+                "latitude": 43.471513329955904,
+                "longitude": -80.53562105086151
+            },
+            {
+                "id": 145078448,
+                "name": "Waterloo Court",
+                "type": "nan",
+                "latitude": 43.47000518289522,
+                "longitude": -80.53482849025379
+            },
+            {
+                "id": 145078454,
+                "name": "Woolwich Court",
+                "type": "nan",
+                "latitude": 43.470624374746265,
+                "longitude": -80.53348712472955
+            },
+            {
+                "id": 147379102,
+                "name": "Douglas Wright Engineering Building",
+                "type": "nan",
+                "latitude": 43.470069118389404,
+                "longitude": -80.53952203511416
+            },
+            {
+                "id": 148285604,
+                "name": "Mackenzie King Village",
+                "type": "nan",
+                "latitude": 43.47143773746355,
+                "longitude": -80.55251805224772
+            },
+            {
+                "id": 154056255,
+                "name": "Energy Research Centre",
+                "type": "nan",
+                "latitude": 43.47363337074188,
+                "longitude": -80.54438287743659
+            },
+            {
+                "id": 154388480,
+                "name": "Columbia Lake Village South Block J",
+                "type": "nan",
+                "latitude": 43.47019990385284,
+                "longitude": -80.56258350117794
+            },
+            {
+                "id": 154388481,
+                "name": "Columbia Lake Village South Block F",
+                "type": "nan",
+                "latitude": 43.47071035956519,
+                "longitude": -80.56120025922058
+            },
+            {
+                "id": 154388482,
+                "name": "Columbia Lake Village South Block P",
+                "type": "nan",
+                "latitude": 43.469819841200106,
+                "longitude": -80.56249913117783
+            },
+            {
+                "id": 154388483,
+                "name": "Columbia Lake Village South Block K",
+                "type": "nan",
+                "latitude": 43.47014537912719,
+                "longitude": -80.56209043623626
+            },
+            {
+                "id": 154388484,
+                "name": "Columbia Lake Village South Block E",
+                "type": "nan",
+                "latitude": 43.470379192186115,
+                "longitude": -80.56141582568463
+            },
+            {
+                "id": 154388485,
+                "name": "Columbia Lake Village South Block G",
+                "type": "nan",
+                "latitude": 43.47041980185475,
+                "longitude": -80.56083226958269
+            },
+            {
+                "id": 154388486,
+                "name": "Columbia Lake Village South Block D",
+                "type": "nan",
+                "latitude": 43.470066963185026,
+                "longitude": -80.56097477334843
+            },
+            {
+                "id": 154388487,
+                "name": "Columbia Lake Village South Block M",
+                "type": "nan",
+                "latitude": 43.46938239776175,
+                "longitude": -80.56373499660008
+            },
+            {
+                "id": 154388488,
+                "name": "Columbia Lake Village South Block L",
+                "type": "nan",
+                "latitude": 43.469191634159024,
+                "longitude": -80.56328248448315
+            },
+            {
+                "id": 154388489,
+                "name": "Columbia Lake Village South Block H",
+                "type": "nan",
+                "latitude": 43.46968394083201,
+                "longitude": -80.56202064443792
+            },
+            {
+                "id": 154388490,
+                "name": "Columbia Lake Village South Block N",
+                "type": "nan",
+                "latitude": 43.46959746754866,
+                "longitude": -80.56331359535154
+            },
+            {
+                "id": 154388491,
+                "name": "Columbia Lake Village Community Centre",
+                "type": "nan",
+                "latitude": 43.47077587527505,
+                "longitude": -80.56250776621056
+            },
+            {
+                "id": 154388492,
+                "name": "CLV North Block 10",
+                "type": "nan",
+                "latitude": 43.472217900000004,
+                "longitude": -80.56263075
+            },
+            {
+                "id": 154388493,
+                "name": "CLV North Block 02",
+                "type": "nan",
+                "latitude": 43.473207599999995,
+                "longitude": -80.56257049999999
+            },
+            {
+                "id": 154388494,
+                "name": "CLV North Block 20",
+                "type": "nan",
+                "latitude": 43.4729788,
+                "longitude": -80.56350555
+            },
+            {
+                "id": 154388495,
+                "name": "CLV North Block 27",
+                "type": "nan",
+                "latitude": 43.47114985,
+                "longitude": -80.56449550000002
+            },
+            {
+                "id": 154388496,
+                "name": "CLV North Block 14",
+                "type": "nan",
+                "latitude": 43.47244634999999,
+                "longitude": -80.56294385
+            },
+            {
+                "id": 154388497,
+                "name": "CLV North Block 06",
+                "type": "nan",
+                "latitude": 43.47189590976095,
+                "longitude": -80.56120149575369
+            },
+            {
+                "id": 154388498,
+                "name": "CLV North Block 26",
+                "type": "nan",
+                "latitude": 43.47118715,
+                "longitude": -80.56499475000001
+            },
+            {
+                "id": 154388499,
+                "name": "CLV North Block 05",
+                "type": "nan",
+                "latitude": 43.47219924999999,
+                "longitude": -80.56135259999998
+            },
+            {
+                "id": 154388500,
+                "name": "CLV North Block 17",
+                "type": "nan",
+                "latitude": 43.4724479598666,
+                "longitude": -80.56361807791143
+            },
+            {
+                "id": 154388501,
+                "name": "CLV North Block 18",
+                "type": "nan",
+                "latitude": 43.47263560143578,
+                "longitude": -80.56330038686906
+            },
+            {
+                "id": 154388502,
+                "name": "CLV North Block 21",
+                "type": "nan",
+                "latitude": 43.472657528888206,
+                "longitude": -80.56385752439162
+            },
+            {
+                "id": 154388503,
+                "name": "CLV North Block 09",
+                "type": "nan",
+                "latitude": 43.471866999999996,
+                "longitude": -80.5626244
+            },
+            {
+                "id": 154388504,
+                "name": "CLV North Block 30",
+                "type": "nan",
+                "latitude": 43.47140835000001,
+                "longitude": -80.56294670000001
+            },
+            {
+                "id": 154388505,
+                "name": "CLV North Block 24",
+                "type": "nan",
+                "latitude": 43.47165219770203,
+                "longitude": -80.56498680215716
+            },
+            {
+                "id": 154388506,
+                "name": "CLV North Block 12",
+                "type": "nan",
+                "latitude": 43.47226105890719,
+                "longitude": -80.56215594439753
+            },
+            {
+                "id": 154388507,
+                "name": "CLV North Block 22",
+                "type": "nan",
+                "latitude": 43.47233942888821,
+                "longitude": -80.56421382439164
+            },
+            {
+                "id": 154388508,
+                "name": "CLV North Block 16",
+                "type": "nan",
+                "latitude": 43.47206294999999,
+                "longitude": -80.56402704999998
+            },
+            {
+                "id": 154388509,
+                "name": "CLV North Block 32",
+                "type": "nan",
+                "latitude": 43.471789558811366,
+                "longitude": -80.56343684421013
+            },
+            {
+                "id": 154388510,
+                "name": "CLV North Block 29",
+                "type": "nan",
+                "latitude": 43.47135294999999,
+                "longitude": -80.56351619999998
+            },
+            {
+                "id": 154388512,
+                "name": "CLV North Block 34",
+                "type": "nan",
+                "latitude": 43.47143045985995,
+                "longitude": -80.56469742789567
+            },
+            {
+                "id": 154388513,
+                "name": "CLV North Block 08",
+                "type": "nan",
+                "latitude": 43.471535504946864,
+                "longitude": -80.56221850818841
+            },
+            {
+                "id": 154388514,
+                "name": "CLV North Block 13",
+                "type": "nan",
+                "latitude": 43.47288354999999,
+                "longitude": -80.56269335000002
+            },
+            {
+                "id": 154388515,
+                "name": "CLV North Block 07",
+                "type": "nan",
+                "latitude": 43.47171415,
+                "longitude": -80.56170889999999
+            },
+            {
+                "id": 154388516,
+                "name": "CLV North Block 03",
+                "type": "nan",
+                "latitude": 43.47278651708622,
+                "longitude": -80.56214574530283
+            },
+            {
+                "id": 154388517,
+                "name": "CLV North Block 31",
+                "type": "nan",
+                "latitude": 43.4717192167169,
+                "longitude": -80.56295683675809
+            },
+            {
+                "id": 154388518,
+                "name": "CLV North Block 35",
+                "type": "nan",
+                "latitude": 43.47185985263705,
+                "longitude": -80.56424713777312
+            },
+            {
+                "id": 154388519,
+                "name": "CLV North Block 33",
+                "type": "nan",
+                "latitude": 43.4715954,
+                "longitude": -80.56388100000001
+            },
+            {
+                "id": 154388520,
+                "name": "CLV North Block 19",
+                "type": "nan",
+                "latitude": 43.47329064544331,
+                "longitude": -80.56315352895466
+            },
+            {
+                "id": 154388521,
+                "name": "CLV North Block 04",
+                "type": "nan",
+                "latitude": 43.47247555,
+                "longitude": -80.5617659
+            },
+            {
+                "id": 154388522,
+                "name": "CLV North Block 23",
+                "type": "nan",
+                "latitude": 43.47193665454297,
+                "longitude": -80.56466732106401
+            },
+            {
+                "id": 154388523,
+                "name": "CLV North Block 01",
+                "type": "nan",
+                "latitude": 43.47353679999999,
+                "longitude": -80.56280065
+            },
+            {
+                "id": 154388525,
+                "name": "CLV North Block 15",
+                "type": "nan",
+                "latitude": 43.47216390457048,
+                "longitude": -80.5632982816177
+            },
+            {
+                "id": 154388526,
+                "name": "CLV North Block 25",
+                "type": "nan",
+                "latitude": 43.471394450000005,
+                "longitude": -80.56532905
+            },
+            {
+                "id": 154388527,
+                "name": "CLV North Block 11",
+                "type": "nan",
+                "latitude": 43.47257292601353,
+                "longitude": -80.56247116273069
+            },
+            {
+                "id": 154544952,
+                "name": "CLV North Block 28",
+                "type": "nan",
+                "latitude": 43.471265949999996,
+                "longitude": -80.5640103
+            },
+            {
+                "id": 154608938,
+                "name": "J.R. Finn Building",
+                "type": "nan",
+                "latitude": 43.46920267395962,
+                "longitude": -80.54522819484428
+            },
+            {
+                "id": 158807251,
+                "name": "Engineering 6",
+                "type": "nan",
+                "latitude": 43.47299220018672,
+                "longitude": -80.53867823121934
+            },
+            {
+                "id": 167411346,
+                "name": "Environment 3",
+                "type": "nan",
+                "latitude": 43.46803883016976,
+                "longitude": -80.54327407067001
+            },
+            {
+                "id": 170097693,
+                "name": "innoTECH Building",
+                "type": "nan",
+                "latitude": 43.47795706386356,
+                "longitude": -80.54759819044298
+            },
+            {
+                "id": 170097694,
+                "name": "Toby Jenkins Applied Health Research Building",
+                "type": "nan",
+                "latitude": 43.479147104407424,
+                "longitude": -80.54836490118747
+            },
+            {
+                "id": 175808262,
+                "name": "Research Advancement Centre",
+                "type": "nan",
+                "latitude": 43.478781092997316,
+                "longitude": -80.55485935139845
+            },
+            {
+                "id": 175808266,
+                "name": "Research Advancement Centre 2",
+                "type": "nan",
+                "latitude": 43.47833984769599,
+                "longitude": -80.5555708052473
+            },
+            {
+                "id": 182091547,
+                "name": "Mike & Ophelia Lazaridis Quantum Nano Centre",
+                "type": "nan",
+                "latitude": 43.47122837471354,
+                "longitude": -80.54412647450812
+            },
+            {
+                "id": 182922400,
+                "name": "East 3",
+                "type": "nan",
+                "latitude": 43.471831975250794,
+                "longitude": -80.54862214951171
+            },
+            {
+                "id": 182922401,
+                "name": "North 6",
+                "type": "nan",
+                "latitude": 43.472093714087755,
+                "longitude": -80.5495610260502
+            },
+            {
+                "id": 182922404,
+                "name": "East 6",
+                "type": "nan",
+                "latitude": 43.47145481020678,
+                "longitude": -80.54932275811267
+            },
+            {
+                "id": 182922407,
+                "name": "East 4",
+                "type": "nan",
+                "latitude": 43.47156877945391,
+                "longitude": -80.54854944176321
+            },
+            {
+                "id": 182922411,
+                "name": "North 4",
+                "type": "nan",
+                "latitude": 43.47251600109697,
+                "longitude": -80.54959254242549
+            },
+            {
+                "id": 182922415,
+                "name": "East 1",
+                "type": "nan",
+                "latitude": 43.471789835432354,
+                "longitude": -80.5493566208708
+            },
+            {
+                "id": 182922417,
+                "name": "North 3",
+                "type": "nan",
+                "latitude": 43.472463660329296,
+                "longitude": -80.54994716442093
+            },
+            {
+                "id": 182922418,
+                "name": "North 2",
+                "type": "nan",
+                "latitude": 43.47231506705055,
+                "longitude": -80.55026318192932
+            },
+            {
+                "id": 182922421,
+                "name": "North 1",
+                "type": "nan",
+                "latitude": 43.4721187421449,
+                "longitude": -80.550034609128
+            },
+            {
+                "id": 188703119,
+                "name": "Centre for Environmental and Information Technology",
+                "type": "nan",
+                "latitude": 43.471509689683565,
+                "longitude": -80.54206252918364
+            },
+            {
+                "id": 270412928,
+                "name": "Mackenzie King Village",
+                "type": "nan",
+                "latitude": 43.47113458966522,
+                "longitude": -80.55236748417622
+            },
+            {
+                "id": 293219222,
+                "name": "West 1",
+                "type": "nan",
+                "latitude": 43.47156957081509,
+                "longitude": -80.55067422672244
+            },
+            {
+                "id": 293219224,
+                "name": "West 2",
+                "type": "nan",
+                "latitude": 43.47149797598212,
+                "longitude": -80.55104593970745
+            },
+            {
+                "id": 293219225,
+                "name": "West 3",
+                "type": "nan",
+                "latitude": 43.471756978177005,
+                "longitude": -80.55146173473655
+            },
+            {
+                "id": 293219226,
+                "name": "West 4",
+                "type": "nan",
+                "latitude": 43.47193466914522,
+                "longitude": -80.55119286424879
+            },
+            {
+                "id": 293219227,
+                "name": "West 5",
+                "type": "nan",
+                "latitude": 43.472072773088215,
+                "longitude": -80.5508829759062
+            },
+            {
+                "id": 293219228,
+                "name": "West 6",
+                "type": "nan",
+                "latitude": 43.47188480888714,
+                "longitude": -80.55064158497987
+            },
+            {
+                "id": 293225023,
+                "name": "South 1",
+                "type": "nan",
+                "latitude": 43.47111525132113,
+                "longitude": -80.54991761944689
+            },
+            {
+                "id": 293225024,
+                "name": "South 2",
+                "type": "nan",
+                "latitude": 43.470875861745284,
+                "longitude": -80.54984867577322
+            },
+            {
+                "id": 293225025,
+                "name": "South 3",
+                "type": "nan",
+                "latitude": 43.47071115799358,
+                "longitude": -80.55016023580089
+            },
+            {
+                "id": 293225026,
+                "name": "South 4",
+                "type": "nan",
+                "latitude": 43.47065989220141,
+                "longitude": -80.55047180172976
+            },
+            {
+                "id": 293225027,
+                "name": "South 5",
+                "type": "nan",
+                "latitude": 43.47095682235223,
+                "longitude": -80.55072442147076
+            },
+            {
+                "id": 293225028,
+                "name": "South 6",
+                "type": "nan",
+                "latitude": 43.47113756360695,
+                "longitude": -80.55046900833264
+            },
+            {
+                "id": 299688727,
+                "name": "Cora Building",
+                "type": "nan",
+                "latitude": 43.47911972910258,
+                "longitude": -80.55027345290725
+            },
+            {
+                "id": 306589249,
+                "name": "OpenText Building 2",
+                "type": "nan",
+                "latitude": 43.47664379443617,
+                "longitude": -80.55206828830421
+            },
+            {
+                "id": 350394201,
+                "name": "General Services Complex",
+                "type": "nan",
+                "latitude": 43.47356252002172,
+                "longitude": -80.54288627326368
+            },
+            {
+                "id": 350394202,
+                "name": "South 7",
+                "type": "nan",
+                "latitude": 43.470762784240456,
+                "longitude": -80.55128912823159
+            },
+            {
+                "id": 370204260,
+                "name": "Science Teaching Complex",
+                "type": "nan",
+                "latitude": 43.47055188747785,
+                "longitude": -80.54342191813464
+            },
+            {
+                "id": 382726586,
+                "name": "Applied Health Sciences Expansion Building",
+                "type": "nan",
+                "latitude": 43.47352732698385,
+                "longitude": -80.54622498159485
+            },
+            {
+                "id": 382735686,
+                "name": "Engineering 7",
+                "type": "nan",
+                "latitude": 43.472944564852455,
+                "longitude": -80.53954555436383
+            },
+            {
+                "id": 382758901,
+                "name": "St. Jerome's Academic Centre SJ2",
+                "type": "nan",
+                "latitude": 43.46984078003023,
+                "longitude": -80.54569961023132
+            },
+            {
+                "id": 382872689,
+                "name": "Claudette Millar Hall",
+                "type": "nan",
+                "latitude": 43.47029801323625,
+                "longitude": -80.53583434987345
+            },
+            {
+                "id": 423464593,
+                "name": "United College Green Wing",
+                "type": "nan",
+                "latitude": 43.46784302045242,
+                "longitude": -80.5460061668702
+            },
+            {
+                "id": 440380006,
+                "name": "St. Jerome's University Residence Buildings",
+                "type": "nan",
+                "latitude": 43.469277170558286,
+                "longitude": -80.54667093630515
+            },
+            {
+                "id": 692358718,
+                "name": "Feridun Hamdullahpur Field House",
+                "type": "nan",
+                "latitude": 43.47504582208107,
+                "longitude": -80.54995559052972
+            },
+            {
+                "id": 731803684,
+                "name": "evolv1",
+                "type": "nan",
+                "latitude": 43.480854039451586,
+                "longitude": -80.54657380350875
+            },
+            {
+                "id": 731803685,
+                "name": "Autonomous Vehicle Research and Intelligence Lab",
+                "type": "nan",
+                "latitude": 43.4741087,
+                "longitude": -80.53967115
+            },
+            {
+                "id": 883462120,
+                "name": "R&T Park Interlocking",
+                "type": "nan",
+                "latitude": 43.48146934999999,
+                "longitude": -80.54534265
+            },
+            {
+                "id": 894436106,
+                "name": "Seagram Dr Interlocking",
+                "type": "nan",
+                "latitude": 43.4692869134037,
+                "longitude": -80.53494243412231
+            },
+            {
+                "id": 1029157888,
+                "name": "Mathematics 3",
+                "type": "nan",
+                "latitude": 43.47315659368747,
+                "longitude": -80.54406130844156
+            },
+            {
+                "id": 1246717243,
+                "name": "Renison University College",
+                "type": "nan",
+                "latitude": 43.46893873633772,
+                "longitude": -80.54741734112454
+            },
+            {
+                "id": 8765264,
+                "name": "William G. Davis Computer Research Centre",
+                "type": "nan",
+                "latitude": 43.47258074818089,
+                "longitude": -80.54214166856049
+            }
+        ]
+    }
+}

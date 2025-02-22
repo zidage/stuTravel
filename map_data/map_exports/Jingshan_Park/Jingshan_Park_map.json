@@ -1,0 +1,110 @@
+{
+    "id": 4762878698790556860,
+    "name": "景山公园",
+    "address": "中国北京市西城区景山景山西街44号 邮政编码: 100009",
+    "rating": 4.6,
+    "popularity": 56,
+    "data_path": "map_data/university_map/Jingshan_Park",
+    "description": "景山公园位于中国北京市西城区的景山前街，西临北海，南与故宫神武门隔街相望，是元、明、清三代的御苑。公园坐落在明清北京城的中轴线上，公园中心的景山，曾是全城的制高点。\n在元、明、清三代，景山及其附属建筑不仅是一座供游赏的皇家园林，还具有习射、停灵、祭祖、官学、躬耕、戏曲、宗教等多重功能。目前公园占地23公顷，园内松柏葱郁，游人如织，是北京皇城内独具特色的所在。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/34/Beijing_Playing_Cards.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/61/Buddha_at_Jingshan_hill_top_temple_China.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/China_peking1-18.12.-27.12.2004.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fd/China_peking1_%284%29.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/0/05/Forbidden_city_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ac/Gfp-beijing-2-stone-lions.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fa/Gfp-beijing-jingshan-down-the-slope.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gfp-beijing-jingshan-small-pavilion.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/Guande_Gate_in_Jingshan_Park2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/67/JingShan_Park.jpg"
+    ],
+    "amenity": {
+        "affiliation": 4762878698790556860,
+        "amenity_list": [
+            {
+                "id": 2006175178,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 39.9253089,
+                "longitude": 116.3890652
+            },
+            {
+                "id": 26390235,
+                "name": "万春亭",
+                "type": "shelter",
+                "latitude": 39.923522850000005,
+                "longitude": 116.39049335
+            },
+            {
+                "id": 26390116,
+                "name": "寿皇门",
+                "type": "nan",
+                "latitude": 39.92588196387343,
+                "longitude": 116.39035479110778
+            },
+            {
+                "id": 26390117,
+                "name": "寿皇殿",
+                "type": "nan",
+                "latitude": 39.92651938641997,
+                "longitude": 116.39033429094751
+            },
+            {
+                "id": 26390175,
+                "name": "东门",
+                "type": "nan",
+                "latitude": 39.924423197048526,
+                "longitude": 116.3928377913214
+            },
+            {
+                "id": 26390236,
+                "name": "绮望楼",
+                "type": "nan",
+                "latitude": 39.92262345,
+                "longitude": 116.3904898
+            },
+            {
+                "id": 26390237,
+                "name": "南门",
+                "type": "nan",
+                "latitude": 39.92207605354738,
+                "longitude": 116.39051804590405
+            },
+            {
+                "id": 26390246,
+                "name": "西门",
+                "type": "nan",
+                "latitude": 39.924246211879755,
+                "longitude": 116.38798730883867
+            },
+            {
+                "id": 189309369,
+                "name": "周赏亭",
+                "type": "nan",
+                "latitude": 39.92328971275204,
+                "longitude": 116.3922342918584
+            },
+            {
+                "id": 189309372,
+                "name": "观妙亭",
+                "type": "nan",
+                "latitude": 39.92337925974761,
+                "longitude": 116.39141606802868
+            },
+            {
+                "id": 189309373,
+                "name": "富览亭",
+                "type": "nan",
+                "latitude": 39.92314539414454,
+                "longitude": 116.38875083093885
+            },
+            {
+                "id": 189309374,
+                "name": "辑芳亭",
+                "type": "nan",
+                "latitude": 39.92333475030184,
+                "longitude": 116.38956141701883
+            }
+        ]
+    }
+}

@@ -1,0 +1,2245 @@
+{
+    "id": 7513738906356278613,
+    "name": "哈佛大学",
+    "address": "Massachusetts Hall, Cambridge, MA 02138美国",
+    "rating": 4.5,
+    "popularity": 52,
+    "data_path": "map_data/university_map/Harvard_University",
+    "description": "哈佛大學（英語：Harvard University）為一所本部坐落於美國麻省劍橋市的私立研究型大學。其因歷史、學術影響力、財富等因素而獲評為世上最享負盛名的學府之一。\n哈佛於1636年由當地的殖民地立法機關立案成立，迄今為全美歷史最悠久的高等學府，並擁有北美最古老的校董委員會。 其最初稱之為「新學院」（New College），該機構為了感謝一名年輕的克爾文派牧師約翰·哈佛所作出的捐贈，而改名為「哈佛學院」。雖然從沒有與任何宗教派別有正式的聯繫，但早期的學院還是以培養公理會及一位論派神職者為主要職責。可是自18世紀起，其課程與學生群體的宗教性質漸漸淡化，而19世紀的哈佛則進一步成為波士頓菁英的文化起源地。美國南北戰爭後，當時的校長查爾斯·艾略特將哈佛各個學術機構綜合成一所研究型大學，並增添小班授課以及入學考試，而這些模式同時也影響國家的中高等教育政策。此校亦為美洲大學協會12個創始成員之一，並在經濟大蕭條及二次大戰後進一步修改課程及收生政策。後與拉德克利夫學院合併成為男女校。\n校方目前共有十所學院及一所高等研究院。這些單位偏佈鄰近各區：其本部位於劍橋的哈佛园；醫學、公共衛生及牙醫學院位於波士頓的長木醫學區；而包括哈佛體育場在內的大學體育設施以及商學院則在奧爾斯頓。哈佛同時擁有龐大的資產，每年所收到的捐款回贈數目長期位列全球教育機構之首。\n哈佛大學為全美最難入讀的學府之一。學校的研究生課程較為多元化，而學士教育則主要集中在文理學範疇。校方在2007年起實行財政援助政策，家庭年收入低於一定數目的學生獲得不同程度的學費豁免。哈佛擁有全美最古老的圖書館系統，這同時也是全球最具規模的私立及大學圖書館系統，館藏量逾1,600萬冊。其為常春藤盟校成員之一，現共有42支參與不同運動競賽的代表隊，屬全美大學體育協會甲組。除了體育，學生的課外生活還包括各個學會所舉辦的活動。哈佛校友涵蓋8名美國總統及多國領袖與政治要員；其亦培養了62名富豪企業家及335位羅德學者，人數均為全美最多。截止2020年10月，共有161名諾貝爾獎得主、18位菲尔兹奖得主、14位图灵奖得主現在或曾經在哈佛學習或工作。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bright_Hockey_Center%2C_Harvard.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Harvard_Rowing_Crew_at_Henley_2004_-2.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2b/Harvard_Yard%2C_Dudesleeper.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d3/Harvard_college_-_annenberg_hall.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Harvard_memorial_church_winter_2009.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dc/Harvard_memorial_hall.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Harvard_stadium_2009h.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jb_colonial_harvard_2_m.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_Harvard_statue.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_Harvard_statue_at_Harvard_University.jpg"
+    ],
+    "amenity": {
+        "affiliation": 7513738906356278613,
+        "amenity_list": [
+            {
+                "id": 257536184,
+                "name": "Cmes Teaching Resource Center",
+                "type": "library",
+                "latitude": 42.3755807,
+                "longitude": -71.1139584
+            },
+            {
+                "id": 358276974,
+                "name": "Harvard Divinity School",
+                "type": "school",
+                "latitude": 42.3800857,
+                "longitude": -71.1130123
+            },
+            {
+                "id": 367777946,
+                "name": "Eda Kuhn Loeb Music Library",
+                "type": "library",
+                "latitude": 42.376964,
+                "longitude": -71.1170152
+            },
+            {
+                "id": 367777951,
+                "name": "McKay and Blue Hill Library",
+                "type": "library",
+                "latitude": 42.3780016,
+                "longitude": -71.1170381
+            },
+            {
+                "id": 367778007,
+                "name": "Tozzer Library",
+                "type": "library",
+                "latitude": 42.3785688,
+                "longitude": -71.1148047
+            },
+            {
+                "id": 367778046,
+                "name": "Frances Loeb Library",
+                "type": "library",
+                "latitude": 42.3759405,
+                "longitude": -71.1139182
+            },
+            {
+                "id": 367778049,
+                "name": "Godfrey Lowell Cabot Science Library",
+                "type": "library",
+                "latitude": 42.3761636,
+                "longitude": -71.1163126
+            },
+            {
+                "id": 367778059,
+                "name": "Physics Research Library",
+                "type": "library",
+                "latitude": 42.377305,
+                "longitude": -71.1172917
+            },
+            {
+                "id": 367778060,
+                "name": "Harvard University Psychology Research Library",
+                "type": "library",
+                "latitude": 42.3771216,
+                "longitude": -71.1135784
+            },
+            {
+                "id": 367778065,
+                "name": "Gutman Library",
+                "type": "library",
+                "latitude": 42.3749185,
+                "longitude": -71.1217096
+            },
+            {
+                "id": 367778068,
+                "name": "Harvard University Fine Arts Library",
+                "type": "library",
+                "latitude": 42.3763632,
+                "longitude": -71.1182075
+            },
+            {
+                "id": 367778069,
+                "name": "Harvard Law School Library",
+                "type": "library",
+                "latitude": 42.3779559,
+                "longitude": -71.1185838
+            },
+            {
+                "id": 367778071,
+                "name": "Kummel Library of Geological Sciences",
+                "type": "library",
+                "latitude": 42.3782011,
+                "longitude": -71.1147103
+            },
+            {
+                "id": 367778076,
+                "name": "Harvard Kennedy School Library",
+                "type": "library",
+                "latitude": 42.3711732,
+                "longitude": -71.1216494
+            },
+            {
+                "id": 367778080,
+                "name": "Pusey Library",
+                "type": "library",
+                "latitude": 42.3736275,
+                "longitude": -71.1158822
+            },
+            {
+                "id": 367779474,
+                "name": "Sanders Theatre",
+                "type": "theatre",
+                "latitude": 42.3758873,
+                "longitude": -71.1146858
+            },
+            {
+                "id": 367781121,
+                "name": "Harvard University Museum of Comparative Zoology Library",
+                "type": "library",
+                "latitude": 42.3785878,
+                "longitude": -71.1155943
+            },
+            {
+                "id": 371247606,
+                "name": "Eliot House Library",
+                "type": "library",
+                "latitude": 42.3700745,
+                "longitude": -71.1219298
+            },
+            {
+                "id": 585463485,
+                "name": "American Repertory Theater",
+                "type": "theatre",
+                "latitude": 42.3748602,
+                "longitude": -71.1229496
+            },
+            {
+                "id": 1096311852,
+                "name": "可能感兴趣的地点",
+                "type": "bicycle_parking",
+                "latitude": 42.3761421,
+                "longitude": -71.1161019
+            },
+            {
+                "id": 1816988564,
+                "name": "Bauer Cafe",
+                "type": "cafe",
+                "latitude": 42.3775378,
+                "longitude": -71.1153803
+            },
+            {
+                "id": 2752899899,
+                "name": "Cafe Gato Rojo",
+                "type": "cafe",
+                "latitude": 42.3735895,
+                "longitude": -71.1184022
+            },
+            {
+                "id": 3061425957,
+                "name": "Bluebikes - Harvard Kennedy School at Bennett St / Eliot St",
+                "type": "bicycle_rental",
+                "latitude": 42.3719885,
+                "longitude": -71.1217612
+            },
+            {
+                "id": 3061426234,
+                "name": "Blue Bikes - Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+                "type": "bicycle_rental",
+                "latitude": 42.366621,
+                "longitude": -71.114214
+            },
+            {
+                "id": 3061427037,
+                "name": "Blue Bikes - Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St",
+                "type": "bicycle_rental",
+                "latitude": 42.3779201,
+                "longitude": -71.116919
+            },
+            {
+                "id": 3061427038,
+                "name": "Blue Bikes - Harvard University Gund Hall at Quincy St / Kirkland S",
+                "type": "bicycle_rental",
+                "latitude": 42.376369,
+                "longitude": -71.114025
+            },
+            {
+                "id": 3061427039,
+                "name": "Blue Bikes - Harvard University Housing - 111 Western Ave. at Soldiers Field Park",
+                "type": "bicycle_rental",
+                "latitude": 42.3644647,
+                "longitude": -71.1184111
+            },
+            {
+                "id": 3061427044,
+                "name": "Blue Bikes - Innovation Lab - 125 Western Ave. at Batten Way",
+                "type": "bicycle_rental",
+                "latitude": 42.363732,
+                "longitude": -71.1245865
+            },
+            {
+                "id": 3601574352,
+                "name": "Harvard University Police - Mather House Sub Station",
+                "type": "police",
+                "latitude": 42.3687212,
+                "longitude": -71.115319
+            },
+            {
+                "id": 3658341425,
+                "name": "Bosso Ramen Tavern",
+                "type": "restaurant",
+                "latitude": 42.372168,
+                "longitude": -71.118338
+            },
+            {
+                "id": 4172418805,
+                "name": "Cambridge Trust Company",
+                "type": "bank",
+                "latitude": 42.3730121,
+                "longitude": -71.1181631
+            },
+            {
+                "id": 4846358254,
+                "name": "Bank of America",
+                "type": "atm",
+                "latitude": 42.3720557,
+                "longitude": -71.1184101
+            },
+            {
+                "id": 5360778410,
+                "name": "FIlm Archive",
+                "type": "arts_centre",
+                "latitude": 42.3737039,
+                "longitude": -71.1142758
+            },
+            {
+                "id": 5869749334,
+                "name": "Insomnia Cookies",
+                "type": "restaurant",
+                "latitude": 42.3720083,
+                "longitude": -71.1181628
+            },
+            {
+                "id": 6124473602,
+                "name": "Oggi",
+                "type": "restaurant",
+                "latitude": 42.3724155,
+                "longitude": -71.1190977
+            },
+            {
+                "id": 7100193739,
+                "name": "Pavement Coffeehouse",
+                "type": "cafe",
+                "latitude": 42.3729747,
+                "longitude": -71.1187857
+            },
+            {
+                "id": 7100193740,
+                "name": "Saloniki Greek",
+                "type": "restaurant",
+                "latitude": 42.3728171,
+                "longitude": -71.1188514
+            },
+            {
+                "id": 7100193741,
+                "name": "Blackbird Doughnuts",
+                "type": "fast_food",
+                "latitude": 42.3726081,
+                "longitude": -71.1184022
+            },
+            {
+                "id": 7110645317,
+                "name": "Bon Me",
+                "type": "restaurant",
+                "latitude": 42.3727178,
+                "longitude": -71.118513
+            },
+            {
+                "id": 7110645318,
+                "name": "Whole Heart Provisions",
+                "type": "restaurant",
+                "latitude": 42.3727832,
+                "longitude": -71.118741
+            },
+            {
+                "id": 7855184466,
+                "name": "Clover Food Lab",
+                "type": "cafe",
+                "latitude": 42.3762106,
+                "longitude": -71.1164724
+            },
+            {
+                "id": 7857641285,
+                "name": "Mather Dining Hall",
+                "type": "food_court",
+                "latitude": 42.3679673,
+                "longitude": -71.1156159
+            },
+            {
+                "id": 8749198580,
+                "name": "Andover-Harvard Theological Library",
+                "type": "library",
+                "latitude": 42.3796006,
+                "longitude": -71.1133173
+            },
+            {
+                "id": 8805595487,
+                "name": "Center of Mathematical Sciences and Applications",
+                "type": "research_insitute",
+                "latitude": 42.3776972,
+                "longitude": -71.1233706
+            },
+            {
+                "id": 8805595488,
+                "name": "Black Hole Initiative",
+                "type": "research_insitute",
+                "latitude": 42.3777267,
+                "longitude": -71.123398
+            },
+            {
+                "id": 8825287582,
+                "name": "Zipcar",
+                "type": "car_sharing",
+                "latitude": 42.3669192,
+                "longitude": -71.114906
+            },
+            {
+                "id": 11624454735,
+                "name": "Pforzheimer House",
+                "type": "college",
+                "latitude": 42.3819526,
+                "longitude": -71.1247027
+            },
+            {
+                "id": 29513588,
+                "name": "Leverett House Library",
+                "type": "library",
+                "latitude": 42.369386722357426,
+                "longitude": -71.11680027000526
+            },
+            {
+                "id": 29530612,
+                "name": "Loeb Drama Center",
+                "type": "theatre",
+                "latitude": 42.37485493676179,
+                "longitude": -71.12297781467176
+            },
+            {
+                "id": 29590842,
+                "name": "Soldiers Field Park Garage",
+                "type": "parking",
+                "latitude": 42.364585600000005,
+                "longitude": -71.11995834999999
+            },
+            {
+                "id": 29633581,
+                "name": "Houghton Library",
+                "type": "library",
+                "latitude": 42.3731868945741,
+                "longitude": -71.11592395633956
+            },
+            {
+                "id": 29634503,
+                "name": "Lamont Library",
+                "type": "library",
+                "latitude": 42.37276102309186,
+                "longitude": -71.11548479335804
+            },
+            {
+                "id": 29684442,
+                "name": "Harvard-Yenching Library",
+                "type": "library",
+                "latitude": 42.377667243247494,
+                "longitude": -71.11372448782326
+            },
+            {
+                "id": 29725638,
+                "name": "Widener Memorial Library",
+                "type": "library",
+                "latitude": 42.37345608621086,
+                "longitude": -71.11649649892253
+            },
+            {
+                "id": 29788303,
+                "name": "Harvard Hillel",
+                "type": "place_of_worship",
+                "latitude": 42.37124171423925,
+                "longitude": -71.11742359838449
+            },
+            {
+                "id": 29789985,
+                "name": "Memorial Church",
+                "type": "place_of_worship",
+                "latitude": 42.374892847308466,
+                "longitude": -71.11606415078619
+            },
+            {
+                "id": 29826765,
+                "name": "Qube (Quincy Library)",
+                "type": "library",
+                "latitude": 42.37040455445595,
+                "longitude": -71.1169491688827
+            },
+            {
+                "id": 33529303,
+                "name": "Baker Library / Bloomberg Center",
+                "type": "library",
+                "latitude": 42.36641957010304,
+                "longitude": -71.12279380569021
+            },
+            {
+                "id": 40038032,
+                "name": "Schlesinger Library",
+                "type": "library",
+                "latitude": 42.37575000835037,
+                "longitude": -71.12312660337344
+            },
+            {
+                "id": 292091832,
+                "name": "Harvard Innovation Lab Parking",
+                "type": "parking",
+                "latitude": 42.36412115965595,
+                "longitude": -71.12488779888433
+            },
+            {
+                "id": 323561133,
+                "name": "Everett Street Northwest Corner Garage",
+                "type": "parking",
+                "latitude": 42.37943781460532,
+                "longitude": -71.11934892964761
+            },
+            {
+                "id": 936540252,
+                "name": "Tanner Fountain",
+                "type": "fountain",
+                "latitude": 42.37598700558975,
+                "longitude": -71.11637150747751
+            },
+            {
+                "id": 1052049399,
+                "name": "Carpenter Center",
+                "type": "arts_centre",
+                "latitude": 42.37361116207903,
+                "longitude": -71.11428068303834
+            },
+            {
+                "id": 64844,
+                "name": "Hilles Library",
+                "type": "library",
+                "latitude": 42.380905857489324,
+                "longitude": -71.12510522302071
+            },
+            {
+                "id": 65393,
+                "name": "Center for Astrophysics",
+                "type": "research_institute",
+                "latitude": 42.381416447310684,
+                "longitude": -71.12810100854584
+            },
+            {
+                "id": 367777214,
+                "name": "Leverett Towers",
+                "type": "nan",
+                "latitude": 42.3693622,
+                "longitude": -71.1164601
+            },
+            {
+                "id": 367777241,
+                "name": "Radcliffe Dance Center",
+                "type": "nan",
+                "latitude": 42.3815445,
+                "longitude": -71.1266876
+            },
+            {
+                "id": 367780152,
+                "name": "Cabot House",
+                "type": "nan",
+                "latitude": 42.3809301,
+                "longitude": -71.1239417
+            },
+            {
+                "id": 29513596,
+                "name": "5 Cowperthwaite St (Graduate Housing)",
+                "type": "nan",
+                "latitude": 42.36903330979822,
+                "longitude": -71.11548142670247
+            },
+            {
+                "id": 29515027,
+                "name": "Wolbach Hall",
+                "type": "nan",
+                "latitude": 42.382202806874425,
+                "longitude": -71.12425392901002
+            },
+            {
+                "id": 29515182,
+                "name": "Perkins Hall",
+                "type": "nan",
+                "latitude": 42.379332399999996,
+                "longitude": -71.11685235
+            },
+            {
+                "id": 29515188,
+                "name": "Conant Hall",
+                "type": "nan",
+                "latitude": 42.37948669078939,
+                "longitude": -71.11626236920996
+            },
+            {
+                "id": 29515230,
+                "name": "Tozzer Anthropology Building",
+                "type": "nan",
+                "latitude": 42.37858329090162,
+                "longitude": -71.11481844922365
+            },
+            {
+                "id": 29515377,
+                "name": "Longfellow Building",
+                "type": "university",
+                "latitude": 42.375459936024896,
+                "longitude": -71.12197930111296
+            },
+            {
+                "id": 29515392,
+                "name": "Arthur M. Sackler Gallery",
+                "type": "nan",
+                "latitude": 42.375133699912475,
+                "longitude": -71.11410500007351
+            },
+            {
+                "id": 29515394,
+                "name": "Putnam Building",
+                "type": "university",
+                "latitude": 42.37527714341676,
+                "longitude": -71.12252651291871
+            },
+            {
+                "id": 29515509,
+                "name": "Harvard Lampoon Building",
+                "type": "nan",
+                "latitude": 42.371587322492864,
+                "longitude": -71.11722299944348
+            },
+            {
+                "id": 29515519,
+                "name": "The Fly Club",
+                "type": "nan",
+                "latitude": 42.37146682131511,
+                "longitude": -71.11783911916262
+            },
+            {
+                "id": 29515553,
+                "name": "McKinlock Hall",
+                "type": "nan",
+                "latitude": 42.36994275086386,
+                "longitude": -71.11748233443392
+            },
+            {
+                "id": 29529825,
+                "name": "Bingham Hall",
+                "type": "nan",
+                "latitude": 42.381809940384834,
+                "longitude": -71.12607514197698
+            },
+            {
+                "id": 29529862,
+                "name": "Quadrangle Athletic Facility",
+                "type": "nan",
+                "latitude": 42.38142551027302,
+                "longitude": -71.12676600270133
+            },
+            {
+                "id": 29529866,
+                "name": "Briggs Hall",
+                "type": "nan",
+                "latitude": 42.38140221908702,
+                "longitude": -71.1248580318343
+            },
+            {
+                "id": 29529930,
+                "name": "Bertram Hall (Cabot House)",
+                "type": "nan",
+                "latitude": 42.380753549598694,
+                "longitude": -71.12412159771232
+            },
+            {
+                "id": 29529983,
+                "name": "World Religions Center",
+                "type": "nan",
+                "latitude": 42.38017410497714,
+                "longitude": -71.1119666832509
+            },
+            {
+                "id": 29529997,
+                "name": "Engineering Sciences Lab",
+                "type": "nan",
+                "latitude": 42.38000759436305,
+                "longitude": -71.11614612632889
+            },
+            {
+                "id": 29530091,
+                "name": "Child Hall",
+                "type": "nan",
+                "latitude": 42.379015768095336,
+                "longitude": -71.11790305066145
+            },
+            {
+                "id": 29530149,
+                "name": "Langdell Hall",
+                "type": "nan",
+                "latitude": 42.377977496288935,
+                "longitude": -71.11850738865638
+            },
+            {
+                "id": 29530374,
+                "name": "Lowell Lecture Hall",
+                "type": "nan",
+                "latitude": 42.37667185,
+                "longitude": -71.11546265
+            },
+            {
+                "id": 29530404,
+                "name": "Littauer Center",
+                "type": "nan",
+                "latitude": 42.37642548245171,
+                "longitude": -71.1182413683414
+            },
+            {
+                "id": 29530473,
+                "name": "Memorial Hall",
+                "type": "nan",
+                "latitude": 42.375976508096485,
+                "longitude": -71.11508195305653
+            },
+            {
+                "id": 29530596,
+                "name": "Read",
+                "type": "nan",
+                "latitude": 42.37505935,
+                "longitude": -71.12122249999999
+            },
+            {
+                "id": 29530602,
+                "name": "Nichols",
+                "type": "nan",
+                "latitude": 42.37492086751786,
+                "longitude": -71.12120463912244
+            },
+            {
+                "id": 29530618,
+                "name": "University Hall",
+                "type": "nan",
+                "latitude": 42.37444785000001,
+                "longitude": -71.11708295
+            },
+            {
+                "id": 29530656,
+                "name": "Sever Hall",
+                "type": "nan",
+                "latitude": 42.374366052605275,
+                "longitude": -71.11549962102615
+            },
+            {
+                "id": 29530671,
+                "name": "Broadway Market",
+                "type": "nan",
+                "latitude": 42.37380898056394,
+                "longitude": -71.11312732825775
+            },
+            {
+                "id": 29530699,
+                "name": "Boylston Hall",
+                "type": "nan",
+                "latitude": 42.37333357011486,
+                "longitude": -71.11730121750786
+            },
+            {
+                "id": 29530712,
+                "name": "Wigglesworth Hall J–K",
+                "type": "nan",
+                "latitude": 42.373270731654074,
+                "longitude": -71.11785282057772
+            },
+            {
+                "id": 29530754,
+                "name": "Wigglesworth Hall A–D",
+                "type": "nan",
+                "latitude": 42.3728193810395,
+                "longitude": -71.11622220913658
+            },
+            {
+                "id": 29530799,
+                "name": "Art Studios",
+                "type": "nan",
+                "latitude": 42.372320383776774,
+                "longitude": -71.1170322088002
+            },
+            {
+                "id": 29530805,
+                "name": "Apthorp House",
+                "type": "nan",
+                "latitude": 42.37219298018531,
+                "longitude": -71.11701819544321
+            },
+            {
+                "id": 29530807,
+                "name": "Hurlbut Hall",
+                "type": "nan",
+                "latitude": 42.372141637404084,
+                "longitude": -71.11395028207446
+            },
+            {
+                "id": 29530809,
+                "name": "Pennypacker Hall",
+                "type": "nan",
+                "latitude": 42.372080832029056,
+                "longitude": -71.1135611085362
+            },
+            {
+                "id": 29530908,
+                "name": "Gore Hall",
+                "type": "nan",
+                "latitude": 42.370254384772515,
+                "longitude": -71.11870832233585
+            },
+            {
+                "id": 29530910,
+                "name": "Blyth",
+                "type": "nan",
+                "latitude": 42.369911989455055,
+                "longitude": -71.11812362579482
+            },
+            {
+                "id": 29532980,
+                "name": "Broadway Garage",
+                "type": "nan",
+                "latitude": 42.374538023425885,
+                "longitude": -71.11283745327198
+            },
+            {
+                "id": 29579219,
+                "name": "Mellon Hall",
+                "type": "nan",
+                "latitude": 42.36745179164435,
+                "longitude": -71.12149925313705
+            },
+            {
+                "id": 29580900,
+                "name": "Palmer Dixon Indoor Tennis Courts",
+                "type": "nan",
+                "latitude": 42.368984817934866,
+                "longitude": -71.12678252558436
+            },
+            {
+                "id": 29583816,
+                "name": "Leverett G Tower",
+                "type": "nan",
+                "latitude": 42.36929842032268,
+                "longitude": -71.11607308395257
+            },
+            {
+                "id": 29583862,
+                "name": "Soldiers Field Park 2",
+                "type": "nan",
+                "latitude": 42.36542526102332,
+                "longitude": -71.11992978599349
+            },
+            {
+                "id": 29590116,
+                "name": "Gordon Indoor Track",
+                "type": "nan",
+                "latitude": 42.367937301419936,
+                "longitude": -71.1277293398474
+            },
+            {
+                "id": 29629077,
+                "name": "Terry Terrace",
+                "type": "nan",
+                "latitude": 42.380196168757294,
+                "longitude": -71.1186731306449
+            },
+            {
+                "id": 29630167,
+                "name": "New Quincy",
+                "type": "nan",
+                "latitude": 42.37078020100815,
+                "longitude": -71.1166874131762
+            },
+            {
+                "id": 29630925,
+                "name": "Hollis Hall",
+                "type": "nan",
+                "latitude": 42.37504296310679,
+                "longitude": -71.11786612023155
+            },
+            {
+                "id": 29631212,
+                "name": "Taubman Building",
+                "type": "nan",
+                "latitude": 42.371830809905646,
+                "longitude": -71.12209208835253
+            },
+            {
+                "id": 29631241,
+                "name": "Soldiers Field Park 1",
+                "type": "nan",
+                "latitude": 42.3659378668629,
+                "longitude": -71.11996890731515
+            },
+            {
+                "id": 29631713,
+                "name": "Hemenway Gym",
+                "type": "nan",
+                "latitude": 42.37699593348814,
+                "longitude": -71.11955444848108
+            },
+            {
+                "id": 29631733,
+                "name": "Lavietes Basketball Pavillion",
+                "type": "nan",
+                "latitude": 42.368214,
+                "longitude": -71.1253177
+            },
+            {
+                "id": 29632062,
+                "name": "Randolph Hall",
+                "type": "nan",
+                "latitude": 42.371883301645106,
+                "longitude": -71.11711993856986
+            },
+            {
+                "id": 29632690,
+                "name": "Stone Hall (Quincy House)",
+                "type": "nan",
+                "latitude": 42.37052692708874,
+                "longitude": -71.11733460647326
+            },
+            {
+                "id": 29633416,
+                "name": "Glass Hall",
+                "type": "nan",
+                "latitude": 42.36726881572889,
+                "longitude": -71.12097005852232
+            },
+            {
+                "id": 29633562,
+                "name": "Lehman Hall",
+                "type": "nan",
+                "latitude": 42.373587948435265,
+                "longitude": -71.11850250789816
+            },
+            {
+                "id": 29633886,
+                "name": "William James Hall",
+                "type": "nan",
+                "latitude": 42.37714693890484,
+                "longitude": -71.11346918551213
+            },
+            {
+                "id": 29634375,
+                "name": "Kirkland Court",
+                "type": "nan",
+                "latitude": 42.37722444216177,
+                "longitude": -71.11246337112702
+            },
+            {
+                "id": 29634530,
+                "name": "Gannett House",
+                "type": "nan",
+                "latitude": 42.37669707761058,
+                "longitude": -71.1192581406561
+            },
+            {
+                "id": 29634754,
+                "name": "Maxwell-Dworkin Building",
+                "type": "nan",
+                "latitude": 42.37880245874835,
+                "longitude": -71.1173433613526
+            },
+            {
+                "id": 29635775,
+                "name": "Faculty Row",
+                "type": "nan",
+                "latitude": 42.38251673151275,
+                "longitude": -71.12518900464254
+            },
+            {
+                "id": 29635883,
+                "name": "Wilder House",
+                "type": "nan",
+                "latitude": 42.36728139429063,
+                "longitude": -71.12204705423856
+            },
+            {
+                "id": 29636020,
+                "name": "Media Archives And Preservation Center",
+                "type": "nan",
+                "latitude": 42.363854345808264,
+                "longitude": -71.12575648523111
+            },
+            {
+                "id": 29636343,
+                "name": "Byerly Hall",
+                "type": "university",
+                "latitude": 42.37598801386341,
+                "longitude": -71.12187464953594
+            },
+            {
+                "id": 29636942,
+                "name": "Adolphus Busch Hall",
+                "type": "nan",
+                "latitude": 42.37699139094836,
+                "longitude": -71.11430968107747
+            },
+            {
+                "id": 29637344,
+                "name": "Murr Center",
+                "type": "nan",
+                "latitude": 42.36755050881659,
+                "longitude": -71.12585719477846
+            },
+            {
+                "id": 29637441,
+                "name": "Divinity Hall",
+                "type": "university",
+                "latitude": 42.37862581621787,
+                "longitude": -71.11429055306473
+            },
+            {
+                "id": 29638367,
+                "name": "Standish Hall",
+                "type": "nan",
+                "latitude": 42.37031695217295,
+                "longitude": -71.11988899642468
+            },
+            {
+                "id": 29639218,
+                "name": "Smith Campus Center",
+                "type": "nan",
+                "latitude": 42.37264128056332,
+                "longitude": -71.11862745805851
+            },
+            {
+                "id": 29639460,
+                "name": "CGIS South",
+                "type": "university",
+                "latitude": 42.37502134406396,
+                "longitude": -71.11314791511374
+            },
+            {
+                "id": 29680207,
+                "name": "Cotting House",
+                "type": "nan",
+                "latitude": 42.36705854005136,
+                "longitude": -71.12450558044165
+            },
+            {
+                "id": 29680211,
+                "name": "Morgan Hall",
+                "type": "nan",
+                "latitude": 42.36680860753888,
+                "longitude": -71.12392533883154
+            },
+            {
+                "id": 29680215,
+                "name": "McCulloch Hall",
+                "type": "nan",
+                "latitude": 42.3669589062647,
+                "longitude": -71.12112268669645
+            },
+            {
+                "id": 29680216,
+                "name": "Greenhill House",
+                "type": "nan",
+                "latitude": 42.36676280337688,
+                "longitude": -71.12110907469393
+            },
+            {
+                "id": 29680226,
+                "name": "Dean's House",
+                "type": "nan",
+                "latitude": 42.36632305170415,
+                "longitude": -71.12106968269067
+            },
+            {
+                "id": 29680236,
+                "name": "Cumnock Hall",
+                "type": "nan",
+                "latitude": 42.36563618397888,
+                "longitude": -71.12276120641471
+            },
+            {
+                "id": 29680246,
+                "name": "Central Receiving",
+                "type": "nan",
+                "latitude": 42.364816760212385,
+                "longitude": -71.12402486598079
+            },
+            {
+                "id": 29680266,
+                "name": "Blackstone Steam Plant",
+                "type": "nan",
+                "latitude": 42.363929233707736,
+                "longitude": -71.11557482729633
+            },
+            {
+                "id": 29681544,
+                "name": "Mather House",
+                "type": "nan",
+                "latitude": 42.36841500004984,
+                "longitude": -71.11523270780381
+            },
+            {
+                "id": 29681560,
+                "name": "Dunster House",
+                "type": "nan",
+                "latitude": 42.36843951671929,
+                "longitude": -71.11603988524243
+            },
+            {
+                "id": 29684251,
+                "name": "38 Oxford",
+                "type": "nan",
+                "latitude": 42.379906316410995,
+                "longitude": -71.11455793137709
+            },
+            {
+                "id": 29684374,
+                "name": "Farlow Herbarium",
+                "type": "nan",
+                "latitude": 42.37919025712659,
+                "longitude": -71.11422319391427
+            },
+            {
+                "id": 29684391,
+                "name": "Pound Hall",
+                "type": "nan",
+                "latitude": 42.378615499118105,
+                "longitude": -71.11963852084367
+            },
+            {
+                "id": 29684466,
+                "name": "Lippman House",
+                "type": "nan",
+                "latitude": 42.377461105167164,
+                "longitude": -71.11216038237198
+            },
+            {
+                "id": 29684480,
+                "name": "Austin Hall",
+                "type": "nan",
+                "latitude": 42.37707675879132,
+                "longitude": -71.1187878306768
+            },
+            {
+                "id": 29684486,
+                "name": "Paine Building",
+                "type": "nan",
+                "latitude": 42.37686602403179,
+                "longitude": -71.1171574741499
+            },
+            {
+                "id": 29684526,
+                "name": "Fay House",
+                "type": "university",
+                "latitude": 42.376223969228874,
+                "longitude": -71.1223555749552
+            },
+            {
+                "id": 29684548,
+                "name": "Cronkhite Center",
+                "type": "nan",
+                "latitude": 42.375404791785584,
+                "longitude": -71.12431372347352
+            },
+            {
+                "id": 29684550,
+                "name": "CGIS Knafel",
+                "type": "university",
+                "latitude": 42.37563803305794,
+                "longitude": -71.1132492688927
+            },
+            {
+                "id": 29684554,
+                "name": "Phillips Brooks House",
+                "type": "nan",
+                "latitude": 42.37564747743755,
+                "longitude": -71.11792740082491
+            },
+            {
+                "id": 29684572,
+                "name": "Holden Chapel",
+                "type": "nan",
+                "latitude": 42.375264667197,
+                "longitude": -71.1181210150653
+            },
+            {
+                "id": 29684576,
+                "name": "Lionel Hall",
+                "type": "nan",
+                "latitude": 42.37510829134251,
+                "longitude": -71.11835096666667
+            },
+            {
+                "id": 29684617,
+                "name": "Wadsworth House",
+                "type": "nan",
+                "latitude": 42.37340084562363,
+                "longitude": -71.11809710745511
+            },
+            {
+                "id": 29684624,
+                "name": "Faculty Club",
+                "type": "nan",
+                "latitude": 42.373246279012385,
+                "longitude": -71.11428633213934
+            },
+            {
+                "id": 29684632,
+                "name": "Wigglesworth Hall E–I",
+                "type": "nan",
+                "latitude": 42.37307416235702,
+                "longitude": -71.11715771025357
+            },
+            {
+                "id": 29684648,
+                "name": "Barker Center",
+                "type": "nan",
+                "latitude": 42.37262489756479,
+                "longitude": -71.11451597097229
+            },
+            {
+                "id": 29684664,
+                "name": "Senior House",
+                "type": "nan",
+                "latitude": 42.37227478468451,
+                "longitude": -71.11775527890423
+            },
+            {
+                "id": 29684694,
+                "name": "Malkin Athletic Center (MAC)",
+                "type": "nan",
+                "latitude": 42.37135055790692,
+                "longitude": -71.11938323782317
+            },
+            {
+                "id": 29684697,
+                "name": "Kirkland Annex",
+                "type": "nan",
+                "latitude": 42.371327868993504,
+                "longitude": -71.12042131084402
+            },
+            {
+                "id": 29685581,
+                "name": "Vanserg Building",
+                "type": "nan",
+                "latitude": 42.37910618101858,
+                "longitude": -71.11312897152857
+            },
+            {
+                "id": 29708790,
+                "name": "Bright-Landry Hockey Center",
+                "type": "nan",
+                "latitude": 42.36835969542586,
+                "longitude": -71.12728834159742
+            },
+            {
+                "id": 29708814,
+                "name": "Blodgett Pool",
+                "type": "nan",
+                "latitude": 42.36787011631807,
+                "longitude": -71.12483618032823
+            },
+            {
+                "id": 29724981,
+                "name": "Tuchman Hall",
+                "type": "nan",
+                "latitude": 42.382119876872785,
+                "longitude": -71.12592204034993
+            },
+            {
+                "id": 29725168,
+                "name": "OEB Green House",
+                "type": "nan",
+                "latitude": 42.37980976640191,
+                "longitude": -71.11396814310633
+            },
+            {
+                "id": 29725228,
+                "name": "Biological Laboratories",
+                "type": "nan",
+                "latitude": 42.37877417277794,
+                "longitude": -71.11365245718127
+            },
+            {
+                "id": 29725282,
+                "name": "Hauser Hall",
+                "type": "nan",
+                "latitude": 42.37864762172966,
+                "longitude": -71.11813225340907
+            },
+            {
+                "id": 29725422,
+                "name": "Sparks House",
+                "type": "nan",
+                "latitude": 42.37680560988881,
+                "longitude": -71.11502435895733
+            },
+            {
+                "id": 29725567,
+                "name": "Larsen Building",
+                "type": "university",
+                "latitude": 42.37542306587627,
+                "longitude": -71.12129306822159
+            },
+            {
+                "id": 29725571,
+                "name": "Buckingham House",
+                "type": "university",
+                "latitude": 42.37553505635757,
+                "longitude": -71.1228713243782
+            },
+            {
+                "id": 29725600,
+                "name": "Gutman Library",
+                "type": "nan",
+                "latitude": 42.374892960013035,
+                "longitude": -71.12174330109976
+            },
+            {
+                "id": 29725683,
+                "name": "Dana-Palmer House",
+                "type": "nan",
+                "latitude": 42.37299442120264,
+                "longitude": -71.11468138555536
+            },
+            {
+                "id": 29725686,
+                "name": "Warren House",
+                "type": "nan",
+                "latitude": 42.372957309725315,
+                "longitude": -71.11420192241384
+            },
+            {
+                "id": 29725711,
+                "name": "Morton Prince House",
+                "type": "nan",
+                "latitude": 42.372386603368334,
+                "longitude": -71.11382887406123
+            },
+            {
+                "id": 29725718,
+                "name": "Ridgely Hall",
+                "type": "nan",
+                "latitude": 42.37204098092577,
+                "longitude": -71.1180418902942
+            },
+            {
+                "id": 29725741,
+                "name": "Russell Hall",
+                "type": "nan",
+                "latitude": 42.37176345167824,
+                "longitude": -71.1165275097586
+            },
+            {
+                "id": 29725811,
+                "name": "20 DeWolfe Street",
+                "type": "nan",
+                "latitude": 42.37004870737536,
+                "longitude": -71.11645396887171
+            },
+            {
+                "id": 29785730,
+                "name": "Jewett House",
+                "type": "nan",
+                "latitude": 42.380413027105426,
+                "longitude": -71.11228343910089
+            },
+            {
+                "id": 29787925,
+                "name": "Dillon Field House",
+                "type": "nan",
+                "latitude": 42.3685278212161,
+                "longitude": -71.12599865396376
+            },
+            {
+                "id": 29788731,
+                "name": "Thayer Hall",
+                "type": "nan",
+                "latitude": 42.375036964894356,
+                "longitude": -71.11675135119678
+            },
+            {
+                "id": 29789621,
+                "name": "Straus Hall",
+                "type": "nan",
+                "latitude": 42.37413071632049,
+                "longitude": -71.1186026934481
+            },
+            {
+                "id": 29789681,
+                "name": "Farkas Hall",
+                "type": "nan",
+                "latitude": 42.372493263391654,
+                "longitude": -71.11794552252829
+            },
+            {
+                "id": 29790475,
+                "name": "North Hall",
+                "type": "nan",
+                "latitude": 42.381429737052976,
+                "longitude": -71.11924301623074
+            },
+            {
+                "id": 29791098,
+                "name": "Loeb House",
+                "type": "nan",
+                "latitude": 42.37350281113567,
+                "longitude": -71.11530012646296
+            },
+            {
+                "id": 29791196,
+                "name": "Holworthy Hall",
+                "type": "nan",
+                "latitude": 42.37551988245395,
+                "longitude": -71.11721979029606
+            },
+            {
+                "id": 29791289,
+                "name": "Dillon House",
+                "type": "nan",
+                "latitude": 42.366779326108286,
+                "longitude": -71.12194838464846
+            },
+            {
+                "id": 29791460,
+                "name": "Soldiers Field Park 7-13",
+                "type": "nan",
+                "latitude": 42.36573375950798,
+                "longitude": -71.118663707113
+            },
+            {
+                "id": 29791930,
+                "name": "Wyss House",
+                "type": "nan",
+                "latitude": 42.36782195000001,
+                "longitude": -71.12383265
+            },
+            {
+                "id": 29792526,
+                "name": "Blackstone South",
+                "type": "university",
+                "latitude": 42.36362215363578,
+                "longitude": -71.11497474617445
+            },
+            {
+                "id": 29793101,
+                "name": "Gilbert Hall",
+                "type": "nan",
+                "latitude": 42.38143471947902,
+                "longitude": -71.1257534519691
+            },
+            {
+                "id": 29793116,
+                "name": "Jordan South (Pfoho)",
+                "type": "nan",
+                "latitude": 42.3812522343695,
+                "longitude": -71.12286002560577
+            },
+            {
+                "id": 29793400,
+                "name": "Prescott Hall",
+                "type": "nan",
+                "latitude": 42.37402855,
+                "longitude": -71.1134139
+            },
+            {
+                "id": 29793818,
+                "name": "Grays Hall",
+                "type": "nan",
+                "latitude": 42.373649,
+                "longitude": -71.11781045000001
+            },
+            {
+                "id": 29794545,
+                "name": "Harvard Innovation Lab, Batten Hall",
+                "type": "nan",
+                "latitude": 42.36406831108446,
+                "longitude": -71.12411573500472
+            },
+            {
+                "id": 29795195,
+                "name": "Daniels Hall",
+                "type": "nan",
+                "latitude": 42.38138744133128,
+                "longitude": -71.12531881979797
+            },
+            {
+                "id": 29795309,
+                "name": "Stoughton Hall",
+                "type": "nan",
+                "latitude": 42.37539992032995,
+                "longitude": -71.1177402458701
+            },
+            {
+                "id": 29796159,
+                "name": "Harvard University Information Systems",
+                "type": "nan",
+                "latitude": 42.364212114234654,
+                "longitude": -71.13576698088201
+            },
+            {
+                "id": 29797042,
+                "name": "Moors Hall",
+                "type": "nan",
+                "latitude": 42.38207220433345,
+                "longitude": -71.12480377489922
+            },
+            {
+                "id": 29820089,
+                "name": "10 DeWolfe Street",
+                "type": "nan",
+                "latitude": 42.37046576105125,
+                "longitude": -71.11620201935628
+            },
+            {
+                "id": 29820207,
+                "name": "Eliot Hall (Cabot House)",
+                "type": "nan",
+                "latitude": 42.3810487088201,
+                "longitude": -71.12348543921398
+            },
+            {
+                "id": 29820208,
+                "name": "Caspersen Student Center",
+                "type": "nan",
+                "latitude": 42.379072408215315,
+                "longitude": -71.11904424565533
+            },
+            {
+                "id": 29820755,
+                "name": "Harvard Office for the Arts / The Pheonix Club",
+                "type": "nan",
+                "latitude": 42.3717292420831,
+                "longitude": -71.11844832245797
+            },
+            {
+                "id": 29821070,
+                "name": "Emerson Hall",
+                "type": "nan",
+                "latitude": 42.37387103502361,
+                "longitude": -71.11521757766707
+            },
+            {
+                "id": 29821282,
+                "name": "Morris Hall",
+                "type": "nan",
+                "latitude": 42.36748322830579,
+                "longitude": -71.12387097101828
+            },
+            {
+                "id": 29821408,
+                "name": "Spangler Center",
+                "type": "nan",
+                "latitude": 42.36506813124917,
+                "longitude": -71.12221545727574
+            },
+            {
+                "id": 29821531,
+                "name": "Harvard Art Museums",
+                "type": "nan",
+                "latitude": 42.37414671037165,
+                "longitude": -71.11413846411327
+            },
+            {
+                "id": 29822739,
+                "name": "Leverett House",
+                "type": "nan",
+                "latitude": 42.36981301406494,
+                "longitude": -71.11706047691854
+            },
+            {
+                "id": 29822998,
+                "name": "Greenough Hall",
+                "type": "nan",
+                "latitude": 42.372909388161915,
+                "longitude": -71.11383163431447
+            },
+            {
+                "id": 29823788,
+                "name": "Soldiers Field Park 6",
+                "type": "nan",
+                "latitude": 42.36538276657744,
+                "longitude": -71.11904065433951
+            },
+            {
+                "id": 29823855,
+                "name": "Westengard House",
+                "type": "nan",
+                "latitude": 42.37578824240762,
+                "longitude": -71.12101344800136
+            },
+            {
+                "id": 29824107,
+                "name": "Matthews Hall",
+                "type": "nan",
+                "latitude": 42.37406757995246,
+                "longitude": -71.11817283188499
+            },
+            {
+                "id": 29824132,
+                "name": "Peabody Terrace",
+                "type": "nan",
+                "latitude": 42.36618503650004,
+                "longitude": -71.1153470572757
+            },
+            {
+                "id": 29824449,
+                "name": "Weld Hall",
+                "type": "nan",
+                "latitude": 42.37391884676929,
+                "longitude": -71.11711793266674
+            },
+            {
+                "id": 29825463,
+                "name": "Museum of Comparative Zoology Laboratories",
+                "type": "nan",
+                "latitude": 42.379316082231895,
+                "longitude": -71.11522046572061
+            },
+            {
+                "id": 29825567,
+                "name": "175 North Harvard",
+                "type": "nan",
+                "latitude": 42.3641571,
+                "longitude": -71.12933505000001
+            },
+            {
+                "id": 29825875,
+                "name": "Greenleaf House",
+                "type": "nan",
+                "latitude": 42.37528147535737,
+                "longitude": -71.12361705943428
+            },
+            {
+                "id": 29826295,
+                "name": "Chase Hall",
+                "type": "nan",
+                "latitude": 42.36694900801397,
+                "longitude": -71.1219214940791
+            },
+            {
+                "id": 29826613,
+                "name": "Class of 1959 Chapel",
+                "type": "nan",
+                "latitude": 42.3658909361925,
+                "longitude": -71.12378323803867
+            },
+            {
+                "id": 29826842,
+                "name": "Gund Hall",
+                "type": "nan",
+                "latitude": 42.37589045558649,
+                "longitude": -71.11385992133636
+            },
+            {
+                "id": 29828412,
+                "name": "The Owl Club",
+                "type": "nan",
+                "latitude": 42.37152600181338,
+                "longitude": -71.11866779336795
+            },
+            {
+                "id": 29829059,
+                "name": "Currier House",
+                "type": "nan",
+                "latitude": 42.38175217134499,
+                "longitude": -71.12562142335173
+            },
+            {
+                "id": 29829918,
+                "name": "The Spee Club",
+                "type": "nan",
+                "latitude": 42.37186100856844,
+                "longitude": -71.11894519883938
+            },
+            {
+                "id": 29885258,
+                "name": "Shad Hall",
+                "type": "nan",
+                "latitude": 42.366408113540686,
+                "longitude": -71.12474391298971
+            },
+            {
+                "id": 29887931,
+                "name": "Teele Hall",
+                "type": "nan",
+                "latitude": 42.36295157064439,
+                "longitude": -71.13184361257069
+            },
+            {
+                "id": 29891070,
+                "name": "Loeb House",
+                "type": "nan",
+                "latitude": 42.36733361622504,
+                "longitude": -71.12403146233132
+            },
+            {
+                "id": 29891529,
+                "name": "Connell House",
+                "type": "nan",
+                "latitude": 42.36704244081384,
+                "longitude": -71.1232905774264
+            },
+            {
+                "id": 29905667,
+                "name": "Hamilton Hall",
+                "type": "nan",
+                "latitude": 42.36778228643962,
+                "longitude": -71.12323011340742
+            },
+            {
+                "id": 29921382,
+                "name": "Harvard Ed Portal",
+                "type": "nan",
+                "latitude": 42.36261420711932,
+                "longitude": -71.13120861153048
+            },
+            {
+                "id": 29925018,
+                "name": "Esteves Hall",
+                "type": "nan",
+                "latitude": 42.36727931982056,
+                "longitude": -71.12045591131017
+            },
+            {
+                "id": 29930354,
+                "name": "Ludcke House",
+                "type": "nan",
+                "latitude": 42.36745387389307,
+                "longitude": -71.12286898365572
+            },
+            {
+                "id": 29931793,
+                "name": "Rock Center",
+                "type": "nan",
+                "latitude": 42.36592980709332,
+                "longitude": -71.1232899084852
+            },
+            {
+                "id": 29932256,
+                "name": "Hastings Building",
+                "type": "university",
+                "latitude": 42.37752623612732,
+                "longitude": -71.11955849257613
+            },
+            {
+                "id": 29932593,
+                "name": "Robinson Hall",
+                "type": "nan",
+                "latitude": 42.3747136002495,
+                "longitude": -71.11495692122767
+            },
+            {
+                "id": 29932762,
+                "name": "Semitic Museum",
+                "type": "nan",
+                "latitude": 42.37807772494086,
+                "longitude": -71.11395144906066
+            },
+            {
+                "id": 29932966,
+                "name": "University Herbaria",
+                "type": "nan",
+                "latitude": 42.37907592664434,
+                "longitude": -71.11458575573623
+            },
+            {
+                "id": 29934296,
+                "name": "Harvard Hall",
+                "type": "nan",
+                "latitude": 42.37484933550542,
+                "longitude": -71.11819992109555
+            },
+            {
+                "id": 29934603,
+                "name": "Leverett F Tower",
+                "type": "nan",
+                "latitude": 42.36957408168469,
+                "longitude": -71.11638327147327
+            },
+            {
+                "id": 29935534,
+                "name": "Littauer Center",
+                "type": "nan",
+                "latitude": 42.37103674788898,
+                "longitude": -71.1220872196357
+            },
+            {
+                "id": 29935638,
+                "name": "McKay Laboratory",
+                "type": "nan",
+                "latitude": 42.37719712975675,
+                "longitude": -71.11637146827374
+            },
+            {
+                "id": 29937220,
+                "name": "Richards Hall",
+                "type": "nan",
+                "latitude": 42.379238904514565,
+                "longitude": -71.11732700290997
+            },
+            {
+                "id": 29938509,
+                "name": "Massachusetts Hall",
+                "type": "nan",
+                "latitude": 42.37444944999999,
+                "longitude": -71.11829035
+            },
+            {
+                "id": 29939321,
+                "name": "Beren",
+                "type": "nan",
+                "latitude": 42.37018982014626,
+                "longitude": -71.11806775105774
+            },
+            {
+                "id": 29940322,
+                "name": "Jordan North (Pfoho)",
+                "type": "nan",
+                "latitude": 42.38149833425166,
+                "longitude": -71.12306263536398
+            },
+            {
+                "id": 29940870,
+                "name": "Mower Hall",
+                "type": "nan",
+                "latitude": 42.3754829,
+                "longitude": -71.11822905
+            },
+            {
+                "id": 29940994,
+                "name": "Palfrey House",
+                "type": "nan",
+                "latitude": 42.380638394221776,
+                "longitude": -71.11573127036003
+            },
+            {
+                "id": 29941285,
+                "name": "Gallatin Hall",
+                "type": "nan",
+                "latitude": 42.36719106912492,
+                "longitude": -71.1232040516753
+            },
+            {
+                "id": 32965954,
+                "name": "Eliot House",
+                "type": "nan",
+                "latitude": 42.370220274815175,
+                "longitude": -71.12121890060996
+            },
+            {
+                "id": 33529076,
+                "name": "Hawes Hall",
+                "type": "nan",
+                "latitude": 42.3662280873069,
+                "longitude": -71.1215737082785
+            },
+            {
+                "id": 33529082,
+                "name": "Aldrich Hall",
+                "type": "nan",
+                "latitude": 42.365905156126146,
+                "longitude": -71.12209391553327
+            },
+            {
+                "id": 40001273,
+                "name": "Belfer Building",
+                "type": "nan",
+                "latitude": 42.37139813695842,
+                "longitude": -71.1215712745282
+            },
+            {
+                "id": 40001310,
+                "name": "David Rubenstein Building",
+                "type": "nan",
+                "latitude": 42.371236096703804,
+                "longitude": -71.12273206682781
+            },
+            {
+                "id": 40037965,
+                "name": "Radcliffe Gym",
+                "type": "university",
+                "latitude": 42.37624317799954,
+                "longitude": -71.12278114435557
+            },
+            {
+                "id": 40038107,
+                "name": "Agassiz House",
+                "type": "nan",
+                "latitude": 42.376074948254136,
+                "longitude": -71.12317449137704
+            },
+            {
+                "id": 86296466,
+                "name": "McCollum Center",
+                "type": "nan",
+                "latitude": 42.36728816957049,
+                "longitude": -71.12008460675376
+            },
+            {
+                "id": 161130625,
+                "name": "Northwest Building",
+                "type": "nan",
+                "latitude": 42.379896581415736,
+                "longitude": -71.11550981367031
+            },
+            {
+                "id": 167022743,
+                "name": "Wasserstein Hall",
+                "type": "nan",
+                "latitude": 42.37936912889948,
+                "longitude": -71.11947803791027
+            },
+            {
+                "id": 263292508,
+                "name": "One Western Avenue",
+                "type": "nan",
+                "latitude": 42.36465002487306,
+                "longitude": -71.1191037802434
+            },
+            {
+                "id": 297444536,
+                "name": "Tata Hall",
+                "type": "nan",
+                "latitude": 42.366518071434946,
+                "longitude": -71.1190511105526
+            },
+            {
+                "id": 305490725,
+                "name": "Pierce Hall",
+                "type": "nan",
+                "latitude": 42.37824154975875,
+                "longitude": -71.11713593644667
+            },
+            {
+                "id": 305490726,
+                "name": "Jefferson Physical Laboratory",
+                "type": "nan",
+                "latitude": 42.37725327482723,
+                "longitude": -71.11755092411265
+            },
+            {
+                "id": 318900032,
+                "name": "Lyman Laboratory",
+                "type": "nan",
+                "latitude": 42.3775364958778,
+                "longitude": -71.11714811621502
+            },
+            {
+                "id": 318900033,
+                "name": "Cruft Laboratory",
+                "type": "nan",
+                "latitude": 42.377715252403725,
+                "longitude": -71.11694867754953
+            },
+            {
+                "id": 322772621,
+                "name": "Lab for Integrated Science and Engineering (LISE)",
+                "type": "nan",
+                "latitude": 42.377507561983975,
+                "longitude": -71.11664981226157
+            },
+            {
+                "id": 322819316,
+                "name": "Lewis International Law Center",
+                "type": "nan",
+                "latitude": 42.37826237021178,
+                "longitude": -71.11915171030066
+            },
+            {
+                "id": 322819318,
+                "name": "Griswold Hall",
+                "type": "nan",
+                "latitude": 42.37757876596103,
+                "longitude": -71.1189090593298
+            },
+            {
+                "id": 322819319,
+                "name": "Areeda Hall",
+                "type": "nan",
+                "latitude": 42.37788834812375,
+                "longitude": -71.11887901728562
+            },
+            {
+                "id": 323368917,
+                "name": "Dane Hall",
+                "type": "nan",
+                "latitude": 42.37971813807981,
+                "longitude": -71.11736033481105
+            },
+            {
+                "id": 323368921,
+                "name": "Ames Hall",
+                "type": "nan",
+                "latitude": 42.37956751859195,
+                "longitude": -71.11775275196399
+            },
+            {
+                "id": 323368922,
+                "name": "Holmes Hall",
+                "type": "nan",
+                "latitude": 42.379427434107114,
+                "longitude": -71.11813614799922
+            },
+            {
+                "id": 323368925,
+                "name": "Shaw Hall",
+                "type": "nan",
+                "latitude": 42.37976591506742,
+                "longitude": -71.1183725939963
+            },
+            {
+                "id": 323368926,
+                "name": "Story Hall",
+                "type": "nan",
+                "latitude": 42.37960830679088,
+                "longitude": -71.11877281692671
+            },
+            {
+                "id": 323561131,
+                "name": "Clinical Wing",
+                "type": "nan",
+                "latitude": 42.37968883059722,
+                "longitude": -71.11931809672029
+            },
+            {
+                "id": 323749032,
+                "name": "Terry Terrace",
+                "type": "nan",
+                "latitude": 42.38029675089237,
+                "longitude": -71.11844513524835
+            },
+            {
+                "id": 323749033,
+                "name": "Terry Terrace",
+                "type": "nan",
+                "latitude": 42.38017297187145,
+                "longitude": -71.11824300175132
+            },
+            {
+                "id": 323749068,
+                "name": "Berkman Center for Internet & Society",
+                "type": "nan",
+                "latitude": 42.38017408487865,
+                "longitude": -71.11796168134585
+            },
+            {
+                "id": 323920751,
+                "name": "Baker Hall",
+                "type": "nan",
+                "latitude": 42.381003846725825,
+                "longitude": -71.11914064652167
+            },
+            {
+                "id": 378978152,
+                "name": "Mather House Tower",
+                "type": "nan",
+                "latitude": 42.367979853148256,
+                "longitude": -71.11519077162244
+            },
+            {
+                "id": 610233463,
+                "name": "Apley Court",
+                "type": "nan",
+                "latitude": 42.372357828917146,
+                "longitude": -71.11815949792826
+            },
+            {
+                "id": 624059822,
+                "name": "Brattle Street Apartments",
+                "type": "nan",
+                "latitude": 42.37588697155889,
+                "longitude": -71.12373818885678
+            },
+            {
+                "id": 624059823,
+                "name": "Alumnae",
+                "type": "nan",
+                "latitude": 42.37581378123351,
+                "longitude": -71.12353814374275
+            },
+            {
+                "id": 644451323,
+                "name": "Chao Center",
+                "type": "nan",
+                "latitude": 42.36653729725206,
+                "longitude": -71.12006529196509
+            },
+            {
+                "id": 670428522,
+                "name": "Klarman Hall",
+                "type": "nan",
+                "latitude": 42.36502052897717,
+                "longitude": -71.12101137146696
+            },
+            {
+                "id": 687228720,
+                "name": "Pagliuca Harvard Life Lab",
+                "type": "nan",
+                "latitude": 42.3638477819364,
+                "longitude": -71.1251638524143
+            },
+            {
+                "id": 761813506,
+                "name": "John A. Paulson School of Engineering and Applied Sciences",
+                "type": "nan",
+                "latitude": 42.362985481470815,
+                "longitude": -71.12640837994263
+            },
+            {
+                "id": 1010370195,
+                "name": "Eliot-Kirland Link",
+                "type": "nan",
+                "latitude": 42.37051211134268,
+                "longitude": -71.12083097674356
+            },
+            {
+                "id": 1064361906,
+                "name": "Cabot Hall",
+                "type": "nan",
+                "latitude": 42.38179087445791,
+                "longitude": -71.12389728676116
+            },
+            {
+                "id": 1064361907,
+                "name": "Whitman Hall",
+                "type": "nan",
+                "latitude": 42.38146944972858,
+                "longitude": -71.12356941075804
+            },
+            {
+                "id": 1073700622,
+                "name": "Batia and Idan Ofer Building",
+                "type": "nan",
+                "latitude": 42.37164970543777,
+                "longitude": -71.12173050838383
+            },
+            {
+                "id": 1073705327,
+                "name": "Leslie H. Wexner Building",
+                "type": "nan",
+                "latitude": 42.37132592628928,
+                "longitude": -71.12239281153411
+            },
+            {
+                "id": 1168339793,
+                "name": "Claverly Hall",
+                "type": "nan",
+                "latitude": 42.37207091258026,
+                "longitude": -71.11770136731235
+            },
+            {
+                "id": 1188763599,
+                "name": "Canady Hall AB",
+                "type": "nan",
+                "latitude": 42.37527389429709,
+                "longitude": -71.11628138434915
+            },
+            {
+                "id": 1188763600,
+                "name": "Canady Hall CD",
+                "type": "nan",
+                "latitude": 42.3754459150475,
+                "longitude": -71.11598795286972
+            },
+            {
+                "id": 1188763601,
+                "name": "Canady Hall EFG",
+                "type": "nan",
+                "latitude": 42.37514911936451,
+                "longitude": -71.11560244487464
+            },
+            {
+                "id": 1189178506,
+                "name": "Sherman Fairchild Biochemistry Building",
+                "type": "nan",
+                "latitude": 42.377554101572336,
+                "longitude": -71.11454682493573
+            },
+            {
+                "id": 1209115058,
+                "name": "Widener Gate Lodge",
+                "type": "nan",
+                "latitude": 42.372935367776236,
+                "longitude": -71.11676972992889
+            },
+            {
+                "id": 1227045827,
+                "name": "Barnard Hall",
+                "type": "nan",
+                "latitude": 42.38102100946055,
+                "longitude": -71.12454303594438
+            },
+            {
+                "id": 1241978378,
+                "name": "Hoffman Laboratory",
+                "type": "nan",
+                "latitude": 42.377994346805885,
+                "longitude": -71.11592290996849
+            },
+            {
+                "id": 1241978379,
+                "name": "Mallinckrodt Hall",
+                "type": "nan",
+                "latitude": 42.37739062895303,
+                "longitude": -71.1157229980078
+            },
+            {
+                "id": 1241978380,
+                "name": "Conant Chemistry Lab",
+                "type": "nan",
+                "latitude": 42.37709278978277,
+                "longitude": -71.11522560952082
+            },
+            {
+                "id": 1241978381,
+                "name": "Bauer Chemistry Laboratory",
+                "type": "nan",
+                "latitude": 42.377721967443165,
+                "longitude": -71.1151206593902
+            },
+            {
+                "id": 1241978383,
+                "name": "Converse Chemistry Lab",
+                "type": "nan",
+                "latitude": 42.377382637988305,
+                "longitude": -71.1152088650386
+            },
+            {
+                "id": 1241978384,
+                "name": "Mallinckrodt-Hoffman Link",
+                "type": "nan",
+                "latitude": 42.3778428701287,
+                "longitude": -71.1157678325832
+            },
+            {
+                "id": 1250551645,
+                "name": "Holmes Hall",
+                "type": "nan",
+                "latitude": 42.38217643813694,
+                "longitude": -71.12534164998426
+            },
+            {
+                "id": 1250551646,
+                "name": "Comstock Hall",
+                "type": "nan",
+                "latitude": 42.382490411954095,
+                "longitude": -71.12469661405552
+            },
+            {
+                "id": 1258727658,
+                "name": "Swartz Hall",
+                "type": "nan",
+                "latitude": 42.37991243158938,
+                "longitude": -71.11301276041947
+            },
+            {
+                "id": 1258727660,
+                "name": "Shannon Building",
+                "type": "nan",
+                "latitude": 42.37919389307865,
+                "longitude": -71.11284013238614
+            },
+            {
+                "id": 1258727668,
+                "name": "Rockefeller Building",
+                "type": "nan",
+                "latitude": 42.380600769653036,
+                "longitude": -71.11315796015994
+            },
+            {
+                "id": 64564,
+                "name": "Lowell House",
+                "type": "nan",
+                "latitude": 42.3708328399552,
+                "longitude": -71.11832073555159
+            },
+            {
+                "id": 64766,
+                "name": "Harvard Science Center",
+                "type": "nan",
+                "latitude": 42.37640352882944,
+                "longitude": -71.11673192251143
+            },
+            {
+                "id": 65399,
+                "name": "Westmorly Court",
+                "type": "nan",
+                "latitude": 42.37167019382426,
+                "longitude": -71.11610521709073
+            },
+            {
+                "id": 2499266,
+                "name": "Kirkland House",
+                "type": "nan",
+                "latitude": 42.370923798847436,
+                "longitude": -71.12079865343183
+            },
+            {
+                "id": 11184691,
+                "name": "McArthur Hall",
+                "type": "nan",
+                "latitude": 42.36725076531403,
+                "longitude": -71.11976281440438
+            },
+            {
+                "id": 13841462,
+                "name": "387 Western Ave",
+                "type": "nan",
+                "latitude": 42.36460450976136,
+                "longitude": -71.11520048989763
+            }
+        ]
+    }
+}

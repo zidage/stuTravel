@@ -1,0 +1,54 @@
+{
+    "id": -1279827752630537264,
+    "name": "重庆大学",
+    "address": "中国重庆市沙坪坝区沙正街174号 邮政编码: 400044",
+    "rating": 4.4,
+    "popularity": 88,
+    "data_path": "map_data/university_map/Chongqing_University",
+    "description": "重庆大学，简称重大，旧称四川省立重庆大学、国立重庆大学，位于中国重庆市，是教育部直属，是一所以理工学科为侧重点的综合性大学。重庆大学在1929年由中华民国军事将领刘湘创办，校址最初设于渝中区菜园坝，1933年迁至现址沙坪坝区嘉陵江江畔。2000年，原重庆大学、重庆建筑大学、重庆建筑高等专科学校合并组成新的重庆大学。\n重庆大学是中华人民共和国顶尖高校之一，是双一流A类和原985工程、原211工程重点建设大学，同時入选2011计划、111计划、卓越工程师教育培养计划、卓越法律人才教育培养计划、海外高层次人才引进计划、中国政府奖学金来华留学生接收院校、教育部来华留学示范基地、国家建设高水平大学公派研究生项目。\n该校也是中俄工科大学联盟、國際商管學院促進協會、工商管理硕士协会、歐洲質量改善系統、中英大学工程教育与研究联盟、重庆市大学联盟、中国酿酒高校联盟、卓越大学联盟成员。是中国著名的建筑老八校和电气五虎之一。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/1929%E5%B9%B410%E6%9C%8812%E6%97%A5%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/98/1929%E5%B9%B4%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E7%AD%B9%E5%A4%87%E4%BC%9A%E5%AE%A3%E8%A8%80.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/CQUhistory.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gate_of_Chongqing_University_20150812_184653.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/Hu_Shuhua.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0f/Liu_Xiang2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2d/%E4%B8%81%E8%82%87%E4%B8%AD%E5%9C%A8%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/94/%E4%BD%95%E5%A5%8E%E5%9E%A3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/%E5%8A%89%E4%BC%AF%E9%87%8F.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/%E5%8A%89%E6%B9%98.jpg"
+    ],
+    "amenity": {
+        "affiliation": -1279827752630537264,
+        "amenity_list": [
+            {
+                "id": 1633754235,
+                "name": "学生二食堂",
+                "type": "restaurant",
+                "latitude": 29.536844,
+                "longitude": 106.5062977
+            },
+            {
+                "id": 1633754236,
+                "name": "可能感兴趣的地点",
+                "type": "post_office",
+                "latitude": 29.5355561,
+                "longitude": 106.5070141
+            },
+            {
+                "id": 1633754238,
+                "name": "图书科技楼",
+                "type": "library",
+                "latitude": 29.535403,
+                "longitude": 106.5032865
+            },
+            {
+                "id": 1633754248,
+                "name": "学生一食堂",
+                "type": "restaurant",
+                "latitude": 29.53711,
+                "longitude": 106.5038834
+            }
+        ]
+    }
+}

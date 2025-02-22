@@ -1,0 +1,40 @@
+{
+    "id": -4663675993339117673,
+    "name": "南京师范大学",
+    "address": "中国江苏省南京市鼓楼区宁海路122号 邮政编码: 210098",
+    "rating": 4.6,
+    "popularity": 48,
+    "data_path": "map_data/university_map/Nanjing_Normal_University",
+    "description": "南京师范大学，简称南师或南京师大，坐落于中华人民共和国江苏省省会南京市，是一所以师范为特色的綜合性大學，如今是中华人民共和国国家“211工程”重点建设大学，由江苏省人民政府和中华人民共和国教育部共建。\n学校主源可追溯到1902年創建的三江師範學堂，1952年南京高校院系调整时，在原南京大学师范学院和金陵大学有关系科基础上组建南京师范学院，1984年改为现名。现有仙林、隨園兩处校區，此前的紫金校区已成为南师科技园。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/10/Beautiful_Nanjing_Normal_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/35/Building_100%2C_Nanjing_Normal_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f8/Full_View_of_Liangjiang_Normal_School.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/MeiAn.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/93/NNU_gate.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/NanjingNormalUniversity_corner.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ca/NanjingNormalUniversity_monument.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c8/NanjingNormalUniversity_road1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/NanjingNormalUniversity_tree1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/Nanjing_Normal_University.jpg"
+    ],
+    "amenity": {
+        "affiliation": -4663675993339117673,
+        "amenity_list": [
+            {
+                "id": 6461600664,
+                "name": "新北校车站",
+                "type": "bus_station",
+                "latitude": 32.1166031,
+                "longitude": 118.9037458
+            },
+            {
+                "id": 970295417,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 32.116168917388144,
+                "longitude": 118.90401174465536
+            }
+        ]
+    }
+}

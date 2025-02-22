@@ -1,0 +1,25 @@
+{
+    "id": 6978643719350388814,
+    "name": "拙政园",
+    "address": "中国江苏省苏州市姑苏区东北街178号 邮政编码: 215001",
+    "rating": 4.4,
+    "popularity": 52,
+    "data_path": "map_data/university_map/Humble_Administrator's_Garden",
+    "description": "拙政园，是中国江南一座园林，位于苏州市东北街178号，始建于明朝正德年间，初為御史王獻臣改佛寺以建。它是中国园林的杰出代表，亦是江南私家花园典范，1961年被国务院列为首批全国重点文物保护单位，1991年被国家计委、旅游局、建设部列为国家级特殊游览参观点，1997年，与其它数座园林一同被联合国教科文组织（UNESCO）列为世界文化遗产。\n拙政园始建于明正德四年（1509），为明代弘治进士、御史王献臣弃官回乡后，在唐代陆龟蒙宅地和元代大弘寺旧址处拓建而成。取晋代文学家潘岳《闲居赋》中“筑室种树，逍遥自得……灌园鬻蔬，以供朝夕之膳……此亦拙者之为政也”句意，将此园命名为拙政园。据传王献臣在建园之期，曾请吴门画派的代表人物文徵明为其设计蓝图,形成以水为主、疏朗平淡、近乎自然风景的园林。王献臣死后，其子一夜豪赌，将园输给徐氏，其子孙后亦衰落。明崇祯四年（1631）园东部归侍郎王心一，名“归田园居”。园中部和西部，主人更换频繁，乾隆初，中部复园归太守蒋棨所有。咸丰十年（1860）太平军进驻苏州，拙政园为忠王府，相传忠王李秀成以中部见山楼为其治事之所。光绪三年（1877）西部归富商张履谦，名“补园”。中华人民共和国成立后，得到了保护修复，并于1952年正式对外开放。   \n拙政园占地面积78亩（52000平方米），全园分东、中、西三部分。另有住宅部分现为园林博物馆展厅。东部明快开朗，以平冈远山、松林草坪、竹坞曲水为主。中部为拙政园精华所在，池水面积占1/3，以水为主，池广树茂，景色自然，临水布置了形体不一、高低错落的建筑，主次分明。西部水池呈曲尺形，其特点为台馆分峙，回廊起伏，水波倒影，别有情趣，装饰华丽精美，主体建筑为靠近住宅一侧的卅六鸳鸯馆。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/36_Yuanyang_Guan_Zhuozhengyuan_4th_Aug_2006.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Humble_Administrator%27s_Garden_Suzhou_November_2017_008.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/34/Jianshanlou_of_Zhuozhengyuan_16th_Sep_2005.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/6/60/Stone_Arch_Bridge_in_Yuanmingyuan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_Humble_Administrator%27s_Garden%2C_Suzhou%2C_China_%2837825378061%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/Wangshiyuan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Xiangzhou_of_Zhuozhengyuan_Suzhou_4th_Aug_2006.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e9/Yu_Shui_tongzuo_xuan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/Yuanxiangtang_of_Zhuozhengyuan_Suzhou_4th_Aug_2006.jpg"
+    ],
+    "amenity": {
+        "affiliation": 6978643719350388814,
+        "amenity_list": []
+    }
+}

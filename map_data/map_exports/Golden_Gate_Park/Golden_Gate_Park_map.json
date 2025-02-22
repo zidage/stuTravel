@@ -1,0 +1,405 @@
+{
+    "id": 3657958826755737883,
+    "name": "金门公园",
+    "address": "San Francisco, CA, 美国",
+    "rating": 4.8,
+    "popularity": 92,
+    "data_path": "map_data/university_map/Golden_Gate_Park",
+    "description": "金门公园（英語：Golden Gate Park）是美国旧金山的一座大型城市公园，占地面积1017英亩，其形状为长方形，比起同样形状的纽约市中央公园大20%。金门公园每年的游客人数达到1300万，名列美国第三位。\n金门公园内拥有不少著名设施，例如基泽体育场（Kezar Stadium）、温室花房（Conservatory of Flowers）、艾滋病纪念园（AIDS Memorial Grove）、音乐广场区（The Music Concourse Area）、加州科学院（California Academy of Sciences）、日本茶园（Japanese tea garden）、斯翠宾植物园（Strybing Arboretum）、笛洋美术馆。\n自2008年开始，Outside Lands音乐和艺术节每年夏季8月份在这儿举办而知名。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Golden_Gate_Park.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Muse_at_Outside_Lands_Music_and_Arts_Festival_03.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/68/Rainbow_Falls_in_GGP.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/%E8%88%8A%E9%87%91%E5%B1%B1%E9%87%91%E9%96%80%E5%85%AC%E5%9C%92.jpg"
+    ],
+    "amenity": {
+        "affiliation": 3657958826755737883,
+        "amenity_list": [
+            {
+                "id": 281658251,
+                "name": "可能感兴趣的地点",
+                "type": "bicycle_parking",
+                "latitude": 37.7691518,
+                "longitude": -122.4701039
+            },
+            {
+                "id": 368171326,
+                "name": "Park Police Station",
+                "type": "police",
+                "latitude": 37.7677915,
+                "longitude": -122.4552017
+            },
+            {
+                "id": 368173915,
+                "name": "Morrison Planetarium",
+                "type": "planetarium",
+                "latitude": 37.7700378,
+                "longitude": -122.465837
+            },
+            {
+                "id": 417235672,
+                "name": "Beach Chalet",
+                "type": "restaurant",
+                "latitude": 37.7694735,
+                "longitude": -122.5102178
+            },
+            {
+                "id": 417235974,
+                "name": "Park Chalet Garden Restaurant",
+                "type": "restaurant",
+                "latitude": 37.7694736,
+                "longitude": -122.5099836
+            },
+            {
+                "id": 553515744,
+                "name": "Music Concourse Garage Fulton Entrance/Exit",
+                "type": "parking_entrance",
+                "latitude": 37.7726627,
+                "longitude": -122.468133
+            },
+            {
+                "id": 1350875345,
+                "name": "Helen Crocker Russell Horticultural Library",
+                "type": "library",
+                "latitude": 37.766948,
+                "longitude": -122.467438
+            },
+            {
+                "id": 1409407396,
+                "name": "Stanyan & Frederick (Kezar)",
+                "type": "car_sharing",
+                "latitude": 37.767273,
+                "longitude": -122.45333
+            },
+            {
+                "id": 3161882181,
+                "name": "Wells Fargo",
+                "type": "atm",
+                "latitude": 37.7695872,
+                "longitude": -122.466754
+            },
+            {
+                "id": 3529576042,
+                "name": "Academy cafe",
+                "type": "cafe",
+                "latitude": 37.7697007,
+                "longitude": -122.466756
+            },
+            {
+                "id": 3529576043,
+                "name": "Terrace cafe",
+                "type": "cafe",
+                "latitude": 37.7691802,
+                "longitude": -122.4667845
+            },
+            {
+                "id": 4919829393,
+                "name": "De Young Café",
+                "type": "cafe",
+                "latitude": 37.7709717,
+                "longitude": -122.4689181
+            },
+            {
+                "id": 9064773206,
+                "name": "Little Free Library",
+                "type": "public_bookcase",
+                "latitude": 37.7725735,
+                "longitude": -122.4605963
+            },
+            {
+                "id": 9881870555,
+                "name": "Taxi Stand at California Academy of Sciences",
+                "type": "taxi",
+                "latitude": 37.7697064,
+                "longitude": -122.4674984
+            },
+            {
+                "id": 9881870556,
+                "name": "Taxi Stand at De Young Museum",
+                "type": "taxi",
+                "latitude": 37.7708013,
+                "longitude": -122.468564
+            },
+            {
+                "id": 30675038,
+                "name": "Conservatory of Flowers",
+                "type": "arts_centre",
+                "latitude": 37.77262765038874,
+                "longitude": -122.4602296110026
+            },
+            {
+                "id": 30896932,
+                "name": "Spreckels Temple of Music",
+                "type": "theatre",
+                "latitude": 37.769860887855,
+                "longitude": -122.46858709945818
+            },
+            {
+                "id": 30897259,
+                "name": "Music Concourse Bandshell Accessible Parking Lot",
+                "type": "parking",
+                "latitude": 37.769404021056665,
+                "longitude": -122.4690775407003
+            },
+            {
+                "id": 34220947,
+                "name": "Tea House",
+                "type": "cafe",
+                "latitude": 37.7703911,
+                "longitude": -122.46982144999998
+            },
+            {
+                "id": 112433952,
+                "name": "Sharon Art Studio",
+                "type": "arts_centre",
+                "latitude": 37.768297550756,
+                "longitude": -122.4582307542632
+            },
+            {
+                "id": 120479803,
+                "name": "Blue Heron Lake Boathouse & Bike Rental",
+                "type": "boat_rental",
+                "latitude": 37.77060882284029,
+                "longitude": -122.47711909247678
+            },
+            {
+                "id": 120483948,
+                "name": "Model Yacht Clubhouse",
+                "type": "toilets",
+                "latitude": 37.77020101494691,
+                "longitude": -122.4956293697256
+            },
+            {
+                "id": 120483957,
+                "name": "Golden Gate Park Senior Center",
+                "type": "community_centre",
+                "latitude": 37.771543592706635,
+                "longitude": -122.4970503768976
+            },
+            {
+                "id": 287951728,
+                "name": "Annie’s Hot Dogs & Snacks",
+                "type": "cafe",
+                "latitude": 37.768063061434766,
+                "longitude": -122.45825990831169
+            },
+            {
+                "id": 417414574,
+                "name": "Equestrian Center & Stables",
+                "type": "stable",
+                "latitude": 37.76905720402658,
+                "longitude": -122.49435839748212
+            },
+            {
+                "id": 910221165,
+                "name": "Flywheel Coffee Kiosk",
+                "type": "cafe",
+                "latitude": 37.76988675689934,
+                "longitude": -122.45427508279752
+            },
+            {
+                "id": 16603686,
+                "name": "Golden Gate Park Police Station",
+                "type": "police",
+                "latitude": 37.767744857683546,
+                "longitude": -122.45532865288124
+            },
+            {
+                "id": 25822470,
+                "name": "County Fair Building",
+                "type": "nan",
+                "latitude": 37.766573287138556,
+                "longitude": -122.46719715113025
+            },
+            {
+                "id": 28695389,
+                "name": "California Academy of Sciences",
+                "type": "nan",
+                "latitude": 37.76982499049147,
+                "longitude": -122.4660863872549
+            },
+            {
+                "id": 34220963,
+                "name": "Gift Shop",
+                "type": "nan",
+                "latitude": 37.770528733342395,
+                "longitude": -122.4697997958843
+            },
+            {
+                "id": 34221099,
+                "name": "Japanese Pagoda",
+                "type": "nan",
+                "latitude": 37.77011075,
+                "longitude": -122.47039995000002
+            },
+            {
+                "id": 66644315,
+                "name": "San Francisco Lawn Bowling Club",
+                "type": "nan",
+                "latitude": 37.76860667563586,
+                "longitude": -122.45898404952516
+            },
+            {
+                "id": 112433953,
+                "name": "Carousel",
+                "type": "nan",
+                "latitude": 37.7679098532461,
+                "longitude": -122.45803673301322
+            },
+            {
+                "id": 120479798,
+                "name": "Pioneer Log Cabin",
+                "type": "nan",
+                "latitude": 37.77080946046506,
+                "longitude": -122.47516045323196
+            },
+            {
+                "id": 120479810,
+                "name": "Chinese Pavillion",
+                "type": "nan",
+                "latitude": 37.76838828631551,
+                "longitude": -122.47363079962328
+            },
+            {
+                "id": 120481448,
+                "name": "Golden Gate Park Aid Station",
+                "type": "nan",
+                "latitude": 37.76698434863981,
+                "longitude": -122.45332378098954
+            },
+            {
+                "id": 120481450,
+                "name": "Kezar Pavilion",
+                "type": "nan",
+                "latitude": 37.76748071959401,
+                "longitude": -122.45398891116007
+            },
+            {
+                "id": 136888944,
+                "name": "Temple Gate",
+                "type": "nan",
+                "latitude": 37.76996668199189,
+                "longitude": -122.47030155325524
+            },
+            {
+                "id": 136888948,
+                "name": "South Gate",
+                "type": "nan",
+                "latitude": 37.7697222519759,
+                "longitude": -122.46979495147512
+            },
+            {
+                "id": 159924616,
+                "name": "McLaren Lodge",
+                "type": "nan",
+                "latitude": 37.77186213322545,
+                "longitude": -122.4547474153944
+            },
+            {
+                "id": 287921407,
+                "name": "Dutch Windmill",
+                "type": "nan",
+                "latitude": 37.770440891891674,
+                "longitude": -122.50940579834352
+            },
+            {
+                "id": 287927001,
+                "name": "Anglers Lodge",
+                "type": "nan",
+                "latitude": 37.76800297232786,
+                "longitude": -122.49658465789233
+            },
+            {
+                "id": 287927007,
+                "name": "Millwright Cottage",
+                "type": "nan",
+                "latitude": 37.7651739,
+                "longitude": -122.50845145000001
+            },
+            {
+                "id": 287927026,
+                "name": "Murphy Windmill",
+                "type": "nan",
+                "latitude": 37.765001913927286,
+                "longitude": -122.50869678297178
+            },
+            {
+                "id": 476267877,
+                "name": "Linda",
+                "type": "nan",
+                "latitude": 37.768566909701505,
+                "longitude": -122.49441641728494
+            },
+            {
+                "id": 494967298,
+                "name": "San Francisco Botanical Garden",
+                "type": "nan",
+                "latitude": 37.769013232742765,
+                "longitude": -122.47038600291513
+            },
+            {
+                "id": 697504030,
+                "name": "Powell St.R.R Co. Park Entrance",
+                "type": "nan",
+                "latitude": 37.77334824537526,
+                "longitude": -122.46481727444589
+            },
+            {
+                "id": 839987588,
+                "name": "San Francisco Botanical Garden",
+                "type": "nan",
+                "latitude": 37.7672341,
+                "longitude": -122.46742730000003
+            },
+            {
+                "id": 899658569,
+                "name": "Kezar Lot",
+                "type": "nan",
+                "latitude": 37.767261196458556,
+                "longitude": -122.45339062205012
+            },
+            {
+                "id": 906618461,
+                "name": "Projection kiosk",
+                "type": "nan",
+                "latitude": 37.7723648,
+                "longitude": -122.46031150000002
+            },
+            {
+                "id": 906618462,
+                "name": "Projection kiosk",
+                "type": "nan",
+                "latitude": 37.772384100000004,
+                "longitude": -122.4600825
+            },
+            {
+                "id": 959594549,
+                "name": "Taube Family Clubhouse",
+                "type": "nan",
+                "latitude": 37.77006099624444,
+                "longitude": -122.45954753271936
+            },
+            {
+                "id": 1193781040,
+                "name": "Portals of the Past",
+                "type": "nan",
+                "latitude": 37.77077625,
+                "longitude": -122.4825031
+            },
+            {
+                "id": 1259153754,
+                "name": "Golden Gate Park Golf Course Clubhouse",
+                "type": "nan",
+                "latitude": 37.769063885011015,
+                "longitude": -122.5065803604095
+            },
+            {
+                "id": 1652482,
+                "name": "De Young Museum",
+                "type": "nan",
+                "latitude": 37.77148067072069,
+                "longitude": -122.46871396160694
+            }
+        ]
+    }
+}

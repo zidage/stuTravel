@@ -1,0 +1,385 @@
+{
+    "id": -1385184489260716545,
+    "name": "中央公园",
+    "address": "美国 New York",
+    "rating": 4.8,
+    "popularity": 96,
+    "data_path": "map_data/university_map/Central_Park_New_York",
+    "description": "中央公園（英語：Central Park）是位于紐約市曼哈顿上西城和上东城之间的一座大型城市公园，也是美国第一座城市公园。其占地843英亩（341公顷），是纽约市第六大的公园。截至2016年，中央公园每年接待4200万游客，是美国造访人数最多的城市公园。\n1840年，纽约市市民开始提议在曼哈顿新建一座大型公园1853年7月，纽约州立法机构通过了《中央公园法》，授权将一片占地778英亩（315公顷）的土地用作公园。1858年，景观设计师弗雷德里克·劳·奥姆斯特德以“草坪計劃”（Greensward Plan）在中央公园的设计竞赛中获胜。同年，公园开工建设。1858年底，公园西南部的湖泊作为首个完工区域向公众开放。1859年，中央公园继续向北扩建，直到1876年公园才最后完工。20世纪初，由于维护经费不足和大萧条的影响，公园的环境和设施条件不断恶化。1930年代，纽约市公园专员罗伯特·摩西对中央公园进行了一系列修复和改造。20世纪后期，管理的疏忽导致公园环境质量再度下降，部分建筑遭到破坏。 1980年，非营利组织中央公園保护协会成立并开始着手对公园进行修整和翻新。中央公园归纽约市公园和娱乐部所有，但1998年中央公园保护协会与市政府签定合同，由协会负责公园的管理和运营。\n中央公园内有多处湖泊，并建有各种生态景观和娱乐设施，动植物资源丰富。中央公园是多部电影的取景地，其文化地位和影响力亦使其成为世界城市公园的典范。1963年，其被美国内政部评為国家历史名胜，并于1974年被评为纽约市地标。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/Central_Park_New_York_City_New_York_23_cropped.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f9/Centralpark_fg01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f1/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ac/Pilgrim_Father_Central_Park_NYC.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/USA-NYC-Central_Park-The_Mall2.JPG"
+    ],
+    "amenity": {
+        "affiliation": -1385184489260716545,
+        "amenity_list": [
+            {
+                "id": 291921307,
+                "name": "可能感兴趣的地点",
+                "type": "drinking_water",
+                "latitude": 40.799433,
+                "longitude": -73.9582083
+            },
+            {
+                "id": 432760466,
+                "name": "Three Dancing Maidens – Untermyer Fountain",
+                "type": "fountain",
+                "latitude": 40.7942639,
+                "longitude": -73.9519498
+            },
+            {
+                "id": 600524075,
+                "name": "Burnett Memorial Fountain",
+                "type": "fountain",
+                "latitude": 40.7931737,
+                "longitude": -73.9527534
+            },
+            {
+                "id": 600524148,
+                "name": "Center Fountain",
+                "type": "fountain",
+                "latitude": 40.793916,
+                "longitude": -73.9528148
+            },
+            {
+                "id": 1240900780,
+                "name": "Zoo School",
+                "type": "school",
+                "latitude": 40.768013,
+                "longitude": -73.9709581
+            },
+            {
+                "id": 1240901204,
+                "name": "Dancing Crane Cafe",
+                "type": "cafe",
+                "latitude": 40.7671831,
+                "longitude": -73.9720578
+            },
+            {
+                "id": 2431691045,
+                "name": "Friedel Memorial Drinking Fountain",
+                "type": "drinking_water",
+                "latitude": 40.7843481,
+                "longitude": -73.9587091
+            },
+            {
+                "id": 2834844701,
+                "name": "Le Pain Quotidien",
+                "type": "cafe",
+                "latitude": 40.7729961,
+                "longitude": -73.9742495
+            },
+            {
+                "id": 3278932286,
+                "name": "Delacorte Musical Clock",
+                "type": "clock",
+                "latitude": 40.7681147,
+                "longitude": -73.9711748
+            },
+            {
+                "id": 3302657576,
+                "name": "Citi Bike - Central Park South & 6th Avenue",
+                "type": "bicycle_rental",
+                "latitude": 40.7659608,
+                "longitude": -73.9764509
+            },
+            {
+                "id": 3669154898,
+                "name": "Tavern on the Green public restrooms",
+                "type": "toilets",
+                "latitude": 40.7722751,
+                "longitude": -73.9772628
+            },
+            {
+                "id": 4111221273,
+                "name": "NYC Parks Enforcement Patrol",
+                "type": "ranger_station",
+                "latitude": 40.790976,
+                "longitude": -73.9592707
+            },
+            {
+                "id": 5150908021,
+                "name": "The Cantor Roof Garden Bar",
+                "type": "bar",
+                "latitude": 40.7787822,
+                "longitude": -73.9645659
+            },
+            {
+                "id": 5618064691,
+                "name": "American Wing Café",
+                "type": "cafe",
+                "latitude": 40.7802595,
+                "longitude": -73.9635992
+            },
+            {
+                "id": 5618087850,
+                "name": "Petrie Court Café",
+                "type": "cafe",
+                "latitude": 40.7791519,
+                "longitude": -73.9644503
+            },
+            {
+                "id": 5618087852,
+                "name": "Met Dining Room",
+                "type": "restaurant",
+                "latitude": 40.7788973,
+                "longitude": -73.9644595
+            },
+            {
+                "id": 5618087854,
+                "name": "Great Hall Balcony Café & Bar",
+                "type": "bar",
+                "latitude": 40.7791444,
+                "longitude": -73.9627323
+            },
+            {
+                "id": 5618087856,
+                "name": "The Eatery",
+                "type": "fast_food",
+                "latitude": 40.7796005,
+                "longitude": -73.9638164
+            },
+            {
+                "id": 5618091321,
+                "name": "Metropolitan Museum",
+                "type": "parking",
+                "latitude": 40.7779109,
+                "longitude": -73.9637038
+            },
+            {
+                "id": 39243913,
+                "name": "The Blockhouse",
+                "type": "tourism",
+                "latitude": 40.7986699,
+                "longitude": -73.9562876
+            },
+            {
+                "id": 265347589,
+                "name": "Ballfields Café",
+                "type": "cafe",
+                "latitude": 40.77031375000001,
+                "longitude": -73.97590430000001
+            },
+            {
+                "id": 278363024,
+                "name": "Delacorte Theater",
+                "type": "theatre",
+                "latitude": 40.780272211057415,
+                "longitude": -73.96881344635352
+            },
+            {
+                "id": 278363029,
+                "name": "NYPD Central Park Precinct",
+                "type": "police",
+                "latitude": 40.78313704752438,
+                "longitude": -73.96415179190569
+            },
+            {
+                "id": 278363049,
+                "name": "Swedish Cottage Marionette Theatre",
+                "type": "theatre",
+                "latitude": 40.7799531087706,
+                "longitude": -73.97034879162236
+            },
+            {
+                "id": 385442739,
+                "name": "Cop Cot",
+                "type": "shelter",
+                "latitude": 40.766919036342,
+                "longitude": -73.97646833914989
+            },
+            {
+                "id": 385852029,
+                "name": "Rumsey Playfield",
+                "type": "theatre",
+                "latitude": 40.77257558078969,
+                "longitude": -73.97022174253586
+            },
+            {
+                "id": 431219189,
+                "name": "Loeb Boathouse Parking Lot",
+                "type": "parking",
+                "latitude": 40.77567729967503,
+                "longitude": -73.96803459091608
+            },
+            {
+                "id": 958635828,
+                "name": "Bethesda Fountain",
+                "type": "fountain",
+                "latitude": 40.77431556362795,
+                "longitude": -73.97083350948301
+            },
+            {
+                "id": 959001284,
+                "name": "Sophie Loeb Fountain",
+                "type": "fountain",
+                "latitude": 40.77577186603563,
+                "longitude": -73.96511069637286
+            },
+            {
+                "id": 959007357,
+                "name": "Cherry Hill Fountain",
+                "type": "fountain",
+                "latitude": 40.774696011439914,
+                "longitude": -73.97270821607269
+            },
+            {
+                "id": 3698871,
+                "name": "Loeb Boathouse",
+                "type": "restaurant",
+                "latitude": 40.77535111637355,
+                "longitude": -73.96877542427097
+            },
+            {
+                "id": 7459068,
+                "name": "Tavern on the Green",
+                "type": "restaurant",
+                "latitude": 40.77218796261583,
+                "longitude": -73.97756673298254
+            },
+            {
+                "id": 221918229,
+                "name": "Ladies' Pavilion",
+                "type": "nan",
+                "latitude": 40.77766685,
+                "longitude": -73.97294624999999
+            },
+            {
+                "id": 265347581,
+                "name": "Naumburg Bandshell",
+                "type": "nan",
+                "latitude": 40.77268497214523,
+                "longitude": -73.97102896431265
+            },
+            {
+                "id": 265347582,
+                "name": "The Arsenal",
+                "type": "nan",
+                "latitude": 40.76718868979779,
+                "longitude": -73.97150398325748
+            },
+            {
+                "id": 265347583,
+                "name": "The Arsenal",
+                "type": "nan",
+                "latitude": 40.76763204184921,
+                "longitude": -73.97130484166007
+            },
+            {
+                "id": 265347584,
+                "name": "Zoo Tickets",
+                "type": "nan",
+                "latitude": 40.76701509999999,
+                "longitude": -73.97176195
+            },
+            {
+                "id": 265347585,
+                "name": "Mineral Springs",
+                "type": "nan",
+                "latitude": 40.77304508835706,
+                "longitude": -73.97438603492502
+            },
+            {
+                "id": 265347587,
+                "name": "Summerhouse at the Dene",
+                "type": "nan",
+                "latitude": 40.769939705982665,
+                "longitude": -73.96981329096845
+            },
+            {
+                "id": 265347588,
+                "name": "The Dairy (Visitor Center and Gift Shop)",
+                "type": "nan",
+                "latitude": 40.769106630333376,
+                "longitude": -73.97370249614978
+            },
+            {
+                "id": 265347597,
+                "name": "Chess and Checkers House",
+                "type": "nan",
+                "latitude": 40.76911695635329,
+                "longitude": -73.9746309104993
+            },
+            {
+                "id": 278361404,
+                "name": "Kerbs Boathouse",
+                "type": "nan",
+                "latitude": 40.77397088865299,
+                "longitude": -73.96654132852092
+            },
+            {
+                "id": 278363023,
+                "name": "Belvedere Castle",
+                "type": "nan",
+                "latitude": 40.779324751718164,
+                "longitude": -73.96888683141219
+            },
+            {
+                "id": 278363031,
+                "name": "Tennis House",
+                "type": "nan",
+                "latitude": 40.78944041908744,
+                "longitude": -73.96189721688886
+            },
+            {
+                "id": 278363065,
+                "name": "79th Street Maintenance Yard",
+                "type": "nan",
+                "latitude": 40.780479665688915,
+                "longitude": -73.97123777495352
+            },
+            {
+                "id": 278366155,
+                "name": "Dana Discovery Center",
+                "type": "nan",
+                "latitude": 40.79707305790727,
+                "longitude": -73.95145955099225
+            },
+            {
+                "id": 585788256,
+                "name": "Central Park Carousel",
+                "type": "nan",
+                "latitude": 40.76994265,
+                "longitude": -73.97524755000002
+            },
+            {
+                "id": 812681364,
+                "name": "59th Street–Columbus Circle",
+                "type": "nan",
+                "latitude": 40.76802106336382,
+                "longitude": -73.98202373744448
+            },
+            {
+                "id": 1118105805,
+                "name": "Hernshead Boat Landing",
+                "type": "nan",
+                "latitude": 40.777532037328704,
+                "longitude": -73.97355661362288
+            },
+            {
+                "id": 1215797803,
+                "name": "Western Shore Boat Landing",
+                "type": "nan",
+                "latitude": 40.77593709999999,
+                "longitude": -73.97361395
+            },
+            {
+                "id": 1215797810,
+                "name": "Wagner Cove Boat Landing",
+                "type": "nan",
+                "latitude": 40.774799,
+                "longitude": -73.97333815
+            },
+            {
+                "id": 3698894,
+                "name": "The Metropolitan Museum of Art",
+                "type": "nan",
+                "latitude": 40.7794360837255,
+                "longitude": -73.96343369600953
+            }
+        ]
+    }
+}

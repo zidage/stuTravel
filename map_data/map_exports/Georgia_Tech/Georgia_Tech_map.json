@@ -1,0 +1,1921 @@
+{
+    "id": 1175380837002851243,
+    "name": "佐治亚理工学院",
+    "address": "Atlanta, GA 30332美国",
+    "rating": 4.6,
+    "popularity": 96,
+    "data_path": "map_data/university_map/Georgia_Tech",
+    "description": "佐治亚理工学院（英語：Georgia Institute of Technology，简称Georgia Tech或Tech，常缩写为Gatech），是美国一所公立研究型大学，始建于1885年，是美国大学协会、大學研究協會的成员之一。佐治亚理工学院多项理工专业位列全美前5，计算机科学(Computer Science/CS)与电子工程系(Electrical Engineering/EE)的排名都位列全美前5。学校总部位于美国佐治亚州首府亚特兰大市，与艾文理大学同处于一个城市。除了亚特兰大主校区，也在佐治亚州薩凡納、法国梅斯开设分校，在爱尔兰共和国的阿斯隆市、新加坡国立大学设有联合研究所。\n佐治亚理工以工程學、計算機、材料科學、建築學、管理學聞名於世，與東北部的麻省理工、西部的加州理工並稱美国三大理工学院。其下属的GTRI航空系统设计实验室承担了美国政府的一些机密的重大科研项目。校本部拥有143幢建筑物，校園曾是1996年夏季奧林匹克運動會的奧運村，擁有奧運級体育场馆、酒店、医院、科技廣場等其他設施。\n佐治亚理工曾与上海交通大学合作开设双学位项目，現於中國深圳開辦天津大学佐治亚理工深圳学院（GTSI）。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/GEN_HENDRIX.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/0/01/Georgia_Tech_from_condo_building_at_Peachtree_St_and_North_Ave.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/JimmyCarterPortrait_%28cropped%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Juan_Carlos_Varela_%282014%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kary_Mullis.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/06/Leading_Through_Adversity_Mike_Duke.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/04/Wayne_Clough.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/William_L_Ball.jpg"
+    ],
+    "amenity": {
+        "affiliation": 1175380837002851243,
+        "amenity_list": [
+            {
+                "id": 535031255,
+                "name": "Ray's NY Pizza, Cedar's Mediterranean",
+                "type": "restaurant",
+                "latitude": 33.7766541,
+                "longitude": -84.3881023
+            },
+            {
+                "id": 535031257,
+                "name": "There on Fifth",
+                "type": "pub",
+                "latitude": 33.7766541,
+                "longitude": -84.3879032
+            },
+            {
+                "id": 535031259,
+                "name": "PNC Bank",
+                "type": "atm",
+                "latitude": 33.777006,
+                "longitude": -84.3888779
+            },
+            {
+                "id": 535031278,
+                "name": "Gyro Bros",
+                "type": "restaurant",
+                "latitude": 33.7770131,
+                "longitude": -84.3900992
+            },
+            {
+                "id": 535057009,
+                "name": "Moe's Southwest Grill",
+                "type": "fast_food",
+                "latitude": 33.7770189,
+                "longitude": -84.3898846
+            },
+            {
+                "id": 535091413,
+                "name": "可能感兴趣的地点",
+                "type": "parking_entrance",
+                "latitude": 33.7759033,
+                "longitude": -84.3891693
+            },
+            {
+                "id": 780970479,
+                "name": "Waffle House",
+                "type": "restaurant",
+                "latitude": 33.7766833,
+                "longitude": -84.3894358
+            },
+            {
+                "id": 2466967162,
+                "name": "Subway",
+                "type": "fast_food",
+                "latitude": 33.7771046,
+                "longitude": -84.3898251
+            },
+            {
+                "id": 2466973843,
+                "name": "Tin Drum",
+                "type": "restaurant",
+                "latitude": 33.7766984,
+                "longitude": -84.3900493
+            },
+            {
+                "id": 2750107083,
+                "name": "Amazon@GeorgiaTech",
+                "type": "post_office",
+                "latitude": 33.776678,
+                "longitude": -84.3898732
+            },
+            {
+                "id": 4702370101,
+                "name": "Starbucks",
+                "type": "cafe",
+                "latitude": 33.7766369,
+                "longitude": -84.3883489
+            },
+            {
+                "id": 5108328828,
+                "name": "DramaTech",
+                "type": "theatre",
+                "latitude": 33.7752999,
+                "longitude": -84.3991059
+            },
+            {
+                "id": 6228019385,
+                "name": "Gold & Bold Coffee Roasters",
+                "type": "cafe",
+                "latitude": 33.7807227,
+                "longitude": -84.3979786
+            },
+            {
+                "id": 6250268928,
+                "name": "Blue Donkey Coffee",
+                "type": "cafe",
+                "latitude": 33.7742994,
+                "longitude": -84.3953046
+            },
+            {
+                "id": 6250269260,
+                "name": "SunTrust",
+                "type": "atm",
+                "latitude": 33.7741199,
+                "longitude": -84.3987752
+            },
+            {
+                "id": 6250269261,
+                "name": "Bank of America",
+                "type": "atm",
+                "latitude": 33.7741203,
+                "longitude": -84.399956
+            },
+            {
+                "id": 8483616864,
+                "name": "Georgia Tech COVID-19 Testing Center",
+                "type": "hospital",
+                "latitude": 33.7742649,
+                "longitude": -84.3955563
+            },
+            {
+                "id": 8533230593,
+                "name": "Whistle Bistro",
+                "type": "cafe",
+                "latitude": 33.7726422,
+                "longitude": -84.3944799
+            },
+            {
+                "id": 9848845383,
+                "name": "Kaldi's Coffee",
+                "type": "cafe",
+                "latitude": 33.7742268,
+                "longitude": -84.3965195
+            },
+            {
+                "id": 42706609,
+                "name": "Pi Kappa Phi",
+                "type": "social_centre",
+                "latitude": 33.776681728885336,
+                "longitude": -84.39429634690947
+            },
+            {
+                "id": 42706610,
+                "name": "Phi Kappa Theta",
+                "type": "social_centre",
+                "latitude": 33.77668402828985,
+                "longitude": -84.39392562405486
+            },
+            {
+                "id": 42706611,
+                "name": "Alpha Tau Omega",
+                "type": "social_centre",
+                "latitude": 33.77626296652903,
+                "longitude": -84.39411752192169
+            },
+            {
+                "id": 42706636,
+                "name": "Beta Theta Pi",
+                "type": "social_centre",
+                "latitude": 33.77551120199759,
+                "longitude": -84.3944753591047
+            },
+            {
+                "id": 42706659,
+                "name": "Peters Parking Deck",
+                "type": "parking",
+                "latitude": 33.77500920888889,
+                "longitude": -84.39352094752982
+            },
+            {
+                "id": 42706662,
+                "name": "Sigma Nu",
+                "type": "social_centre",
+                "latitude": 33.77508220201811,
+                "longitude": -84.39434018346591
+            },
+            {
+                "id": 42706669,
+                "name": "Chi Phi",
+                "type": "social_centre",
+                "latitude": 33.77435079360675,
+                "longitude": -84.39413459410483
+            },
+            {
+                "id": 42706715,
+                "name": "Burge Parking Deck",
+                "type": "parking",
+                "latitude": 33.77097384011783,
+                "longitude": -84.39394020072949
+            },
+            {
+                "id": 42706778,
+                "name": "Christian Campus Fellowship",
+                "type": "place_of_worship",
+                "latitude": 33.77560600196178,
+                "longitude": -84.39161473803807
+            },
+            {
+                "id": 42706780,
+                "name": "Theta Xi",
+                "type": "social_centre",
+                "latitude": 33.775875299329996,
+                "longitude": -84.39163741264123
+            },
+            {
+                "id": 42706781,
+                "name": "Phi Kappa Sigma",
+                "type": "social_centre",
+                "latitude": 33.77612719517086,
+                "longitude": -84.39169616814607
+            },
+            {
+                "id": 42706784,
+                "name": "Sigma Chi",
+                "type": "social_centre",
+                "latitude": 33.775686196047985,
+                "longitude": -84.39228379137715
+            },
+            {
+                "id": 42706786,
+                "name": "Phi Kappa Tau",
+                "type": "social_centre",
+                "latitude": 33.7760763323645,
+                "longitude": -84.39300396795275
+            },
+            {
+                "id": 42706791,
+                "name": "Methodist Center (Wesley Foundation)",
+                "type": "place_of_worship",
+                "latitude": 33.77610792773931,
+                "longitude": -84.39333974663003
+            },
+            {
+                "id": 42706799,
+                "name": "Alpha Epsilon Pi",
+                "type": "social_centre",
+                "latitude": 33.774143818818196,
+                "longitude": -84.39227791303239
+            },
+            {
+                "id": 42706800,
+                "name": "Presbyterian Center",
+                "type": "place_of_worship",
+                "latitude": 33.77445300432032,
+                "longitude": -84.39230470785226
+            },
+            {
+                "id": 42706808,
+                "name": "Alpha Delta Pi",
+                "type": "social_centre",
+                "latitude": 33.774506262272055,
+                "longitude": -84.3928153411337
+            },
+            {
+                "id": 42706813,
+                "name": "Catholic Center",
+                "type": "place_of_worship",
+                "latitude": 33.775481659425765,
+                "longitude": -84.3929867186283
+            },
+            {
+                "id": 42706814,
+                "name": "Alpha Delta Chi",
+                "type": "social_centre",
+                "latitude": 33.77536093334502,
+                "longitude": -84.39271882232217
+            },
+            {
+                "id": 42706815,
+                "name": "Chi Psi",
+                "type": "social_centre",
+                "latitude": 33.775150429283215,
+                "longitude": -84.39251828426659
+            },
+            {
+                "id": 42706816,
+                "name": "Alpha Chi Omega",
+                "type": "social_centre",
+                "latitude": 33.774880721015,
+                "longitude": -84.39284947678034
+            },
+            {
+                "id": 42706818,
+                "name": "Baptist Student Union",
+                "type": "place_of_worship",
+                "latitude": 33.774776192231194,
+                "longitude": -84.39226962798926
+            },
+            {
+                "id": 42725820,
+                "name": "Academy of Medicine",
+                "type": "school",
+                "latitude": 33.77836482064607,
+                "longitude": -84.38672353998432
+            },
+            {
+                "id": 42725860,
+                "name": "Kappa Alpha",
+                "type": "social_centre",
+                "latitude": 33.77650288240273,
+                "longitude": -84.39169379680818
+            },
+            {
+                "id": 42725899,
+                "name": "Delta Upsilon",
+                "type": "social_centre",
+                "latitude": 33.776663262112436,
+                "longitude": -84.39235472130781
+            },
+            {
+                "id": 42725913,
+                "name": "Sigma Phi Epsilon",
+                "type": "social_centre",
+                "latitude": 33.7766670143359,
+                "longitude": -84.39334603649422
+            },
+            {
+                "id": 42725942,
+                "name": "Lutheran Campus Ministry Center",
+                "type": "place_of_worship",
+                "latitude": 33.77665263070133,
+                "longitude": -84.39313370349194
+            },
+            {
+                "id": 42725945,
+                "name": "Delta Chi",
+                "type": "social_centre",
+                "latitude": 33.776646309943665,
+                "longitude": -84.39289692916186
+            },
+            {
+                "id": 42725968,
+                "name": "Zeta Tau Alpha",
+                "type": "social_centre",
+                "latitude": 33.77717570574743,
+                "longitude": -84.3933507449662
+            },
+            {
+                "id": 42725969,
+                "name": "Alpha Gamma Delta",
+                "type": "social_centre",
+                "latitude": 33.777177213056895,
+                "longitude": -84.39303847459054
+            },
+            {
+                "id": 42725972,
+                "name": "Alpha Sigma Phi",
+                "type": "social_centre",
+                "latitude": 33.77712625474264,
+                "longitude": -84.39284380811009
+            },
+            {
+                "id": 42726021,
+                "name": "Tau Kappa Epsilon",
+                "type": "social_center",
+                "latitude": 33.77719334253025,
+                "longitude": -84.39236321168941
+            },
+            {
+                "id": 42726048,
+                "name": "Zeta Beta Tau",
+                "type": "social_centre",
+                "latitude": 33.7778920832339,
+                "longitude": -84.39246346211631
+            },
+            {
+                "id": 42726049,
+                "name": "Theta Chi",
+                "type": "social_centre",
+                "latitude": 33.77761958562688,
+                "longitude": -84.39235005135676
+            },
+            {
+                "id": 42726110,
+                "name": "Alpha Xi Delta",
+                "type": "social_center",
+                "latitude": 33.777856553963026,
+                "longitude": -84.39182431973948
+            },
+            {
+                "id": 42726125,
+                "name": "Psi Upsilon",
+                "type": "social_centre",
+                "latitude": 33.77754509416255,
+                "longitude": -84.3917449663529
+            },
+            {
+                "id": 42726143,
+                "name": "Phi Gamma Delta",
+                "type": "social_centre",
+                "latitude": 33.77763197624779,
+                "longitude": -84.39325215259497
+            },
+            {
+                "id": 42726152,
+                "name": "Kappa Sigma",
+                "type": "social_centre",
+                "latitude": 33.77792289343774,
+                "longitude": -84.39320149006241
+            },
+            {
+                "id": 42726829,
+                "name": "Family Housing Parking Deck",
+                "type": "parking",
+                "latitude": 33.78217757724258,
+                "longitude": -84.39496570648238
+            },
+            {
+                "id": 42796811,
+                "name": "North Campus Parking Deck",
+                "type": "parking",
+                "latitude": 33.78013562021057,
+                "longitude": -84.39844858014588
+            },
+            {
+                "id": 42825663,
+                "name": "Curran Street Parking Deck",
+                "type": "parking",
+                "latitude": 33.77915687769634,
+                "longitude": -84.40553332316189
+            },
+            {
+                "id": 42830020,
+                "name": "Delta Tau Delta",
+                "type": "social_centre",
+                "latitude": 33.775990771107004,
+                "longitude": -84.39482002362678
+            },
+            {
+                "id": 42830080,
+                "name": "Sigma Alpha Epsilon",
+                "type": "social_centre",
+                "latitude": 33.776088827682024,
+                "longitude": -84.3945391803929
+            },
+            {
+                "id": 42830212,
+                "name": "Phi Mu",
+                "type": "social_centre",
+                "latitude": 33.77672063034998,
+                "longitude": -84.39482185693437
+            },
+            {
+                "id": 42830320,
+                "name": "Pi Kappa Alpha",
+                "type": "social_centre",
+                "latitude": 33.77669485820007,
+                "longitude": -84.39526244785336
+            },
+            {
+                "id": 42872520,
+                "name": "Campus Recreation Parking Deck",
+                "type": "parking",
+                "latitude": 33.77619218948373,
+                "longitude": -84.40390269634757
+            },
+            {
+                "id": 43087831,
+                "name": "Fiji Lot",
+                "type": "parking",
+                "latitude": 33.777644135992404,
+                "longitude": -84.39284975506379
+            },
+            {
+                "id": 43217827,
+                "name": "President’s Lot",
+                "type": "parking",
+                "latitude": 33.77178459563046,
+                "longitude": -84.39488560012134
+            },
+            {
+                "id": 43332730,
+                "name": "Robert H. Ferst Center for the Arts",
+                "type": "theatre",
+                "latitude": 33.77510017832618,
+                "longitude": -84.39921119074312
+            },
+            {
+                "id": 43332751,
+                "name": "Student Center Parking Deck",
+                "type": "parking",
+                "latitude": 33.7741583877283,
+                "longitude": -84.40060575427366
+            },
+            {
+                "id": 43891100,
+                "name": "North Avenue Apartments South Parking Deck",
+                "type": "parking",
+                "latitude": 33.76867756308426,
+                "longitude": -84.39137214656648
+            },
+            {
+                "id": 60980695,
+                "name": "Phi Sigma Kappa",
+                "type": "social_center",
+                "latitude": 33.77715491659608,
+                "longitude": -84.39186233729217
+            },
+            {
+                "id": 179206337,
+                "name": "North Avenue Apartments North Parking Deck",
+                "type": "parking",
+                "latitude": 33.77070349486572,
+                "longitude": -84.39136588016133
+            },
+            {
+                "id": 179235505,
+                "name": "Klaus Advanced Computing Building Parking Deck",
+                "type": "parking",
+                "latitude": 33.7770887339453,
+                "longitude": -84.39609786595032
+            },
+            {
+                "id": 447782439,
+                "name": "Cluck 'n Moo",
+                "type": "restaurant",
+                "latitude": 33.7795045377148,
+                "longitude": -84.40539906750827
+            },
+            {
+                "id": 516716115,
+                "name": "West Village Dining Commons",
+                "type": "food_court",
+                "latitude": 33.77934053780364,
+                "longitude": -84.40484471439218
+            },
+            {
+                "id": 735253760,
+                "name": "The Children's Campus @ Georgia Tech",
+                "type": "kindergarten",
+                "latitude": 33.782834094358506,
+                "longitude": -84.39665077563178
+            },
+            {
+                "id": 751387123,
+                "name": "Georgia Tech Police",
+                "type": "police",
+                "latitude": 33.781217765830554,
+                "longitude": -84.40328767664641
+            },
+            {
+                "id": 951519945,
+                "name": "Alpha Phi",
+                "type": "social_centre",
+                "latitude": 33.77417870040718,
+                "longitude": -84.39269903510309
+            },
+            {
+                "id": 974793135,
+                "name": "Jimmy John's",
+                "type": "fast_food",
+                "latitude": 33.77508231775621,
+                "longitude": -84.40049517447852
+            },
+            {
+                "id": 977375254,
+                "name": "Kappa Alpha Theta",
+                "type": "social_centre",
+                "latitude": 33.77717329074721,
+                "longitude": -84.39163479790908
+            },
+            {
+                "id": 977377067,
+                "name": "Dalney Street Parking Deck",
+                "type": "parking",
+                "latitude": 33.780095889291765,
+                "longitude": -84.40045644349857
+            },
+            {
+                "id": 1258405684,
+                "name": "Dunkin'",
+                "type": "fast_food",
+                "latitude": 33.77508793654112,
+                "longitude": -84.40062245984053
+            },
+            {
+                "id": 302113,
+                "name": "Delta Sigma Phi",
+                "type": "social_centre",
+                "latitude": 33.77586505,
+                "longitude": -84.3925222
+            },
+            {
+                "id": 3178620,
+                "name": "Dorothy Murray Crosland Tower",
+                "type": "library",
+                "latitude": 33.77419662524505,
+                "longitude": -84.39516427921446
+            },
+            {
+                "id": 3178630,
+                "name": "Price Gilbert Memorial Library",
+                "type": "library",
+                "latitude": 33.7743563489056,
+                "longitude": -84.39575611820459
+            },
+            {
+                "id": 3321074,
+                "name": "Technology Square Parking Deck",
+                "type": "parking",
+                "latitude": 33.77559714291259,
+                "longitude": -84.38954797817243
+            },
+            {
+                "id": 42706121,
+                "name": "Cherry L. Emerson Building",
+                "type": "nan",
+                "latitude": 33.7779310737362,
+                "longitude": -84.3972070230836
+            },
+            {
+                "id": 42706123,
+                "name": "Christopher W. Klaus Advanced Computing Building",
+                "type": "nan",
+                "latitude": 33.77715069014337,
+                "longitude": -84.39614580073425
+            },
+            {
+                "id": 42706125,
+                "name": "College of Computing Building",
+                "type": "nan",
+                "latitude": 33.77743529205378,
+                "longitude": -84.39730854756901
+            },
+            {
+                "id": 42706129,
+                "name": "Joseph M. Pettit Microelectronics Research Center",
+                "type": "nan",
+                "latitude": 33.776600828213816,
+                "longitude": -84.39735573405467
+            },
+            {
+                "id": 42706130,
+                "name": "John and Joyce Caddell Building",
+                "type": "nan",
+                "latitude": 33.776702528410965,
+                "longitude": -84.39685244150297
+            },
+            {
+                "id": 42706132,
+                "name": "Van Leer Building",
+                "type": "nan",
+                "latitude": 33.775911916905024,
+                "longitude": -84.3971816525508
+            },
+            {
+                "id": 42706134,
+                "name": "Lamar Allen Sustainable Education Building",
+                "type": "nan",
+                "latitude": 33.776177550851635,
+                "longitude": -84.3988081843318
+            },
+            {
+                "id": 42706665,
+                "name": "Phi Delta Theta",
+                "type": "nan",
+                "latitude": 33.774636910483345,
+                "longitude": -84.3942046809102
+            },
+            {
+                "id": 42706678,
+                "name": "Old Civil Engineering Building",
+                "type": "nan",
+                "latitude": 33.774195751616375,
+                "longitude": -84.39467609619274
+            },
+            {
+                "id": 42706679,
+                "name": "Colonel Stephen C. Hall Building",
+                "type": "nan",
+                "latitude": 33.77413160893535,
+                "longitude": -84.39407236565631
+            },
+            {
+                "id": 42706681,
+                "name": "Georgia Tech Office of Information Technology Engineering Building",
+                "type": "nan",
+                "latitude": 33.77378118750227,
+                "longitude": -84.39449695619864
+            },
+            {
+                "id": 42706690,
+                "name": "Holland Building",
+                "type": "nan",
+                "latitude": 33.773283438002196,
+                "longitude": -84.39454293537806
+            },
+            {
+                "id": 42706702,
+                "name": "Aaron S. French Building",
+                "type": "nan",
+                "latitude": 33.772936016472656,
+                "longitude": -84.39456764956188
+            },
+            {
+                "id": 42706703,
+                "name": "Lyman Hall Building",
+                "type": "nan",
+                "latitude": 33.77296943172817,
+                "longitude": -84.39414064407696
+            },
+            {
+                "id": 42706705,
+                "name": "W.C. & Sarah Bradley Building",
+                "type": "nan",
+                "latitude": 33.77261408960685,
+                "longitude": -84.39447644716273
+            },
+            {
+                "id": 42706709,
+                "name": "Lettie Pate Whithead Evans Administration Building",
+                "type": "nan",
+                "latitude": 33.77246942604657,
+                "longitude": -84.39468318954336
+            },
+            {
+                "id": 42706710,
+                "name": "Carnegie Building",
+                "type": "nan",
+                "latitude": 33.77248710885212,
+                "longitude": -84.39427939577581
+            },
+            {
+                "id": 42706711,
+                "name": "Bill Moore Student Success Center",
+                "type": "nan",
+                "latitude": 33.77244077142565,
+                "longitude": -84.3939478074755
+            },
+            {
+                "id": 42706714,
+                "name": "Wardlaw Center",
+                "type": "nan",
+                "latitude": 33.77166857658584,
+                "longitude": -84.39283632525256
+            },
+            {
+                "id": 42706716,
+                "name": "L. W. Robert Alumni and Faculty House",
+                "type": "nan",
+                "latitude": 33.77102635521123,
+                "longitude": -84.39354306814967
+            },
+            {
+                "id": 42706740,
+                "name": "Julis L. Brown Residence Hall",
+                "type": "nan",
+                "latitude": 33.77167616498182,
+                "longitude": -84.39182181111498
+            },
+            {
+                "id": 42706741,
+                "name": "John M. Smith Residence Hall",
+                "type": "nan",
+                "latitude": 33.77172652309568,
+                "longitude": -84.39124509963321
+            },
+            {
+                "id": 42706743,
+                "name": "Harris Residence Hall",
+                "type": "nan",
+                "latitude": 33.77210625165398,
+                "longitude": -84.39169104928824
+            },
+            {
+                "id": 42706747,
+                "name": "Marion L. Brittain Dining Hall",
+                "type": "nan",
+                "latitude": 33.77245975918684,
+                "longitude": -84.3912900473325
+            },
+            {
+                "id": 42706750,
+                "name": "Clark Howell Residence Hall",
+                "type": "nan",
+                "latitude": 33.77211576383919,
+                "longitude": -84.39093710116529
+            },
+            {
+                "id": 42706752,
+                "name": "Josiah Cloudman Residence Hall",
+                "type": "nan",
+                "latitude": 33.77278085340394,
+                "longitude": -84.39164492117644
+            },
+            {
+                "id": 42706759,
+                "name": "Harrison Residence Hall",
+                "type": "nan",
+                "latitude": 33.772760202137995,
+                "longitude": -84.39096071846936
+            },
+            {
+                "id": 42706760,
+                "name": "William H. Glenn Residence Hall",
+                "type": "nan",
+                "latitude": 33.77342518590358,
+                "longitude": -84.39160815377754
+            },
+            {
+                "id": 42706762,
+                "name": "Donigan Dean Towers Residence Hall",
+                "type": "nan",
+                "latitude": 33.77343323654535,
+                "longitude": -84.39100551429082
+            },
+            {
+                "id": 42706769,
+                "name": "Floyd Field Residence Hall",
+                "type": "nan",
+                "latitude": 33.774208376011806,
+                "longitude": -84.39164882501865
+            },
+            {
+                "id": 42706770,
+                "name": "Isaac Stiles Hopkins Residence Hall",
+                "type": "nan",
+                "latitude": 33.774071049999996,
+                "longitude": -84.39128834999998
+            },
+            {
+                "id": 42706772,
+                "name": "Arthur Hanson Residence Hall",
+                "type": "nan",
+                "latitude": 33.77419997230316,
+                "longitude": -84.39093382526328
+            },
+            {
+                "id": 42706775,
+                "name": "Hayes and Grey Houses",
+                "type": "nan",
+                "latitude": 33.774856844926106,
+                "longitude": -84.39158548122336
+            },
+            {
+                "id": 42706787,
+                "name": "Lambda Chi Alpha",
+                "type": "nan",
+                "latitude": 33.7762762695792,
+                "longitude": -84.39239319967861
+            },
+            {
+                "id": 42706794,
+                "name": "Homer Rice Center for Sports Performance",
+                "type": "nan",
+                "latitude": 33.77351682937349,
+                "longitude": -84.3924955863439
+            },
+            {
+                "id": 42706824,
+                "name": "Technology Square Research Building (TSRB)",
+                "type": "nan",
+                "latitude": 33.777373570432516,
+                "longitude": -84.3900947784246
+            },
+            {
+                "id": 42706826,
+                "name": "Centergy One",
+                "type": "nan",
+                "latitude": 33.77757265424636,
+                "longitude": -84.38955511994403
+            },
+            {
+                "id": 42706834,
+                "name": "Scheller College of Business",
+                "type": "nan",
+                "latitude": 33.77623483555035,
+                "longitude": -84.38797324554126
+            },
+            {
+                "id": 42706863,
+                "name": "Economic Development Building",
+                "type": "nan",
+                "latitude": 33.775512095794895,
+                "longitude": -84.38907754700496
+            },
+            {
+                "id": 42725962,
+                "name": "Paul H. Heffernan Architecture Archive House",
+                "type": "nan",
+                "latitude": 33.77667793727671,
+                "longitude": -84.39264812511405
+            },
+            {
+                "id": 42726100,
+                "name": "O'Keefe Main Building",
+                "type": "nan",
+                "latitude": 33.77877138743684,
+                "longitude": -84.39220573553003
+            },
+            {
+                "id": 42726162,
+                "name": "O'Keefe Storage Facility",
+                "type": "nan",
+                "latitude": 33.778956796858054,
+                "longitude": -84.39250560115718
+            },
+            {
+                "id": 42726177,
+                "name": "O'Keefe Gymnasium",
+                "type": "nan",
+                "latitude": 33.7793494888856,
+                "longitude": -84.39162000015988
+            },
+            {
+                "id": 42726189,
+                "name": "O'Keefe Custodial Services Building",
+                "type": "nan",
+                "latitude": 33.77934453481567,
+                "longitude": -84.39241708098967
+            },
+            {
+                "id": 42726396,
+                "name": "Softball Ticketing Office",
+                "type": "nan",
+                "latitude": 33.77931213185235,
+                "longitude": -84.39273037616667
+            },
+            {
+                "id": 42726481,
+                "name": "Shirley Clements Mewborn Field",
+                "type": "nan",
+                "latitude": 33.77927638303436,
+                "longitude": -84.39323856943686
+            },
+            {
+                "id": 42726571,
+                "name": "James K. Luck Jr. Facilities Building",
+                "type": "nan",
+                "latitude": 33.77994875093619,
+                "longitude": -84.39274826395568
+            },
+            {
+                "id": 42726641,
+                "name": "Alexander Memorial Coliseum in McCamish Pavilion",
+                "type": "nan",
+                "latitude": 33.78067765479685,
+                "longitude": -84.39275667950449
+            },
+            {
+                "id": 42726645,
+                "name": "Luck Building",
+                "type": "nan",
+                "latitude": 33.78026116093924,
+                "longitude": -84.3922573968054
+            },
+            {
+                "id": 42726877,
+                "name": "Tenth and Home Building C",
+                "type": "nan",
+                "latitude": 33.78269279639869,
+                "longitude": -84.39530060412447
+            },
+            {
+                "id": 42726928,
+                "name": "Tenth and Home Building B",
+                "type": "nan",
+                "latitude": 33.782172525627026,
+                "longitude": -84.3952120116393
+            },
+            {
+                "id": 42727160,
+                "name": "Tenth and Home Building A",
+                "type": "nan",
+                "latitude": 33.781858559724476,
+                "longitude": -84.39556781103211
+            },
+            {
+                "id": 42727187,
+                "name": "Tenth and Home Building D",
+                "type": "nan",
+                "latitude": 33.7825783979236,
+                "longitude": -84.39578372268863
+            },
+            {
+                "id": 42792936,
+                "name": "Crum and Forster Building",
+                "type": "nan",
+                "latitude": 33.77570604962655,
+                "longitude": -84.38854988352514
+            },
+            {
+                "id": 42795190,
+                "name": "Tenth and Home Building G",
+                "type": "nan",
+                "latitude": 33.782178571563755,
+                "longitude": -84.39685333267738
+            },
+            {
+                "id": 42795626,
+                "name": "Graduate Living Center",
+                "type": "nan",
+                "latitude": 33.781903338182936,
+                "longitude": -84.39654146380906
+            },
+            {
+                "id": 42795946,
+                "name": "Tenth and Home Building F",
+                "type": "nan",
+                "latitude": 33.78278641364271,
+                "longitude": -84.39671105499485
+            },
+            {
+                "id": 42796148,
+                "name": "Tenth and Home Building E",
+                "type": "nan",
+                "latitude": 33.78271817302986,
+                "longitude": -84.39626977442775
+            },
+            {
+                "id": 42796721,
+                "name": "President's House",
+                "type": "nan",
+                "latitude": 33.78094359101985,
+                "longitude": -84.39578116407004
+            },
+            {
+                "id": 42796728,
+                "name": "Glen P. Robinson, Jr. Building",
+                "type": "nan",
+                "latitude": 33.77984252397511,
+                "longitude": -84.39669207073806
+            },
+            {
+                "id": 42796745,
+                "name": "Parker H. Petit Biotechnology Building",
+                "type": "nan",
+                "latitude": 33.778961942597356,
+                "longitude": -84.3972421319865
+            },
+            {
+                "id": 42796800,
+                "name": "Ford Motor Company Environmental Science and Technology Building",
+                "type": "nan",
+                "latitude": 33.77884121402787,
+                "longitude": -84.39599048747753
+            },
+            {
+                "id": 42796835,
+                "name": "Bernie Marcus Nanotechnology Building",
+                "type": "nan",
+                "latitude": 33.778813656991055,
+                "longitude": -84.39851469853613
+            },
+            {
+                "id": 42821538,
+                "name": "Southern Regional Education Board",
+                "type": "nan",
+                "latitude": 33.78113742011744,
+                "longitude": -84.40657523187853
+            },
+            {
+                "id": 42822023,
+                "name": "Eighth Street Apartments West",
+                "type": "nan",
+                "latitude": 33.78026533187576,
+                "longitude": -84.40566200151012
+            },
+            {
+                "id": 42822497,
+                "name": "Eighth Street Apartments East",
+                "type": "nan",
+                "latitude": 33.7802391419332,
+                "longitude": -84.40455438879516
+            },
+            {
+                "id": 42822878,
+                "name": "Eighth Street Apartments South",
+                "type": "nan",
+                "latitude": 33.77989270213263,
+                "longitude": -84.40514922717414
+            },
+            {
+                "id": 42825379,
+                "name": "Georgia Tech Research Corporation",
+                "type": "nan",
+                "latitude": 33.781676931688565,
+                "longitude": -84.40393599446763
+            },
+            {
+                "id": 42825522,
+                "name": "Broadband Institute Residential Laboratory",
+                "type": "nan",
+                "latitude": 33.78172497098339,
+                "longitude": -84.40290635184073
+            },
+            {
+                "id": 42825580,
+                "name": "Caldwell Residence Hall",
+                "type": "nan",
+                "latitude": 33.77891200594748,
+                "longitude": -84.40442025834449
+            },
+            {
+                "id": 42825621,
+                "name": "Folk Residence Hall",
+                "type": "nan",
+                "latitude": 33.77891426456993,
+                "longitude": -84.40484877940072
+            },
+            {
+                "id": 42825797,
+                "name": "Georgia Tech School of Music - Couch Building",
+                "type": "nan",
+                "latitude": 33.77824042903729,
+                "longitude": -84.40448863205401
+            },
+            {
+                "id": 42825900,
+                "name": "Zbar Residence Hall",
+                "type": "nan",
+                "latitude": 33.77754299117143,
+                "longitude": -84.40480347621892
+            },
+            {
+                "id": 42829998,
+                "name": "Architecture East",
+                "type": "nan",
+                "latitude": 33.77599200817901,
+                "longitude": -84.39539096983069
+            },
+            {
+                "id": 42830543,
+                "name": "Savant Building",
+                "type": "nan",
+                "latitude": 33.772087467017045,
+                "longitude": -84.39526671628253
+            },
+            {
+                "id": 42830610,
+                "name": "Swann Building",
+                "type": "nan",
+                "latitude": 33.77169105042432,
+                "longitude": -84.39528873196835
+            },
+            {
+                "id": 42830641,
+                "name": "L. W. Chapin Building",
+                "type": "nan",
+                "latitude": 33.77332324967483,
+                "longitude": -84.39518727322437
+            },
+            {
+                "id": 42830677,
+                "name": "D. M. Smith Building",
+                "type": "nan",
+                "latitude": 33.77364627424757,
+                "longitude": -84.39515079487995
+            },
+            {
+                "id": 42831047,
+                "name": "Coon Building",
+                "type": "nan",
+                "latitude": 33.77278078781457,
+                "longitude": -84.39585781221486
+            },
+            {
+                "id": 42831050,
+                "name": "Engineering Science and Mechanics Building",
+                "type": "nan",
+                "latitude": 33.77206138921017,
+                "longitude": -84.39579034938053
+            },
+            {
+                "id": 42831079,
+                "name": "Montgomery Knight Building",
+                "type": "nan",
+                "latitude": 33.77190578348827,
+                "longitude": -84.39605342007486
+            },
+            {
+                "id": 42831083,
+                "name": "Daniel Guggenheim School of Aerospace Engineering",
+                "type": "nan",
+                "latitude": 33.77159771326017,
+                "longitude": -84.39578253022559
+            },
+            {
+                "id": 42831367,
+                "name": "Flag Building (Charles A. Smithgall Jr. Building)",
+                "type": "nan",
+                "latitude": 33.77433993403612,
+                "longitude": -84.39957017442917
+            },
+            {
+                "id": 42872499,
+                "name": "Joseph B. Whitehead Student Health Center",
+                "type": "nan",
+                "latitude": 33.77484520071602,
+                "longitude": -84.4031081924879
+            },
+            {
+                "id": 42872500,
+                "name": "Whitehead - Pharmacy",
+                "type": "nan",
+                "latitude": 33.77473398099418,
+                "longitude": -84.40315561203619
+            },
+            {
+                "id": 42872533,
+                "name": "William R. and Jeanette S. Maulding Residence Hall",
+                "type": "nan",
+                "latitude": 33.77695167840315,
+                "longitude": -84.40562205610509
+            },
+            {
+                "id": 42872564,
+                "name": "Nelson-Shell Residence Hall",
+                "type": "nan",
+                "latitude": 33.778206350594964,
+                "longitude": -84.40554474030816
+            },
+            {
+                "id": 42872572,
+                "name": "Wrek Transmitter & Tower",
+                "type": "nan",
+                "latitude": 33.778212513950116,
+                "longitude": -84.40624372406849
+            },
+            {
+                "id": 42872573,
+                "name": "Fulmer Residence Hall",
+                "type": "nan",
+                "latitude": 33.778627040273285,
+                "longitude": -84.40388352112483
+            },
+            {
+                "id": 42872575,
+                "name": "Louise M. Fitten Hall",
+                "type": "nan",
+                "latitude": 33.778225102973586,
+                "longitude": -84.40372030836156
+            },
+            {
+                "id": 42872589,
+                "name": "Harold E. Montag Residence Hall",
+                "type": "nan",
+                "latitude": 33.777859981749856,
+                "longitude": -84.40391276290175
+            },
+            {
+                "id": 42872604,
+                "name": "Y. Frank Freeman Residence Hall",
+                "type": "nan",
+                "latitude": 33.777532461949484,
+                "longitude": -84.40392126491686
+            },
+            {
+                "id": 42872633,
+                "name": "Colonel Frank F. Groseclose Building",
+                "type": "nan",
+                "latitude": 33.77574584064333,
+                "longitude": -84.40178868058666
+            },
+            {
+                "id": 42872634,
+                "name": "ISyE Annex",
+                "type": "nan",
+                "latitude": 33.775207730230214,
+                "longitude": -84.40176321513992
+            },
+            {
+                "id": 42872637,
+                "name": "Instructional Center",
+                "type": "nan",
+                "latitude": 33.77545068002778,
+                "longitude": -84.40124805540246
+            },
+            {
+                "id": 42872649,
+                "name": "J. Erskine Love Manufacturing Building",
+                "type": "nan",
+                "latitude": 33.7765657825146,
+                "longitude": -84.40170488084892
+            },
+            {
+                "id": 42872682,
+                "name": "Fuller E. Callaway Jr. Manufacturing Research Center",
+                "type": "nan",
+                "latitude": 33.77759943119567,
+                "longitude": -84.40134252008342
+            },
+            {
+                "id": 42872689,
+                "name": "Manufacturing Related Disciplines Complex",
+                "type": "nan",
+                "latitude": 33.776960140077186,
+                "longitude": -84.40052085433796
+            },
+            {
+                "id": 42877787,
+                "name": "Ken Byers Tennis Complex",
+                "type": "nan",
+                "latitude": 33.78119581099327,
+                "longitude": -84.39430368423233
+            },
+            {
+                "id": 42877900,
+                "name": "Brock Football Practice Facility",
+                "type": "nan",
+                "latitude": 33.77883703462096,
+                "longitude": -84.39493256763788
+            },
+            {
+                "id": 43330347,
+                "name": "Georgia Tech Grants and Contracts",
+                "type": "nan",
+                "latitude": 33.781704789795405,
+                "longitude": -84.40361786584744
+            },
+            {
+                "id": 43330481,
+                "name": "Institute of Paper Science and Technology",
+                "type": "nan",
+                "latitude": 33.78097410744232,
+                "longitude": -84.40452778430279
+            },
+            {
+                "id": 43330499,
+                "name": "John Patrick Crecine Apartments",
+                "type": "nan",
+                "latitude": 33.78000557080871,
+                "longitude": -84.40347863049786
+            },
+            {
+                "id": 43330545,
+                "name": "Center Street Apartments",
+                "type": "nan",
+                "latitude": 33.78032040858047,
+                "longitude": -84.40238074864179
+            },
+            {
+                "id": 43330596,
+                "name": "Center Street Apartments",
+                "type": "nan",
+                "latitude": 33.779805557942964,
+                "longitude": -84.4017293848482
+            },
+            {
+                "id": 43331393,
+                "name": "Georgia Tech Research Institute North Building",
+                "type": "nan",
+                "latitude": 33.781073299385774,
+                "longitude": -84.4014335744069
+            },
+            {
+                "id": 43331406,
+                "name": "Georgia Tech Research Institute South Building",
+                "type": "nan",
+                "latitude": 33.780347463329306,
+                "longitude": -84.40143580336354
+            },
+            {
+                "id": 43331463,
+                "name": "Centennial Research Building",
+                "type": "nan",
+                "latitude": 33.781003190059536,
+                "longitude": -84.40037151537948
+            },
+            {
+                "id": 43331465,
+                "name": "Baker Building",
+                "type": "nan",
+                "latitude": 33.78001400064807,
+                "longitude": -84.39950351792524
+            },
+            {
+                "id": 43331469,
+                "name": "Facilities Motor Pool",
+                "type": "nan",
+                "latitude": 33.78101324968359,
+                "longitude": -84.39722449612205
+            },
+            {
+                "id": 43331472,
+                "name": "Landscape & Construction",
+                "type": "nan",
+                "latitude": 33.780765875009685,
+                "longitude": -84.39739085593682
+            },
+            {
+                "id": 43331473,
+                "name": "Solid Waste & Recycling",
+                "type": "nan",
+                "latitude": 33.78066018577868,
+                "longitude": -84.39755334465225
+            },
+            {
+                "id": 43331474,
+                "name": "Old Area 2",
+                "type": "nan",
+                "latitude": 33.78088420886769,
+                "longitude": -84.39714414589348
+            },
+            {
+                "id": 43331475,
+                "name": "Facilities Waste Storage",
+                "type": "nan",
+                "latitude": 33.78111051523913,
+                "longitude": -84.39701820494066
+            },
+            {
+                "id": 43331476,
+                "name": "President\"s Cottage",
+                "type": "nan",
+                "latitude": 33.7809936246244,
+                "longitude": -84.39677333011178
+            },
+            {
+                "id": 43331479,
+                "name": "Landscape Offices",
+                "type": "nan",
+                "latitude": 33.780808376217415,
+                "longitude": -84.3969215006986
+            },
+            {
+                "id": 43331480,
+                "name": "Machine Shop",
+                "type": "nan",
+                "latitude": 33.78075354440407,
+                "longitude": -84.39674032241885
+            },
+            {
+                "id": 43332682,
+                "name": "U.A. Whitaker Building",
+                "type": "nan",
+                "latitude": 33.77848431005919,
+                "longitude": -84.39680604074339
+            },
+            {
+                "id": 43332687,
+                "name": "Softball Dugout",
+                "type": "nan",
+                "latitude": 33.779059273924595,
+                "longitude": -84.39328129707923
+            },
+            {
+                "id": 43332735,
+                "name": "Bunger-Henry Building",
+                "type": "nan",
+                "latitude": 33.7756338779848,
+                "longitude": -84.39826440924395
+            },
+            {
+                "id": 43335055,
+                "name": "Georgia Tech Human Resources Building",
+                "type": "nan",
+                "latitude": 33.773362247367054,
+                "longitude": -84.40264553938853
+            },
+            {
+                "id": 43335057,
+                "name": "Business Services Building",
+                "type": "nan",
+                "latitude": 33.77285764020611,
+                "longitude": -84.4014396875075
+            },
+            {
+                "id": 43335058,
+                "name": "Printing and Copying Services",
+                "type": "nan",
+                "latitude": 33.77472832259855,
+                "longitude": -84.40547461450896
+            },
+            {
+                "id": 43335086,
+                "name": "Ivan Allen College of Liberal Arts",
+                "type": "nan",
+                "latitude": 33.7740265635446,
+                "longitude": -84.40424259954385
+            },
+            {
+                "id": 43335091,
+                "name": "Office of Information Technology Planning and Programming",
+                "type": "nan",
+                "latitude": 33.77592169498301,
+                "longitude": -84.40644599040337
+            },
+            {
+                "id": 43335093,
+                "name": "Walter H. Hopkins Building",
+                "type": "nan",
+                "latitude": 33.77530265755819,
+                "longitude": -84.40584687824817
+            },
+            {
+                "id": 43890894,
+                "name": "North Avenue Apartments West",
+                "type": "nan",
+                "latitude": 33.77058293491863,
+                "longitude": -84.39183160085764
+            },
+            {
+                "id": 43890921,
+                "name": "North Avenue Apartments Gym",
+                "type": "nan",
+                "latitude": 33.77005867222807,
+                "longitude": -84.39101633087422
+            },
+            {
+                "id": 43890968,
+                "name": "North Avenue Apartments South",
+                "type": "nan",
+                "latitude": 33.76933798518663,
+                "longitude": -84.39169214667614
+            },
+            {
+                "id": 43891014,
+                "name": "North Avenue Apartments East",
+                "type": "nan",
+                "latitude": 33.76948371151149,
+                "longitude": -84.39094393864899
+            },
+            {
+                "id": 88636657,
+                "name": "Boggs Chemistry Building",
+                "type": "nan",
+                "latitude": 33.775535640449604,
+                "longitude": -84.39975783641378
+            },
+            {
+                "id": 177021936,
+                "name": "William Emerson Building",
+                "type": "nan",
+                "latitude": 33.7731343304633,
+                "longitude": -84.39392862209311
+            },
+            {
+                "id": 178658172,
+                "name": "Commander Building",
+                "type": "nan",
+                "latitude": 33.778871893073585,
+                "longitude": -84.4039227249731
+            },
+            {
+                "id": 178658173,
+                "name": "Armstrong Residence Hall",
+                "type": "nan",
+                "latitude": 33.779157616445985,
+                "longitude": -84.40358822040001
+            },
+            {
+                "id": 178658174,
+                "name": "Hefner Residence Hall",
+                "type": "nan",
+                "latitude": 33.77915820904459,
+                "longitude": -84.4039451211195
+            },
+            {
+                "id": 178716337,
+                "name": "Zelnak Basketball Practice Facility",
+                "type": "nan",
+                "latitude": 33.77989317840854,
+                "longitude": -84.39229496252814
+            },
+            {
+                "id": 178717765,
+                "name": "George W. and Irene K. Woodruff Residence Hall South",
+                "type": "nan",
+                "latitude": 33.7788640391507,
+                "longitude": -84.40651691346625
+            },
+            {
+                "id": 178717766,
+                "name": "George W. and Irene K. Woodruff Residence Hall North",
+                "type": "nan",
+                "latitude": 33.779353222670395,
+                "longitude": -84.40652479097096
+            },
+            {
+                "id": 178717767,
+                "name": "George W. and Irene K. Woodruff Dining Hall",
+                "type": "university",
+                "latitude": 33.77911747945751,
+                "longitude": -84.4068248385362
+            },
+            {
+                "id": 178905382,
+                "name": "Arthur B. Edge Intercollegiate Athletic Center",
+                "type": "nan",
+                "latitude": 33.773451256201724,
+                "longitude": -84.39226103982021
+            },
+            {
+                "id": 179047236,
+                "name": "Barnes & Noble Bookstore @ Georgia Tech",
+                "type": "nan",
+                "latitude": 33.77638440303967,
+                "longitude": -84.38847943618845
+            },
+            {
+                "id": 179212361,
+                "name": "Daniel Environmental Engineering Laboratory; Daniel Lab Addition",
+                "type": "nan",
+                "latitude": 33.773695014713944,
+                "longitude": -84.39401517194352
+            },
+            {
+                "id": 179213909,
+                "name": "Georgia Tech Landscaping/Facilities Building",
+                "type": "nan",
+                "latitude": 33.77991690458133,
+                "longitude": -84.39313110019215
+            },
+            {
+                "id": 179220688,
+                "name": "Architecture West",
+                "type": "nan",
+                "latitude": 33.77610157224994,
+                "longitude": -84.3960717598458
+            },
+            {
+                "id": 179223077,
+                "name": "Jesse W. Mason Building",
+                "type": "nan",
+                "latitude": 33.77663321784742,
+                "longitude": -84.39869996961231
+            },
+            {
+                "id": 179224195,
+                "name": "Campus Recreation Center",
+                "type": "nan",
+                "latitude": 33.77559984558107,
+                "longitude": -84.40392059490028
+            },
+            {
+                "id": 270006355,
+                "name": "Capital Assets Accounting Staging",
+                "type": "nan",
+                "latitude": 33.773661381913804,
+                "longitude": -84.40351244164643
+            },
+            {
+                "id": 270006517,
+                "name": "Solar Charging Station",
+                "type": "nan",
+                "latitude": 33.77636286006338,
+                "longitude": -84.4011204905562
+            },
+            {
+                "id": 270006574,
+                "name": "Environmental Science, Health, and Safety",
+                "type": "nan",
+                "latitude": 33.774335635871935,
+                "longitude": -84.40473469950969
+            },
+            {
+                "id": 367735715,
+                "name": "GT Leadership Challenge Course Pavilion",
+                "type": "nan",
+                "latitude": 33.77844791638484,
+                "longitude": -84.40230934832663
+            },
+            {
+                "id": 367735716,
+                "name": "Tower 3",
+                "type": "nan",
+                "latitude": 33.77862255183644,
+                "longitude": -84.40188548333599
+            },
+            {
+                "id": 367735717,
+                "name": "Tower 2",
+                "type": "nan",
+                "latitude": 33.77840962211538,
+                "longitude": -84.40168673333332
+            },
+            {
+                "id": 367735719,
+                "name": "Tower 1",
+                "type": "nan",
+                "latitude": 33.77825073702773,
+                "longitude": -84.40194115512939
+            },
+            {
+                "id": 367735780,
+                "name": "ORGT Storage",
+                "type": "nan",
+                "latitude": 33.77601866091129,
+                "longitude": -84.40500921053464
+            },
+            {
+                "id": 367735786,
+                "name": "ORGT Storage",
+                "type": "nan",
+                "latitude": 33.775912549999994,
+                "longitude": -84.40506415
+            },
+            {
+                "id": 454804208,
+                "name": "Glenn-Towers Connector",
+                "type": "nan",
+                "latitude": 33.77373171230272,
+                "longitude": -84.39128424546355
+            },
+            {
+                "id": 516716114,
+                "name": "West Village Dining Commons",
+                "type": "nan",
+                "latitude": 33.77918490026485,
+                "longitude": -84.40445902670187
+            },
+            {
+                "id": 560915363,
+                "name": "Rodger A. and Helen B. Krone Engineered Biosystems Building",
+                "type": "nan",
+                "latitude": 33.78076452840678,
+                "longitude": -84.39846242820337
+            },
+            {
+                "id": 693548998,
+                "name": "Tower 4",
+                "type": "nan",
+                "latitude": 33.77901400178926,
+                "longitude": -84.40225098320633
+            },
+            {
+                "id": 714119667,
+                "name": "CODA",
+                "type": "nan",
+                "latitude": 33.77539769893423,
+                "longitude": -84.38792818339691
+            },
+            {
+                "id": 751387124,
+                "name": "CRC Competative Sports Storage",
+                "type": "nan",
+                "latitude": 33.776159505178136,
+                "longitude": -84.40521859595793
+            },
+            {
+                "id": 791413998,
+                "name": "High Performance Computing Center",
+                "type": "nan",
+                "latitude": 33.77569808536987,
+                "longitude": -84.3880515357885
+            },
+            {
+                "id": 837935643,
+                "name": "Exhibition Hall",
+                "type": "nan",
+                "latitude": 33.77459866427708,
+                "longitude": -84.40164915667472
+            },
+            {
+                "id": 974793133,
+                "name": "The Pavilion",
+                "type": "nan",
+                "latitude": 33.77480444016347,
+                "longitude": -84.40094288288044
+            },
+            {
+                "id": 974793134,
+                "name": "The Pavilion",
+                "type": "nan",
+                "latitude": 33.77477340945875,
+                "longitude": -84.40051063675989
+            },
+            {
+                "id": 977377065,
+                "name": "Kendeda Building for Innovative Sustainable Design",
+                "type": "nan",
+                "latitude": 33.77877669714707,
+                "longitude": -84.39950568546281
+            },
+            {
+                "id": 977377066,
+                "name": "Dalney Street Office Building",
+                "type": "nan",
+                "latitude": 33.77972294243505,
+                "longitude": -84.40052490288535
+            },
+            {
+                "id": 1258398253,
+                "name": "Veteran's Resource Center",
+                "type": "nan",
+                "latitude": 33.779471997599536,
+                "longitude": -84.3962923315107
+            },
+            {
+                "id": 1258403890,
+                "name": "Tech Square Phase 3",
+                "type": "nan",
+                "latitude": 33.77723827556487,
+                "longitude": -84.388062222261
+            },
+            {
+                "id": 302115,
+                "name": "William Vernon Skiles Building",
+                "type": "nan",
+                "latitude": 33.77360351300073,
+                "longitude": -84.39623617591104
+            },
+            {
+                "id": 3156682,
+                "name": "Russ Chandler Baseball Stadium",
+                "type": "nan",
+                "latitude": 33.77752759015947,
+                "longitude": -84.39509734392716
+            },
+            {
+                "id": 3178621,
+                "name": "John Lewis Student Center",
+                "type": "nan",
+                "latitude": 33.77400486492297,
+                "longitude": -84.39866365374047
+            },
+            {
+                "id": 3178622,
+                "name": "G. Wayne Clough Undergraduate Learning Commons",
+                "type": "nan",
+                "latitude": 33.77464766968197,
+                "longitude": -84.39638579144439
+            },
+            {
+                "id": 3178624,
+                "name": "Howey Building",
+                "type": "nan",
+                "latitude": 33.777423890662185,
+                "longitude": -84.39845243533021
+            },
+            {
+                "id": 3178625,
+                "name": "Paul Weber Building II",
+                "type": "nan",
+                "latitude": 33.77264975503593,
+                "longitude": -84.39631912153011
+            },
+            {
+                "id": 3178627,
+                "name": "Paul Weber Building",
+                "type": "nan",
+                "latitude": 33.772907152146864,
+                "longitude": -84.39663058312019
+            },
+            {
+                "id": 3249305,
+                "name": "Jack C. Stein and Goldin Houses",
+                "type": "nan",
+                "latitude": 33.77530307946837,
+                "longitude": -84.39158952751622
+            },
+            {
+                "id": 3249306,
+                "name": "Kenneth Gordon Matheson Residence Hall",
+                "type": "nan",
+                "latitude": 33.77452826910773,
+                "longitude": -84.39152954863822
+            },
+            {
+                "id": 3249307,
+                "name": "Perry Residence Hall",
+                "type": "nan",
+                "latitude": 33.774520413991915,
+                "longitude": -84.39106452379255
+            },
+            {
+                "id": 3321072,
+                "name": "Georgia Tech Hotel & Conference Center",
+                "type": "nan",
+                "latitude": 33.77637043885355,
+                "longitude": -84.38933270048159
+            },
+            {
+                "id": 3321073,
+                "name": "Global Learning & Conference Center",
+                "type": "nan",
+                "latitude": 33.776330474502046,
+                "longitude": -84.38994734951424
+            },
+            {
+                "id": 4041025,
+                "name": "North Avenue Apartments North",
+                "type": "nan",
+                "latitude": 33.77070971976266,
+                "longitude": -84.39108299522485
+            },
+            {
+                "id": 4041026,
+                "name": "North Avenue Dining Hall",
+                "type": "nan",
+                "latitude": 33.771037903451855,
+                "longitude": -84.39133726416934
+            },
+            {
+                "id": 4578449,
+                "name": "Rich Computer Center Building",
+                "type": "nan",
+                "latitude": 33.775203930244054,
+                "longitude": -84.39499657025934
+            },
+            {
+                "id": 4578450,
+                "name": "Thomas Hinman Highbay Research Building",
+                "type": "nan",
+                "latitude": 33.77476270063587,
+                "longitude": -84.39501410533819
+            }
+        ]
+    }
+}

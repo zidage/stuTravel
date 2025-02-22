@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.twentyEight.mapper.VenueMapper">
+    <select id="listByPlaceId" resultType="org.twentyEight.pojo.Venue">
+        select * from venue
+        <where>
+            and place_id = #{placeId}
+            <if test="venueName != null and venueName != ''">
+                and name like concat('%', #{venueName}, '%')
+            </if>
+            <if test="type != null and type != ''">
+                and type = #{type}
+            </if>
+        </where>
+        order by popularity desc
+    </select>
+</mapper>

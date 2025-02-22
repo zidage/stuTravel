@@ -1,0 +1,1280 @@
+\documentclass{report}
+
+\usepackage{amsmath, amsthm, amssymb, amsfonts}
+\usepackage{thmtools}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{geometry}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{framed}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{tcolorbox}
+\usepackage{ctex}
+\usepackage{listings}
+\usepackage{array}
+\usepackage{tikz}
+\usepackage{minted}
+\usepackage{pygmentex}
+\usepackage{tabularx}
+
+
+
+
+\usetikzlibrary{graphs, positioning, quotes, shapes.geometric}
+
+\colorlet{LightGray}{White!90!Periwinkle}
+\colorlet{LightOrange}{Orange!15}
+\colorlet{LightGreen}{Green!15}
+
+\newcommand{\HRule}[1]{\rule{\linewidth}{#1}}
+
+\declaretheoremstyle[name=Theorem,]{thmsty}
+\declaretheorem[style=thmsty,numberwithin=section]{theorem}
+\tcolorboxenvironment{theorem}{colback=LightGray}
+
+\declaretheoremstyle[name=Proposition,]{prosty}
+\declaretheorem[style=prosty,numberlike=theorem]{proposition}
+\tcolorboxenvironment{proposition}{colback=LightOrange}
+
+\declaretheoremstyle[name=Principle,]{prcpsty}
+\declaretheorem[style=prcpsty,numberlike=theorem]{principle}
+\tcolorboxenvironment{principle}{colback=LightGreen}
+
+\setstretch{1.2}
+\geometry{
+    textheight=9in,
+    textwidth=5.5in,
+    top=1in,
+    headheight=12pt,
+    headsep=25pt,
+    footskip=30pt
+}
+
+% \setlength{\tabcolsep}{20pt}
+
+% \usemintedstyle{one-dark}
+
+% 设置minted包的全局选项
+\setminted{
+    linenos,
+    breaklines, % 自动换行
+    frame=lines, % 给代码块添加框线
+}
+
+\hypersetup{
+    colorlinks=true, % 将超链接设置为彩色
+    linkcolor=black, % 内部链接的颜色
+    filecolor=magenta, % 文件链接的颜色
+    urlcolor=cyan, % 外部链接的颜色
+    citecolor=green % 文献引用的颜色
+}
+
+
+% ------------------------------------------------------------------------------
+
+\begin{document}
+
+% ------------------------------------------------------------------------------
+% Cover Page and ToC
+% ------------------------------------------------------------------------------
+
+\title{ \normalsize \textsc{}
+		\\ [2.0cm]
+		\HRule{1.5pt} \\
+		\LARGE \textbf{\uppercase{数据结构课程设计报告}
+		\HRule{2.0pt} \\ [0.6cm] \LARGE{28组} \vspace*{10\baselineskip}}
+		}
+\date{}
+\author{\textbf{小组成员} \\ 
+		字禹润\ \ \ \ 费子芸\ \ \ \ 王彤彤\\}
+
+\maketitle
+\newpage
+
+\clearpage
+
+
+% ------------------------------------------------------------------------------
+\tableofcontents
+\chapter{系统架构}
+
+\section{系统架构概述}
+本组的开发项目实现了一个学生游学规划、推荐、游记编辑、共享平台。项目是一个后端基于
+开源Java框架Spring Boot，前端基于Vue3，数据库采用MySQL的现代化网站。
+\par
+网站存取了开源地图网站OpenStreetMap的地图数据，并使用Python开源地图数据分析
+库OSMnx、NetworkX、GeoPandas进行处理之后，将
+其基本信息导入了数据库，同时将复杂的地图数据存在了本地，并供整合入Spring Boot
+的Python子程序进行调用，给出相应结果并绘制地图。
+\par
+后端使用Spring Boot框架进行开发，提供高效的RESTful API服务。
+Spring Boot的模块化和自动配置特性，使我们的后端系统具有高度的可扩展性和灵活性。
+前端采用Vue 3框架，结合现代的前端开发工具链Vite，实现了响应式和动态的用户界面。
+Vue 3的组合式API和高性能渲染机制，使我们的前端开发更加简洁和高效。
+\par
+项目的基本模块组织架构如下：
+\begin{figure}[h]
+    \begin{center}
+        \begin{tikzpicture}[node distance=20pt]
+            \node[draw ] (gui) {前端界面};
+            \node[draw, below=of gui] (vue) {Vue 3框架}; 
+            \node[draw, below=of vue] (java) {Java Spring Boot框架};
+            \node[draw, right=80pt of java] (sql) {MySQL数据库};
+            \node[draw, below=of sql] (disk) {本地磁盘};
+            \node[draw, below=of disk] (py_s) {Python地图数据获取解析脚本};
+            \node[draw, below=of java] (py_g) {Python地图视图生成模块};  
+
+            \draw[<->] (gui) -- (vue);
+            \draw[<->] (vue) -- node[left]{REST API}(java);
+            \draw[<->] (java) -- (py_g);
+            \draw[<->] (java) -- node[above]{MyBatis持久层}(sql);
+            \draw[<->] (py_g) -- (disk);
+            \draw[->] (disk) -- ++(2.5, 0) |- (vue);
+            \draw[->] (py_s) -- (disk);
+            \draw[->] (disk) -- (java);
+        \end{tikzpicture}
+    \end{center}
+\end{figure}
+\par
+
+
+
+
+\section{地图数据获取模块架构}
+\par
+在地图数据部分，本网站收录了144个游学目的地，其中包括98所国内外高校以及46处国内外著名公园
+景点，以及其内部设施建筑共13,761个。地点内部道路、建筑、设施信息来自
+\href{openstreetmap.org}{OpenStreetMap}，
+目的地简介、图片来自Wikipedia，地点规范化地址来自Google Map。
+\par
+\subsection{数据获取}
+我们使用了地图数据获取脚本来从上述网站中爬取公开数据。首先，我们获取了准备添加入项目
+的游学目的地名录，存储在地图数据主文件夹下\verb|map_data\catagory|
+之中。其中有三个文件，分别是:
+\begin{itemize}
+    \item \verb|china_university.json|
+    \item \verb|world_university.json|
+    \item \verb|parks.json|
+\end{itemize}
+每个\verb|.json|文件都遵循统一的格式标准，具体格式示例如下：
+
+\begin{minted}{json}
+[
+    "Peking University",
+    "Tsinghua University",
+    "Fudan University",
+    "Zhejiang University",
+    "Shanghai Jiaotong University",
+    "University of Science and Technology of China",
+    "Nanjing University",
+    "Wuhan University",
+]
+\end{minted}
+每一行都是准备添加的地点的英文名称。其中，大学名称来自
+\href{https://www.topuniversities.com/qs-world-university-rankings}{QS World University Rankings}，
+公园名称由我们以及Chat GPT进行填写。之所以使用英文名，是因为地图数据获取库OSMnx在获取数据时
+会使用OpenStreetMap的Nominatim API进行文本化模糊查询，此时如果发送中文文本，会偶尔发生查询失败
+的情况。
+\par
+然后我们通过程序\verb|script/data_fetcher.py|，将三个名录文件逐行读取，
+对每一个地点创建一个文件夹，文件夹名为地点英文名无空格形式（后将作为地点的规范化名称）。
+在获取数据时，程序将先调用Google Place API将地点的中文名、含有精准到地点的地址、
+Google Map上用户已有的评分获取存储。然后使用开源库
+\href{https://github.com/lehinevych/MediaWikiAPI}{MediaWikiAPI}
+以地点的中文名查找对应的维基界面并解析，得到地点的简短描述以及相关图片URL列表。
+之后，程序会创建一个JSON文件将这些信息存入。该JSON文件被称为info文件，其示例
+如下：
+\begin{minted}{json}
+    {
+    "place": {
+        "name": "北京邮电大学",
+        "address": "中国北京市海淀区北太平庄西土城路10号...",
+        "rating": 4.6,
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/...",
+            "..."
+        ],
+        "description": "北京邮电大学（英語：Beijing..."
+    }
+}
+\end{minted}
+由于某些维基界面维护过于完善，图片数量极多，故程序仅写入前10张JPEG图片的URL。
+\par
+之后，程序将调用OSMnx库，获取地点内部如下信息
+\begin{itemize}
+    \item graph：以地点中心半径2500m内的所有道路图，格式存为\verb|.graphml|
+    \item area: 地点所占据的区域多边形边界，格式存为\verb|.gpkg|
+    \item buildings: 地点内部的所有建筑，格式存为\verb|.gpkg|
+    \item amenity: 地点内部的所有设施信息，格式存为\verb|.gpkg|
+\end{itemize}
+数据格式的选择建议来源于OSMnx项目开发者维护的
+\href{https://github.com/gboeing/osmnx-examples/blob/main/notebooks/05-save-load-networks.ipynb}{Jupyter示例}。
+数据解析完成后，本地磁盘上存储的地图数据如下图所示：
+\begin{minted}{bash}
+D:\PROJECTS\DATASTRUCTURES_COURSE_PROJECT\MAP_DATA\PLACE_MAP_TEST
+├─Acropolis
+│      Acropolis_amenity.gpkg
+│      Acropolis_area.gpkg
+│      Acropolis_buildings.gpkg
+│      Acropolis_graph.graphml
+│      Acropolis_info.json
+│
+├─Auckland_Zoo
+│      Auckland_Zoo_amenity.gpkg
+│      Auckland_Zoo_area.gpkg
+│      Auckland_Zoo_buildings.gpkg
+│      Auckland_Zoo_graph.graphml
+│      Auckland_Zoo_info.json
+│
+...
+\end{minted}
+
+\subsection{数据解析}
+由于OSM地图是一个用户自行贡献的地图服务，有很多信息存在缺失，以致于
+在我们的测试之中影响到了程序的执行效率。并且，我们需要将这些信息转化为
+我们能够操作的类型，利于服务端程序的操作。因此，我们设计了数据解析程序
+\begin{itemize}
+    \item \verb|/script/data_parser/university_map_data_export.py|
+    \item \verb|/script/data_parser/speed_limit.py|
+\end{itemize}
+其中，\verb|university_map_data_export.py|程序将删除之前导入的地图文件夹
+中信息不完整的文件夹，并将主要的地图数据放入到一个Python字典对象
+\verb|map_basket|之中，该文件将供地图生成、路径规划模块使用，并会被序列化存储在本地磁盘。
+\verb|map_basket|对象的数据定义如下，具体定义需查阅文档：
+\begin{minted}{python}
+    map_basket = {"id": None, "name": None, "address": None, 
+    "description": None, "images": None, "rating": None, 
+    "popularity": None, "graph": None, "area": None, 
+    "building": None, "amenity": None, "route": None, 
+    "adj_list": None, "nd_list": None, "walk_speed": None, 
+    "bike_speed": None}
+\end{minted}
+
+
+然后，为方便服务端程序访问，不完全依赖与Python后端部分进行交互，解析程序
+还会将地点可文本化的信息，包括地点info文件内容以及地点内部设施列表存入一个新的
+JSON文件，这里称为map文件。同时，为避免数据重复出现，我们还实现了去重功能。一个
+典型的map文件格式如下
+\begin{minted}{json}
+{
+    "id": -3971377309287778807,
+    "name": "北京邮电大学",
+    "address": "中国...",
+    "rating": 4.6,
+    "popularity": 96,
+    "data_path": "map_data/university_map/...",
+    "description": "...",
+    "images": [
+        "..."
+    ],
+    "amenity": {
+        "affiliation": -3971377309287778807,
+        "amenity_list": [
+            {
+                "id": 2463866303,
+                "name": "可能感兴趣的地点",
+                "type": "post_box",
+                "latitude": 39.9599047,
+                "longitude": 116.3492655
+            },
+            {
+                "id": 3511264385,
+                "name": "零壹时光咖啡馆",
+                "type": "cafe",
+                "latitude": 39.9582958,
+                "longitude": 116.3505065
+            }
+        ]
+    }
+}
+\end{minted}
+注意到，这里其实生成了一个新的属性\verb|Popularity|，这个属性是
+由一个随机算法结合真实的评分生成的，但这个值会被用户访问所影响。
+\par
+解析完成之后，我们得到的目录如下图所示
+\begin{minted}{shell}
+D:\PROJECTS\DATASTRUCTURES_COURSE_PROJECT\MAP_DATA\MAP_EXPORTS
+├─Acropolis
+│      Acropolis_map.json
+│      Acropolis_sr.pickle
+│
+├─Auckland_Zoo
+│      Auckland_Zoo_map.json
+│      Auckland_Zoo_sr.pickle
+...
+\end{minted}
+另外，该程序中提供了一个函数\verb|update_traffic|，这个
+函数会根据时间更新道路的拥挤程度，其与\verb|speed_limit.py|
+共同得到地图中各道路的拥挤程度。
+
+
+\section{路径生成以及地图视图生成部分}
+\subsection{地图视图生成}
+地图视图生成模块依赖\verb|map_view_generator.py|，在上层Spring Boot框架
+创建该程序的一个进程后，会给其一个查询语句，查询语句包含希望查询的地点，用户
+希望的地点内部的浏览点以及计划的浏览策略和交通工具。然后就会将这些信息再传给
+路径生成程序，生成程序将路径传回，然后依据这个路径调用Geopandas中的explore
+功能生成基于Leaflet.js的一个互动性地图。
+
+\subsection{路径生成}
+路径生成模块依赖\verb|route_finder.py|。这个模块将读取用户传送来的众多途径点，
+利用A星算法
+生成一个点集，为路径图中所有点的集合，并生成一个二元组，分别存储着这条路径的长度以及
+用户选择的交通方式以及策略下经过这条路径所需的时间。
+这两个数据将被返回给地图视图生成模块，模块将依据路径图生成对应的路线。
+
+\subsection{路径优化}
+对于用户已生成的计划，该模块可以读取这个计划，将其转化为一个旅行商问题（TSP），
+然后利用Christofides算法求该问题的一个近似解，然后再把调整之后的浏览顺序传回生成模块，
+生成对应的视图。
+
+
+\section{Spring Boot后端架构}
+\subsection{概述}
+Spring Boot后端分为三层：Controller、Service、Mapper层。
+其三层的对应关系由下图给出：
+\begin{figure}[h]
+    \begin{center}
+        \begin{tikzpicture}[node distance=20pt]
+            \node[draw ] (fd) {前端};
+            \node[draw, below=of fd] (ctrl) {Controller}; 
+            \node[draw, below=of ctrl] (service) {Service};
+            \node[draw, below=of service] (mapper) {Mapper};
+            \node[draw, right=20pt of service] (py_g) {Python地图视图生成模块};
+            \node[draw, below=of mapper] (sql) {MySQL数据库};
+
+            \draw [<->] (fd) -- node[left]{REST API}(ctrl);
+            \draw [<->] (ctrl) -- (service);
+            \draw [<->] (service) -- (mapper);
+            \draw [<->] (mapper) -- node[left]{MyBatis}(sql);
+            \draw [<->] (service) -- (py_g);
+        \end{tikzpicture}
+    \end{center}
+\end{figure}
+
+\subsection{Controller层}
+在Controller层里，提供了全面的与前端交互的RESTful API。具体提供的API可在
+我们提供的项目文档中查到。目前该层主要提供了如下接口
+\begin{itemize}
+    \item 用户管理相关接口
+    \begin{itemize}
+        \item \verb|GET| 获取用户详细信息
+        \item \verb|PUT| 更新用户基本信息
+        \item \verb|PATCH| 更新用户头像
+        \item \verb|PATCH| 更新用户密码
+        \item \verb|POST| 登录
+        \item \verb|POST| 注册
+    \end{itemize}
+    \item 地图数据管理相关接口
+    \begin{itemize}
+        \item \verb|POST| 更新地图数据
+    \end{itemize}
+    \item 游学计划管理相关接口
+    \begin{itemize}
+        \item \verb|GET| 获取地点内场所
+        \item \verb|POST| 新增计划
+        \item \verb|DELETE| 删除计划
+        \item \verb|PUT| 更新计划
+        \item \verb|GET| 获取全部地点
+        \item \verb|GET| 获取已生成计划
+        \item \verb|GET| 选定场所周围场所
+        \item \verb|PUT| 更新计划为优化后计划
+    \end{itemize}
+    \item 游学日记管理相关接口
+    \begin{itemize}
+        \item \verb|GET| 社区列表
+        \item \verb|GET| 个人日记列表
+        \item \verb|POST| 新增日记
+        \item \verb|GET| 获取单个日记信息
+        \item \verb|PUT| 对某个日记评分
+        \item \verb|PUT| 更新日记
+    \end{itemize}
+\end{itemize}
+
+\subsection{Service层}
+在Service层中，将作为Controller层与Mapper层的桥梁，提供了对框架中各个实体类
+的具体操作，并且将这些操作通过调用Mapper层将其反映到数据库中。
+本程序提供了以下Service层接口：
+\begin{itemize}
+    \item \verb|DiaryService|
+    \item \verb|MapUpdateService|
+    \item \verb|PlanService|
+    \item \verb|UserService|
+\end{itemize}
+Controller层将控制一个或多个Service层的接口来进行操作。
+
+\subsection{Mapper层}
+在Mapper层中，将调用MyBatis持久层框架与该服务所连接的MySQL数据库进行交互。
+目前提供了如下几个Mapper接口：
+\begin{itemize}
+    \item \verb|DiaryMapper|
+    \item \verb|PlaceMapper|
+    \item \verb|PlanMapper|
+    \item \verb|UserMapper|
+    \item \verb|VenueMapper|
+\end{itemize}
+\par
+特别地，\verb|PlanService|将调用\verb|PlanMapper|、\verb|PlaceMapper|、
+\verb|VenueMapper|进行交互，因为用户对后两个类型仅限查询操作，为避免过于复杂的
+程序结构，故如此设计。
+
+\subsection{实体类定义}
+程序目前使用到了如下实体类
+\begin{itemize}
+    \item \verb|Diary| 日记类
+    \item \verb|Place| 地点类（景区类）
+    \item \verb|Plan| 游学计划类
+    \item \verb|User| 用户类
+    \item \verb|Venue| 地点场所类
+\end{itemize}
+具体的实体类定义可在项目文档中查到。
+
+\subsection{Util类}
+目前提供了如下工具类
+\begin{itemize}
+    \item \verb|GZipUtils| 提供了字符串压缩功能
+    \item \verb|JwtUtil| 提供了JWT令牌生成验证功能
+    \item \verb|MapViewGenerationUtil| 提供了与Python地图生成模块通信功能
+    \item \verb|Md5Util| MD5加密功能
+    \item \verb|NearestVenueUtil| 按距离筛选场所功能
+    \item \verb|ThreadLocalUtil| 提供全局变量存取功能
+\end{itemize}
+
+\section{MySQL数据库模块}
+\subsection{概述}
+MySQL数据库中，除了存储了相应的实体类之外，还存储了之前地图数据解析后生成的map文件中的
+数据，供用户使用。
+\subsection{数据库表结构}
+我们使用的数据库表结构如图：
+\begin{figure}[h]
+    \begin{center}
+        \includegraphics*[width=0.5\textwidth]{figure/db.png}
+    \end{center}
+    
+\end{figure}
+\par
+其中，map文件中的数据将被分开并存入\verb|place|表和\verb|venue|表。
+
+\section{前端模块}
+\subsection{概述}
+本项目的前端模块采用流行的Vue 3框架进行开发，具体的项目树状图如下
+\begin{minted}{bash}
+    Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          2024/6/5     12:32                .vite
+d-----          2024/6/5     16:05                node_modules
+d-----          2024/6/5     12:29                public
+d-----          2024/6/5     12:29                src
+-a----          2024/6/5     12:29            347 .gitignore
+-a----          2024/6/5     12:29            344 index.html
+-a----          2024/6/5     12:29            155 jsconfig.json
+-a----          2024/6/5     16:05          70871 package-lock.json
+-a----          2024/6/5     16:05            545 package.json
+-a----          2024/6/5     12:29            542 README.md
+-a----          2024/6/5     12:29            683 vite.config.js
+\end{minted}
+\subsection{项目组件}
+项目组件分布在\verb|@/views|目录下，主要分为以下几个模块
+\begin{itemize}
+    \item 用户相关组件
+    \begin{itemize}
+        \item \verb|LoginVue| 登录界面
+        \item \verb|UserAvatarVue| 用户头像页面
+        \item \verb|UserInfoVue| 用户信息页面
+        \item \verb|UserResetPasswordVue| 用户重置密码页面
+    \end{itemize}
+    \item 日记相关组件
+    \begin{itemize}
+        \item \verb|DiaryManage| 日记管理页面
+        \item \verb|ShowDiaryVue| 用户头像页面
+    \end{itemize}
+    \item 社区相关组件
+    \begin{itemize}
+        \item \verb|CommunityVue| 社区页面
+    \end{itemize}
+    \item 计划相关组件
+    \begin{itemize}
+        \item \verb|PlanManageVue| 计划管理页面
+        \item \verb|PlanWorkBench| 计划工作台页面
+        \item \verb|SelectLocation| 选择位置页面
+        \item \verb|ShowPlanVue| 显示计划页面
+        \item \verb|PlanEditVue| 编辑计划页面
+    \end{itemize}
+    \item 布局组件
+    \begin{itemize}
+        \item \verb|LayoutVue| 布局页面
+    \end{itemize}
+\end{itemize}
+\subsection{路由配置}
+路由配置主要有以下几个部分
+\begin{itemize}
+    \item \verb|/login| 路由对应 \verb|LoginVue| 组件。
+    \item \verb|/home| 路由对应 \verb|LayoutVue| 组件。
+    \item \verb|/| 路由对应 \verb|LayoutVue| 组件，默认重定向到 \verb|/home|，并包含多个子路由：
+    \begin{itemize}
+      \item \verb|/user/avatar| 对应 \verb|UserAvatarvue|
+      \item \verb|/user/info| 对应 \verb|UserInfoVue|
+      \item \verb|/user/resetPassword| 对应 \verb|UserResetPasswordVue|
+      \item \verb|/community| 对应 \verb|CommunityVue|
+      \item \verb|/user/diaryManage| 对应 \verb|DiaryManage|
+      \item \verb|/plan/planManagement| 对应 \verb|PlanManageVue|
+      \item \verb|/plan/PlanWorkbench| 对应 \verb|PlanWorkBench|
+      \item \verb|/diary/show| 对应 \verb|ShowDiaryVue|
+      \item \verb|/plan/show| 对应 \verb|ShowPlanVue|
+      \item \verb|/plan/edit| 对应 \verb|PlanEditVue|
+    \end{itemize}
+\end{itemize}
+
+
+\chapter{完成的所有功能}
+\section{游学选择功能}
+\begin{table}[!ht]
+    \centering
+    \begin{tabularx}{\textwidth}{|c|X|}
+    \hline
+        \textbf{功能} & \textbf{完成情况} \\ \hline
+        地点数 & 含有144个设施完备的地点 \\ \hline
+        场所数 & 13761个场所建筑 \\ \hline
+        设施类型 & 至多39种 \\ \hline
+    \end{tabularx}
+\end{table}
+\begin{figure}[h]
+    \begin{center}
+        \includegraphics*[width=\textwidth]{figure/2.1.png}
+    \end{center}
+    \caption{游学选择界面}
+\end{figure}
+
+\section{游学推荐}
+\begin{table}[!ht]
+    \centering
+    \begin{tabularx}{\textwidth}{|c|X|}
+    \hline
+        \textbf{功能} & \textbf{完成情况} \\ \hline
+        游学目的地展示 & 可分页展示游学目的地，并提供图文简介 \\ \hline
+        推荐功能 & 可根据当前地点的评分和热度进行推荐 \\ \hline
+        查询功能 & 可提供地址、地点名称模糊化查询 \\ \hline
+    \end{tabularx}
+\end{table}
+\begin{figure}[!ht]
+    \begin{center}
+        \includegraphics*[width=\textwidth]{figure/2.2.png}
+    \end{center}
+    \begin{center}
+        \includegraphics*[width=\textwidth]{figure/2.2-dt.png}
+    \end{center}
+    \begin{center}
+        \includegraphics*[width=\textwidth]{figure/2.2-fl.png}
+    \end{center}
+    \caption{游学推荐界面}
+\end{figure}
+
+
+\section{场所查询}
+\begin{table}[!ht]
+    \centering
+    \begin{tabularx}{\textwidth}{|c|X|}
+        \hline
+        \textbf{功能} & \textbf{完成情况} \\ \hline
+        设施展示 & 可分页展示选择地点内部各类设施 \\ \hline
+        范围排序 & 用户可选定一个设施之后指定查询半径，然后系统将按距离给出结果 \\ \hline
+        过滤 & 设施可通过设施类型、名称进行过滤 \\ \hline
+    \end{tabularx}
+\end{table}
+\begin{figure}[h]
+    \begin{center}
+        \includegraphics*[width=\textwidth]{figure/2.3-qr.png}
+        \includegraphics*[width=\textwidth]{figure/2.3-fl1.png}
+        \includegraphics*[width=\textwidth]{figure/2.3-fl2.png}
+    \end{center}
+    \caption{场所查询界面}
+\end{figure}
+
+\section{游学日记管理}
+\begin{table}[!ht]
+    \centering
+    \begin{tabularx}{\textwidth}{|c|X|}
+        \hline
+        \textbf{功能} & \textbf{完成情况} \\ \hline
+        游学日记展示 & 用户可分页查询公开的游学日记 \\ \hline
+        评分功能 & 用户可对不同的日记进行评分 \\ \hline
+        过滤 & 用户可通过游学日记所写的地点进行过滤检索 \\ \hline
+        推荐 & 用户会被优先推荐热度比较高的日记 \\ \hline
+        压缩存储功能 & 日记在被用户提交给后端后，后端会自动对该日记进行压缩处理 \\ \hline
+    \end{tabularx}
+    
+\end{table}
+\begin{figure}[h]
+    \begin{center}
+        \includegraphics*[width=\textwidth]{figure/2.4-dr.png}
+        \includegraphics*[width=\textwidth]{figure/2.4-fl.png}
+        \includegraphics*[width=\textwidth]{figure/2.4-ed.png}
+    \end{center}
+    \caption{游学日记管理界面}
+\end{figure}
+
+\section{游学路线规划}
+\begin{table}[!ht]
+    \centering
+    \begin{tabularx}{\textwidth}{|c|X|}
+        \hline
+        \textbf{功能} & \textbf{完成情况} \\ \hline
+        指定游学线路 & 用户可以输入自己想要的浏览顺序获得路线 \\ \hline
+        线路规划策略 & 提供距离优先以及时间优先两种策略，会根据系统时间调整拥挤程度 \\ \hline
+        交通工具选择 & 用户可以选择自行车出行或步行 \\ \hline
+        线路优化 & 系统生成TSP问题的一个近似解，在用户需要时自动为用户优化游学计划 \\ \hline
+        游学路线展示 & 提供可互动地图，用户可以查看互动地图内容来进行路线导航 \\ \hline
+    \end{tabularx}
+\end{table}
+\begin{figure}[h]
+    \begin{center}
+        \includegraphics*[width=\textwidth]{figure/2.5-pl.png}
+        \includegraphics*[width=\textwidth]{figure/2.5-ed.png}
+        \includegraphics*[width=\textwidth]{figure/2.5-opt.png}
+    \end{center}
+    \caption{游学计划优化界面}
+\end{figure}
+
+\chapter{使用算法及其分析}
+\section{路径生成模块}
+该模块实现了在不同策略以及交通工具下给出两点间一条最优路径的功能。
+\par
+景区学校内部的各条道路根据类型拥有不同的权值，权值计算由如下代码给出。
+\begin{minted}{python}
+nodes = ox.graph_to_gdfs(map_basket["graph"], edges=False).fillna("")
+edges = ox.graph_to_gdfs(map_basket["graph"], nodes=False).fillna("")
+walk_speed = [] # 步行速度
+bike_speed = [] # 骑行速度
+for idx, rows in edges.iterrows():
+    if (type(rows['highway']) == list):
+            rows['highway'] = rows['highway'][0] # 如果该路具有多种类型，则选择第一种路径
+    
+    # 该条边的步行速度由speed_limit脚本给出
+    walk_speed.append(speed_limit.get_speed(0, rows['highway']))
+    bike_speed.append(speed_limit.get_speed(1, rows['highway']))
+    
+edges["walk_speed"] = walk_speed
+edges["bike_speed"] = bike_speed
+\end{minted}
+而用于获取相关道路限速的脚本代码如下
+\begin{minted}{python}
+def get_speed(transport, street_type):
+# 对字典中的值进行加上偏移量
+
+if transport == 0:
+    # 当在早晚高峰时段路越宽越拥挤，但对行人影响较小
+    # 行人默认速度为1.3m/s
+    try:
+        return 1.3 + (-0.007 if rush_hour else 0.005) * street_types_dict[street_type]
+    except:
+        return 1.3 + (-0.007 if rush_hour else 0.005) * street_types_dict['residential']
+else:
+    # 当在早晚高峰时段路越宽越拥挤，相同的拥挤程度下对自行车影响较大
+    # 自行车默认速度为3m/s
+    try:
+        return 3 + (-0.01 if rush_hour else 0.02) * street_types_dict[street_type]
+    except:
+        return 3 + (-0.01 if rush_hour else 0.02) * street_types_dict['residential']
+\end{minted}
+相关变量\verb|rush_hour|会在系统时间7-9时和16-18时被置为\verb|true|，代表当前处于早晚高峰时段。
+\subsection{算法介绍}
+有了权值，我们就需要选择一个寻路算法来给出一条最优路径。由于我们使用的数据中，某些景区学校内部的
+点数边数可达到$10^4$这一级别，使用Dijkstra算法需要每次算出整个图中每点间的最短距离，显然这是及其
+耗费计算资源的。因此，我们采用了A*算法，一种用于图搜索和路径寻找的启发式算法。A*算法
+结合了Dijkstra算法和贪心最佳优先搜索的优点，能够在找到最优路径的同时保持较高的效率。
+\par
+A*相较于传统的Dijkstra算法，其特点是会对每一个待探索的节点计算一个估计值$f(n)$，其估计值计算方法为
+$$
+f(n)=g(n)+h(n)
+$$
+其中，$g(n)$为起点到当前节点的实际代价（由上文中预先计算好的权值给出），$h(n)$为当前节点到
+目标节点的估计代价，由启发式函数给出。
+\subsection{算法步骤}
+\begin{enumerate}
+    \item \textbf{初始化}：将起点节点放入开放列表（open list），并初始化起点的 $g(n)$ 和 $f(n)$ 值。
+    \item \textbf{主循环}：
+    \begin{enumerate}
+        \item 从开放列表中选取 $f(n)$ 值最小的节点作为当前节点。
+        \item 如果当前节点是目标节点，则搜索结束，路径已找到。
+        \item 否则，将当前节点移到关闭列表（closed list），表示已处理。
+        \item 对于当前节点的每个相邻节点，计算其 $g(n)$ 和 $f(n)$ 值。如果该相邻节点未在开放列表中，则将其添加进去；如果已经在开放列表中但新的路径代价更小，则更新其 $g(n)$ 和 $f(n)$ 值。
+    \end{enumerate}
+    \item \textbf{重复}：重复上述过程，直到开放列表为空（表示没有路径）或找到目标节点。
+\end{enumerate}
+其中，我们的启发式函数由以下代码给出：
+\begin{minted}{python}
+def heuristic(node, target, strategy):
+    x1, y1 = node
+    x2, y2 = target
+    return 0 if strategy == TIME_FIRST else abs(x1 - x2) + abs(y1 - y2)
+\end{minted}
+在距离优先策略下，我们的启发式函数将返回两点间的曼哈顿距离。
+而如果采用时间优先策略，由于难以从两个图中的点之间获得拥挤度信息，
+启发式函数将直接返回0，也就是说在时间优先策略下我们的A*算法将变为普通的Dijkstra算法。
+\subsection{算法时间复杂度分析}
+\begin{itemize}
+    \item \textbf{最坏情况}：在最坏情况下，A*算法可能会退化为遍历所有节点，这样的情况可能发生在启发式函数不能有效地引导搜索（如曼哈顿距离在障碍物很多的情况下）。在这种情况下，时间复杂度接近于广度优先搜索（BFS），为 $O(b^d)$，其中 $b$ 是每个节点的分支因子，$d$ 是从起点到目标节点的深度。
+    \item \textbf{平均情况}：在实际应用中，曼哈顿距离通常能有效地引导搜索，使得算法无需遍历所有节点，因此平均时间复杂度通常要优于最坏情况。然而，准确的平均时间复杂度很难给出，因为它依赖于具体问题的结构和启发式函数的有效性。
+\end{itemize}
+\subsection{算法空间复杂度分析}
+空间复杂度主要取决于开放列表和关闭列表的大小。在最坏情况下，A*算法可能需要存储所有节点，
+因此空间复杂度为 $O(b^d)$。
+\subsection{算法优缺点分析}
+\paragraph*{优点}
+\begin{itemize}
+    \item 能找到从起点到目标节点的最优路径。
+    \item 算法的效率和路径质量可以通过合理设计启发式函数来平衡。
+\end{itemize}
+\paragraph*{缺点}
+\begin{itemize}
+    \item 由于需要维护开放列表和关闭列表，A*算法在空间复杂度上可能较高。
+    \item 启发式函数的设计需要根据具体应用进行调整，且不当的启发式函数可能会导致算法效率下降。
+\end{itemize}
+
+\section{路径优化模块}
+在用户给出一系列想要访问的景点内部设施时，系统可以自动帮其进行优化，生成一条更省时或省力的路线。
+实现的思路是帮助用户调整浏览顺序，尽量使总权值最小。这其实是一个典型的旅行商问题（TSP），这里，我们
+采用了Christofides算法来解决TSP问题。
+\subsection{算法介绍}
+Christofides算法是一种用于解决旅行商问题（Traveling Salesman Problem, TSP）的近似算法。
+旅行商问题是一类NP难问题，要求找到一条经过给定一组城市的最短回路，使得每个城市恰好经过一次并且最终回到起点城市。
+Christofides算法在计算理论和应用中有重要地位，因为它提供了一个在某些情况下具有良好性能保证的近似解。
+\subsection{算法步骤}
+由于TSP问题是在一个完全图上构建的，因此我们需要先求出逐对设施之间的最短距离，然后构建出一个完全图。
+\par
+Christofides算法主要用于欧几里得旅行商问题（TSP），即设施之间的距离满足三角不等式。该算法通过以下几个步骤找到一个近似解：
+\begin{enumerate}
+    \item \textbf{构建最小生成树（MST）}：
+    \begin{itemize}
+        \item 从给定的设施集合中构建最小生成树。最小生成树是一棵覆盖所有节点且边权和最小的树。
+    \end{itemize}
+
+    \item \textbf{找出奇度顶点}：
+    \begin{itemize}
+        \item 在最小生成树中，找出所有度数为奇数的顶点。
+    \end{itemize}
+
+    \item \textbf{最小匹配}：
+    \begin{itemize}
+        \item 在找出的奇度顶点之间进行最小权匹配，即找到使匹配边权和最小的边集，使得所有奇度顶点的度数变为偶数。
+    \end{itemize}
+
+    \item \textbf{合并边集}：
+    \begin{itemize}
+        \item 将最小生成树的边与最小匹配的边合并，形成一个欧拉图。该图中的所有顶点的度数都是偶数。
+    \end{itemize}
+
+    \item \textbf{寻找欧拉回路}：
+    \begin{itemize}
+        \item 在欧拉图中寻找一条欧拉回路，该回路经过每条边一次。
+    \end{itemize}
+
+    \item \textbf{形成哈密顿回路}：
+    \begin{itemize}
+        \item 将欧拉回路转换为哈密顿回路，即去掉回路中重复访问的节点，形成一个经过每个节点一次的回路。
+    \end{itemize}
+\end{enumerate}
+\subsection{算法时间复杂度}
+
+Christofides算法由以下几个步骤组成，每个步骤的时间复杂度分别如下：
+
+\begin{enumerate}
+    \item \textbf{构建最小生成树（MST）}：
+    \begin{itemize}
+        \item 使用Kruskal或Prim算法构建最小生成树。\\
+        两者的时间复杂度均为 $O(E \log V)$，其中 $E$ 是图中的边数，$V$ 是图中的顶点数。
+    \end{itemize}
+
+    \item \textbf{找出奇度顶点}：
+    \begin{itemize}
+        \item 遍历最小生成树的顶点以找出所有奇度顶点，时间复杂度为 $O(V)$。
+    \end{itemize}
+
+    \item \textbf{最小匹配}：
+    \begin{itemize}
+        \item 在奇度顶点集合中进行最小权匹配。使用匈牙利算法或其他有效算法，时间复杂度为 $O(V^3)$，其中 $V$ 是奇度顶点的数量（最多为原图顶点数量的一半）。
+    \end{itemize}
+
+    \item \textbf{合并边集}：
+    \begin{itemize}
+        \item 合并最小生成树的边和最小匹配的边，时间复杂度为 $O(E)$。
+    \end{itemize}
+
+    \item \textbf{寻找欧拉回路}：
+    \begin{itemize}
+        \item 在欧拉图中寻找欧拉回路，使用Hierholzer算法，时间复杂度为 $O(E)$。
+    \end{itemize}
+
+    \item \textbf{形成哈密顿回路}：
+    \begin{itemize}
+        \item 将欧拉回路转换为哈密顿回路，时间复杂度为 $O(V)$。
+    \end{itemize}
+\end{enumerate}
+
+综上所述，Christofides算法的总时间复杂度为：
+\[ O(E \log V + V^3) \]
+
+在稠密图中，边数 $E$ 接近于 $V^2$，此时时间复杂度可以简化为：
+\[ O(V^3) \]
+
+\subsection{算法空间复杂度}
+
+Christofides算法的空间复杂度主要取决于需要存储的图的边和顶点。一般情况下，算法需要存储以下数据结构：
+
+\begin{itemize}
+    \item 原始图的边和顶点，空间复杂度为 $O(V + E)$。
+    \item 最小生成树，空间复杂度为 $O(V)$。
+    \item 奇度顶点集合，空间复杂度为 $O(V)$。
+    \item 最小匹配结果，空间复杂度为 $O(V)$。
+    \item 欧拉回路，空间复杂度为 $O(E)$。
+\end{itemize}
+
+因此，Christofides算法的空间复杂度为：
+\[ O(V + E) \]
+
+在稠密图中，边数 $E$ 接近于 $V^2$，此时空间复杂度可以简化为：
+\[ O(V^2) \]
+
+\subsection{算法优势分析}
+
+\paragraph{暴力搜索的劣势}
+
+暴力搜索尝试所有可能的路径来找到最短路径，因此其时间复杂度为 $O(n!)$，其中 $n$ 是场所的数量。随着场所数量的增加，计算量会迅速变得不可承受。因此，暴力搜索仅适用于非常小规模的问题：
+
+\begin{enumerate}
+    \item \textbf{计算复杂度}：暴力搜索的计算复杂度为 $O(n!)$，对于稍大的 $n$，计算时间会迅速变得无法接受。
+    \item \textbf{不适用大规模问题}：暴力搜索无法处理实际应用中的大规模 TSP 实例。
+\end{enumerate}
+
+\paragraph{贪心算法的劣势}
+
+贪心算法通过每一步选择当前最优解来构建路径。虽然它计算效率高，但无法保证找到全局最优解：
+
+\begin{enumerate}
+    \item \textbf{次优解}：贪心算法通常只能找到次优解，无法保证路径是全局最优的。
+    \item \textbf{局部最优}：贪心算法容易陷入局部最优，从而导致整体路径长度并不最短。
+\end{enumerate}
+
+\paragraph{Christofides 算法的优势}
+
+Christofides 算法是一种近似算法，具有较好的性能保证和计算复杂度，特别适用于欧几里得图中的 TSP 问题：
+
+\begin{enumerate}
+    \item \textbf{近似最优解}：Christofides 算法能够保证找到的路径长度不超过最优解的 1.5 倍。这一性能保证使其在许多实际应用中具有很高的实用性。
+    \item \textbf{多项式时间复杂度}：Christofides 算法的时间复杂度为 $O(n^3)$，远低于暴力搜索的指数级复杂度，适合处理更大规模的问题。
+    \item \textbf{稳定性}：算法利用最小生成树、最小权完美匹配等稳定性良好的子步骤，确保结果接近最优解。
+\end{enumerate}
+
+\section{基于热度的排序算法}
+项目中，游学目的地、目的地内设施、游学日记均支持按热度从高到低排序的功能。
+这一功能实现均基于MySQL中\verb|ORDER BY|关键字使用的排序算法。
+\subsection{算法介绍}
+在MySQL中，\verb|ORDER BY| 关键字的优化主要依赖于索引和有效的排序算法。MySQL会优先利用单列索引或复合索引来加快排序。
+如果无法使用索引，MySQL可能使用内存或磁盘临时表以及文件排序（包括单次排序和双次排序）来完成排序操作。
+对于非常大的数据集，MySQL会采用外排序算法，通过分块和归并方式处理。
+使用 \verb|LIMIT| 子句可以显著减少排序资源。
+此外，针对 \verb|InnoDB| 存储引擎，如果排序列是主键，MySQL可以利用聚簇索引直接读取排序后的数据。
+通过合理的索引设计、减少排序列、使用 \verb|LIMIT| 子句等方式，可以进一步优化 \verb|ORDER BY| 操作的性能。
+\subsection{算法步骤}
+\begin{enumerate}
+    \item \textbf{索引优化}：
+    \begin{itemize}
+        \item \textbf{单列索引}：如果排序列是单列并且该列有索引，MySQL可以直接使用索引来获取排序后的数据。
+        \item \textbf{多列索引}：对于多个列的排序，如果这些列组合在一起有索引（复合索引），MySQL也可以利用该索引进行排序。
+    \end{itemize}
+    
+    \item \textbf{使用临时表}：
+    \begin{itemize}
+        \item \textbf{内存临时表}：适用于较小的数据集，能够在内存中完成排序，速度较快。
+        \item \textbf{磁盘临时表}：对于较大的数据集，MySQL可能会将临时表存储在磁盘上，这种方式会比内存临时表慢一些。
+    \end{itemize}
+    
+    \item \textbf{文件排序}：
+    这是MySQL在无法使用索引进行排序时的默认排序算法。
+    \begin{itemize}
+        \item \textbf{单次排序（One-Pass Sort）}：如果排序数据量较小，MySQL会在一次扫描中完成排序。
+        \item \textbf{双次排序（Two-Pass Sort）}：对于较大的数据集，MySQL会先读取排序键和指针进行排序，然后再根据排序后的指针读取实际数据。
+    \end{itemize}
+    
+    \item \textbf{限制返回行数（LIMIT）}：
+    使用 \verb|LIMIT| 子句可以显著减少排序所需的资源。例如，当你只需要前N条记录时，MySQL会在排序过程中仅维护这N条记录，从而节省内存和CPU资源。
+    
+    \item \textbf{外排序（External Sort）}：
+    当数据集非常大，无法在内存中完成排序时，MySQL会采用外排序算法。外排序通过将数据分成多个块，每个块独立排序并存储在磁盘上，然后进行多路归并排序来生成最终的排序结果。
+    
+    \item \textbf{排序优化提示}：
+    使用 \verb|SQL_NO_CACHE| 提示可以避免查询缓存，确保排序操作不受缓存影响，适用于一些特殊场景。
+    
+    \item \textbf{聚簇索引}：
+    对于 \verb|InnoDB| 存储引擎，如果排序列是主键，InnoDB可以利用聚簇索引来直接读取排序后的数据。
+\end{enumerate}
+\subsection{算法时间复杂度}
+\begin{enumerate}
+    \item \textbf{索引优化}：
+    \begin{itemize}
+        \item \textbf{单列索引}：当排序列是单列且有索引时，MySQL可以直接使用索引进行排序。索引通常是B树结构，能够高效地按序访问数据行。算法复杂度为 $O(\log N)$，其中 $N$ 是数据行数。
+        \item \textbf{多列索引}：对于多个列的排序，如果这些列组合在一起有复合索引，MySQL可以利用该索引进行排序。复合索引同样基于B树结构，复杂度为 $O(\log N)$。
+    \end{itemize}
+    
+    \item \textbf{使用临时表}：
+    \begin{itemize}
+        \item \textbf{内存临时表}：适用于较小的数据集，MySQL会将结果存储在内存临时表中并进行排序。排序算法通常为快速排序或归并排序，复杂度为 $O(N \log N)$。
+        \item \textbf{磁盘临时表}：对于较大的数据集，MySQL会将结果存储在磁盘临时表中进行排序。虽然排序算法仍然是快速排序或归并排序，但由于磁盘I/O操作，性能会受影响。复杂度仍为 $O(N \log N)$，但实际速度可能较慢。
+    \end{itemize}
+    
+    \item \textbf{文件排序}：
+    \begin{itemize}
+        \item \textbf{单次排序（One-Pass Sort）}：如果排序数据量较小，MySQL会在一次扫描中完成排序。算法通常为内存中的快速排序，复杂度为 $O(N \log N)$。
+        \item \textbf{双次排序（Two-Pass Sort）}：对于较大的数据集，MySQL会先读取排序键和指针进行排序，然后再根据排序后的指针读取实际数据。这涉及两次排序和数据访问，复杂度为 $O(N \log N)$，但增加了额外的读写操作。
+    \end{itemize}
+    
+    \item \textbf{限制返回行数（LIMIT）}：
+    使用 \verb|LIMIT| 子句可以显著减少排序所需的资源。例如，当只需要前N条记录时，MySQL会在排序过程中仅维护这N条记录。算法为部分排序或堆排序，复杂度为 $O(N \log K)$，其中 $K$ 是 \verb|LIMIT| 的值。
+    
+    \item \textbf{外排序（External Sort）}：
+    当数据集非常大，无法在内存中完成排序时，MySQL会采用外排序算法。外排序通过将数据分成多个块，每个块独立排序并存储在磁盘上，然后进行多路归并排序来生成最终的排序结果。每个块的排序复杂度为 $O(N \log N)$，多路归并复杂度为 $O(N \log M)$，总体复杂度为 $O(N \log N)$，但由于多次磁盘I/O，实际性能会受影响。
+    
+    \item \textbf{排序优化提示}：
+    使用 \verb|SQL_NO_CACHE| 提示可以避免查询缓存，确保排序操作不受缓存影响，适用于一些特殊场景。虽然这不会改变时间复杂度，但可以避免缓存导致的潜在性能问题。
+    
+    \item \textbf{聚簇索引}：
+    对于 \verb|InnoDB| 存储引擎，如果排序列是主键，InnoDB可以利用聚簇索引来直接读取排序后的数据。聚簇索引同样基于B树结构，复杂度为 $O(\log N)$。
+\end{enumerate}
+\subsection{算法空间复杂度}
+\begin{enumerate}
+    \item \textbf{索引优化}：
+    \begin{itemize}
+        \item \textbf{单列索引}：当排序列是单列且有索引时，MySQL可以直接使用索引进行排序。索引通常是B树结构，需要存储所有索引键和指向数据行的指针。空间复杂度为 $O(N)$，其中 $N$ 是数据行数。
+        \item \textbf{多列索引}：对于多个列的排序，如果这些列组合在一起有复合索引，MySQL也可以利用该索引进行排序。复合索引同样基于B树结构，空间复杂度为 $O(N)$。
+    \end{itemize}
+    
+    \item \textbf{使用临时表}：
+    \begin{itemize}
+        \item \textbf{内存临时表}：适用于较小的数据集，MySQL会将结果存储在内存临时表中并进行排序。排序算法通常为快速排序或归并排序，空间复杂度为 $O(N)$，用于存储排序结果。
+        \item \textbf{磁盘临时表}：对于较大的数据集，MySQL会将结果存储在磁盘临时表中进行排序。虽然排序算法仍然是快速排序或归并排序，但由于磁盘I/O操作，性能会受影响。空间复杂度为 $O(N)$，用于存储排序结果。
+    \end{itemize}
+    
+    \item \textbf{文件排序}：
+    \begin{itemize}
+        \item \textbf{单次排序（One-Pass Sort）}：如果排序数据量较小，MySQL会在一次扫描中完成排序。算法通常为内存中的快速排序，空间复杂度为 $O(N)$，用于存储排序结果。
+        \item \textbf{双次排序（Two-Pass Sort）}：对于较大的数据集，MySQL会先读取排序键和指针进行排序，然后再根据排序后的指针读取实际数据。这涉及两次排序和数据访问，空间复杂度为 $O(N)$。
+    \end{itemize}
+    
+    \item \textbf{限制返回行数（LIMIT）}：
+    使用 \verb|LIMIT| 子句可以显著减少排序所需的资源。例如，当只需要前N条记录时，MySQL会在排序过程中仅维护这N条记录。算法为部分排序或堆排序，空间复杂度为 $O(K)$，其中 $K$ 是 \verb|LIMIT| 的值。
+    
+    \item \textbf{外排序（External Sort）}：
+    当数据集非常大，无法在内存中完成排序时，MySQL会采用外排序算法。外排序通过将数据分成多个块，每个块独立排序并存储在磁盘上，然后进行多路归并排序来生成最终的排序结果。每个块的排序空间复杂度为 $O(M)$，总体复杂度为 $O(N)$，其中 $M$ 是每个块的大小。
+    
+    \item \textbf{排序优化提示}：
+    使用 \verb|SQL_NO_CACHE| 提示可以避免查询缓存，确保排序操作不受缓存影响，适用于一些特殊场景。空间复杂度不会改变，但能避免缓存导致的潜在性能问题。
+    
+    \item \textbf{聚簇索引}：
+    对于 \verb|InnoDB| 存储引擎，如果排序列是主键，InnoDB可以利用聚簇索引来直接读取排序后的数据。聚簇索引同样基于B树结构，空间复杂度为 $O(N)$。
+\end{enumerate}
+\subsection{算法优缺点分析}
+由于该算法是MySQL内置算法，各算法间基本的取舍已在上文给出，本节将不再赘述。
+
+\section{按名称搜索字符串模糊匹配算法}
+在本项目中，个人日记、计划名称，游学目的地名称、场所均支持按名称或地址搜索功能。其背后的算法
+均基于MySQL中\verb|LIKE|关键字背后的实现算法。
+\subsection{算法介绍}
+在MySQL中，\verb|LIKE|关键字用于实现模式匹配搜索。当您使用\verb|LIKE|进行查询时，例如\verb|SELECT * FROM table WHERE column LIKE '\%value\%'|，MySQL会在指定的列中搜索与模式匹配的字符串。
+如果模式以通配符\verb|\%|开始和结束，比如\verb|'\%value\%'|，MySQL将使用Turbo Boyer-Moore算法来初始化字符串的模式，然后使用这个模式来更快地执行搜索。这种情况下，索引通常不会被使用，因为搜索模式以通配符开始。
+如果模式不是以通配符开始，例如\verb|'value\%'|，MySQL可以利用B-Tree索引来提高搜索效率。
+在这种情况下，MySQL会预先过滤行，只考虑匹配模式的行。例如，对于查询\verb|SELECT * FROM tbl\_name WHERE key\_col LIKE 'value\%'|，MySQL只会考虑\verb|'value' <= key\_col < 'valuf'|的行。
+\par
+本节将主要介绍Turbo Boyer-Moore算法。Turbo Boyer-Moore 算法是一种改进的字符串匹配算法，是 Boyer-Moore (BM) 算法的变种。
+Boyer-Moore 算法本身是一个高效的字符串匹配算法，在实际应用中非常流行。
+Turbo Boyer-Moore 通过进一步优化，旨在提高匹配速度，特别是在处理某些类型的输入时。
+Turbo Boyer-Moore 算法的核心思想是：
+\begin{enumerate}
+    \item \textbf{使用标准的坏字符启发和好后缀启发}：Turbo Boyer-Moore 继承了 Boyer-Moore 的这两个基本启发式方法。
+    \item \textbf{Turbo Shift}：如果在一次比较中没有找到匹配的后缀，Turbo Boyer-Moore 算法会计算一个额外的移动距离，称为 Turbo Shift。这是基于前一次匹配后缀的位置来进一步跳过一些字符，从而减少不必要的比较。
+    \item \textbf{模式的预处理}：在进行匹配之前，模式字符串会被预处理以建立坏字符表和好后缀表。这些表用于快速计算每一步的移动距离。
+\end{enumerate}
+
+\subsection{算法步骤}
+
+\begin{enumerate}
+    \item \textbf{预处理阶段}：
+    \begin{itemize}
+        \item 构建坏字符表和好后缀表。
+        \item 初始化 Turbo Shift 值。
+    \end{itemize}
+    \item \textbf{匹配阶段}：
+    \begin{itemize}
+        \item 将模式与文本对齐，从右向左比较字符。
+        \item 如果出现不匹配，根据坏字符启发和好后缀启发计算移动距离。
+        \item 根据 Turbo Shift 计算进一步的移动距离，并调整模式在文本中的位置。
+        \item 继续匹配直到找到所有出现或文本扫描完毕。
+    \end{itemize}
+\end{enumerate}
+
+\subsection{时间复杂度分析}
+\begin{enumerate}
+    \item \textbf{预处理阶段}：
+
+    \begin{itemize}
+        \item \textbf{坏字符表}：构建坏字符表的时间复杂度为 $O(M + \sigma)$，其中 $M$ 是模式字符串的长度，$\sigma$ 是字符集的大小。一般情况下，字符集的大小是固定的，比如 ASCII 字符集的大小是 256，因此这一部分的复杂度可以简化为 $O(M)$。
+        
+        \item \textbf{好后缀表}：构建好后缀表的时间复杂度为 $O(M)$。
+        
+        \item \textbf{Turbo Shift 值的初始化}：这是一个额外的预处理步骤，通常与好后缀表的构建时间相似，复杂度为 $O(M)$。
+    \end{itemize}
+    
+    所以，预处理阶段的总时间复杂度为 $O(M)$。
+
+    \item \textbf{匹配阶段}：
+
+    Turbo Boyer-Moore 算法在匹配阶段结合使用坏字符启发、好后缀启发以及 Turbo Shift，以下是具体分析：
+
+    \begin{itemize}
+        \item \textbf{坏字符启发}：在每次字符不匹配时，通过查找坏字符表来决定模式字符串向右移动的距离。查找坏字符表的时间复杂度为 $O(1)$。
+        
+        \item \textbf{好后缀启发}：在每次字符不匹配时，通过查找好后缀表来决定模式字符串向右移动的距离。查找好后缀表的时间复杂度为 $O(1)$。
+        
+        \item \textbf{Turbo Shift}：在每次字符不匹配后，Turbo Shift 机制会决定进一步的移动距离，这个计算的复杂度也为 $O(1)$。
+    \end{itemize}
+
+    因此，在每次字符不匹配时，通过这些启发式方法确定模式字符串向右移动的距离的时间复杂度为 $O(1)$。
+
+    在最坏情况下，Turbo Boyer-Moore 算法对每个文本字符最多进行常数次比较，这意味着整个匹配阶段的时间复杂度为 $O(N)$，其中 $N$ 是文本的长度。
+
+\end{enumerate}
+
+\section{按距离排序功能}
+在实现从某个选定场所获取周围其他场所的功能时，由于我们只有各个场所的经纬度信息，我们
+需要把这些经纬度信息转换为距离信息。在得到距离信息后，我们需要将某个距离内的所有场所再
+按距离从近到远进行排序。排序使用了Java中\verb|List|接口的\verb|sort|方法，本节将对
+该方法使用的算法——Timsort算法进行分析。
+\subsection{算法介绍}
+Timsort是一种优化的排序算法，结合了归并排序和插入排序的优点。
+它专门针对实际应用中的数据分布情况进行优化，特别是那些部分有序的数据。
+\paragraph{核心思想}
+\begin{enumerate}
+    \item \textbf{分段（Run）}：
+    \begin{itemize}
+        \item Timsort 会将输入数组分解成多个“运行”（Run），即已经部分有序的子数组。
+        \item 如果一个运行长度小于某个阈值（通常是32），则使用插入排序进行排序，因为插入排序在小数组上表现出色。
+    \end{itemize}
+
+    \item \textbf{归并（Merge）}：
+    \begin{itemize}
+        \item 对于较长的运行，Timsort 会使用归并排序来合并这些有序的子数组。
+        \item 在归并过程中，Timsort 会利用两个有序数组的特性，进行高效的合并操作。
+    \end{itemize}
+
+    \item \textbf{优化}：
+    \begin{itemize}
+        \item Timsort 还会使用一些优化技术，如对最小运行长度的计算、利用栈结构跟踪归并操作等，以进一步提升性能。
+    \end{itemize}
+\end{enumerate}
+\subsection{算法步骤}
+Timsort 算法结合了归并排序和插入排序，主要步骤如下：
+
+\begin{enumerate}
+    \item \textbf{分段（Run）}：
+    \begin{itemize}
+        \item 将输入数组分解成多个“运行”（Run），即已经部分有序的子数组。
+        \item 如果一个运行的长度小于某个阈值（通常是32），则使用插入排序对该运行进行排序。
+    \end{itemize}
+    
+    \item \textbf{合并（Merge）}：
+    \begin{itemize}
+        \item 对于较长的运行，使用归并排序来合并这些有序的子数组。
+        \item 在合并过程中，利用两个有序数组的特性，进行高效的合并操作。
+    \end{itemize}
+    
+    \item \textbf{优化}：
+    \begin{itemize}
+        \item 计算最小运行长度：选择一个合适的最小运行长度，使得运行的数量不至于过多，从而优化合并过程。
+        \item 使用栈结构跟踪归并操作：维护一个栈来保存当前的运行信息，在合并时使用栈顶的两个运行进行合并操作。
+        \item 当一个运行被完全合并时，将其从栈中移除。
+    \end{itemize}
+    
+    \item \textbf{整体流程}：
+    \begin{itemize}
+        \item 预处理阶段：将数组分成若干运行，并对每个运行进行插入排序（如果长度小于阈值）。
+        \item 合并阶段：逐步合并运行，直到所有运行合并为一个有序数组。
+    \end{itemize}
+    
+    \item \textbf{特殊情况处理}：
+    \begin{itemize}
+        \item 如果输入数组已经基本有序，Timsort 会识别出这些有序部分，并以更少的比较次数完成排序。
+        \item 如果输入数组完全无序，Timsort 仍然能在 $O(N \log N)$ 的时间复杂度内完成排序。
+    \end{itemize}
+\end{enumerate}
+\subsection{时间复杂度分析}
+\begin{enumerate}
+    \item \textbf{预处理阶段}：
+
+    在预处理阶段，Timsort 会将输入数组分解成多个“运行”（Run），并对每个运行进行排序。
+    \begin{itemize}
+        \item \textbf{分段（Run）}：Timsort 将数组分解成多个部分有序的子数组。这个步骤在最坏情况下需要扫描整个数组，因此时间复杂度为 $O(N)$，其中 $N$ 是数组的长度。
+        \item \textbf{插入排序}：对于长度小于阈值（通常是 32）的运行，使用插入排序进行排序。插入排序在最坏情况下的时间复杂度为 $O(M^2)$，其中 $M$ 是运行的最大长度。然而，由于 $M$ 是一个小常数，这部分的时间复杂度可以视为 $O(N)$。
+    \end{itemize}
+    因此，预处理阶段的总时间复杂度为 $O(N)$。
+
+    \item \textbf{合并阶段}：
+
+    在合并阶段，Timsort 使用归并排序来合并这些有序的运行。
+    \begin{itemize}
+        \item \textbf{归并排序}：归并排序的时间复杂度为 $O(N \log N)$，其中 $N$ 是数组的长度。在最坏情况下，每次归并操作都需要比较和移动大量元素，因此整个合并阶段的时间复杂度为 $O(N \log N)$。
+        \item \textbf{优化}：Timsort 通过计算最小运行长度和使用栈结构跟踪归并操作来优化合并过程。这些优化措施不会改变时间复杂度的数量级，因此合并阶段的总时间复杂度仍然是 $O(N \log N)$。
+    \end{itemize}
+
+    \item \textbf{特殊情况}：
+    \begin{itemize}
+        \item \textbf{最佳情况}：如果输入数组已经基本有序，Timsort 能够识别这些有序部分，并以线性时间完成排序。因此，最佳情况下的时间复杂度为 $O(N)$。
+        \item \textbf{最坏情况}：如果输入数组完全无序，Timsort 仍然能在 $O(N \log N)$ 的时间复杂度内完成排序。
+    \end{itemize}
+\end{enumerate}
+
+\subsection*{总结}
+
+Timsort 算法在不同情况下的时间复杂度如下：
+\begin{itemize}
+    \item \textbf{最坏情况}：$O(N \log N)$
+    \item \textbf{最佳情况}：$O(N)$
+    \item \textbf{平均情况}：$O(N \log N)$
+\end{itemize}
+
+通过结合归并排序和插入排序，并利用实际数据的部分有序性，Timsort 实现了在不同情况下的高效排序，是一种广泛应用于实际场景的混合排序算法。
+\subsection{算法实际性能分析}
+在OpenStreetMap中，贡献者添加数据时倾向于同时添加距离相近的地图信息，也就意味着当我们进行按距离筛选后，
+在数据行中位置相近的场所所在的实际地理位置也比较相近，因此整个距离数组是部分有序的，这对于Timsort算法来说是
+有益的。
+
+\chapter{系统测试结果}
+\section{测试目的}
+本次测试旨在验证游学系统的各项功能是否符合设计要求，包括游学推荐、路线规划、场所查询和游学日记管理等功能的正常运行和用户体验。
+\section{测试环境}
+\paragraph{设备：}
+PC端浏览器（Chrome、Firefox、Safari）
+\paragraph{网络环境：}
+稳定的互联网连接
+\section{测试内容与结果}
+\subsection{游学推荐功能测试}
+\paragraph{测试内容：}
+输入个人兴趣和偏好，查看系统推荐的游学目的地。
+\paragraph{测试结果：}
+在地址中输入“北京”，查找北京的景点，推荐列表如下：\\
+\includegraphics[width=\textwidth]{figure/test_report/image1.png}
+\includegraphics[width=\textwidth]{figure/test_report/image2.png}
+\includegraphics[width=\textwidth]{figure/test_report/image3.png}
+\includegraphics[width=\textwidth]{figure/test_report/image4.png}
+\includegraphics[width=\textwidth]{figure/test_report/image5.png}
+\par
+可以看到推荐结果按照热度降序排序，并且都满足地址在北京这一条件。
+系统根据输入的信息成功推荐了符合预期的游学目的地，并按照热度和评价进行了合理排序。
+
+\subsection{路线规划功能测试}
+\paragraph{测试内容：}
+输入景点位置和途经场所，查看系统规划的参观线路。
+\paragraph{测试结果：}
+下面是一个游学计划示例：\\
+\includegraphics[width=\textwidth]{figure/test_report/image6.png}
+\includegraphics[width=\textwidth]{figure/test_report/image7.png}
+\par
+可以看到在步行情况下，时间优先和距离优先策略规划的路径不同，路线长度不同，所用时间也不同。
+下面是骑行策略，和步行策略相似。
+\\
+\includegraphics[width=\textwidth]{figure/test_report/image8.png}
+\par
+我们另外新建一个出发地和最后目的地相同的游学路径，中间各个场所的顺序为随机。\\
+\includegraphics[width=\textwidth]{figure/test_report/before_opt.png}
+\par
+此时我们对该方案进行优化，给出了当前TSP问题的一个近似解\\
+\includegraphics[width=\textwidth]{figure/test_report/after_opt.png}
+
+\subsection{场所查询功能测试}
+\paragraph{测试内容：}
+查询特定景点的介绍和位置，查看系统提供的信息是否准确完整。
+下面是一个查询音乐喷泉附近场所的示例：
+\subparagraph*{查询距离50m}
+查询结果：\\
+\includegraphics[width=\textwidth]{figure/test_report/image10.png}
+\subparagraph*{查询距离150m}
+查询结果：\\
+\includegraphics[width=\textwidth]{figure/test_report/image11.png}
+\includegraphics[width=\textwidth]{figure/test_report/image12.png}
+\includegraphics[width=\textwidth]{figure/test_report/image13.png}
+\includegraphics[width=\textwidth]{figure/test_report/image14.png}
+\paragraph{测试结果：}
+系统提供了准确详尽的景点介绍和位置信息，用户可以方便地了解目的地的相关情况。
+
+\subsection{游学日记管理功能测试}
+\paragraph{测试内容：}
+上传照片并生成游学日记，查看系统生成的日记内容是否满足预期。\\
+\includegraphics[width=\textwidth]{figure/test_report/image15.png}
+\includegraphics[width=\textwidth]{figure/test_report/image16.png}
+\includegraphics[width=\textwidth]{figure/test_report/image17.png}
+\paragraph{测试结果：}
+上图所示可以看到发表一篇日记后可以在“我的日记”中看到记录，同时重新可以编辑日记，并且在“游学社区”中有更新。
+测试结果：系统成功根据上传的照片生成了游学日记，并提供了编辑和分享功能，用户可以方便地记录和分享游学经历。
+
+\section{测试结论}
+游学系统经过本次测试，各项功能均表现出良好的稳定性和用户体验。
+系统能够准确推荐目的地、规划参观路线、提供场所查询和管理游学日记，为用户提供了便捷、高效的游学服务。
+在未来的开发中，可以进一步优化用户界面和增加新功能，提升系统的全面性和实用性。
+
+\chapter{大模型使用报告}
+\section{大模型使用概述}
+本项目全程都使用了OpenAI Chat GPT大语言模型进行开发，其中项目前期开发使用Chat GPT 3.5，
+项目后期使用Chat GPT 4o。大模型极大的加快了开发人员的开发进度，为项目完成立下了汗马功劳。
+\section{大模型使用感想}
+大语言模型的出现，无疑是当前人工智能领域的一大飞跃。有人曾在Open AI发布ChatGPT 3.5时断言，
+通用人工智能（AGI）的出现已近在咫尺，AI将有着人类乃至超越人类的能力并渗透到各行各业中。这样
+的话未免过于武断和乐观，但其中的核心思想却是值得我们思考的。
+\par
+目前来说大语言模型的能力并不能取代人类，哪怕是现在最先进的模型。我们在使用过程中，大模型进行的
+工作大部分是对第三方代码的解读、相关外部库内容的检索、语言特性的阐述方面，并没有体现出真正的所谓
+“工程能力”。这一部分主要体现在AI对代码等结构性强并且逻辑性强的内容理解仍存在不足，大模型具有的
+所谓“幻觉”现象时常出现；大模型中文语料训练不足，对于某些中文prompt的理解存在偏差，中文内容质量
+低于英文内容。
+我们组的开发人员仍然承担了开发任务98\%以上的工作，所谓AI取代程序员之谈在目前来说
+仍处在幻想阶段。尽管如此，语言大模型的出现仍然是程序员的一大福音，尤其是交互式的问答可以实现
+循序渐进的学习过程，这对于计算机学习至关重要。另外，也对某些网站中用户编写的晦涩难懂不知所云的
+创作内容拥有一定的过滤清洗理解能力，能够降低某些内容的学习成本。
+\par
+至于目前生成式AI的另一大热点——图像视频类AI生成，这一类内容的出现是人类科技的结晶的同时
+在一定程度上来说也是对人类
+文明的“践踏”。诚然，AIGC技术极大地帮助人类加快了艺术创作的速度，但这一技术的使用应当只被限定在
+一些具有重复性、公式性的内容上，诸如广告背景、网站占位图等。而一些创作型领域，例如电影电视、
+绘画摄影艺术、文字创作，是难以且不可被AI所深度涉及甚至替代的。人类文明之所以能灿烂，一定程度上
+是因为只有人的创作能被人理解，而这样的理解是建立在更高的层次之上的，也就是情感与思想，并不是靠
+经验加一些对经验的适应性修改来实现的。
+\par
+大模型需要被继续完善发展，我们也应当不抵触使用大模型。但是，应当记住，大模型不是人类的替代。
+
+\chapter{成员分工}
+\subsection*{字禹润}
+\begin{itemize}
+    \item 项目规划
+    \item 地图数据获取处理
+    \item 路径规划功能开发
+    \item 项目Docker打包
+    \item 报告文档撰写
+\end{itemize}
+\subsection*{费子芸}
+\begin{itemize}
+    \item 项目规划
+    \item 前端开发
+    \item 前端界面设计
+    \item 报告文档撰写
+    \item 前后端对接部分开发
+\end{itemize}
+\subsection*{王彤彤}
+\begin{itemize}
+    \item 项目规划
+    \item 后端Java开发
+    \item 推荐、排序算法设计
+    \item 报告文档撰写
+    \item 前后端对接部分开发
+\end{itemize}
+
+\end{document}

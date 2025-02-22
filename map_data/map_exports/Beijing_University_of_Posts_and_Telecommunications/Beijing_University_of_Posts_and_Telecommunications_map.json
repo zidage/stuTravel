@@ -1,0 +1,579 @@
+{
+    "id": -3971377309287778807,
+    "name": "北京邮电大学",
+    "address": "中国北京市海淀区北太平庄西土城路10号 邮政编码: 100876",
+    "rating": 4.6,
+    "popularity": 96,
+    "data_path": "map_data/university_map/Beijing_University_of_Posts_and_Telecommunications",
+    "description": "北京邮电大学（英語：Beijing University of Posts and Telecommunications，缩写：BUPT），简称北邮，是中华人民共和国的第一所邮电高等学府，是教育部直属、工业和信息化部共建的全国重点大学，是一所以信息科技为特色、工学门类为主体、工管文理交叉融合的研究型大学，是中国信息科技人才的重要培养基地，是“双一流计划”、原“211工程”和原“985工程优势学科创新平台”高校。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/17/BUPT_Gate.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5e/BUPT_Hongfu_Campus_%2820220406141922%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/47/BUPT_Shahe_Campus_%2820231202143149%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/BUPT_shahe_all.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/BUPT_shahe_canteen.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/BUPT_shahe_dormitory.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/BUPT_shahe_library.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/03/BUPT_shahe_teaching.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/BUPT_xitucheng_library.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6c/BUPT_xitucheng_main.jpg"
+    ],
+    "amenity": {
+        "affiliation": -3971377309287778807,
+        "amenity_list": [
+            {
+                "id": 2463866303,
+                "name": "可能感兴趣的地点",
+                "type": "post_box",
+                "latitude": 39.9599047,
+                "longitude": 116.3492655
+            },
+            {
+                "id": 3511264385,
+                "name": "零壹时光咖啡馆",
+                "type": "cafe",
+                "latitude": 39.9582958,
+                "longitude": 116.3505065
+            },
+            {
+                "id": 3511264387,
+                "name": "中国移动",
+                "type": "marketplace",
+                "latitude": 39.9580455,
+                "longitude": 116.3510298
+            },
+            {
+                "id": 6041100036,
+                "name": "楼上楼茶餐厅",
+                "type": "restaurant",
+                "latitude": 39.961991,
+                "longitude": 116.352893
+            },
+            {
+                "id": 6146512085,
+                "name": "麦当劳",
+                "type": "fast_food",
+                "latitude": 39.9622611,
+                "longitude": 116.3513657
+            },
+            {
+                "id": 8810354632,
+                "name": "音乐喷泉",
+                "type": "fountain",
+                "latitude": 39.9598892,
+                "longitude": 116.3516116
+            },
+            {
+                "id": 265030102,
+                "name": "Maan Coffee",
+                "type": "cafe",
+                "latitude": 39.96229024454957,
+                "longitude": 116.35134495681494
+            },
+            {
+                "id": 344373140,
+                "name": "校医院（北京邮电大学社区卫生服务中心）",
+                "type": "hospital",
+                "latitude": 39.95851864844523,
+                "longitude": 116.35065236149488
+            },
+            {
+                "id": 399013934,
+                "name": "综合食堂",
+                "type": "restaurant",
+                "latitude": 39.962573384090355,
+                "longitude": 116.35041201312971
+            },
+            {
+                "id": 399018200,
+                "name": "北京邮电大学学生餐厅",
+                "type": "restaurant",
+                "latitude": 39.96197738709675,
+                "longitude": 116.35297100475785
+            },
+            {
+                "id": 399041102,
+                "name": "北京邮电大学幼儿园",
+                "type": "childcare",
+                "latitude": 39.95817589829401,
+                "longitude": 116.35308498027358
+            },
+            {
+                "id": 582551389,
+                "name": "教工餐厅",
+                "type": "restaurant",
+                "latitude": 39.962190958990035,
+                "longitude": 116.35220740365392
+            },
+            {
+                "id": 959801254,
+                "name": "北京中仁中医医院",
+                "type": "hospital",
+                "latitude": 39.956857048006455,
+                "longitude": 116.35444734968068
+            },
+            {
+                "id": 4017485636,
+                "name": "游泳馆",
+                "type": "nan",
+                "latitude": 39.9604626,
+                "longitude": 116.3545368
+            },
+            {
+                "id": 4017485637,
+                "name": "球类馆",
+                "type": "nan",
+                "latitude": 39.9608008,
+                "longitude": 116.3539088
+            },
+            {
+                "id": 4017491039,
+                "name": "北京邮电大学出版社",
+                "type": "nan",
+                "latitude": 39.9568855,
+                "longitude": 116.3547931
+            },
+            {
+                "id": 253330141,
+                "name": "教二楼",
+                "type": "nan",
+                "latitude": 39.95913327972143,
+                "longitude": 116.3518680058109
+            },
+            {
+                "id": 265030100,
+                "name": "国际汉语培训中心",
+                "type": "nan",
+                "latitude": 39.96293986241789,
+                "longitude": 116.3498250084585
+            },
+            {
+                "id": 265030101,
+                "name": "学生发展中心",
+                "type": "nan",
+                "latitude": 39.96206972580103,
+                "longitude": 116.35169002558602
+            },
+            {
+                "id": 265030103,
+                "name": "留学生2号公寓",
+                "type": "nan",
+                "latitude": 39.96256806550058,
+                "longitude": 116.34903619573582
+            },
+            {
+                "id": 265030104,
+                "name": "学生13号公寓",
+                "type": "nan",
+                "latitude": 39.96166686646886,
+                "longitude": 116.34907956320046
+            },
+            {
+                "id": 265030105,
+                "name": "学生5号公寓",
+                "type": "nan",
+                "latitude": 39.96203984830563,
+                "longitude": 116.34966526017534
+            },
+            {
+                "id": 265030106,
+                "name": "学生3号公寓",
+                "type": "nan",
+                "latitude": 39.96153361932763,
+                "longitude": 116.34964604956002
+            },
+            {
+                "id": 265030107,
+                "name": "学生8号公寓",
+                "type": "nan",
+                "latitude": 39.96208341550217,
+                "longitude": 116.35051935040192
+            },
+            {
+                "id": 265030108,
+                "name": "学生4号公寓",
+                "type": "nan",
+                "latitude": 39.96155544816192,
+                "longitude": 116.3505040615172
+            },
+            {
+                "id": 265030109,
+                "name": "学生1号公寓",
+                "type": "nan",
+                "latitude": 39.96109054145847,
+                "longitude": 116.34965996222829
+            },
+            {
+                "id": 265030110,
+                "name": "学生2号公寓",
+                "type": "nan",
+                "latitude": 39.96111184597381,
+                "longitude": 116.35052740011322
+            },
+            {
+                "id": 344376258,
+                "name": "宏途书店",
+                "type": "nan",
+                "latitude": 39.95824110609104,
+                "longitude": 116.35059235953764
+            },
+            {
+                "id": 344376260,
+                "name": "7号楼",
+                "type": "nan",
+                "latitude": 39.95758546662079,
+                "longitude": 116.35071022216698
+            },
+            {
+                "id": 344376261,
+                "name": "9号楼",
+                "type": "nan",
+                "latitude": 39.95723437354228,
+                "longitude": 116.35072234615679
+            },
+            {
+                "id": 344376262,
+                "name": "14号楼",
+                "type": "nan",
+                "latitude": 39.95853978520395,
+                "longitude": 116.34976275382218
+            },
+            {
+                "id": 344376264,
+                "name": "2号楼",
+                "type": "nan",
+                "latitude": 39.95800709563725,
+                "longitude": 116.34982769488437
+            },
+            {
+                "id": 344376265,
+                "name": "7号楼",
+                "type": "nan",
+                "latitude": 39.95764149882032,
+                "longitude": 116.34983677397774
+            },
+            {
+                "id": 344376266,
+                "name": "8号楼",
+                "type": "nan",
+                "latitude": 39.9572167447725,
+                "longitude": 116.34984545658433
+            },
+            {
+                "id": 344376267,
+                "name": "4号楼",
+                "type": "nan",
+                "latitude": 39.956872099065315,
+                "longitude": 116.35002514425884
+            },
+            {
+                "id": 344376268,
+                "name": "10号楼",
+                "type": "nan",
+                "latitude": 39.95687692625943,
+                "longitude": 116.35126950794344
+            },
+            {
+                "id": 344376270,
+                "name": "15号楼",
+                "type": "nan",
+                "latitude": 39.9582463511356,
+                "longitude": 116.34925070265788
+            },
+            {
+                "id": 344376271,
+                "name": "16号楼",
+                "type": "nan",
+                "latitude": 39.95771217047608,
+                "longitude": 116.34926489273809
+            },
+            {
+                "id": 344376272,
+                "name": "17号楼",
+                "type": "nan",
+                "latitude": 39.957179581411864,
+                "longitude": 116.34927191623635
+            },
+            {
+                "id": 344376663,
+                "name": "1号楼",
+                "type": "nan",
+                "latitude": 39.958616889335865,
+                "longitude": 116.3518177358591
+            },
+            {
+                "id": 344376664,
+                "name": "2号楼",
+                "type": "nan",
+                "latitude": 39.958243718423596,
+                "longitude": 116.35187863816992
+            },
+            {
+                "id": 344376665,
+                "name": "4号楼",
+                "type": "nan",
+                "latitude": 39.95780325926447,
+                "longitude": 116.35191933546764
+            },
+            {
+                "id": 344376666,
+                "name": "5号楼",
+                "type": "nan",
+                "latitude": 39.95729310254721,
+                "longitude": 116.35195465037306
+            },
+            {
+                "id": 354562947,
+                "name": "科研楼",
+                "type": "nan",
+                "latitude": 39.96279694759767,
+                "longitude": 116.35283143963979
+            },
+            {
+                "id": 363833971,
+                "name": "教四楼",
+                "type": "nan",
+                "latitude": 39.96054480378325,
+                "longitude": 116.35015826072718
+            },
+            {
+                "id": 399006367,
+                "name": "中国移动通信",
+                "type": "nan",
+                "latitude": 39.96002357415279,
+                "longitude": 116.34908906526093
+            },
+            {
+                "id": 399008788,
+                "name": "中国邮政储蓄银行（鸿通楼）",
+                "type": "nan",
+                "latitude": 39.96053901403248,
+                "longitude": 116.34913091763804
+            },
+            {
+                "id": 399008789,
+                "name": "主教学楼",
+                "type": "nan",
+                "latitude": 39.95992864753576,
+                "longitude": 116.35219703998455
+            },
+            {
+                "id": 399008790,
+                "name": "图书馆",
+                "type": "nan",
+                "latitude": 39.96145138789443,
+                "longitude": 116.35189501307093
+            },
+            {
+                "id": 399008979,
+                "name": "教一楼",
+                "type": "nan",
+                "latitude": 39.96053895523992,
+                "longitude": 116.35179344616746
+            },
+            {
+                "id": 399008980,
+                "name": "行政办公楼",
+                "type": "nan",
+                "latitude": 39.960700489509705,
+                "longitude": 116.351777726217
+            },
+            {
+                "id": 399008981,
+                "name": "财务处",
+                "type": "nan",
+                "latitude": 39.96077154667922,
+                "longitude": 116.35140472766149
+            },
+            {
+                "id": 399008982,
+                "name": "后勤处",
+                "type": "nan",
+                "latitude": 39.96070367196975,
+                "longitude": 116.35141965603697
+            },
+            {
+                "id": 399009425,
+                "name": "可信网络通信协同创新中心",
+                "type": "nan",
+                "latitude": 39.95914680535241,
+                "longitude": 116.35278225418112
+            },
+            {
+                "id": 399009831,
+                "name": "明光楼",
+                "type": "nan",
+                "latitude": 39.95714945,
+                "longitude": 116.35479440000002
+            },
+            {
+                "id": 399010162,
+                "name": "留学生1号公寓",
+                "type": "nan",
+                "latitude": 39.96251739725719,
+                "longitude": 116.34958883009975
+            },
+            {
+                "id": 399013935,
+                "name": "学生9号公寓",
+                "type": "nan",
+                "latitude": 39.962921774292624,
+                "longitude": 116.34950752393948
+            },
+            {
+                "id": 399013936,
+                "name": "学生11号公寓",
+                "type": "nan",
+                "latitude": 39.96329670593402,
+                "longitude": 116.34957244109295
+            },
+            {
+                "id": 399014219,
+                "name": "学生10号公寓",
+                "type": "nan",
+                "latitude": 39.96321550447099,
+                "longitude": 116.35044099526289
+            },
+            {
+                "id": 399015104,
+                "name": "学生6号公寓",
+                "type": "nan",
+                "latitude": 39.96330524036097,
+                "longitude": 116.35199941693467
+            },
+            {
+                "id": 399015106,
+                "name": "学生活动中心",
+                "type": "nan",
+                "latitude": 39.96269722249129,
+                "longitude": 116.35117036995207
+            },
+            {
+                "id": 399015107,
+                "name": "经管楼",
+                "type": "nan",
+                "latitude": 39.96319887906074,
+                "longitude": 116.35125737706862
+            },
+            {
+                "id": 399017728,
+                "name": "综合服务楼",
+                "type": "nan",
+                "latitude": 39.962735849055136,
+                "longitude": 116.35186339385122
+            },
+            {
+                "id": 399017729,
+                "name": "北邮科技酒店",
+                "type": "nan",
+                "latitude": 39.96309150546253,
+                "longitude": 116.34908024592404
+            },
+            {
+                "id": 399018201,
+                "name": "家属27号楼",
+                "type": "nan",
+                "latitude": 39.96260095,
+                "longitude": 116.35380314999999
+            },
+            {
+                "id": 399018202,
+                "name": "家属28号楼",
+                "type": "nan",
+                "latitude": 39.9618693,
+                "longitude": 116.35384685
+            },
+            {
+                "id": 399018593,
+                "name": "学生29号公寓",
+                "type": "nan",
+                "latitude": 39.96144375816467,
+                "longitude": 116.35444240577016
+            },
+            {
+                "id": 399018595,
+                "name": "25号楼",
+                "type": "nan",
+                "latitude": 39.96296942006762,
+                "longitude": 116.35435591683748
+            },
+            {
+                "id": 399018596,
+                "name": "26号楼",
+                "type": "nan",
+                "latitude": 39.96232872169853,
+                "longitude": 116.35439471749042
+            },
+            {
+                "id": 399038557,
+                "name": "21号楼",
+                "type": "nan",
+                "latitude": 39.95732052333671,
+                "longitude": 116.35284110109944
+            },
+            {
+                "id": 399038558,
+                "name": "13号楼",
+                "type": "nan",
+                "latitude": 39.95744664825207,
+                "longitude": 116.35334927376523
+            },
+            {
+                "id": 399038561,
+                "name": "19号楼",
+                "type": "nan",
+                "latitude": 39.958637342168494,
+                "longitude": 116.35284313400902
+            },
+            {
+                "id": 399038562,
+                "name": "科学会堂",
+                "type": "nan",
+                "latitude": 39.95987582268637,
+                "longitude": 116.35283957727854
+            },
+            {
+                "id": 399041101,
+                "name": "11号楼",
+                "type": "nan",
+                "latitude": 39.956888406428966,
+                "longitude": 116.35228076177822
+            },
+            {
+                "id": 399042378,
+                "name": "23号楼",
+                "type": "nan",
+                "latitude": 39.963496159057286,
+                "longitude": 116.3528163827003
+            },
+            {
+                "id": 399042379,
+                "name": "24号楼",
+                "type": "nan",
+                "latitude": 39.963521127355996,
+                "longitude": 116.35383675119962
+            },
+            {
+                "id": 399046289,
+                "name": "教三楼",
+                "type": "nan",
+                "latitude": 39.95906156836264,
+                "longitude": 116.35019461304383
+            },
+            {
+                "id": 399046292,
+                "name": "12号楼",
+                "type": "nan",
+                "latitude": 39.95701369460815,
+                "longitude": 116.35326169354781
+            },
+            {
+                "id": 582551392,
+                "name": "北邮邮驿站",
+                "type": "nan",
+                "latitude": 39.96346296888694,
+                "longitude": 116.35125995026517
+            }
+        ]
+    }
+}

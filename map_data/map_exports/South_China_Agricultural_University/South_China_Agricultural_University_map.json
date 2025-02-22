@@ -1,0 +1,579 @@
+{
+    "id": 9185110955475436681,
+    "name": "华南农业大学",
+    "address": "中国广东省广州市天河区五山路483号 邮政编码: 510642",
+    "rating": 4.4,
+    "popularity": 84,
+    "data_path": "map_data/university_map/South_China_Agricultural_University",
+    "description": "华南农业大学（英語：South China Agricultural University，縮寫：SCAU），简称华南农大、在广东省一般简称华农，地处中华人民共和国广东省广州市，是中华人民共和国教育部直属，中华人民共和国水利部、中华人民共和国农业农村部和广东省共建的一所全国重点大学，位列“双一流”，入选“基础学科招生改革试点”、“2011计划”、“111计划”、卓越工程师教育培养计划、卓越农林人才教育培养计划、国家建设高水平大学公派研究生项目、中国政府奖学金来华留学生接收院校、国家大学生文化素质教育基地，粤港澳高校联盟、CDIO工程教育联盟成员单位。拥有五山校区和增城教学科研基地。\n华农的办学历史可追溯到1909年，起初为广东全省农事试验场附设农业讲习所，正式组建于1952年11月中国高校院系调整时期，时名“华南农学院”，1984年改为现名。华农现在以农业科学和生命科学为优势学科，如今发展目标是成为一所农、工、文、理、经、管、法、艺等多学科协调发展的综合性研究型大学，是华南地区农业类高等学府，是广东省和农业部共建的“省211工程”（非教育部“211工程”）大学，2022年入选为“双一流”建设高校，是現時13所廣東省高水平大學之一。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b3/GZFiveRams.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/South_China_Agricultural_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Yuexiu_Park_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/%E4%B8%81%E9%A2%96%E6%95%99%E6%8E%88%E5%A1%91%E5%83%8F.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%9F%B3%E7%89%8C%E6%97%A7%E5%9D%80%E5%BB%BA%E7%AD%91-%E5%86%9C%E5%AD%A6%E9%99%A2%E5%A5%A0%E5%9F%BA%E7%9F%B3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%9F%B3%E7%89%8C%E6%97%A7%E5%9D%80%E5%BB%BA%E7%AD%91-%E5%A4%A9%E6%96%87%E5%8F%B0.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%9F%B3%E7%89%8C%E6%97%A7%E5%9D%80%E5%BB%BA%E7%AD%91-%E6%AD%A3%E9%97%A8%E7%89%8C%E5%9D%8A%EF%BC%882017%EF%BC%89.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/70/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%9F%B3%E7%89%8C%E6%97%A7%E5%9D%80%E5%BB%BA%E7%AD%91-%E7%8B%AE%E5%A4%B4%E5%96%B7%E6%B0%B4%E6%B1%A0.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/04/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%9F%B3%E7%89%8C%E6%97%A7%E5%9D%80%E5%BB%BA%E7%AD%91-%E7%A0%94%E7%A9%B6%E9%99%A2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ae/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A616%E5%8F%B7%E6%A5%BC.jpg"
+    ],
+    "amenity": {
+        "affiliation": 9185110955475436681,
+        "amenity_list": [
+            {
+                "id": 3749349564,
+                "name": "钟亭",
+                "type": "shelter",
+                "latitude": 23.1592669,
+                "longitude": 113.3430887
+            },
+            {
+                "id": 4540665445,
+                "name": "稻香园",
+                "type": "restaurant",
+                "latitude": 23.165989,
+                "longitude": 113.3649037
+            },
+            {
+                "id": 7953385833,
+                "name": "可能感兴趣的地点",
+                "type": "post_box",
+                "latitude": 23.1629181,
+                "longitude": 113.3412329
+            },
+            {
+                "id": 7961613985,
+                "name": "芷园",
+                "type": "restaurant",
+                "latitude": 23.1561351,
+                "longitude": 113.3605361
+            },
+            {
+                "id": 7967862898,
+                "name": "赏樱亭",
+                "type": "shelter",
+                "latitude": 23.1600268,
+                "longitude": 113.3496872
+            },
+            {
+                "id": 7975842522,
+                "name": "绿榕园",
+                "type": "restaurant",
+                "latitude": 23.158834,
+                "longitude": 113.3495361
+            },
+            {
+                "id": 8008259700,
+                "name": "华南农业大学海洋学院",
+                "type": "college",
+                "latitude": 23.1616634,
+                "longitude": 113.3449247
+            },
+            {
+                "id": 8067848297,
+                "name": "中国工商银行",
+                "type": "bank",
+                "latitude": 23.1597406,
+                "longitude": 113.3487775
+            },
+            {
+                "id": 8067848298,
+                "name": "爱心亭",
+                "type": "shelter",
+                "latitude": 23.1584816,
+                "longitude": 113.349895
+            },
+            {
+                "id": 8067848322,
+                "name": "华南农业大学校医院",
+                "type": "clinic",
+                "latitude": 23.15869,
+                "longitude": 113.3506592
+            },
+            {
+                "id": 8148183248,
+                "name": "华南农业大学教学动物医院",
+                "type": "veterinary",
+                "latitude": 23.165498,
+                "longitude": 113.3424569
+            },
+            {
+                "id": 8148205756,
+                "name": "华南农业大学公共管理学院",
+                "type": "college",
+                "latitude": 23.1596839,
+                "longitude": 113.3470238
+            },
+            {
+                "id": 8661957694,
+                "name": "华南农业大学图书馆 启林分馆",
+                "type": "library",
+                "latitude": 23.1627124,
+                "longitude": 113.3598932
+            },
+            {
+                "id": 8661957695,
+                "name": "华南农业大学图书馆 泰山分馆",
+                "type": "library",
+                "latitude": 23.1542339,
+                "longitude": 113.3607889
+            },
+            {
+                "id": 8857415239,
+                "name": "中国建设银行",
+                "type": "bank",
+                "latitude": 23.1596578,
+                "longitude": 113.3497385
+            },
+            {
+                "id": 8915416765,
+                "name": "华南农业大学 马克思主义学院",
+                "type": "college",
+                "latitude": 23.1594382,
+                "longitude": 113.3433568
+            },
+            {
+                "id": 8941899261,
+                "name": "华南农业大学 创新创业学院",
+                "type": "college",
+                "latitude": 23.1539868,
+                "longitude": 113.3636631
+            },
+            {
+                "id": 9787713738,
+                "name": "水电维修中心",
+                "type": "repair",
+                "latitude": 23.163278,
+                "longitude": 113.346498
+            },
+            {
+                "id": 205491391,
+                "name": "荷园饭堂",
+                "type": "restaurant",
+                "latitude": 23.163241307603563,
+                "longitude": 113.36229385071479
+            },
+            {
+                "id": 205503559,
+                "name": "三角市（华农市场）",
+                "type": "marketplace",
+                "latitude": 23.1594091775646,
+                "longitude": 113.34986716152127
+            },
+            {
+                "id": 371362290,
+                "name": "狮头喷水池",
+                "type": "fountain",
+                "latitude": 23.159774359028294,
+                "longitude": 113.34326700641358
+            },
+            {
+                "id": 603662467,
+                "name": "广东省农业科学院 果树研究所",
+                "type": "research_institute",
+                "latitude": 23.154473200087494,
+                "longitude": 113.36688786197583
+            },
+            {
+                "id": 614119183,
+                "name": "华南农业大学图书馆 档案楼",
+                "type": "library",
+                "latitude": 23.160860474994248,
+                "longitude": 113.34845454489101
+            },
+            {
+                "id": 614119184,
+                "name": "华南农业大学图书馆 总馆",
+                "type": "library",
+                "latitude": 23.160198336364772,
+                "longitude": 113.34824811962375
+            },
+            {
+                "id": 614119185,
+                "name": "华南农业大学图书馆 信息楼",
+                "type": "library",
+                "latitude": 23.159663906919683,
+                "longitude": 113.34780199356922
+            },
+            {
+                "id": 693341410,
+                "name": "华南农业大学附属小学",
+                "type": "school",
+                "latitude": 23.164260256714925,
+                "longitude": 113.34943186840745
+            },
+            {
+                "id": 693341430,
+                "name": "感恩亭",
+                "type": "shelter",
+                "latitude": 23.163005073677432,
+                "longitude": 113.34423392393624
+            },
+            {
+                "id": 693481413,
+                "name": "惠泽亭",
+                "type": "shelter",
+                "latitude": 23.158109476644686,
+                "longitude": 113.34498256859268
+            },
+            {
+                "id": 858352687,
+                "name": "华南农业大学附属幼儿园",
+                "type": "kindergarten",
+                "latitude": 23.161294716224308,
+                "longitude": 113.34802807188095
+            },
+            {
+                "id": 865561493,
+                "name": "华南农业大学图书馆",
+                "type": "library",
+                "latitude": 23.16028923429219,
+                "longitude": 113.34812010633625
+            },
+            {
+                "id": 1052608577,
+                "name": "广东省农业科学院 动物科学研究所",
+                "type": "research_institute",
+                "latitude": 23.158560232756432,
+                "longitude": 113.36225318807465
+            },
+            {
+                "id": 9087902,
+                "name": "广州气象卫星地面站A站区",
+                "type": "research_institute",
+                "latitude": 23.164121122441337,
+                "longitude": 113.33961480987952
+            },
+            {
+                "id": 9087904,
+                "name": "中国科学院广州能源研究所",
+                "type": "research_institute",
+                "latitude": 23.166787658000988,
+                "longitude": 113.34134415127572
+            },
+            {
+                "id": 8148205724,
+                "name": "國立中山大學傳達室",
+                "type": "nan",
+                "latitude": 23.1605431,
+                "longitude": 113.3411245
+            },
+            {
+                "id": 205381523,
+                "name": "公共基础课实验教学中心",
+                "type": "nan",
+                "latitude": 23.155289124810224,
+                "longitude": 113.35999081785478
+            },
+            {
+                "id": 205485826,
+                "name": "田家炳体育馆",
+                "type": "nan",
+                "latitude": 23.157770207718674,
+                "longitude": 113.35208329563272
+            },
+            {
+                "id": 205485830,
+                "name": "华南农业大学 第六教学大楼",
+                "type": "nan",
+                "latitude": 23.15682447212865,
+                "longitude": 113.35083012051525
+            },
+            {
+                "id": 205489317,
+                "name": "红满堂",
+                "type": "nan",
+                "latitude": 23.158944619662737,
+                "longitude": 113.34635689628216
+            },
+            {
+                "id": 205495146,
+                "name": "华南农业大学 第四教学大楼",
+                "type": "nan",
+                "latitude": 23.1544743540083,
+                "longitude": 113.3600657005381
+            },
+            {
+                "id": 205495147,
+                "name": "芷园",
+                "type": "nan",
+                "latitude": 23.156116239406543,
+                "longitude": 113.36056097500689
+            },
+            {
+                "id": 205503549,
+                "name": "第三教学楼",
+                "type": "nan",
+                "latitude": 23.16080375752267,
+                "longitude": 113.34631425841596
+            },
+            {
+                "id": 317102401,
+                "name": "西园饭堂",
+                "type": "nan",
+                "latitude": 23.164150915769163,
+                "longitude": 113.34164368425911
+            },
+            {
+                "id": 360054041,
+                "name": "五山",
+                "type": "nan",
+                "latitude": 23.15548577450959,
+                "longitude": 113.34645007118674
+            },
+            {
+                "id": 362332924,
+                "name": "第二教学大楼",
+                "type": "nan",
+                "latitude": 23.16138273175858,
+                "longitude": 113.34169232073812
+            },
+            {
+                "id": 371362289,
+                "name": "职工住宅",
+                "type": "nan",
+                "latitude": 23.15941251037412,
+                "longitude": 113.34290661805998
+            },
+            {
+                "id": 371878330,
+                "name": "木材科学与工程教学实践基地",
+                "type": "nan",
+                "latitude": 23.16186397979938,
+                "longitude": 113.3417362387852
+            },
+            {
+                "id": 613936879,
+                "name": "莘园饭堂",
+                "type": "nan",
+                "latitude": 23.165980356274865,
+                "longitude": 113.3516546613627
+            },
+            {
+                "id": 613986253,
+                "name": "陈瑞球林满珍伉儷大樓",
+                "type": "nan",
+                "latitude": 23.16229566571369,
+                "longitude": 113.34681844260405
+            },
+            {
+                "id": 613986268,
+                "name": "动科温氏楼",
+                "type": "nan",
+                "latitude": 23.1634311,
+                "longitude": 113.34437905000001
+            },
+            {
+                "id": 614119141,
+                "name": "土木工程实验中心",
+                "type": "nan",
+                "latitude": 23.161639299999997,
+                "longitude": 113.34282479999999
+            },
+            {
+                "id": 614119144,
+                "name": "华山学生活动中心",
+                "type": "nan",
+                "latitude": 23.1618579384862,
+                "longitude": 113.3434822586073
+            },
+            {
+                "id": 614119172,
+                "name": "华南农业大学 行政楼",
+                "type": "nan",
+                "latitude": 23.158239291235038,
+                "longitude": 113.3481910319732
+            },
+            {
+                "id": 614119186,
+                "name": "艺术学院音乐楼",
+                "type": "nan",
+                "latitude": 23.16229851493959,
+                "longitude": 113.34561668875871
+            },
+            {
+                "id": 614119192,
+                "name": "华南农业大学第一教学大楼",
+                "type": "nan",
+                "latitude": 23.161733424086712,
+                "longitude": 113.3447805067058
+            },
+            {
+                "id": 693341411,
+                "name": "兽医学院办公楼",
+                "type": "nan",
+                "latitude": 23.163839476413226,
+                "longitude": 113.34354707816858
+            },
+            {
+                "id": 693341412,
+                "name": "丁颖故居",
+                "type": "nan",
+                "latitude": 23.15913394807715,
+                "longitude": 113.34805214504857
+            },
+            {
+                "id": 693341423,
+                "name": "SCAU Department of Law",
+                "type": "nan",
+                "latitude": 23.16093805099563,
+                "longitude": 113.34422558560658
+            },
+            {
+                "id": 693383708,
+                "name": "实验动物中心",
+                "type": "nan",
+                "latitude": 23.166113664243547,
+                "longitude": 113.34292629899345
+            },
+            {
+                "id": 865561494,
+                "name": "华南农业大学校医院 门诊楼",
+                "type": "nan",
+                "latitude": 23.158787300614186,
+                "longitude": 113.3500935368701
+            },
+            {
+                "id": 865561495,
+                "name": "华南农业大学校医院 敬师疗养楼",
+                "type": "nan",
+                "latitude": 23.158717035861276,
+                "longitude": 113.35041455015927
+            },
+            {
+                "id": 865561496,
+                "name": "华南农业大学校医院 诊疗楼",
+                "type": "nan",
+                "latitude": 23.158684864503847,
+                "longitude": 113.35069308387904
+            },
+            {
+                "id": 865561497,
+                "name": "华南农业大学校医院 行政楼",
+                "type": "nan",
+                "latitude": 23.158714174110703,
+                "longitude": 113.3511166550324
+            },
+            {
+                "id": 865860587,
+                "name": "华南农业大学 农业工程楼",
+                "type": "nan",
+                "latitude": 23.15991151948508,
+                "longitude": 113.33994865791854
+            },
+            {
+                "id": 875393862,
+                "name": "農業工程實驗樓",
+                "type": "nan",
+                "latitude": 23.160773929339772,
+                "longitude": 113.34090635057579
+            },
+            {
+                "id": 902721290,
+                "name": "Staff Dormitory",
+                "type": "nan",
+                "latitude": 23.16058699684135,
+                "longitude": 113.34446757805593
+            },
+            {
+                "id": 918104236,
+                "name": "伟南楼",
+                "type": "nan",
+                "latitude": 23.163696404135823,
+                "longitude": 113.344572552847
+            },
+            {
+                "id": 918104239,
+                "name": "兽医科技楼",
+                "type": "nan",
+                "latitude": 23.165309173774467,
+                "longitude": 113.34140446331159
+            },
+            {
+                "id": 957193796,
+                "name": "华南农业大学 第五教学大楼",
+                "type": "nan",
+                "latitude": 23.16337690758385,
+                "longitude": 113.36004082630909
+            },
+            {
+                "id": 969710159,
+                "name": "音乐楼",
+                "type": "nan",
+                "latitude": 23.16421982828358,
+                "longitude": 113.34689049170656
+            },
+            {
+                "id": 1065818651,
+                "name": "工程训练中心",
+                "type": "nan",
+                "latitude": 23.159185424723177,
+                "longitude": 113.33909088789784
+            },
+            {
+                "id": 1065818652,
+                "name": "机械工程楼",
+                "type": "nan",
+                "latitude": 23.159248545702923,
+                "longitude": 113.33966727742248
+            },
+            {
+                "id": 1065818660,
+                "name": "Department of Architecture",
+                "type": "nan",
+                "latitude": 23.161150496558008,
+                "longitude": 113.34291827702909
+            },
+            {
+                "id": 1065818661,
+                "name": "园林楼与林产楼",
+                "type": "nan",
+                "latitude": 23.161008610043318,
+                "longitude": 113.34256306652061
+            },
+            {
+                "id": 1091015028,
+                "name": "启林北综合训练馆",
+                "type": "nan",
+                "latitude": 23.163097866191144,
+                "longitude": 113.3658279481979
+            },
+            {
+                "id": 1154193763,
+                "name": "华南农业大学 校医院",
+                "type": "nan",
+                "latitude": 23.16676481396409,
+                "longitude": 113.34774506313076
+            },
+            {
+                "id": 1207094783,
+                "name": "SCAU College of Engineering Laboratory",
+                "type": "nan",
+                "latitude": 23.159664440250058,
+                "longitude": 113.34210493627135
+            },
+            {
+                "id": 1207094784,
+                "name": "Training Center",
+                "type": "nan",
+                "latitude": 23.158594603486847,
+                "longitude": 113.34472114073596
+            },
+            {
+                "id": 1207094785,
+                "name": "Training Center",
+                "type": "nan",
+                "latitude": 23.158463912020984,
+                "longitude": 113.34416663586276
+            },
+            {
+                "id": 1207103156,
+                "name": "Training Center",
+                "type": "nan",
+                "latitude": 23.159008557170942,
+                "longitude": 113.34470108619539
+            }
+        ]
+    }
+}

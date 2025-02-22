@@ -1,0 +1,25 @@
+{
+    "id": 3836389942282192475,
+    "name": "郑州大学",
+    "address": "中国河南省郑州市中原区科学大道100号 邮政编码: 450001",
+    "rating": 4.6,
+    "popularity": 76,
+    "data_path": "map_data/university_map/Zhengzhou_University",
+    "description": "郑州大学（英語：Zhengzhou University，缩写：ZZU），简称郑大，是一所位于中国河南省郑州市的综合性公立大学。1955年，中共中央鉴于原国立河南大学已不复存在，河南高等教育缺乏综合型大学的情况，决定将山东大学迁往郑州，组建河南大学。但鉴于山东省挽留，在1956年2月，中共中央决定改由山东大学、北京大学、吉林大学、东北大学给予支援创办一所新的大学，并定名为郑州大学。学校同年秋季开始招生。2000年7月，原郑州大学、郑州工业大学和河南医科大学合并组建新的郑州大学。\n郑州大学是中华人民共和国前列高校之一，是“双一流B类”和原“211工程”重点建设大学。现今，郑州大学拥有化学、物理工程、信息工程、材料科学、文学、新闻与传播、法学、基础医学等51个院系、116个本科专业，1所合作办学的郑州大学体育学院（由河南省体育局主管），10所附属医院。郑州大学共有四个校区（主校区、南校区、东校区、北校区），总占地面积6493亩，是河南唯一的国家原211工程重点建设高校，也是国家“中西部高校综合实力提升工程”高校、教育部首批“卓越计划”重点建设高校。截止2021年9月，郑州大学10个学科（领域）ESI排名全球前1％，其中化学ESI排名全球前1‰；现有教职工5700余人，其中专职两院院士、学部委员17人，同时有海外院士4人。长期以来，郑州大学承担了河南省1/2博士、1/3硕士和1/4进入211工程高校本科生的培养工作，享有河南省“高等教育旗帜”的美誉。在武书连出版的《2020年中国重点大学排行榜》中位列全国高校36位，校友会中国大学排名中列大陆高校40位；US News世界大学排名2021年榜单中列中国高校第62位；在2020年9月的ESI学术机构排名中列全球第607位，列全国高校第39位；Nature Index 2020（2018.10-2019.9）列中国大陆机构第35名。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5d/20230330_North_Gate_of_the_South_Campus_of_Zhengzhou_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2e/Administration_building_of_Zhengzhou_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/Clock_tower_of_Zhengzhou_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/55/Entrance_C_of_Zhengzhou_University_Sci-Tech_Park_Station_of_Zhengzhou_Metro_Line_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/30/Meihu%2C_Zhengzhou_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/Meihu_swan_of_Zhengzhou_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6c/Opening_ceremony_of_Zhengzhou_University%27s_2020_freshmen.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/Zhengzhou_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Zhengzhou_University_Library.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/58/Zhengzhou_University_Restaurant.jpg"
+    ],
+    "amenity": {
+        "affiliation": 3836389942282192475,
+        "amenity_list": []
+    }
+}

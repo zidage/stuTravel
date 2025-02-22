@@ -1,0 +1,222 @@
+{
+    "id": 6819881212657532859,
+    "name": "兰州大学",
+    "address": "中国甘肃省兰州市城关区天水南路222号 邮政编码: 730000",
+    "rating": 4.5,
+    "popularity": 56,
+    "data_path": "map_data/university_map/Lanzhou_University",
+    "description": "兰州大学（英語：Lanzhou University，缩写：LZU），簡稱蘭大，是中华人民共和国教育部直属的全国重点综合性大学，位于中华人民共和国甘肃省兰州市。\n兰州大学是中华人民共和国顶尖高校之一，是“双一流A类”和原“985工程”、原“211工程”重点建设大学。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/ff/LZU_Library.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/55/LZU_library_in_Yuzhong_county.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9f/%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%A4%A7%E9%97%A8_-_panoramio.jpg"
+    ],
+    "amenity": {
+        "affiliation": 6819881212657532859,
+        "amenity_list": [
+            {
+                "id": 4183954123,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 36.0583269,
+                "longitude": 103.7283209
+            },
+            {
+                "id": 8603649071,
+                "name": "中国建设银行",
+                "type": "bank",
+                "latitude": 36.0578548,
+                "longitude": 103.7339793
+            },
+            {
+                "id": 8603649072,
+                "name": "中国工商银行",
+                "type": "bank",
+                "latitude": 36.0579416,
+                "longitude": 103.7337271
+            },
+            {
+                "id": 588216246,
+                "name": "兰州理工大学技术工程学院",
+                "type": "college",
+                "latitude": 36.056074125168244,
+                "longitude": 103.73713031516832
+            },
+            {
+                "id": 409744654,
+                "name": "C",
+                "type": "nan",
+                "latitude": 36.055511800000005,
+                "longitude": 103.73210680000003
+            },
+            {
+                "id": 409744658,
+                "name": "A",
+                "type": "nan",
+                "latitude": 36.05859510118028,
+                "longitude": 103.73366701474934
+            },
+            {
+                "id": 409744663,
+                "name": "H",
+                "type": "nan",
+                "latitude": 36.05944749144358,
+                "longitude": 103.73528703290775
+            },
+            {
+                "id": 409744667,
+                "name": "B",
+                "type": "nan",
+                "latitude": 36.05557900129861,
+                "longitude": 103.73336206444223
+            },
+            {
+                "id": 409744674,
+                "name": "G",
+                "type": "nan",
+                "latitude": 36.054751201298615,
+                "longitude": 103.73167136444224
+            },
+            {
+                "id": 409744682,
+                "name": "C",
+                "type": "nan",
+                "latitude": 36.059007198819714,
+                "longitude": 103.73380598525067
+            },
+            {
+                "id": 409744683,
+                "name": "D",
+                "type": "nan",
+                "latitude": 36.058675449999996,
+                "longitude": 103.7349003
+            },
+            {
+                "id": 409744685,
+                "name": "H",
+                "type": "nan",
+                "latitude": 36.05436249870138,
+                "longitude": 103.73287123555775
+            },
+            {
+                "id": 409744694,
+                "name": "D",
+                "type": "nan",
+                "latitude": 36.0551605,
+                "longitude": 103.73322259999999
+            },
+            {
+                "id": 409744698,
+                "name": "E",
+                "type": "nan",
+                "latitude": 36.05513230129862,
+                "longitude": 103.73191366444223
+            },
+            {
+                "id": 409744701,
+                "name": "B",
+                "type": "nan",
+                "latitude": 36.05828729999999,
+                "longitude": 103.73467769999998
+            },
+            {
+                "id": 409744702,
+                "name": "F",
+                "type": "nan",
+                "latitude": 36.05905274443831,
+                "longitude": 103.73510135224008
+            },
+            {
+                "id": 409744705,
+                "name": "F",
+                "type": "nan",
+                "latitude": 36.05477881574299,
+                "longitude": 103.73301339679767
+            },
+            {
+                "id": 409744709,
+                "name": "北村A座行政楼",
+                "type": "nan",
+                "latitude": 36.05589775,
+                "longitude": 103.73236965
+            },
+            {
+                "id": 409744720,
+                "name": "E",
+                "type": "nan",
+                "latitude": 36.05941050885194,
+                "longitude": 103.7339588684915
+            },
+            {
+                "id": 417924824,
+                "name": "西区工程训练中心",
+                "type": "nan",
+                "latitude": 36.05534619834776,
+                "longitude": 103.72771640227913
+            },
+            {
+                "id": 417924831,
+                "name": "西区食堂、服务楼",
+                "type": "nan",
+                "latitude": 36.056280702371026,
+                "longitude": 103.73309860124711
+            },
+            {
+                "id": 443598031,
+                "name": "锅炉房",
+                "type": "nan",
+                "latitude": 36.05425012381665,
+                "longitude": 103.73387591037867
+            },
+            {
+                "id": 443602419,
+                "name": "G",
+                "type": "nan",
+                "latitude": 36.05980275629312,
+                "longitude": 103.73415824816091
+            },
+            {
+                "id": 443602420,
+                "name": "R",
+                "type": "nan",
+                "latitude": 36.054556026816634,
+                "longitude": 103.73226100916145
+            },
+            {
+                "id": 6132193,
+                "name": "石油化工学院",
+                "type": "nan",
+                "latitude": 36.06017886752112,
+                "longitude": 103.72988086105211
+            },
+            {
+                "id": 6210981,
+                "name": "西区1#教学楼",
+                "type": "nan",
+                "latitude": 36.05721415140246,
+                "longitude": 103.72971552426311
+            },
+            {
+                "id": 6210982,
+                "name": "西区A试验楼",
+                "type": "nan",
+                "latitude": 36.05943299310836,
+                "longitude": 103.72956815902866
+            },
+            {
+                "id": 6210983,
+                "name": "西区B试验楼",
+                "type": "nan",
+                "latitude": 36.05751923707744,
+                "longitude": 103.72864414524831
+            },
+            {
+                "id": 6210984,
+                "name": "西区2#教学楼",
+                "type": "nan",
+                "latitude": 36.059079395446965,
+                "longitude": 103.73058558002263
+            }
+        ]
+    }
+}

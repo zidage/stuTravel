@@ -1,0 +1,607 @@
+{
+    "id": -2502414963696863932,
+    "name": "深圳大学",
+    "address": "中国广东省深圳市南山区南海大道3688号 邮政编码: 518060",
+    "rating": 4.3,
+    "popularity": 48,
+    "data_path": "map_data/university_map/Shenzhen_University",
+    "description": "深圳大学（英語：Shenzhen University，缩写：SZU），简称深大，成立於1983年，位於中国广东省深圳市，是一所教学科研并重型的综合性大学。学校以“特区大学、窗口大学、实验大学”为办学特色，拥有从学士、硕士到博士的完整人才培养体系以及多层次的科学研究和社会服务体系，是現時13所广东省高水平大学之一。现有粤海、丽湖两个校区。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/Arial_Night_View_of_SZU_Xili_Campus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/81/Central_Plaza_of_Yuehai_Campus%2C_Shenzhen_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hanking_Center_%26_Tencent_Tower_from_SZU2021.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/Lake_Wenshan_of_Shenzhen_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e2/Motto_of_Shenzhen_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b2/SZU_Xili_Campus_Aerial_Image_From_SusTech.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2e/Southern_Area_of_Yuehai_Campus%2C_Shenzhen_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/%E6%96%87%E7%A7%91%E6%A8%93.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e2/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%8D%97%E9%A6%86_20100918.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/28/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86.JPG"
+    ],
+    "amenity": {
+        "affiliation": -2502414963696863932,
+        "amenity_list": [
+            {
+                "id": 2428968567,
+                "name": "平安银行",
+                "type": "bank",
+                "latitude": 22.5302921,
+                "longitude": 113.9250479
+            },
+            {
+                "id": 2428973920,
+                "name": "中国建设银行",
+                "type": "atm",
+                "latitude": 22.5307034,
+                "longitude": 113.9277193
+            },
+            {
+                "id": 2428973924,
+                "name": "中国银行",
+                "type": "atm",
+                "latitude": 22.5326136,
+                "longitude": 113.929337
+            },
+            {
+                "id": 2428981698,
+                "name": "可能感兴趣的地点",
+                "type": "cafe",
+                "latitude": 22.5298534,
+                "longitude": 113.9249406
+            },
+            {
+                "id": 2461362750,
+                "name": "西北谷",
+                "type": "restaurant",
+                "latitude": 22.5404463,
+                "longitude": 113.9291323
+            },
+            {
+                "id": 2461365925,
+                "name": "南校区餐厅",
+                "type": "restaurant",
+                "latitude": 22.5332137,
+                "longitude": 113.9360978
+            },
+            {
+                "id": 3255140830,
+                "name": "2楼西餐厅",
+                "type": "cafe",
+                "latitude": 22.5374125,
+                "longitude": 113.9292581
+            },
+            {
+                "id": 5285717321,
+                "name": "杜鹃山快递中心",
+                "type": "post_office",
+                "latitude": 22.533218,
+                "longitude": 113.9321639
+            },
+            {
+                "id": 230847105,
+                "name": "图书馆北馆",
+                "type": "library",
+                "latitude": 22.53642403210915,
+                "longitude": 113.93056962500235
+            },
+            {
+                "id": 230847108,
+                "name": "教工餐厅",
+                "type": "restaurant",
+                "latitude": 22.537464251457997,
+                "longitude": 113.92922942024553
+            },
+            {
+                "id": 230935221,
+                "name": "晨风餐厅（老西南餐厅）",
+                "type": "restaurant",
+                "latitude": 22.531137552932943,
+                "longitude": 113.92654737145315
+            },
+            {
+                "id": 230935723,
+                "name": "凯风餐厅（新西南餐厅）",
+                "type": "restaurant",
+                "latitude": 22.531177650035378,
+                "longitude": 113.92595059997238
+            },
+            {
+                "id": 231214221,
+                "name": "听山餐厅",
+                "type": "restaurant",
+                "latitude": 22.53172951513943,
+                "longitude": 113.92911048235523
+            },
+            {
+                "id": 231436813,
+                "name": "文山湖餐厅",
+                "type": "restaurant",
+                "latitude": 22.532642933434538,
+                "longitude": 113.92911591166619
+            },
+            {
+                "id": 231796343,
+                "name": "校医院",
+                "type": "hospital",
+                "latitude": 22.53544099503494,
+                "longitude": 113.93383945513878
+            },
+            {
+                "id": 231796623,
+                "name": "荔山餐厅",
+                "type": "restaurant",
+                "latitude": 22.537033431560044,
+                "longitude": 113.93328049034552
+            },
+            {
+                "id": 231796624,
+                "name": "实验餐厅",
+                "type": "restaurant",
+                "latitude": 22.537134177748854,
+                "longitude": 113.93368079403656
+            },
+            {
+                "id": 237484981,
+                "name": "图书馆南馆",
+                "type": "library",
+                "latitude": 22.534350283384647,
+                "longitude": 113.93119279064105
+            },
+            {
+                "id": 317029242,
+                "name": "档案馆",
+                "type": "library",
+                "latitude": 22.536901392178613,
+                "longitude": 113.93139146661129
+            },
+            {
+                "id": 971088922,
+                "name": "荔天餐厅",
+                "type": "restaurant",
+                "latitude": 22.536621476727767,
+                "longitude": 113.93354445942855
+            },
+            {
+                "id": 220880938,
+                "name": "冬筑",
+                "type": "nan",
+                "latitude": 22.532522200833284,
+                "longitude": 113.9372868922998
+            },
+            {
+                "id": 230847098,
+                "name": "C座",
+                "type": "nan",
+                "latitude": 22.53605566738387,
+                "longitude": 113.93144800757563
+            },
+            {
+                "id": 230847099,
+                "name": "D座",
+                "type": "nan",
+                "latitude": 22.536407190787013,
+                "longitude": 113.9313696580194
+            },
+            {
+                "id": 230847100,
+                "name": "B座",
+                "type": "nan",
+                "latitude": 22.535736611666124,
+                "longitude": 113.93169465378514
+            },
+            {
+                "id": 230847102,
+                "name": "A座",
+                "type": "nan",
+                "latitude": 22.53536836613717,
+                "longitude": 113.93189490706405
+            },
+            {
+                "id": 230847103,
+                "name": "科技楼",
+                "type": "nan",
+                "latitude": 22.538197764458197,
+                "longitude": 113.93168009705786
+            },
+            {
+                "id": 230847104,
+                "name": "办公楼",
+                "type": "nan",
+                "latitude": 22.535743013860046,
+                "longitude": 113.92987987101306
+            },
+            {
+                "id": 230847106,
+                "name": "金工坊",
+                "type": "nan",
+                "latitude": 22.534241240866734,
+                "longitude": 113.92703803345165
+            },
+            {
+                "id": 230847107,
+                "name": "学生创业园",
+                "type": "nan",
+                "latitude": 22.533590462467338,
+                "longitude": 113.92668377784639
+            },
+            {
+                "id": 230847536,
+                "name": "留学生楼",
+                "type": "nan",
+                "latitude": 22.532467404242606,
+                "longitude": 113.92789850542127
+            },
+            {
+                "id": 230956722,
+                "name": "元平体育馆",
+                "type": "nan",
+                "latitude": 22.538859076503947,
+                "longitude": 113.93378472961082
+            },
+            {
+                "id": 230956723,
+                "name": "游泳馆",
+                "type": "nan",
+                "latitude": 22.539693574793464,
+                "longitude": 113.93374272681652
+            },
+            {
+                "id": 230956724,
+                "name": "变电站",
+                "type": "nan",
+                "latitude": 22.53791905,
+                "longitude": 113.9305458
+            },
+            {
+                "id": 230957349,
+                "name": "小球馆",
+                "type": "nan",
+                "latitude": 22.5405666492296,
+                "longitude": 113.93344236815652
+            },
+            {
+                "id": 231065254,
+                "name": "雨鹃斋",
+                "type": "nan",
+                "latitude": 22.535895750994538,
+                "longitude": 113.93298142514412
+            },
+            {
+                "id": 231065258,
+                "name": "演会中心",
+                "type": "nan",
+                "latitude": 22.53665605430012,
+                "longitude": 113.92927005316778
+            },
+            {
+                "id": 231086125,
+                "name": "机电与控制工程学院",
+                "type": "nan",
+                "latitude": 22.53057530607594,
+                "longitude": 113.93288950071509
+            },
+            {
+                "id": 231086366,
+                "name": "土木工程学院",
+                "type": "nan",
+                "latitude": 22.529235953421104,
+                "longitude": 113.9337802336411
+            },
+            {
+                "id": 231214214,
+                "name": "红榴斋",
+                "type": "nan",
+                "latitude": 22.537051653213872,
+                "longitude": 113.93213170475471
+            },
+            {
+                "id": 231214216,
+                "name": "山茶斋",
+                "type": "nan",
+                "latitude": 22.53711617755525,
+                "longitude": 113.93269091996783
+            },
+            {
+                "id": 231406104,
+                "name": "H4",
+                "type": "nan",
+                "latitude": 22.540325199025897,
+                "longitude": 113.92939423224787
+            },
+            {
+                "id": 231406258,
+                "name": "H1",
+                "type": "nan",
+                "latitude": 22.540814953144448,
+                "longitude": 113.93054121403291
+            },
+            {
+                "id": 231406259,
+                "name": "H3",
+                "type": "nan",
+                "latitude": 22.540337430396704,
+                "longitude": 113.93012717201609
+            },
+            {
+                "id": 231572980,
+                "name": "风槐斋",
+                "type": "nan",
+                "latitude": 22.53611801890929,
+                "longitude": 113.93402342410602
+            },
+            {
+                "id": 231664853,
+                "name": "艺术邨",
+                "type": "nan",
+                "latitude": 22.53803852883439,
+                "longitude": 113.93479402556065
+            },
+            {
+                "id": 231795526,
+                "name": "学生活动中心",
+                "type": "nan",
+                "latitude": 22.535231871226753,
+                "longitude": 113.93299302683226
+            },
+            {
+                "id": 231796341,
+                "name": "银桦斋",
+                "type": "nan",
+                "latitude": 22.535746675740803,
+                "longitude": 113.93387345691282
+            },
+            {
+                "id": 231796344,
+                "name": "银桦斋",
+                "type": "nan",
+                "latitude": 22.5357674003843,
+                "longitude": 113.93414160127787
+            },
+            {
+                "id": 231796434,
+                "name": "海桐斋",
+                "type": "nan",
+                "latitude": 22.536662767752954,
+                "longitude": 113.93231944994878
+            },
+            {
+                "id": 231796435,
+                "name": "米兰斋",
+                "type": "nan",
+                "latitude": 22.53678575785507,
+                "longitude": 113.93270964506459
+            },
+            {
+                "id": 231796436,
+                "name": "桃李斋",
+                "type": "nan",
+                "latitude": 22.536364433736566,
+                "longitude": 113.93245713543885
+            },
+            {
+                "id": 242066977,
+                "name": "低音",
+                "type": "nan",
+                "latitude": 22.533023602066525,
+                "longitude": 113.93779617948188
+            },
+            {
+                "id": 292598302,
+                "name": "春笛",
+                "type": "nan",
+                "latitude": 22.534354750449157,
+                "longitude": 113.93697217960755
+            },
+            {
+                "id": 292598303,
+                "name": "高音",
+                "type": "nan",
+                "latitude": 22.53422048804496,
+                "longitude": 113.93733394871236
+            },
+            {
+                "id": 292598304,
+                "name": "夏筝",
+                "type": "nan",
+                "latitude": 22.533861242211476,
+                "longitude": 113.93723592747915
+            },
+            {
+                "id": 315603844,
+                "name": "H2",
+                "type": "nan",
+                "latitude": 22.54054814654158,
+                "longitude": 113.93048795767675
+            },
+            {
+                "id": 315603846,
+                "name": "粤海门实验楼y",
+                "type": "nan",
+                "latitude": 22.533114899999998,
+                "longitude": 113.92642494999998
+            },
+            {
+                "id": 319101983,
+                "name": "计算机与软件学院、电子科学与技术学院楼",
+                "type": "nan",
+                "latitude": 22.529098933169184,
+                "longitude": 113.93198559043195
+            },
+            {
+                "id": 319101984,
+                "name": "物理与光电工程学院",
+                "type": "nan",
+                "latitude": 22.528794177998574,
+                "longitude": 113.93294082802991
+            },
+            {
+                "id": 629940889,
+                "name": "设计教学楼",
+                "type": "nan",
+                "latitude": 22.53214373847267,
+                "longitude": 113.93457858838052
+            },
+            {
+                "id": 629940890,
+                "name": "设计教学楼",
+                "type": "nan",
+                "latitude": 22.532702663088084,
+                "longitude": 113.93502779365511
+            },
+            {
+                "id": 629940891,
+                "name": "理工楼L3",
+                "type": "nan",
+                "latitude": 22.531419955155236,
+                "longitude": 113.93554774903905
+            },
+            {
+                "id": 629940892,
+                "name": "理工楼L6",
+                "type": "nan",
+                "latitude": 22.532445755027783,
+                "longitude": 113.93610619039421
+            },
+            {
+                "id": 629940893,
+                "name": "乔森",
+                "type": "nan",
+                "latitude": 22.530128905228786,
+                "longitude": 113.92847384928102
+            },
+            {
+                "id": 629940894,
+                "name": "乔相",
+                "type": "nan",
+                "latitude": 22.530413903136534,
+                "longitude": 113.92907972243508
+            },
+            {
+                "id": 629940895,
+                "name": "乔梧",
+                "type": "nan",
+                "latitude": 22.53066355826548,
+                "longitude": 113.92971482506601
+            },
+            {
+                "id": 654873808,
+                "name": "理工楼L2",
+                "type": "nan",
+                "latitude": 22.53151343601028,
+                "longitude": 113.9351361751148
+            },
+            {
+                "id": 654873809,
+                "name": "理工楼L1",
+                "type": "nan",
+                "latitude": 22.5307065654009,
+                "longitude": 113.93488283784015
+            },
+            {
+                "id": 677820638,
+                "name": "蓬莱客舍",
+                "type": "nan",
+                "latitude": 22.53606870405866,
+                "longitude": 113.93351610780041
+            },
+            {
+                "id": 722200010,
+                "name": "演播厅",
+                "type": "nan",
+                "latitude": 22.532143584221675,
+                "longitude": 113.93562229733581
+            },
+            {
+                "id": 971088918,
+                "name": "新斋",
+                "type": "nan",
+                "latitude": 22.53707499922197,
+                "longitude": 113.934687768659
+            },
+            {
+                "id": 976048326,
+                "name": "校友广场",
+                "type": "nan",
+                "latitude": 22.537739329414556,
+                "longitude": 113.9334622133016
+            },
+            {
+                "id": 984606892,
+                "name": "理工楼L4",
+                "type": "nan",
+                "latitude": 22.530367147676724,
+                "longitude": 113.93384438637098
+            },
+            {
+                "id": 984606893,
+                "name": "高等研究院",
+                "type": "nan",
+                "latitude": 22.53009943158933,
+                "longitude": 113.93407761991807
+            },
+            {
+                "id": 1258216924,
+                "name": "乔木",
+                "type": "nan",
+                "latitude": 22.53048604485605,
+                "longitude": 113.9279676376626
+            },
+            {
+                "id": 1258216925,
+                "name": "乔林",
+                "type": "nan",
+                "latitude": 22.529956979765362,
+                "longitude": 113.9279753558801
+            },
+            {
+                "id": 3095541,
+                "name": "本原设计研究中心",
+                "type": "nan",
+                "latitude": 22.53384264036092,
+                "longitude": 113.93223472201642
+            },
+            {
+                "id": 3097097,
+                "name": "F座",
+                "type": "nan",
+                "latitude": 22.537598276704433,
+                "longitude": 113.92982229906623
+            },
+            {
+                "id": 3104263,
+                "name": "实验楼",
+                "type": "nan",
+                "latitude": 22.53512602201284,
+                "longitude": 113.92898756033168
+            },
+            {
+                "id": 3104286,
+                "name": "光电子学研究所",
+                "type": "nan",
+                "latitude": 22.534866341010108,
+                "longitude": 113.92819654664171
+            },
+            {
+                "id": 3105897,
+                "name": "文科楼办公区",
+                "type": "nan",
+                "latitude": 22.54121168574725,
+                "longitude": 113.92980854569923
+            },
+            {
+                "id": 3108559,
+                "name": "凌霄斋",
+                "type": "nan",
+                "latitude": 22.5364680806285,
+                "longitude": 113.93285052388242
+            },
+            {
+                "id": 13233284,
+                "name": "秋瑟",
+                "type": "nan",
+                "latitude": 22.533285038433654,
+                "longitude": 113.93734577100118
+            }
+        ]
+    }
+}

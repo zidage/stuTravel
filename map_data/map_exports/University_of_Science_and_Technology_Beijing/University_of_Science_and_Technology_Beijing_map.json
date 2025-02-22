@@ -1,0 +1,476 @@
+{
+    "id": -7581311102102210590,
+    "name": "北京科技大学",
+    "address": "中国北京市海淀区学院路30号 邮政编码: 100083",
+    "rating": 4.6,
+    "popularity": 88,
+    "data_path": "map_data/university_map/University_of_Science_and_Technology_Beijing",
+    "description": "北京科技大学（英語：University of Science and Technology Beijing，縮寫：USTB），简称北科、北科大或北京科大，是位于北京市海淀区学院路的一所教育部直属的全国重点大学，是211工程、2011计划、985优势学科创新平台等高水平大学建设方案入选高校。学校占地约80.39万平方米，校舍建筑总面积97万平方米。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/Mechanical_and_Information_Engineering_Building_of_USTB.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Platopainting.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/89/School_of_Materials_Science_and_Engineering_USTB.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/USTB_Gym.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/USTB_west_gate.jpg"
+    ],
+    "amenity": {
+        "affiliation": -7581311102102210590,
+        "amenity_list": [
+            {
+                "id": 2701036588,
+                "name": "停车场出口",
+                "type": "parking",
+                "latitude": 39.9860772,
+                "longitude": 116.3495858
+            },
+            {
+                "id": 2701036589,
+                "name": "停车场入口",
+                "type": "parking",
+                "latitude": 39.9875281,
+                "longitude": 116.3476519
+            },
+            {
+                "id": 3872145075,
+                "name": "中国工商银行",
+                "type": "bank",
+                "latitude": 39.9917599,
+                "longitude": 116.350253
+            },
+            {
+                "id": 4288732041,
+                "name": "停车场",
+                "type": "parking",
+                "latitude": 39.9870021,
+                "longitude": 116.3479455
+            },
+            {
+                "id": 314370873,
+                "name": "万秀园",
+                "type": "restaurant",
+                "latitude": 39.98753940000001,
+                "longitude": 116.35572030000002
+            },
+            {
+                "id": 314370874,
+                "name": "鸿博园",
+                "type": "restaurant",
+                "latitude": 39.98742248629061,
+                "longitude": 116.35121047642936
+            },
+            {
+                "id": 435148186,
+                "name": "北京科技大学附属中学",
+                "type": "school",
+                "latitude": 39.99155499873598,
+                "longitude": 116.35702416528576
+            },
+            {
+                "id": 543823925,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 39.989774775330595,
+                "longitude": 116.35482365687973
+            },
+            {
+                "id": 543835538,
+                "name": "友谊餐厅",
+                "type": "restaurant",
+                "latitude": 39.98704062412384,
+                "longitude": 116.35649589608842
+            },
+            {
+                "id": 264419927,
+                "name": "科大天工大厦",
+                "type": "nan",
+                "latitude": 39.98700659879553,
+                "longitude": 116.34892364372598
+            },
+            {
+                "id": 264420614,
+                "name": "主楼",
+                "type": "nan",
+                "latitude": 39.98881014181156,
+                "longitude": 116.34966246069915
+            },
+            {
+                "id": 264421511,
+                "name": "北京科技大学体育館",
+                "type": "nan",
+                "latitude": 39.988998984072126,
+                "longitude": 116.35599676771149
+            },
+            {
+                "id": 292736298,
+                "name": "北京科技大学逸夫楼",
+                "type": "nan",
+                "latitude": 39.99040625911582,
+                "longitude": 116.35001611915698
+            },
+            {
+                "id": 314355476,
+                "name": "机电信息楼",
+                "type": "nan",
+                "latitude": 39.99097319672625,
+                "longitude": 116.34920330285648
+            },
+            {
+                "id": 314370865,
+                "name": "北京科技大学3斋",
+                "type": "nan",
+                "latitude": 39.98762917603471,
+                "longitude": 116.35352062140542
+            },
+            {
+                "id": 314370866,
+                "name": "北京科技大学2斋",
+                "type": "nan",
+                "latitude": 39.987464563126956,
+                "longitude": 116.35228634607861
+            },
+            {
+                "id": 314370867,
+                "name": "北京科技大学4斋",
+                "type": "nan",
+                "latitude": 39.98754004275494,
+                "longitude": 116.35478625123216
+            },
+            {
+                "id": 314370868,
+                "name": "北京科技大学5斋",
+                "type": "nan",
+                "latitude": 39.98680055788502,
+                "longitude": 116.35480635255459
+            },
+            {
+                "id": 314370869,
+                "name": "北京科技大学6斋",
+                "type": "nan",
+                "latitude": 39.9866530510326,
+                "longitude": 116.35357857310602
+            },
+            {
+                "id": 314370870,
+                "name": "北京科技大学1斋",
+                "type": "nan",
+                "latitude": 39.98671160315009,
+                "longitude": 116.35231325895151
+            },
+            {
+                "id": 314370872,
+                "name": "北京科技大学7斋",
+                "type": "nan",
+                "latitude": 39.987147161869714,
+                "longitude": 116.3535650670045
+            },
+            {
+                "id": 335564679,
+                "name": "图书馆",
+                "type": "nan",
+                "latitude": 39.98889148340793,
+                "longitude": 116.35099097102896
+            },
+            {
+                "id": 358100583,
+                "name": "北京科技大学8斋9斋",
+                "type": "nan",
+                "latitude": 39.987526187619466,
+                "longitude": 116.35793114494369
+            },
+            {
+                "id": 358101518,
+                "name": "北京科技大学16栋",
+                "type": "nan",
+                "latitude": 39.9877357,
+                "longitude": 116.3568168
+            },
+            {
+                "id": 383908652,
+                "name": "方兴大厦",
+                "type": "nan",
+                "latitude": 39.99173290000001,
+                "longitude": 116.35031124999999
+            },
+            {
+                "id": 435148185,
+                "name": "北京科技大学附属中学",
+                "type": "nan",
+                "latitude": 39.99160847226761,
+                "longitude": 116.35622149689564
+            },
+            {
+                "id": 543823929,
+                "name": "教学楼+学术报告厅+实验楼",
+                "type": "nan",
+                "latitude": 39.98968671893519,
+                "longitude": 116.35083461525946
+            },
+            {
+                "id": 543824549,
+                "name": "办公楼",
+                "type": "nan",
+                "latitude": 39.98795162324226,
+                "longitude": 116.34881454898414
+            },
+            {
+                "id": 543824550,
+                "name": "数理楼",
+                "type": "nan",
+                "latitude": 39.989692902981304,
+                "longitude": 116.34867714338628
+            },
+            {
+                "id": 543828704,
+                "name": "冶金楼",
+                "type": "nan",
+                "latitude": 39.986898541648756,
+                "longitude": 116.35135707940277
+            },
+            {
+                "id": 543829124,
+                "name": "外语楼",
+                "type": "nan",
+                "latitude": 39.98805871740788,
+                "longitude": 116.35087312790704
+            },
+            {
+                "id": 543830448,
+                "name": "教职工礼堂",
+                "type": "nan",
+                "latitude": 39.98749115,
+                "longitude": 116.35044700000002
+            },
+            {
+                "id": 543830450,
+                "name": "金物楼",
+                "type": "nan",
+                "latitude": 39.98721971219505,
+                "longitude": 116.34954075732622
+            },
+            {
+                "id": 543830451,
+                "name": "腐蚀防护楼",
+                "type": "nan",
+                "latitude": 39.98698133734116,
+                "longitude": 116.3501366807893
+            },
+            {
+                "id": 543835539,
+                "name": "北京科技大学校医院",
+                "type": "nan",
+                "latitude": 39.986307768555456,
+                "longitude": 116.35597748639022
+            },
+            {
+                "id": 543835540,
+                "name": "北京科技大学校医院-发热肠道门诊",
+                "type": "nan",
+                "latitude": 39.98617325980281,
+                "longitude": 116.35555727267248
+            },
+            {
+                "id": 543836353,
+                "name": "测试楼",
+                "type": "nan",
+                "latitude": 39.99016179286925,
+                "longitude": 116.34920037975671
+            },
+            {
+                "id": 543836354,
+                "name": "文法楼",
+                "type": "nan",
+                "latitude": 39.990123102462746,
+                "longitude": 116.34835842428618
+            },
+            {
+                "id": 543836355,
+                "name": "工程训练中心（西区）",
+                "type": "nan",
+                "latitude": 39.9903871292345,
+                "longitude": 116.34787442856052
+            },
+            {
+                "id": 543836357,
+                "name": "高等教育书店",
+                "type": "nan",
+                "latitude": 39.991419,
+                "longitude": 116.3476918
+            },
+            {
+                "id": 543836359,
+                "name": "土环楼",
+                "type": "nan",
+                "latitude": 39.99091088443181,
+                "longitude": 116.34837093082575
+            },
+            {
+                "id": 543836362,
+                "name": "经管楼",
+                "type": "nan",
+                "latitude": 39.99166180374108,
+                "longitude": 116.35103272461738
+            },
+            {
+                "id": 543838000,
+                "name": "保卫保密处",
+                "type": "nan",
+                "latitude": 39.987568542149724,
+                "longitude": 116.34951968040697
+            },
+            {
+                "id": 543840250,
+                "name": "物美",
+                "type": "nan",
+                "latitude": 39.99028530868524,
+                "longitude": 116.35343688375889
+            },
+            {
+                "id": 956214727,
+                "name": "北京科技大学会议中心",
+                "type": "nan",
+                "latitude": 39.98678044890177,
+                "longitude": 116.35705961318013
+            },
+            {
+                "id": 978624827,
+                "name": "北京科技大学43栋",
+                "type": "nan",
+                "latitude": 39.98813865,
+                "longitude": 116.35805639999998
+            },
+            {
+                "id": 978624829,
+                "name": "北京科技大学49栋",
+                "type": "nan",
+                "latitude": 39.98837530007097,
+                "longitude": 116.35869224891141
+            },
+            {
+                "id": 978624847,
+                "name": "北京科技大学实习车间",
+                "type": "nan",
+                "latitude": 39.99108664431921,
+                "longitude": 116.35112761416853
+            },
+            {
+                "id": 978624853,
+                "name": "科技楼",
+                "type": "nan",
+                "latitude": 39.99031398713951,
+                "longitude": 116.3512123221472
+            },
+            {
+                "id": 1094542789,
+                "name": "北京科技大学国际处",
+                "type": "nan",
+                "latitude": 39.98721361745638,
+                "longitude": 116.35699393499739
+            },
+            {
+                "id": 1094542799,
+                "name": "锅炉房",
+                "type": "nan",
+                "latitude": 39.9866415957983,
+                "longitude": 116.3509404453911
+            },
+            {
+                "id": 1094546403,
+                "name": "北京科技大学博士后公寓",
+                "type": "nan",
+                "latitude": 39.98715347040317,
+                "longitude": 116.35567169155642
+            },
+            {
+                "id": 1094546404,
+                "name": "北京科技大学研究生院",
+                "type": "nan",
+                "latitude": 39.986911899501486,
+                "longitude": 116.35577366754521
+            },
+            {
+                "id": 1094546405,
+                "name": "北京科技大学博士后公寓",
+                "type": "nan",
+                "latitude": 39.98664514768832,
+                "longitude": 116.35566042571976
+            },
+            {
+                "id": 1094546406,
+                "name": "北京科技大学培训楼",
+                "type": "nan",
+                "latitude": 39.98697152924665,
+                "longitude": 116.35611670126207
+            },
+            {
+                "id": 1094546407,
+                "name": "北京科技大学21栋",
+                "type": "nan",
+                "latitude": 39.9874543948094,
+                "longitude": 116.35651148586841
+            },
+            {
+                "id": 1094546408,
+                "name": "北京科技大学22栋",
+                "type": "nan",
+                "latitude": 39.98748008511719,
+                "longitude": 116.35723089026884
+            },
+            {
+                "id": 1094546409,
+                "name": "北京科技大学50栋",
+                "type": "nan",
+                "latitude": 39.98754110012207,
+                "longitude": 116.35874758453005
+            },
+            {
+                "id": 1094546410,
+                "name": "会议楼",
+                "type": "nan",
+                "latitude": 39.98636104108965,
+                "longitude": 116.35690238370991
+            },
+            {
+                "id": 1094546411,
+                "name": "北京科技大学10栋",
+                "type": "nan",
+                "latitude": 39.98624996339491,
+                "longitude": 116.35503460701905
+            },
+            {
+                "id": 1094546412,
+                "name": "北京科技大学11栋",
+                "type": "nan",
+                "latitude": 39.986144192804005,
+                "longitude": 116.35415535075407
+            },
+            {
+                "id": 1094546413,
+                "name": "北京科技大学12栋",
+                "type": "nan",
+                "latitude": 39.986218447970224,
+                "longitude": 116.35318263765907
+            },
+            {
+                "id": 1094546414,
+                "name": "北京科技大学化生楼",
+                "type": "nan",
+                "latitude": 39.98614465813484,
+                "longitude": 116.35227390024775
+            },
+            {
+                "id": 1094546415,
+                "name": "马院楼",
+                "type": "nan",
+                "latitude": 39.9904412707001,
+                "longitude": 116.3481860719632
+            },
+            {
+                "id": 1094546417,
+                "name": "网络楼",
+                "type": "nan",
+                "latitude": 39.990247467185206,
+                "longitude": 116.34758955656493
+            }
+        ]
+    }
+}

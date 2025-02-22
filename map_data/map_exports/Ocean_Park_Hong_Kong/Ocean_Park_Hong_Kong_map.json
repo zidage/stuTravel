@@ -1,0 +1,514 @@
+{
+    "id": -3566678620758777661,
+    "name": "海洋公园",
+    "address": "Aberdeen, 香港",
+    "rating": 4.3,
+    "popularity": 80,
+    "data_path": "map_data/university_map/Ocean_Park_Hong_Kong",
+    "description": "海岸公園 或  海洋公園（marine park）是作為康樂和保育用途的海岸或海域。大部份的海岸公園都是由政府所劃定的，有如海上的國家公園。亦有部份海岸公園是私人設立的。一般來說，漁船等船隻在未經許可下，不能進入海岸公園範圍。設有海岸公園的國家和地區有紐西蘭和香港。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_great_atolls_of_Wayag.jpg"
+    ],
+    "amenity": {
+        "affiliation": -3566678620758777661,
+        "amenity_list": [
+            {
+                "id": 1070813647,
+                "name": "灣景餐廳 Bay View Restaurant",
+                "type": "restaurant",
+                "latitude": 22.23346,
+                "longitude": 114.172586
+            },
+            {
+                "id": 1070813706,
+                "name": "美食舫 Boardwalk Cafe",
+                "type": "cafe",
+                "latitude": 22.2333813,
+                "longitude": 114.1695205
+            },
+            {
+                "id": 1070813728,
+                "name": "金香雞 Golden Fried Chicken",
+                "type": "fast_food",
+                "latitude": 22.2322881,
+                "longitude": 114.1722877
+            },
+            {
+                "id": 1070814072,
+                "name": "飛船魷魚 Raging River Squid",
+                "type": "fast_food",
+                "latitude": 22.2346146,
+                "longitude": 114.1687416
+            },
+            {
+                "id": 1071322618,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 22.2347813,
+                "longitude": 114.169271
+            },
+            {
+                "id": 1327081001,
+                "name": "海洋公園大樹灣碼頭 Ocean Park Tai Shue Wan Pier",
+                "type": "ferry_terminal",
+                "latitude": 22.2351017,
+                "longitude": 114.1670686
+            },
+            {
+                "id": 6159241133,
+                "name": "海灣餐廳 Marina Kitchen",
+                "type": "restaurant",
+                "latitude": 22.2473255,
+                "longitude": 114.1752362
+            },
+            {
+                "id": 6159587550,
+                "name": "Pier酒廊 Pier Lounge",
+                "type": "bar",
+                "latitude": 22.2480522,
+                "longitude": 114.1756194
+            },
+            {
+                "id": 6159587551,
+                "name": "南海小館 Canton Bistro",
+                "type": "restaurant",
+                "latitude": 22.2475886,
+                "longitude": 114.1761994
+            },
+            {
+                "id": 6159587552,
+                "name": "Prohibition扒房酒吧 Prohibition Grill House & Cocktail Bar",
+                "type": "restaurant",
+                "latitude": 22.2473148,
+                "longitude": 114.1760149
+            },
+            {
+                "id": 6159587553,
+                "name": "水療中心 Harnn Heritage Spa",
+                "type": "public_bath",
+                "latitude": 22.2479872,
+                "longitude": 114.1758128
+            },
+            {
+                "id": 6159589631,
+                "name": "海龍王餐廳 Neptune's Restaurant",
+                "type": "restaurant",
+                "latitude": 22.2458621,
+                "longitude": 114.1747817
+            },
+            {
+                "id": 6159877471,
+                "name": "澳洲歷奇 Adventures in Australia",
+                "type": "theatre",
+                "latitude": 22.2464363,
+                "longitude": 114.1761886
+            },
+            {
+                "id": 6159878996,
+                "name": "大熊貓小廚 Panda Cafe Food to Go",
+                "type": "fast_food",
+                "latitude": 22.2450882,
+                "longitude": 114.1765227
+            },
+            {
+                "id": 6161845632,
+                "name": "冰極餐廳 Tuxedos Restaruant",
+                "type": "restaurant",
+                "latitude": 22.2354983,
+                "longitude": 114.1712504
+            },
+            {
+                "id": 7922591762,
+                "name": "McDonald's",
+                "type": "fast_food",
+                "latitude": 22.2320904,
+                "longitude": 114.1724818
+            },
+            {
+                "id": 7922754574,
+                "name": "Ginger Grill",
+                "type": "restaurant",
+                "latitude": 22.2465635,
+                "longitude": 114.1753805
+            },
+            {
+                "id": 9083263444,
+                "name": "水上樂園 Water World",
+                "type": "bus_station",
+                "latitude": 22.2361358,
+                "longitude": 114.1670644
+            },
+            {
+                "id": 11002872505,
+                "name": "雪糕樂 Ice-cream Delight",
+                "type": "ice_cream",
+                "latitude": 22.2321369,
+                "longitude": 114.1721563
+            },
+            {
+                "id": 11801604252,
+                "name": "Cross Harbour",
+                "type": "taxi",
+                "latitude": 22.2483551,
+                "longitude": 114.1747265
+            },
+            {
+                "id": 11801604253,
+                "name": "Hong Kong Island",
+                "type": "taxi",
+                "latitude": 22.2483235,
+                "longitude": 114.174922
+            },
+            {
+                "id": 92191890,
+                "name": "威威劇場 Whiskers Theatre",
+                "type": "theatre",
+                "latitude": 22.244976070295586,
+                "longitude": 114.17736262895959
+            },
+            {
+                "id": 92241272,
+                "name": "海洋冰室 Cafe Ocean",
+                "type": "cafe",
+                "latitude": 22.232002424662227,
+                "longitude": 114.1716118094159
+            },
+            {
+                "id": 96936294,
+                "name": "夢幻水都人工湖 Aqua City Lagoon",
+                "type": "fountain",
+                "latitude": 22.246328725059122,
+                "longitude": 114.17485371969886
+            },
+            {
+                "id": 226529600,
+                "name": "Dive into a Float",
+                "type": "restaurant",
+                "latitude": 22.232378870662725,
+                "longitude": 114.17205612607222
+            },
+            {
+                "id": 301326718,
+                "name": "熊貓薈 Club Panda",
+                "type": "restaurant",
+                "latitude": 22.245186075416193,
+                "longitude": 114.1763395155226
+            },
+            {
+                "id": 301326728,
+                "name": "海洋公園獸醫院 Ocean Park Veterinary Hospital",
+                "type": "veterinary",
+                "latitude": 22.243812803128087,
+                "longitude": 114.17822956603361
+            },
+            {
+                "id": 657941226,
+                "name": "小丑派對 Clown's Snacks",
+                "type": "fast_food",
+                "latitude": 22.244386199999997,
+                "longitude": 114.17736135
+            },
+            {
+                "id": 657941237,
+                "name": "吉祥物留影站 Mascot Meet & Greet Booth",
+                "type": "shelter",
+                "latitude": 22.245455000000007,
+                "longitude": 114.17615510000002
+            },
+            {
+                "id": 657954684,
+                "name": "動感美食坊 Clown Corner",
+                "type": "fast_food",
+                "latitude": 22.234477881384212,
+                "longitude": 114.17150230464462
+            },
+            {
+                "id": 849146141,
+                "name": "獸醫中心 Veterinary Centre",
+                "type": "veterinary",
+                "latitude": 22.232321444069235,
+                "longitude": 114.17034277303296
+            },
+            {
+                "id": 9146284,
+                "name": "食尚水都 Lakeside Chill",
+                "type": "fast_food",
+                "latitude": 22.246607470289778,
+                "longitude": 114.17494301274394
+            },
+            {
+                "id": 92191867,
+                "name": "幻彩旋轉馬 Merry-Go-Round",
+                "type": "nan",
+                "latitude": 22.244633984814737,
+                "longitude": 114.17729387683903
+            },
+            {
+                "id": 92191874,
+                "name": "香港賽馬會四川奇珍館 HKJC Sichuan Treasures",
+                "type": "nan",
+                "latitude": 22.245354565128704,
+                "longitude": 114.17548925891622
+            },
+            {
+                "id": 92191878,
+                "name": "海濱站 Waterfront Station",
+                "type": "nan",
+                "latitude": 22.24648694161858,
+                "longitude": 114.1763673135465
+            },
+            {
+                "id": 92191886,
+                "name": "高峰站 Summit Station",
+                "type": "nan",
+                "latitude": 22.23365275739553,
+                "longitude": 114.17250034876082
+            },
+            {
+                "id": 92241245,
+                "name": "海濱廊紀念品站 Pacific Chandlers",
+                "type": "nan",
+                "latitude": 22.23344458186257,
+                "longitude": 114.16957623402297
+            },
+            {
+                "id": 92241267,
+                "name": "海事角 Maritime Point",
+                "type": "nan",
+                "latitude": 22.233339937667473,
+                "longitude": 114.16986228881836
+            },
+            {
+                "id": 92241279,
+                "name": "高峰 Summit",
+                "type": "nan",
+                "latitude": 22.23488901032207,
+                "longitude": 114.17084300725182
+            },
+            {
+                "id": 92241283,
+                "name": "尋鯊探秘 Shark Mystique",
+                "type": "nan",
+                "latitude": 22.23231331384955,
+                "longitude": 114.17266942791636
+            },
+            {
+                "id": 92241287,
+                "name": "Yangtze Aquarium",
+                "type": "nan",
+                "latitude": 22.232963560105222,
+                "longitude": 114.17237171794065
+            },
+            {
+                "id": 92241292,
+                "name": "海洋劇場 Ocean Theatre",
+                "type": "nan",
+                "latitude": 22.233348435576723,
+                "longitude": 114.17078824821829
+            },
+            {
+                "id": 92295058,
+                "name": "海濱 Waterfront",
+                "type": "nan",
+                "latitude": 22.2453930510159,
+                "longitude": 114.17583185885071
+            },
+            {
+                "id": 92295062,
+                "name": "Coca Cola Store",
+                "type": "nan",
+                "latitude": 22.233202558444603,
+                "longitude": 114.17171526571465
+            },
+            {
+                "id": 96936293,
+                "name": "海洋奇觀 Grand Aquarium",
+                "type": "nan",
+                "latitude": 22.2457612185327,
+                "longitude": 114.17460188952707
+            },
+            {
+                "id": 301326715,
+                "name": "Little Meerkat and Giant Tortoise Adventure",
+                "type": "nan",
+                "latitude": 22.244490766761476,
+                "longitude": 114.17771888438561
+            },
+            {
+                "id": 301326716,
+                "name": "長青課室 Evergreen Classroom",
+                "type": "nan",
+                "latitude": 22.246083532943377,
+                "longitude": 114.17704592141675
+            },
+            {
+                "id": 301326723,
+                "name": "鱷魚潭 Gator Mash",
+                "type": "nan",
+                "latitude": 22.24552045,
+                "longitude": 114.17643340000002
+            },
+            {
+                "id": 301326724,
+                "name": "海洋哺乳動物繁殖及研究中心 Marine Mammal Breeding and Research Centre",
+                "type": "nan",
+                "latitude": 22.231968551745673,
+                "longitude": 114.16997860271826
+            },
+            {
+                "id": 301326726,
+                "name": "珊瑚大樓 Coral Building",
+                "type": "nan",
+                "latitude": 22.245991099999998,
+                "longitude": 114.177387
+            },
+            {
+                "id": 301326730,
+                "name": "環迴水世界 Sea Life Carousel",
+                "type": "nan",
+                "latitude": 22.24616290665705,
+                "longitude": 114.17609046382407
+            },
+            {
+                "id": 301326732,
+                "name": "Hong Kong Marine Life Stranding and Education Centre Tour",
+                "type": "nan",
+                "latitude": 22.24500701711266,
+                "longitude": 114.17533905892331
+            },
+            {
+                "id": 301326736,
+                "name": "海洋公園威威天地變電站 Ocean Park Whiskers Harbour Substation",
+                "type": "nan",
+                "latitude": 22.24549733973433,
+                "longitude": 114.17724073362953
+            },
+            {
+                "id": 345663418,
+                "name": "雀鳥劇場 Amazing Bird Theatre",
+                "type": "nan",
+                "latitude": 22.244828040678,
+                "longitude": 114.17672878001595
+            },
+            {
+                "id": 391176774,
+                "name": "海洋公園 Ocean Park",
+                "type": "nan",
+                "latitude": 22.24865426136065,
+                "longitude": 114.1743750853296
+            },
+            {
+                "id": 657693886,
+                "name": "怡慶坊 Applause Pavilion",
+                "type": "nan",
+                "latitude": 22.245883550000002,
+                "longitude": 114.1755339
+            },
+            {
+                "id": 657704856,
+                "name": "山林及川流課室 Mountain & River Classrooms",
+                "type": "nan",
+                "latitude": 22.24586165,
+                "longitude": 114.17651245
+            },
+            {
+                "id": 657704857,
+                "name": "熊貓禮品店 Panda Kingdom Shop",
+                "type": "nan",
+                "latitude": 22.245366650584522,
+                "longitude": 114.17656767732447
+            },
+            {
+                "id": 657706402,
+                "name": "金魚寶殿 Goldfish Treasures",
+                "type": "nan",
+                "latitude": 22.245216779611223,
+                "longitude": 114.17676894187824
+            },
+            {
+                "id": 657933148,
+                "name": "海洋公園亞洲動物天地變電站 Ocean Park Amazing Asian Animal Substation",
+                "type": "nan",
+                "latitude": 22.24575838106828,
+                "longitude": 114.17704434470147
+            },
+            {
+                "id": 657933153,
+                "name": "海洋公園低段南變電站 Oceanarium Lowland Site South Substation",
+                "type": "nan",
+                "latitude": 22.245242238128334,
+                "longitude": 114.1773962639693
+            },
+            {
+                "id": 657941234,
+                "name": "海洋公園海洋奇觀變電站 Ocean Park Grand Aquarium Substation",
+                "type": "nan",
+                "latitude": 22.24532868353811,
+                "longitude": 114.17477438234384
+            },
+            {
+                "id": 657954681,
+                "name": "雷霆節拍 Rev Booster",
+                "type": "nan",
+                "latitude": 22.234899994328284,
+                "longitude": 114.1712475343208
+            },
+            {
+                "id": 657954687,
+                "name": "動感地帶 Challenge Zone",
+                "type": "nan",
+                "latitude": 22.23477197414309,
+                "longitude": 114.17154624995034
+            },
+            {
+                "id": 657954688,
+                "name": "動感天地禮品速遞 Drop Shop",
+                "type": "nan",
+                "latitude": 22.234750872730753,
+                "longitude": 114.17184198453674
+            },
+            {
+                "id": 657954689,
+                "name": "橫衝直撞 Bumper Blaster",
+                "type": "nan",
+                "latitude": 22.234613542153657,
+                "longitude": 114.17203178849591
+            },
+            {
+                "id": 658031914,
+                "name": "熱帶雨林禮品店 Rainforest Gift Shop",
+                "type": "nan",
+                "latitude": 22.2343672464507,
+                "longitude": 114.17107497073545
+            },
+            {
+                "id": 850522560,
+                "name": "水母萬花筒 Sea Jelly Spectacular",
+                "type": "nan",
+                "latitude": 22.23335919517729,
+                "longitude": 114.17246170005448
+            },
+            {
+                "id": 1080686762,
+                "name": "雨林市集 Rainforest Bazaar",
+                "type": "nan",
+                "latitude": 22.23424039360171,
+                "longitude": 114.17147593404277
+            },
+            {
+                "id": 1080686781,
+                "name": "動感天地攤位遊戲 Thrill Mountain Games Zone",
+                "type": "nan",
+                "latitude": 22.234654074376653,
+                "longitude": 114.1716066631614
+            },
+            {
+                "id": 1080686782,
+                "name": "動感天地攤位遊戲 Thrill Mountain Games Zone",
+                "type": "nan",
+                "latitude": 22.234656225624075,
+                "longitude": 114.17151078685129
+            }
+        ]
+    }
+}

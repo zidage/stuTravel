@@ -1,0 +1,1156 @@
+{
+    "id": -3641779128685656519,
+    "name": "西北大学",
+    "address": "633 Clark St, Evanston, IL 60208美国",
+    "rating": 4.7,
+    "popularity": 80,
+    "data_path": "map_data/university_map/Northwestern_University",
+    "description": "西北大学可以指：\n\n中国大陆\n西北大学 (中国大陆)，位于中华人民共和国陕西省西安市的大学。\n美国\n西北大学 (伊利诺伊州)（Northwestern University），一所位于美国伊利诺伊州埃文斯顿、芝加哥和卡塔尔的私立研究型大学。\n西北大学 (华盛顿州)（Northwest University），位于美国华盛顿州柯克兰的大学。\n南非\n西北大学 (南非)（North-West University），位於南非西北省的大學。\n泰国\n西北大學 (泰國)（Payap University），位於泰國的基督教大學。\n越南\n西北大学 (越南)（越南语：Trường Đại học Tây Bắc／場大學西北?，英語：Tay Bac University），位于越南山罗省的公立综合性大学",
+    "images": [],
+    "amenity": {
+        "affiliation": -3641779128685656519,
+        "amenity_list": [
+            {
+                "id": 2156446924,
+                "name": "可能感兴趣的地点",
+                "type": "bicycle_parking",
+                "latitude": 42.0514801,
+                "longitude": -87.6757057
+            },
+            {
+                "id": 2805145931,
+                "name": "South Campus Parking Garage",
+                "type": "parking_entrance",
+                "latitude": 42.0507586,
+                "longitude": -87.6734559
+            },
+            {
+                "id": 3940418101,
+                "name": "U.S. Bank",
+                "type": "atm",
+                "latitude": 42.0510983,
+                "longitude": -87.6785383
+            },
+            {
+                "id": 4846512378,
+                "name": "University Library (NU)",
+                "type": "bicycle_rental",
+                "latitude": 42.0529892,
+                "longitude": -87.6734197
+            },
+            {
+                "id": 4846512379,
+                "name": "Sheridan Rd & Noyes St (NU)",
+                "type": "bicycle_rental",
+                "latitude": 42.0582259,
+                "longitude": -87.6775114
+            },
+            {
+                "id": 4846512380,
+                "name": "Chicago Ave & Sheridan Rd",
+                "type": "bicycle_rental",
+                "latitude": 42.0504826,
+                "longitude": -87.6778346
+            },
+            {
+                "id": 7313805184,
+                "name": "Block Cinema",
+                "type": "cinema",
+                "latitude": 42.0523227,
+                "longitude": -87.6728657
+            },
+            {
+                "id": 8726300444,
+                "name": "Fran's Cafe",
+                "type": "fast_food",
+                "latitude": 42.0517582,
+                "longitude": -87.6810996
+            },
+            {
+                "id": 9278938940,
+                "name": "Cafe Coralie",
+                "type": "cafe",
+                "latitude": 42.0572204,
+                "longitude": -87.673396
+            },
+            {
+                "id": 9418350196,
+                "name": "Northwestern Student Health Service",
+                "type": "clinic",
+                "latitude": 42.0523502,
+                "longitude": -87.6787207
+            },
+            {
+                "id": 10285735123,
+                "name": "Math Library",
+                "type": "library",
+                "latitude": 42.0549002,
+                "longitude": -87.6764323
+            },
+            {
+                "id": 10285735124,
+                "name": "The Block Museum of Art",
+                "type": "arts_centre",
+                "latitude": 42.0522319,
+                "longitude": -87.6727148
+            },
+            {
+                "id": 11565021781,
+                "name": "Josephine Louis Theater",
+                "type": "theatre",
+                "latitude": 42.051713,
+                "longitude": -87.6724681
+            },
+            {
+                "id": 11565021782,
+                "name": "Ethel M. Barber Theater",
+                "type": "theatre",
+                "latitude": 42.0521441,
+                "longitude": -87.6726273
+            },
+            {
+                "id": 23609361,
+                "name": "Ryan Field West Parking",
+                "type": "parking",
+                "latitude": 42.06656187559593,
+                "longitude": -87.69429901246991
+            },
+            {
+                "id": 33908912,
+                "name": "Pick-Staiger Concert Hall",
+                "type": "events_venue",
+                "latitude": 42.052674041501675,
+                "longitude": -87.67218416741945
+            },
+            {
+                "id": 42703541,
+                "name": "Seeley G. Mudd Science and Engineering Library",
+                "type": "library",
+                "latitude": 42.05819752191286,
+                "longitude": -87.67428986003807
+            },
+            {
+                "id": 42703716,
+                "name": "Alice Millar Chapel",
+                "type": "place_of_worship",
+                "latitude": 42.05046459812716,
+                "longitude": -87.67714748574629
+            },
+            {
+                "id": 42706556,
+                "name": "Sheil Catholic Center",
+                "type": "place_of_worship",
+                "latitude": 42.05594977591506,
+                "longitude": -87.6777195955237
+            },
+            {
+                "id": 42706563,
+                "name": "Fiedler Hillel",
+                "type": "place_of_worship",
+                "latitude": 42.054140922537876,
+                "longitude": -87.67870239105912
+            },
+            {
+                "id": 42708326,
+                "name": "Lambda Chi Alpha",
+                "type": "social_centre",
+                "latitude": 42.060487202324666,
+                "longitude": -87.67638772126128
+            },
+            {
+                "id": 42708331,
+                "name": "Alpha Epsilon Pi",
+                "type": "social_centre",
+                "latitude": 42.06137295912573,
+                "longitude": -87.67612527518139
+            },
+            {
+                "id": 42708346,
+                "name": "Zeta Beta Tau",
+                "type": "social_centre",
+                "latitude": 42.05906848745412,
+                "longitude": -87.67642238148461
+            },
+            {
+                "id": 42708362,
+                "name": "Sigma Chi",
+                "type": "social_centre",
+                "latitude": 42.059031156920895,
+                "longitude": -87.6761766100736
+            },
+            {
+                "id": 116713965,
+                "name": "Shanley Hall",
+                "type": "theatre",
+                "latitude": 42.05482331578258,
+                "longitude": -87.6759669274912
+            },
+            {
+                "id": 123307471,
+                "name": "Lakeside Parking Structure",
+                "type": "parking",
+                "latitude": 42.0510938805895,
+                "longitude": -87.67261140964936
+            },
+            {
+                "id": 123307479,
+                "name": "Locy Lot",
+                "type": "parking",
+                "latitude": 42.051458244132284,
+                "longitude": -87.67377131377685
+            },
+            {
+                "id": 157429712,
+                "name": "Noyes/Haven/Sheridan Lot",
+                "type": "parking",
+                "latitude": 42.057837904206025,
+                "longitude": -87.67768536420348
+            },
+            {
+                "id": 165094329,
+                "name": "Garrett Parking Lot",
+                "type": "parking",
+                "latitude": 42.055615245416966,
+                "longitude": -87.6762762291484
+            },
+            {
+                "id": 165129316,
+                "name": "Sargent Lot",
+                "type": "parking",
+                "latitude": 42.05876418143409,
+                "longitude": -87.67640962870023
+            },
+            {
+                "id": 175187764,
+                "name": "Northwestern University Library",
+                "type": "library",
+                "latitude": 42.053143997702406,
+                "longitude": -87.67413013744064
+            },
+            {
+                "id": 182668631,
+                "name": "Seabury-Western Chapel",
+                "type": "place_of_worship",
+                "latitude": 42.05708032706312,
+                "longitude": -87.67775980953166
+            },
+            {
+                "id": 214618504,
+                "name": "Deering Library",
+                "type": "library",
+                "latitude": 42.05321948004136,
+                "longitude": -87.67530072191643
+            },
+            {
+                "id": 214647392,
+                "name": "Patten Gym Lot",
+                "type": "parking",
+                "latitude": 42.060678294004695,
+                "longitude": -87.67653740074789
+            },
+            {
+                "id": 214652801,
+                "name": "Foster-Walker South Lot",
+                "type": "parking",
+                "latitude": 42.05246170143837,
+                "longitude": -87.67821706799381
+            },
+            {
+                "id": 218122478,
+                "name": "Delta Tau Delta",
+                "type": "social_centre",
+                "latitude": 42.05993944034896,
+                "longitude": -87.6761691230532
+            },
+            {
+                "id": 258939209,
+                "name": "Sigma Nu",
+                "type": "social_centre",
+                "latitude": 42.06041695,
+                "longitude": -87.67665095
+            },
+            {
+                "id": 275849772,
+                "name": "Patrick G. and Shirley W. Ryan Center for the Musical Arts",
+                "type": "music_school",
+                "latitude": 42.051849273450685,
+                "longitude": -87.67154122601517
+            },
+            {
+                "id": 275854338,
+                "name": "North Campus Parking Garage",
+                "type": "parking",
+                "latitude": 42.05971904327958,
+                "longitude": -87.67420638883097
+            },
+            {
+                "id": 337677629,
+                "name": "Music Admin Lot",
+                "type": "parking",
+                "latitude": 42.05077001080659,
+                "longitude": -87.68107391978894
+            },
+            {
+                "id": 453031396,
+                "name": "Ryan Field East Parking",
+                "type": "parking",
+                "latitude": 42.065381007466875,
+                "longitude": -87.69092579893939
+            },
+            {
+                "id": 484583202,
+                "name": "Handicapped Parking",
+                "type": "parking",
+                "latitude": 42.05174813976946,
+                "longitude": -87.67383996770883
+            },
+            {
+                "id": 484792502,
+                "name": "Loading Zone",
+                "type": "parking",
+                "latitude": 42.05148027182596,
+                "longitude": -87.67352339406456
+            },
+            {
+                "id": 486262829,
+                "name": "Foster-Walker Noth Lot",
+                "type": "parking",
+                "latitude": 42.05349656304186,
+                "longitude": -87.67806547107148
+            },
+            {
+                "id": 3475448,
+                "name": "Phi Gamma Delta",
+                "type": "social_centre",
+                "latitude": 42.060208450000005,
+                "longitude": -87.67663375000001
+            },
+            {
+                "id": 4630782,
+                "name": "Theater and Interpretation Center",
+                "type": "events_venue",
+                "latitude": 42.052012017406966,
+                "longitude": -87.67295328381769
+            },
+            {
+                "id": 13276583,
+                "name": "Sigma Alpha Epsilon",
+                "type": "social_centre",
+                "latitude": 42.06000135,
+                "longitude": -87.67663375000001
+            },
+            {
+                "id": 368074458,
+                "name": "Leverone Hall",
+                "type": "nan",
+                "latitude": 42.0538172,
+                "longitude": -87.6760221
+            },
+            {
+                "id": 368074475,
+                "name": "Arthur Andersen Hall",
+                "type": "nan",
+                "latitude": 42.0543479,
+                "longitude": -87.6762285
+            },
+            {
+                "id": 33908908,
+                "name": "Annie May Swift Hall",
+                "type": "nan",
+                "latitude": 42.0523377137253,
+                "longitude": -87.67508503867266
+            },
+            {
+                "id": 33908919,
+                "name": "Fisk Hall",
+                "type": "nan",
+                "latitude": 42.05076368109558,
+                "longitude": -87.67418879213443
+            },
+            {
+                "id": 33908921,
+                "name": "Locy Hall",
+                "type": "nan",
+                "latitude": 42.0510599285609,
+                "longitude": -87.67390316718449
+            },
+            {
+                "id": 33908926,
+                "name": "Harris Hall",
+                "type": "nan",
+                "latitude": 42.051270522895486,
+                "longitude": -87.6763102943196
+            },
+            {
+                "id": 33908928,
+                "name": "University Hall",
+                "type": "nan",
+                "latitude": 42.05188955204383,
+                "longitude": -87.67595940147082
+            },
+            {
+                "id": 33908930,
+                "name": "Lunt Hall",
+                "type": "nan",
+                "latitude": 42.05480298908233,
+                "longitude": -87.67634101835306
+            },
+            {
+                "id": 33908933,
+                "name": "Loder Hall",
+                "type": "nan",
+                "latitude": 42.055755784882074,
+                "longitude": -87.67518211767465
+            },
+            {
+                "id": 33908935,
+                "name": "Allen Center",
+                "type": "nan",
+                "latitude": 42.056458850458306,
+                "longitude": -87.67300711115134
+            },
+            {
+                "id": 33908936,
+                "name": "Pancoe-ENH Life Sciences Pavilion",
+                "type": "nan",
+                "latitude": 42.05715217810885,
+                "longitude": -87.67358924326847
+            },
+            {
+                "id": 35598594,
+                "name": "Northwestern University Technological Institute",
+                "type": "nan",
+                "latitude": 42.05783467996834,
+                "longitude": -87.67584950429523
+            },
+            {
+                "id": 42701585,
+                "name": "Blomquist Recreation Center",
+                "type": "nan",
+                "latitude": 42.05429468977903,
+                "longitude": -87.67821100174591
+            },
+            {
+                "id": 42701586,
+                "name": "Annenberg Hall",
+                "type": "nan",
+                "latitude": 42.05607273114784,
+                "longitude": -87.6744942483636
+            },
+            {
+                "id": 42701676,
+                "name": "Scott Hall-Cahn Auditorium",
+                "type": "nan",
+                "latitude": 42.05172629194012,
+                "longitude": -87.67774929606108
+            },
+            {
+                "id": 42702015,
+                "name": "Searle Hall",
+                "type": "nan",
+                "latitude": 42.05232477302922,
+                "longitude": -87.67891745469024
+            },
+            {
+                "id": 42702286,
+                "name": "Ford Design Center",
+                "type": "nan",
+                "latitude": 42.05691368775594,
+                "longitude": -87.67656586783605
+            },
+            {
+                "id": 42702397,
+                "name": "Levere Memorial Temple",
+                "type": "nan",
+                "latitude": 42.05043671047767,
+                "longitude": -87.67635754766305
+            },
+            {
+                "id": 42702425,
+                "name": "Allison Residential Community",
+                "type": "nan",
+                "latitude": 42.05045344521038,
+                "longitude": -87.67838948400006
+            },
+            {
+                "id": 42702433,
+                "name": "Shepard Residence Hall",
+                "type": "nan",
+                "latitude": 42.050855063543274,
+                "longitude": -87.67887646707769
+            },
+            {
+                "id": 42702460,
+                "name": "Willard Residential College",
+                "type": "nan",
+                "latitude": 42.051732705766085,
+                "longitude": -87.6813224598275
+            },
+            {
+                "id": 42702505,
+                "name": "Sigma Alpha Iota Sorority",
+                "type": "nan",
+                "latitude": 42.05184912499591,
+                "longitude": -87.68085612412779
+            },
+            {
+                "id": 42702506,
+                "name": "Zeta Tau Alpha Sorority",
+                "type": "nan",
+                "latitude": 42.05183302100833,
+                "longitude": -87.68050001148451
+            },
+            {
+                "id": 42702507,
+                "name": "Chi Omega Sorority",
+                "type": "nan",
+                "latitude": 42.05184016808148,
+                "longitude": -87.68016718899808
+            },
+            {
+                "id": 42702514,
+                "name": "1856 Orrington Residence Hall",
+                "type": "nan",
+                "latitude": 42.051652792468126,
+                "longitude": -87.68008976643955
+            },
+            {
+                "id": 42702519,
+                "name": "North Mid-Quads Residence Hall",
+                "type": "nan",
+                "latitude": 42.05183380617307,
+                "longitude": -87.67982215272966
+            },
+            {
+                "id": 42702558,
+                "name": "Evans Scholars",
+                "type": "nan",
+                "latitude": 42.05146300000001,
+                "longitude": -87.68118125
+            },
+            {
+                "id": 42702561,
+                "name": "Delta Zeta Sorority",
+                "type": "nan",
+                "latitude": 42.05145690431465,
+                "longitude": -87.68084975414179
+            },
+            {
+                "id": 42702572,
+                "name": "Kappa Delta Sorority",
+                "type": "nan",
+                "latitude": 42.0514238931184,
+                "longitude": -87.6804888216332
+            },
+            {
+                "id": 42702579,
+                "name": "Alpha Phi Sorority",
+                "type": "nan",
+                "latitude": 42.05145529868972,
+                "longitude": -87.68012999048457
+            },
+            {
+                "id": 42702602,
+                "name": "South Mid-Quads Residence Hall",
+                "type": "nan",
+                "latitude": 42.05139962329606,
+                "longitude": -87.67974593506301
+            },
+            {
+                "id": 42702724,
+                "name": "Pi Beta Phi Sorority",
+                "type": "nan",
+                "latitude": 42.05191949232225,
+                "longitude": -87.67911946102392
+            },
+            {
+                "id": 42702725,
+                "name": "Hobart House (Womens Residential College)",
+                "type": "nan",
+                "latitude": 42.05181759811643,
+                "longitude": -87.67889256632996
+            },
+            {
+                "id": 42702741,
+                "name": "Rogers House Residence Hall",
+                "type": "nan",
+                "latitude": 42.05143202543158,
+                "longitude": -87.67936063443067
+            },
+            {
+                "id": 42702742,
+                "name": "Alpha Chi Omega Sorority",
+                "type": "nan",
+                "latitude": 42.05142735836293,
+                "longitude": -87.67895927989046
+            },
+            {
+                "id": 42702791,
+                "name": "Chapin Hall",
+                "type": "nan",
+                "latitude": 42.05103757544239,
+                "longitude": -87.68129872942795
+            },
+            {
+                "id": 42702792,
+                "name": "Music Practice Building",
+                "type": "nan",
+                "latitude": 42.05076885,
+                "longitude": -87.6814806
+            },
+            {
+                "id": 42702794,
+                "name": "Music Administration Building",
+                "type": "nan",
+                "latitude": 42.05060330739125,
+                "longitude": -87.6806709498952
+            },
+            {
+                "id": 42702796,
+                "name": "Office of Human Resources",
+                "type": "nan",
+                "latitude": 42.051059372645746,
+                "longitude": -87.68073085069226
+            },
+            {
+                "id": 42702797,
+                "name": "Lutkin Hall",
+                "type": "nan",
+                "latitude": 42.05101888042519,
+                "longitude": -87.6802540552776
+            },
+            {
+                "id": 42702799,
+                "name": "Phi Mu Alpha",
+                "type": "nan",
+                "latitude": 42.051927803700416,
+                "longitude": -87.67864193331728
+            },
+            {
+                "id": 42702800,
+                "name": "Delta Gamma Sorority",
+                "type": "nan",
+                "latitude": 42.051917987601165,
+                "longitude": -87.67831147418188
+            },
+            {
+                "id": 42702801,
+                "name": "Delta Delta Delta Sorority",
+                "type": "nan",
+                "latitude": 42.051411908560866,
+                "longitude": -87.6786271788369
+            },
+            {
+                "id": 42702830,
+                "name": "Rebecca Crown Center",
+                "type": "nan",
+                "latitude": 42.05048315456206,
+                "longitude": -87.67981458043084
+            },
+            {
+                "id": 42702940,
+                "name": "University Relations",
+                "type": "nan",
+                "latitude": 42.0495634887047,
+                "longitude": -87.67748694211288
+            },
+            {
+                "id": 42702950,
+                "name": "1835 Hinman",
+                "type": "nan",
+                "latitude": 42.04997827382698,
+                "longitude": -87.6754217166678
+            },
+            {
+                "id": 42702957,
+                "name": "Admissions and Financial Aid",
+                "type": "nan",
+                "latitude": 42.04913723681196,
+                "longitude": -87.6758445292697
+            },
+            {
+                "id": 42703496,
+                "name": "Catalysis Center",
+                "type": "nan",
+                "latitude": 42.05694685410851,
+                "longitude": -87.67515473279688
+            },
+            {
+                "id": 42703497,
+                "name": "Dearborn Observatory",
+                "type": "nan",
+                "latitude": 42.05667527784505,
+                "longitude": -87.67508113825316
+            },
+            {
+                "id": 42703498,
+                "name": "Ryan Hall",
+                "type": "nan",
+                "latitude": 42.056843757552144,
+                "longitude": -87.67452557789377
+            },
+            {
+                "id": 42703499,
+                "name": "Hogan Biological Sciences Building",
+                "type": "nan",
+                "latitude": 42.057358459829025,
+                "longitude": -87.6741797832296
+            },
+            {
+                "id": 42703540,
+                "name": "Cook Hall",
+                "type": "nan",
+                "latitude": 42.057790293079265,
+                "longitude": -87.67392674489611
+            },
+            {
+                "id": 42703542,
+                "name": "Frances Searle Building",
+                "type": "nan",
+                "latitude": 42.0585261141775,
+                "longitude": -87.67361084237187
+            },
+            {
+                "id": 42703578,
+                "name": "Elder Residential Community",
+                "type": "nan",
+                "latitude": 42.06091214821271,
+                "longitude": -87.67768030009296
+            },
+            {
+                "id": 42703697,
+                "name": "Patten Gymnasium",
+                "type": "nan",
+                "latitude": 42.06114105875679,
+                "longitude": -87.67660865578
+            },
+            {
+                "id": 42703717,
+                "name": "Parkes Hall",
+                "type": "nan",
+                "latitude": 42.05020708364282,
+                "longitude": -87.67707551548955
+            },
+            {
+                "id": 42703820,
+                "name": "Public Affairs Residential College",
+                "type": "nan",
+                "latitude": 42.05096883802252,
+                "longitude": -87.67802074203944
+            },
+            {
+                "id": 42703834,
+                "name": "Chambers Hall",
+                "type": "nan",
+                "latitude": 42.053635,
+                "longitude": -87.67774284999999
+            },
+            {
+                "id": 42706489,
+                "name": "Buffett Institute",
+                "type": "nan",
+                "latitude": 42.05224355000001,
+                "longitude": -87.67769680000002
+            },
+            {
+                "id": 42706492,
+                "name": "Program in Geography and Department of Sociology",
+                "type": "nan",
+                "latitude": 42.04935758058921,
+                "longitude": -87.67695641107423
+            },
+            {
+                "id": 42706493,
+                "name": "Anthropology Department",
+                "type": "nan",
+                "latitude": 42.04952904663655,
+                "longitude": -87.67678611424338
+            },
+            {
+                "id": 42706499,
+                "name": "Alumni Center",
+                "type": "nan",
+                "latitude": 42.049127763802055,
+                "longitude": -87.67511612419119
+            },
+            {
+                "id": 42706500,
+                "name": "Jones Fine and Performing Arts Residential College",
+                "type": "nan",
+                "latitude": 42.049371209959126,
+                "longitude": -87.67496970656704
+            },
+            {
+                "id": 42706552,
+                "name": "Statistics Department",
+                "type": "nan",
+                "latitude": 42.054167199999995,
+                "longitude": -87.67768855
+            },
+            {
+                "id": 42708317,
+                "name": "Trienens Performance Center",
+                "type": "nan",
+                "latitude": 42.067133792196465,
+                "longitude": -87.69329338938684
+            },
+            {
+                "id": 42708318,
+                "name": "McGaw Memorial Hall",
+                "type": "nan",
+                "latitude": 42.06694319715224,
+                "longitude": -87.69245063601757
+            },
+            {
+                "id": 42708322,
+                "name": "Kemper Residence Hall",
+                "type": "nan",
+                "latitude": 42.06098152198077,
+                "longitude": -87.67511349269022
+            },
+            {
+                "id": 42708323,
+                "name": "Delta Chi Fraternity",
+                "type": "nan",
+                "latitude": 42.06075325,
+                "longitude": -87.67815995
+            },
+            {
+                "id": 42708327,
+                "name": "Sigma Phi Epsilon",
+                "type": "nan",
+                "latitude": 42.060486466497764,
+                "longitude": -87.67614462522404
+            },
+            {
+                "id": 42708343,
+                "name": "Ayers College of Commerce & Industry",
+                "type": "nan",
+                "latitude": 42.06043123685855,
+                "longitude": -87.67513070902856
+            },
+            {
+                "id": 42708344,
+                "name": "Slivka Hall",
+                "type": "nan",
+                "latitude": 42.06049942211773,
+                "longitude": -87.67572172447224
+            },
+            {
+                "id": 42708347,
+                "name": "College of Cultural & Community Studies/GREEN House",
+                "type": "nan",
+                "latitude": 42.05919871729652,
+                "longitude": -87.67667562097668
+            },
+            {
+                "id": 42708353,
+                "name": "Lindgren House",
+                "type": "nan",
+                "latitude": 42.05958536838315,
+                "longitude": -87.67642099002943
+            },
+            {
+                "id": 42708359,
+                "name": "Sargent Hall",
+                "type": "nan",
+                "latitude": 42.058772833895375,
+                "longitude": -87.67547681072259
+            },
+            {
+                "id": 42708749,
+                "name": "Engelhart Hall",
+                "type": "nan",
+                "latitude": 42.05267805801118,
+                "longitude": -87.68437609169534
+            },
+            {
+                "id": 53160129,
+                "name": "Silverman Hall",
+                "type": "nan",
+                "latitude": 42.056497999035145,
+                "longitude": -87.6740590559179
+            },
+            {
+                "id": 53160487,
+                "name": "Howes Chapel",
+                "type": "nan",
+                "latitude": 42.05648399845769,
+                "longitude": -87.67613736374777
+            },
+            {
+                "id": 53160796,
+                "name": "Cresap Laboratory",
+                "type": "nan",
+                "latitude": 42.054719806692965,
+                "longitude": -87.67496076571521
+            },
+            {
+                "id": 123307477,
+                "name": "East Fairchild (Communications Residential College)",
+                "type": "nan",
+                "latitude": 42.050837509344134,
+                "longitude": -87.67509812921368
+            },
+            {
+                "id": 123307480,
+                "name": "West Fairchild (International Studies Residential College)",
+                "type": "nan",
+                "latitude": 42.051030744086646,
+                "longitude": -87.67581656724552
+            },
+            {
+                "id": 151311271,
+                "name": "Kresge Hall",
+                "type": "nan",
+                "latitude": 42.05163656874456,
+                "longitude": -87.6750337929823
+            },
+            {
+                "id": 165094354,
+                "name": "Jacobs Center",
+                "type": "nan",
+                "latitude": 42.05407692679632,
+                "longitude": -87.67626058034381
+            },
+            {
+                "id": 168370535,
+                "name": "ITEC Industrial Research Laboratory",
+                "type": "nan",
+                "latitude": 42.05037619135091,
+                "longitude": -87.68424707449759
+            },
+            {
+                "id": 182668630,
+                "name": "Seabury-Western Theological Seminary",
+                "type": "nan",
+                "latitude": 42.05692234966468,
+                "longitude": -87.67817523685045
+            },
+            {
+                "id": 182668876,
+                "name": "Roycemore",
+                "type": "nan",
+                "latitude": 42.061126455187484,
+                "longitude": -87.67909445995198
+            },
+            {
+                "id": 205849880,
+                "name": "Anderson Hall",
+                "type": "nan",
+                "latitude": 42.06646392071198,
+                "longitude": -87.69156288044996
+            },
+            {
+                "id": 214618498,
+                "name": "Crowe Hall",
+                "type": "nan",
+                "latitude": 42.0513549882921,
+                "longitude": -87.67522114861521
+            },
+            {
+                "id": 214618520,
+                "name": "Swift Hall",
+                "type": "nan",
+                "latitude": 42.05515517668653,
+                "longitude": -87.67497488224676
+            },
+            {
+                "id": 214630813,
+                "name": "McCormick Foundation Center",
+                "type": "nan",
+                "latitude": 42.05136557391954,
+                "longitude": -87.67423119722135
+            },
+            {
+                "id": 218117032,
+                "name": "McCulloch Residence Hall",
+                "type": "nan",
+                "latitude": 42.059941010614224,
+                "longitude": -87.67549110250597
+            },
+            {
+                "id": 218117034,
+                "name": "Bobb Residence Hall",
+                "type": "nan",
+                "latitude": 42.059650189739656,
+                "longitude": -87.67556082491082
+            },
+            {
+                "id": 218119365,
+                "name": "University Christian Ministry",
+                "type": "nan",
+                "latitude": 42.05075910790021,
+                "longitude": -87.67790445615856
+            },
+            {
+                "id": 220670539,
+                "name": "Central Utility Plant",
+                "type": "nan",
+                "latitude": 42.05478220042911,
+                "longitude": -87.6744965372037
+            },
+            {
+                "id": 249758351,
+                "name": "Main",
+                "type": "nan",
+                "latitude": 42.056319836718444,
+                "longitude": -87.67556911045541
+            },
+            {
+                "id": 249758352,
+                "name": "Lesemann Hall",
+                "type": "nan",
+                "latitude": 42.055926723511206,
+                "longitude": -87.6757028666122
+            },
+            {
+                "id": 249758354,
+                "name": "Pfeiffer Hall",
+                "type": "nan",
+                "latitude": 42.05636587779574,
+                "longitude": -87.67517484016795
+            },
+            {
+                "id": 275851101,
+                "name": "Segal Visitors Center/Parking Garage",
+                "type": "nan",
+                "latitude": 42.05046678558779,
+                "longitude": -87.67332226863519
+            },
+            {
+                "id": 275853638,
+                "name": "Sailing Center",
+                "type": "nan",
+                "latitude": 42.05064654286216,
+                "longitude": -87.67247600552078
+            },
+            {
+                "id": 275854464,
+                "name": "Henry Crown Sports Pavilion and Aquatic Center",
+                "type": "nan",
+                "latitude": 42.05959944539538,
+                "longitude": -87.6731290591753
+            },
+            {
+                "id": 275854486,
+                "name": "Regenstein Hall of Music",
+                "type": "nan",
+                "latitude": 42.05221513866093,
+                "longitude": -87.67141790779732
+            },
+            {
+                "id": 310077541,
+                "name": "Goodrich Hall",
+                "type": "nan",
+                "latitude": 42.05995538695981,
+                "longitude": -87.6764283525861
+            },
+            {
+                "id": 408358870,
+                "name": "Kappa Alpha Theta Sorority",
+                "type": "nan",
+                "latitude": 42.05143958270115,
+                "longitude": -87.67831305819794
+            },
+            {
+                "id": 408358872,
+                "name": "Gamma Phi Beta Sorority",
+                "type": "nan",
+                "latitude": 42.05190305771025,
+                "longitude": -87.67942001890869
+            },
+            {
+                "id": 408358873,
+                "name": "1871 Orrington",
+                "type": "nan",
+                "latitude": 42.05167102510186,
+                "longitude": -87.67947723769097
+            },
+            {
+                "id": 466698283,
+                "name": "Kellogg Global Hub",
+                "type": "nan",
+                "latitude": 42.05741308742475,
+                "longitude": -87.67206330721473
+            },
+            {
+                "id": 491797503,
+                "name": "Vandy Christie Tennis Center",
+                "type": "nan",
+                "latitude": 42.05887759733658,
+                "longitude": -87.677643058944
+            },
+            {
+                "id": 491797504,
+                "name": "Vandy Christie Tennis Center",
+                "type": "nan",
+                "latitude": 42.05995352443553,
+                "longitude": -87.6776387074252
+            },
+            {
+                "id": 768687038,
+                "name": "Walter Athletics Center",
+                "type": "nan",
+                "latitude": 42.059907565902705,
+                "longitude": -87.67236726809325
+            },
+            {
+                "id": 913835914,
+                "name": "NU SafeRide",
+                "type": "nan",
+                "latitude": 42.061350178202034,
+                "longitude": -87.67852016350109
+            },
+            {
+                "id": 913835915,
+                "name": "Northwestern Career Advancement",
+                "type": "nan",
+                "latitude": 42.061350557246996,
+                "longitude": -87.67819790854668
+            },
+            {
+                "id": 950303732,
+                "name": "Schapiro Hall",
+                "type": "nan",
+                "latitude": 42.06128468982035,
+                "longitude": -87.67542006622132
+            },
+            {
+                "id": 1125449426,
+                "name": "Mogentale Players' Lounge",
+                "type": "nan",
+                "latitude": 42.06861070413588,
+                "longitude": -87.69305616738608
+            },
+            {
+                "id": 1125449432,
+                "name": "Canning Family Private Suite",
+                "type": "nan",
+                "latitude": 42.06838882534792,
+                "longitude": -87.69347107249504
+            },
+            {
+                "id": 2199802,
+                "name": "Donald Jacobs Center",
+                "type": "nan",
+                "latitude": 42.05406341293838,
+                "longitude": -87.6762392582278
+            },
+            {
+                "id": 7088849,
+                "name": "Foster-Walker Complex",
+                "type": "nan",
+                "latitude": 42.05291472895368,
+                "longitude": -87.67874226309566
+            },
+            {
+                "id": 16505176,
+                "name": "Norris University Center",
+                "type": "nan",
+                "latitude": 42.05343712620036,
+                "longitude": -87.67272767116273
+            }
+        ]
+    }
+}

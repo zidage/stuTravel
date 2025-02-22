@@ -1,0 +1,45 @@
+{
+    "id": 5979687666035851982,
+    "name": "法兰克福动物园",
+    "address": "Bernhard-Grzimek-Allee 1, 60316 Frankfurt am Main, 德国",
+    "rating": 4.2,
+    "popularity": 68,
+    "data_path": "map_data/university_map/Zoo_Frankfurt",
+    "description": "法兰克福动物园是位于德国法兰克福的一座动物园。法兰克福动物园拥有超过5000多只动物、600多种动物。占地约13公顷。动物园始建于1858年，是德国第二个建立的动物园。动物园最早的园长是伯恩哈德·格日梅克。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fd/Zoo-ffm001.jpg"
+    ],
+    "amenity": {
+        "affiliation": 5979687666035851982,
+        "amenity_list": [
+            {
+                "id": 428654162,
+                "name": "可能感兴趣的地点",
+                "type": "fountain",
+                "latitude": 50.1150138,
+                "longitude": 8.7023019
+            },
+            {
+                "id": 1870122720,
+                "name": "STOP ’NE WORSCHT",
+                "type": "fast_food",
+                "latitude": 50.1163214,
+                "longitude": 8.704199
+            },
+            {
+                "id": 11486388535,
+                "name": "Imbiss Zooterrassen",
+                "type": "fast_food",
+                "latitude": 50.1160343,
+                "longitude": 8.7002948
+            },
+            {
+                "id": 11579877499,
+                "name": "English Theatre Frankfurt",
+                "type": "theatre",
+                "latitude": 50.1159139,
+                "longitude": 8.6996752
+            }
+        ]
+    }
+}

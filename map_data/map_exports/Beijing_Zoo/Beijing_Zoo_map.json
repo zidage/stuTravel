@@ -1,0 +1,229 @@
+{
+    "id": 1859492333363428927,
+    "name": "北京动物园",
+    "address": "中国北京市西城区西直门外大街137号 邮政编码: 100044",
+    "rating": 3.9,
+    "popularity": 42,
+    "data_path": "map_data/university_map/Beijing_Zoo",
+    "description": "北京动物园位于北京市西城区西直门外大街137号，原来名为农事实验场、天然博物院、万牲园、西郊公园，是中国开放最早、动物种类最多的动物园，从清光绪三十二年（1906年）正式建园至今已有逾百年的历史。北京动物园曾经繁殖和饲养了众多珍贵的野生动物，例如大熊猫、朱鹮、金丝猴等。现在共饲养各类野生动物490余种，近5000头只。该园现隶属于北京市公园管理中心。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/04/Beijing_Zoo_-_Oct_2009_-_IMG_0940.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Beijing_Zoo_-_Oct_2009_-_IMG_1109.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/Beijing_Zoo_-_Oct_2009_-_IMG_1110.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b6/Beijing_Zoo_-_Oct_2009_-_IMG_1213.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/Beijing_Zoo_-_Oct_2009_-_IMG_1214.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ae/Beijing_Zoo_-_Oct_2009_-_IMG_1216.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/Beijing_Zoo_-_Oct_2009_-_IMG_1218.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/Beijing_Zoo_-_Oct_2009_-_IMG_1229.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/Beijing_Zoo_-_Oct_2009_-_IMG_1240.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Beijing_Zoo_-_satellite_image_%281967-09-20%29.jpg"
+    ],
+    "amenity": {
+        "affiliation": 1859492333363428927,
+        "amenity_list": [
+            {
+                "id": 3064819747,
+                "name": "汉拿山",
+                "type": "restaurant",
+                "latitude": 39.937547,
+                "longitude": 116.325409
+            },
+            {
+                "id": 4629985317,
+                "name": "可能感兴趣的地点",
+                "type": "fountain",
+                "latitude": 39.9444577,
+                "longitude": 116.334224
+            },
+            {
+                "id": 478432511,
+                "name": "豳风堂",
+                "type": "restaurant",
+                "latitude": 39.940664873985014,
+                "longitude": 116.33256448059569
+            },
+            {
+                "id": 25375816,
+                "name": "亚运熊猫馆",
+                "type": "nan",
+                "latitude": 39.93865175467726,
+                "longitude": 116.33343756678032
+            },
+            {
+                "id": 25375817,
+                "name": "奥运熊猫馆",
+                "type": "nan",
+                "latitude": 39.93828942061726,
+                "longitude": 116.33271164950594
+            },
+            {
+                "id": 25375821,
+                "name": "北京海洋馆",
+                "type": "nan",
+                "latitude": 39.943335970928544,
+                "longitude": 116.33483845077306
+            },
+            {
+                "id": 25375829,
+                "name": "大象馆",
+                "type": "nan",
+                "latitude": 39.94267193359191,
+                "longitude": 116.332708555524
+            },
+            {
+                "id": 25375838,
+                "name": "河马与犀牛馆",
+                "type": "nan",
+                "latitude": 39.942855141142374,
+                "longitude": 116.33091157564596
+            },
+            {
+                "id": 25375846,
+                "name": "长颈鹿馆",
+                "type": "nan",
+                "latitude": 39.94141801651926,
+                "longitude": 116.32782479084534
+            },
+            {
+                "id": 25375849,
+                "name": "Golden Monkey Hall",
+                "type": "nan",
+                "latitude": 39.94013419226634,
+                "longitude": 116.3278590958197
+            },
+            {
+                "id": 25375851,
+                "name": "Marmoset Building",
+                "type": "nan",
+                "latitude": 39.939771099999994,
+                "longitude": 116.32723090000002
+            },
+            {
+                "id": 25375855,
+                "name": "畅观楼",
+                "type": "nan",
+                "latitude": 39.94059316419011,
+                "longitude": 116.32373349210579
+            },
+            {
+                "id": 25375860,
+                "name": "中国印钞造币总公司",
+                "type": "nan",
+                "latitude": 39.937694610539474,
+                "longitude": 116.32689201182605
+            },
+            {
+                "id": 25375861,
+                "name": "企鹅与蝙蝠区",
+                "type": "nan",
+                "latitude": 39.93896137860296,
+                "longitude": 116.32610826426368
+            },
+            {
+                "id": 25375863,
+                "name": "爬行动物馆",
+                "type": "nan",
+                "latitude": 39.938838257524544,
+                "longitude": 116.32721531876682
+            },
+            {
+                "id": 25375869,
+                "name": "陆谟克堂",
+                "type": "nan",
+                "latitude": 39.938555050000005,
+                "longitude": 116.3296911
+            },
+            {
+                "id": 273416827,
+                "name": "生态鸟馆",
+                "type": "nan",
+                "latitude": 39.93979220760892,
+                "longitude": 116.32948755545759
+            },
+            {
+                "id": 273416828,
+                "name": "科普馆",
+                "type": "nan",
+                "latitude": 39.94105735358011,
+                "longitude": 116.32923769801818
+            },
+            {
+                "id": 478432518,
+                "name": "鹦鹉馆",
+                "type": "nan",
+                "latitude": 39.94025091013201,
+                "longitude": 116.32950086183524
+            },
+            {
+                "id": 478432519,
+                "name": "火烈鸟馆",
+                "type": "nan",
+                "latitude": 39.93946466606983,
+                "longitude": 116.32911206976095
+            },
+            {
+                "id": 478432586,
+                "name": "鹿馆",
+                "type": "nan",
+                "latitude": 39.94146533729355,
+                "longitude": 116.32406533904366
+            },
+            {
+                "id": 478457830,
+                "name": "猿猴馆",
+                "type": "nan",
+                "latitude": 39.94045642070574,
+                "longitude": 116.3259390170275
+            },
+            {
+                "id": 478457831,
+                "name": "马来貘馆",
+                "type": "nan",
+                "latitude": 39.94024046826592,
+                "longitude": 116.3311693797284
+            },
+            {
+                "id": 478457835,
+                "name": "貘科动物馆",
+                "type": "nan",
+                "latitude": 39.940177351030925,
+                "longitude": 116.33053017939329
+            },
+            {
+                "id": 857823827,
+                "name": "南浣熊",
+                "type": "nan",
+                "latitude": 39.94052915615698,
+                "longitude": 116.33080937297548
+            },
+            {
+                "id": 857823828,
+                "name": "南浣熊",
+                "type": "nan",
+                "latitude": 39.940369399999994,
+                "longitude": 116.33083145
+            },
+            {
+                "id": 857823829,
+                "name": "条纹猛",
+                "type": "nan",
+                "latitude": 39.94023909323165,
+                "longitude": 116.33084837732216
+            },
+            {
+                "id": 1205163222,
+                "name": "向阳红10号",
+                "type": "nan",
+                "latitude": 39.942052458922625,
+                "longitude": 116.33384994648418
+            },
+            {
+                "id": 1205163235,
+                "name": "售票处",
+                "type": "nan",
+                "latitude": 39.937539099999995,
+                "longitude": 116.33270620000002
+            }
+        ]
+    }
+}

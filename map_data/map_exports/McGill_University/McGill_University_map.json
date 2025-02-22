@@ -1,0 +1,593 @@
+{
+    "id": 3823829344559270398,
+    "name": "麦吉尔大学",
+    "address": "845 Rue Sherbrooke O, Montréal, QC H3A 0G4加拿大",
+    "rating": 4.5,
+    "popularity": 48,
+    "data_path": "map_data/university_map/McGill_University",
+    "description": "麥基爾大學（英語：McGill University，法語：Université McGill）為一所坐落於加拿大魁北克的公立研究型大學，使用英语授课。該校是U15大學聯盟、大英國協大學協會、美國大學協會成員校之一，學校成立於1821年英國殖民時期，是歷史悠久的加拿大老四校之首。該校两百年以来培育了14位諾貝爾獎得主以及147位羅德學者，數量遠超加拿大其他高校。麥基爾与多伦多大学、不列颠哥伦比亚大学并称加拿大大学“三强”。麥基爾大學在麥克林期刊(Maclean’s)發佈的權威加拿大大學排名中連年穩居全國研究型大學第一名；在英國《QS》高等教育研究机构最新发布的2024年世界大学排名中位列全球第30。\n大學本部位於蒙特利爾市中心中皇家山的山腳，另一個附屬校園則位於本部以西30公里、佈滿田野與林地的蒙特利爾島聖安娜-德-貝爾維尤。麥基爾眾學術單位被歸入13所大的學院內。 以每名學生的受惠金額來算，校方為其中一所擁有最多捐款回贈的加拿大高校（每位學生21,633加幣）。\n麥基爾大學所賦予的學位及文憑涵蓋逾300個學術領域。多數學生就讀於醫學、理學、文學、工程學、管理學五所較大型學院。省內、外及國際生的學費各有參差。\n截止2020年，麥基爾大學的校友、教职工及研究人员包括了14位諾貝爾獎得主及145位羅德學者，人數均為加拿大最多。另還有3名加拿大總理、13名加拿大最高法院大法官及眾多其他學術獎項的獲獎者。麥基爾校友同時協助了足球、籃球與冰球賽事的發展，及約翰霍普金斯醫學院、英屬哥倫比亞、維多利亞及艾爾伯塔大學的創立。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/2nd_University_Company_at_McGill_1915.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/George_Jehoshaphat_Mountain.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/83/James_McGill.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/58/JohnWilliamDawson.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0f/McGill_Arts_Building2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/McGill_University%2C_Stained_Glass_War_Memorial.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/McGill_University_Building4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7a/McGill_University_and_Mount_Royal%2C_Montreal_%28HS85-10-17321%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mcgill_Building1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/26/Montreal_-_McGill_Physics.jpg"
+    ],
+    "amenity": {
+        "affiliation": 3823829344559270398,
+        "amenity_list": [
+            {
+                "id": 392505307,
+                "name": "可能感兴趣的地点",
+                "type": "bicycle_parking",
+                "latitude": 45.5047145,
+                "longitude": -73.5780014
+            },
+            {
+                "id": 936816417,
+                "name": "Pollack Hall",
+                "type": "theatre",
+                "latitude": 45.5058237,
+                "longitude": -73.5736224
+            },
+            {
+                "id": 936816434,
+                "name": "Redpath Hall",
+                "type": "theatre",
+                "latitude": 45.5037935,
+                "longitude": -73.5772791
+            },
+            {
+                "id": 936816442,
+                "name": "Tanna Schulich Hall",
+                "type": "theatre",
+                "latitude": 45.5062771,
+                "longitude": -73.5730646
+            },
+            {
+                "id": 1282761406,
+                "name": "McConnell Cafe",
+                "type": "restaurant",
+                "latitude": 45.5059225,
+                "longitude": -73.5762818
+            },
+            {
+                "id": 1282763807,
+                "name": "Schulich Library of Science and Engineering",
+                "type": "library",
+                "latitude": 45.5049357,
+                "longitude": -73.5753707
+            },
+            {
+                "id": 1563349417,
+                "name": "Birk's Chapel",
+                "type": "place_of_worship",
+                "latitude": 45.5065699,
+                "longitude": -73.5773586
+            },
+            {
+                "id": 3081658451,
+                "name": "Banque Scotia",
+                "type": "bank",
+                "latitude": 45.5035488,
+                "longitude": -73.5779291
+            },
+            {
+                "id": 3358766747,
+                "name": "Midnight's Kitchen",
+                "type": "social_facility",
+                "latitude": 45.503401,
+                "longitude": -73.5780734
+            },
+            {
+                "id": 5262581150,
+                "name": "Clara Lichtenstein Hall",
+                "type": "theatre",
+                "latitude": 45.5058485,
+                "longitude": -73.5732807
+            },
+            {
+                "id": 5304916923,
+                "name": "James Square",
+                "type": "theatre",
+                "latitude": 45.5058364,
+                "longitude": -73.5770238
+            },
+            {
+                "id": 9153134864,
+                "name": "Dispatch Coffee",
+                "type": "cafe",
+                "latitude": 45.5059592,
+                "longitude": -73.5763052
+            },
+            {
+                "id": 9153134871,
+                "name": "Hot Dog Guy",
+                "type": "fast_food",
+                "latitude": 45.5046362,
+                "longitude": -73.5762954
+            },
+            {
+                "id": 11289136072,
+                "name": "Bixi",
+                "type": "bicycle_rental",
+                "latitude": 45.5075223,
+                "longitude": -73.5788265
+            },
+            {
+                "id": 11292378483,
+                "name": "Leacock Amphitheater",
+                "type": "theatre",
+                "latitude": 45.5040771,
+                "longitude": -73.5779904
+            },
+            {
+                "id": 19912993,
+                "name": "McLennan Library Building",
+                "type": "library",
+                "latitude": 45.50326881189692,
+                "longitude": -73.5759253838734
+            },
+            {
+                "id": 20168923,
+                "name": "Redpath Library Building",
+                "type": "library",
+                "latitude": 45.503559876489405,
+                "longitude": -73.57675168152659
+            },
+            {
+                "id": 80253182,
+                "name": "Fine Arts Core Education (F.A.C.E.) High School",
+                "type": "school",
+                "latitude": 45.506212485007524,
+                "longitude": -73.57476023881341
+            },
+            {
+                "id": 143868597,
+                "name": "Three Bares",
+                "type": "fountain",
+                "latitude": 45.50472939972332,
+                "longitude": -73.57700842772176
+            },
+            {
+                "id": 340257591,
+                "name": "Gelber Law Library",
+                "type": "library",
+                "latitude": 45.50373659617404,
+                "longitude": -73.5810382356257
+            },
+            {
+                "id": 744393091,
+                "name": "Humanities and Social Sciences Library",
+                "type": "library",
+                "latitude": 45.50326881189692,
+                "longitude": -73.5759253838734
+            },
+            {
+                "id": 15982217,
+                "name": "Hôpital neurologique de Montréal",
+                "type": "hospital",
+                "latitude": 45.509231950242174,
+                "longitude": -73.58130793237729
+            },
+            {
+                "id": 19912994,
+                "name": "Leacock Building",
+                "type": "university",
+                "latitude": 45.504587107300274,
+                "longitude": -73.57810838085582
+            },
+            {
+                "id": 19913315,
+                "name": "McIntyre Medical Building",
+                "type": "university",
+                "latitude": 45.50303763981403,
+                "longitude": -73.5824276958926
+            },
+            {
+                "id": 19913855,
+                "name": "Stewart Biology Building",
+                "type": "university",
+                "latitude": 45.50267261486666,
+                "longitude": -73.58150803990263
+            },
+            {
+                "id": 19913856,
+                "name": "Stewart Biology Building",
+                "type": "university",
+                "latitude": 45.50258482533551,
+                "longitude": -73.58097041618356
+            },
+            {
+                "id": 19913932,
+                "name": "Linguistics",
+                "type": "nan",
+                "latitude": 45.50365266731809,
+                "longitude": -73.5793584407928
+            },
+            {
+                "id": 20168777,
+                "name": "Burnside Hall",
+                "type": "nan",
+                "latitude": 45.504715556957336,
+                "longitude": -73.57494008226679
+            },
+            {
+                "id": 20168778,
+                "name": "Otto Maass Chemistry Building",
+                "type": "nan",
+                "latitude": 45.504846898612016,
+                "longitude": -73.57423901178049
+            },
+            {
+                "id": 20168780,
+                "name": "Pulp & Paper Research Centre",
+                "type": "nan",
+                "latitude": 45.50529091819767,
+                "longitude": -73.57478580019749
+            },
+            {
+                "id": 20168781,
+                "name": "Macdonald Stewart Library",
+                "type": "nan",
+                "latitude": 45.50506365372598,
+                "longitude": -73.57532286051062
+            },
+            {
+                "id": 20168782,
+                "name": "Macdonald-Harrington Building",
+                "type": "university",
+                "latitude": 45.50536284758758,
+                "longitude": -73.57583439957486
+            },
+            {
+                "id": 20168784,
+                "name": "Macdonald Engineering Building",
+                "type": "university",
+                "latitude": 45.505527006341964,
+                "longitude": -73.57646094783435
+            },
+            {
+                "id": 20168831,
+                "name": "Redpath Museum",
+                "type": "nan",
+                "latitude": 45.50447595179936,
+                "longitude": -73.57752505518306
+            },
+            {
+                "id": 20168924,
+                "name": "Redpath Hall",
+                "type": "nan",
+                "latitude": 45.50380047193497,
+                "longitude": -73.57728527753223
+            },
+            {
+                "id": 20168954,
+                "name": "Morrice Hall (Islamic Studies Library)",
+                "type": "university",
+                "latitude": 45.504012429474265,
+                "longitude": -73.57766433184176
+            },
+            {
+                "id": 20169169,
+                "name": "Bronfman Building",
+                "type": "nan",
+                "latitude": 45.50256773946674,
+                "longitude": -73.57642787646068
+            },
+            {
+                "id": 21340755,
+                "name": "Station de pompage McTavish",
+                "type": "nan",
+                "latitude": 45.505543815274564,
+                "longitude": -73.57875251320192
+            },
+            {
+                "id": 21340756,
+                "name": "Arts Building",
+                "type": "university",
+                "latitude": 45.505258055609254,
+                "longitude": -73.5777180046497
+            },
+            {
+                "id": 21340757,
+                "name": "Ferrier Building",
+                "type": "university",
+                "latitude": 45.50566878813434,
+                "longitude": -73.57799811939257
+            },
+            {
+                "id": 21340759,
+                "name": "James Administration Building",
+                "type": "nan",
+                "latitude": 45.506176651913485,
+                "longitude": -73.57765604236039
+            },
+            {
+                "id": 21340760,
+                "name": "Wong Building",
+                "type": "university",
+                "latitude": 45.50662606580136,
+                "longitude": -73.57874910394969
+            },
+            {
+                "id": 21341171,
+                "name": "Penfield 740",
+                "type": "nan",
+                "latitude": 45.50694830427141,
+                "longitude": -73.57950398976924
+            },
+            {
+                "id": 21341172,
+                "name": "Strathcona Anatomy & Dentistry Building",
+                "type": "university",
+                "latitude": 45.50748280332079,
+                "longitude": -73.57985293929188
+            },
+            {
+                "id": 21341557,
+                "name": "Trottier Building",
+                "type": "university",
+                "latitude": 45.50737977158451,
+                "longitude": -73.57905010927665
+            },
+            {
+                "id": 21341559,
+                "name": "Rutherford Physics Building",
+                "type": "university",
+                "latitude": 45.50702833023207,
+                "longitude": -73.57844837089121
+            },
+            {
+                "id": 21341787,
+                "name": "Birks Building",
+                "type": "university",
+                "latitude": 45.50657154015746,
+                "longitude": -73.57738347910285
+            },
+            {
+                "id": 21341788,
+                "name": "Wilson Hall",
+                "type": "university",
+                "latitude": 45.50633763124821,
+                "longitude": -73.5769124761809
+            },
+            {
+                "id": 21342090,
+                "name": "Peterson Hall",
+                "type": "university",
+                "latitude": 45.5032906938531,
+                "longitude": -73.57770244754104
+            },
+            {
+                "id": 21342091,
+                "name": "Faculty Club",
+                "type": "university",
+                "latitude": 45.50318015532319,
+                "longitude": -73.57727682939222
+            },
+            {
+                "id": 23815120,
+                "name": "Duff Medical Building",
+                "type": "nan",
+                "latitude": 45.508793040415654,
+                "longitude": -73.58056449238407
+            },
+            {
+                "id": 28326202,
+                "name": "Bishop Mountain Hall",
+                "type": "nan",
+                "latitude": 45.510639981172204,
+                "longitude": -73.58365149859918
+            },
+            {
+                "id": 28994376,
+                "name": "Gardner Hall",
+                "type": "nan",
+                "latitude": 45.51034174943323,
+                "longitude": -73.58423051927264
+            },
+            {
+                "id": 28994377,
+                "name": "Molson Hall",
+                "type": "nan",
+                "latitude": 45.51110899988976,
+                "longitude": -73.58386964119698
+            },
+            {
+                "id": 28994378,
+                "name": "McConnell Hall",
+                "type": "nan",
+                "latitude": 45.51091750472279,
+                "longitude": -73.58310113790951
+            },
+            {
+                "id": 28994383,
+                "name": "McGill Sports Complex",
+                "type": "nan",
+                "latitude": 45.51036130005576,
+                "longitude": -73.57953328169322
+            },
+            {
+                "id": 30176550,
+                "name": "3550 University Street",
+                "type": "nan",
+                "latitude": 45.50686204870466,
+                "longitude": -73.57785520863158
+            },
+            {
+                "id": 30176553,
+                "name": "3534 University Street",
+                "type": "nan",
+                "latitude": 45.506725055674764,
+                "longitude": -73.57755053942081
+            },
+            {
+                "id": 30176563,
+                "name": "Brown Student Services Building",
+                "type": "university",
+                "latitude": 45.50356339395389,
+                "longitude": -73.578735820432
+            },
+            {
+                "id": 30176564,
+                "name": "University Centre",
+                "type": "university",
+                "latitude": 45.50352628744494,
+                "longitude": -73.57817909921128
+            },
+            {
+                "id": 30176566,
+                "name": "3438 McTavish Street",
+                "type": "university",
+                "latitude": 45.503071150789026,
+                "longitude": -73.57714981608027
+            },
+            {
+                "id": 30176567,
+                "name": "3434 McTavish Street",
+                "type": "university",
+                "latitude": 45.50306091447066,
+                "longitude": -73.57706898646303
+            },
+            {
+                "id": 30176568,
+                "name": "3430 McTavish Street",
+                "type": "university",
+                "latitude": 45.50300263235796,
+                "longitude": -73.57700572229722
+            },
+            {
+                "id": 30176570,
+                "name": "Donald E. Armstrong Building",
+                "type": "nan",
+                "latitude": 45.50287343723738,
+                "longitude": -73.57683482150088
+            },
+            {
+                "id": 30176590,
+                "name": "McConnell Winter Stadium",
+                "type": "nan",
+                "latitude": 45.511923530658734,
+                "longitude": -73.58257676782313
+            },
+            {
+                "id": 30176594,
+                "name": "Douglas Hall",
+                "type": "nan",
+                "latitude": 45.51010460301794,
+                "longitude": -73.58243746375888
+            },
+            {
+                "id": 46867133,
+                "name": "Royal Victoria College",
+                "type": "nan",
+                "latitude": 45.505474823627196,
+                "longitude": -73.57394236157471
+            },
+            {
+                "id": 46867135,
+                "name": "Hosmer House",
+                "type": "nan",
+                "latitude": 45.50195190688994,
+                "longitude": -73.58216613504165
+            },
+            {
+                "id": 46867137,
+                "name": "Faculty of Education",
+                "type": "nan",
+                "latitude": 45.50440116252718,
+                "longitude": -73.58041209719158
+            },
+            {
+                "id": 80263147,
+                "name": "Strathcona Music Building",
+                "type": "nan",
+                "latitude": 45.50590312332857,
+                "longitude": -73.57351929152364
+            },
+            {
+                "id": 80263149,
+                "name": "New Music Building",
+                "type": "nan",
+                "latitude": 45.506356452910474,
+                "longitude": -73.57326059589252
+            },
+            {
+                "id": 112976640,
+                "name": "Adams Building",
+                "type": "nan",
+                "latitude": 45.505524584387985,
+                "longitude": -73.5753629076116
+            },
+            {
+                "id": 112977926,
+                "name": "McConnell Engineering Building",
+                "type": "nan",
+                "latitude": 45.50596098313263,
+                "longitude": -73.57616205667996
+            },
+            {
+                "id": 121707723,
+                "name": "Social Studies of Medicine",
+                "type": "nan",
+                "latitude": 45.503889942293085,
+                "longitude": -73.57995863714096
+            },
+            {
+                "id": 165265063,
+                "name": "Thomson House",
+                "type": "nan",
+                "latitude": 45.50425189851702,
+                "longitude": -73.57966515060772
+            },
+            {
+                "id": 340257925,
+                "name": "Charles Meredith House",
+                "type": "nan",
+                "latitude": 45.5039088879194,
+                "longitude": -73.58211931693435
+            },
+            {
+                "id": 340258402,
+                "name": "Chancellor Day Hall",
+                "type": "university",
+                "latitude": 45.503246995496355,
+                "longitude": -73.580735040497
+            },
+            {
+                "id": 340259593,
+                "name": "Davis House",
+                "type": "nan",
+                "latitude": 45.50231532333993,
+                "longitude": -73.58277731766393
+            },
+            {
+                "id": 340262486,
+                "name": "Purvis Hall",
+                "type": "nan",
+                "latitude": 45.5046099997636,
+                "longitude": -73.58141887147679
+            },
+            {
+                "id": 340263720,
+                "name": "Duggan House",
+                "type": "nan",
+                "latitude": 45.50492994907315,
+                "longitude": -73.58107167117143
+            },
+            {
+                "id": 340264155,
+                "name": "Hugessen House",
+                "type": "nan",
+                "latitude": 45.504387729247675,
+                "longitude": -73.57999604337637
+            }
+        ]
+    }
+}

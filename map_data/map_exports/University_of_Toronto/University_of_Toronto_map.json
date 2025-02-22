@@ -1,0 +1,1552 @@
+{
+    "id": -2477501469247871295,
+    "name": "多伦多大学",
+    "address": "27 King's College Cir, Toronto, ON M5S 1A1加拿大",
+    "rating": 4.4,
+    "popularity": 64,
+    "data_path": "map_data/university_map/University_of_Toronto",
+    "description": "多伦多大学（英語：University of Toronto），簡稱多大（UofT），位于加拿大安大略省多伦多，是一所一校三區的公立联邦制研究型大学，亦是加拿大乃至全球最頂尖的學府之一。它的主校区聖佐治校園坐落在多伦多市中心，主要建筑分佈于皇后公园四周，与安大略省政府及議會大廈相毗邻。它最初根据英皇乔治四世于1827年颁布的皇家宪章而建立，是英国殖民时代在上加拿大最早建立的高等学府，名为“国王学院”。至1849年，因脱离了圣公会而不再属于宗教大学，后改为今名。多伦多大学现拥有三个校区，分别是主校区圣乔治校区和两个分校区分别为密西沙加分校区以及士嘉堡分校区。受英国大学制度影响，多伦多大学是北美洲少数实行学院联邦制的大学，由11个学院组成，各学院在本院政务、教育、财政上具有一定自治权。\n多伦多大学与麦吉尔大学、不列颠哥伦比亚大学并称加拿大大学“三强”。在学术研究上，多伦多大学于多个领域都处于加拿大乃至世界领先的水平。它所接受的捐款、所获奖项、学术出版和引用、以及藏书数量都是加拿大之首。自二十世纪开始，在文学领域，多伦多大学就以文学批评和传播理论的相关研究及课程而著称；医学领域上，它是胰岛素的诞生地，也是干细胞研究的开拓者。理工方面，多伦多大学的团队发现并验证了首个黑洞，同时也是电子起搏器、多点触控技术、电子显微镜、复制T细胞、飞行员衣等发明的起源。二十一世纪以来，多伦多大学成为人工智能深度学习革命的起源地和先驱。多伦多大学每年发表的科研论文数量在北美仅次于哈佛大学，引用数量位居世界前五，是美国大学协会仅有的两名在美国本土外成员之一。\n曾有3名加拿大总督、4名加拿大总理和14名最高法院大法官在多伦多大学受教育。据2006年统计，多伦多大学教授中包括美国文理科学院外籍院士15名（占加拿大总数65%），美国科学促进会外籍院士20名（占加总数28%）。并在1980至2006年间，累计获得賈丁納（Gairdner）基金会国际奖11次（占加总数52%），被授予古根海姆研究员头衔44人（占加总数44%），英国皇家学会外籍院士16人（占加总数42%），美国国家学院外籍院士10人（占加总数36%）及斯隆（Sloan）研究员23人（占加总数30%）。截至2019年，多伦多大学累计有10位诺贝尔奖得奖者、5位图灵奖得奖者以及94名罗德学者。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e3/AeroVelo_Atlas_top_view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/AirplaneInFrontOfUC.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Deep_Thinkers_on_Deep_Learning_%28cropped_to_Geoffrey_Hinton%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Doors_Unlocked_and_Open_May_2011.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0f/EngineeringScienceBahenBuilding.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Frederick_Banting_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/Harold_Innis_public-domain_library_archives-canada.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f8/Humanstemcell.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/John_Andrews_Building_Scarborough_2010_%282%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a8/John_charles_fields.jpg"
+    ],
+    "amenity": {
+        "affiliation": -2477501469247871295,
+        "amenity_list": [
+            {
+                "id": 60052597,
+                "name": "可能感兴趣的地点",
+                "type": "telephone",
+                "latitude": 43.6626557,
+                "longitude": -79.3943788
+            },
+            {
+                "id": 60735863,
+                "name": "Grad House Underground Parking",
+                "type": "parking",
+                "latitude": 43.6638746,
+                "longitude": -79.4016568
+            },
+            {
+                "id": 238753600,
+                "name": "St George Street",
+                "type": "shelter",
+                "latitude": 43.6642354,
+                "longitude": -79.3982272
+            },
+            {
+                "id": 253818647,
+                "name": "Cafe AC",
+                "type": "cafe",
+                "latitude": 43.663001,
+                "longitude": -79.4012579
+            },
+            {
+                "id": 304899767,
+                "name": "Second Cup",
+                "type": "cafe",
+                "latitude": 43.6633456,
+                "longitude": -79.4017693
+            },
+            {
+                "id": 304899820,
+                "name": "TD Canada Trust",
+                "type": "atm",
+                "latitude": 43.6645752,
+                "longitude": -79.3997156
+            },
+            {
+                "id": 306721057,
+                "name": "St George Lot",
+                "type": "parking_entrance",
+                "latitude": 43.6662534,
+                "longitude": -79.3985965
+            },
+            {
+                "id": 333553032,
+                "name": "Robarts Library Cafeteria",
+                "type": "food_court",
+                "latitude": 43.664625,
+                "longitude": -79.3996975
+            },
+            {
+                "id": 333553034,
+                "name": "New College Cafeteria",
+                "type": "restaurant",
+                "latitude": 43.6620985,
+                "longitude": -79.4011589
+            },
+            {
+                "id": 333553035,
+                "name": "Sid's Southside Cafe",
+                "type": "food_court",
+                "latitude": 43.6621453,
+                "longitude": -79.3984112
+            },
+            {
+                "id": 333553039,
+                "name": "Medical Sciences Cafeteria",
+                "type": "food_court",
+                "latitude": 43.6605623,
+                "longitude": -79.3930549
+            },
+            {
+                "id": 333553042,
+                "name": "The Buttery",
+                "type": "fast_food",
+                "latitude": 43.6656637,
+                "longitude": -79.3970837
+            },
+            {
+                "id": 333553044,
+                "name": "The Arbor Room",
+                "type": "restaurant",
+                "latitude": 43.6636712,
+                "longitude": -79.3945238
+            },
+            {
+                "id": 344352917,
+                "name": "Laidlaw Library",
+                "type": "library",
+                "latitude": 43.6632524,
+                "longitude": -79.3958201
+            },
+            {
+                "id": 356321644,
+                "name": "Tim Hortons",
+                "type": "cafe",
+                "latitude": 43.6610156,
+                "longitude": -79.3938883
+            },
+            {
+                "id": 390142843,
+                "name": "The Cube",
+                "type": "cafe",
+                "latitude": 43.6592043,
+                "longitude": -79.3975116
+            },
+            {
+                "id": 391064315,
+                "name": "Harvest Noon Cafe",
+                "type": "restaurant",
+                "latitude": 43.6608398,
+                "longitude": -79.4003207
+            },
+            {
+                "id": 391064977,
+                "name": "G.S.U. Pub",
+                "type": "pub",
+                "latitude": 43.6607568,
+                "longitude": -79.4002917
+            },
+            {
+                "id": 391066911,
+                "name": "Hart House Theatre",
+                "type": "theatre",
+                "latitude": 43.6637099,
+                "longitude": -79.3943425
+            },
+            {
+                "id": 391086244,
+                "name": "Kelly's Cafe",
+                "type": "cafe",
+                "latitude": 43.6649756,
+                "longitude": -79.3893858
+            },
+            {
+                "id": 391178549,
+                "name": "Info to Go",
+                "type": "vending_machine",
+                "latitude": 43.660068,
+                "longitude": -79.390259
+            },
+            {
+                "id": 468417887,
+                "name": "Starbucks",
+                "type": "cafe",
+                "latitude": 43.6645938,
+                "longitude": -79.3998389
+            },
+            {
+                "id": 469055072,
+                "name": "Mexican Tortillas Burritos",
+                "type": "fast_food",
+                "latitude": 43.6646746,
+                "longitude": -79.3998005
+            },
+            {
+                "id": 730314298,
+                "name": "New College Registrar's Office",
+                "type": "registrars_office",
+                "latitude": 43.6622979,
+                "longitude": -79.3999424
+            },
+            {
+                "id": 730314299,
+                "name": "University College Registrar's Office",
+                "type": "registrars_office",
+                "latitude": 43.6626727,
+                "longitude": -79.3951625
+            },
+            {
+                "id": 738966309,
+                "name": "Career Centre/Student Life Centre",
+                "type": "student_services",
+                "latitude": 43.6594074,
+                "longitude": -79.3969876
+            },
+            {
+                "id": 749952030,
+                "name": "Counselling & Psychological Services",
+                "type": "student_services",
+                "latitude": 43.6591418,
+                "longitude": -79.3967459
+            },
+            {
+                "id": 760747792,
+                "name": "Regis College Library",
+                "type": "library",
+                "latitude": 43.6639023,
+                "longitude": -79.3901445
+            },
+            {
+                "id": 766976287,
+                "name": "New College Library",
+                "type": "library",
+                "latitude": 43.6617897,
+                "longitude": -79.4001637
+            },
+            {
+                "id": 779168884,
+                "name": "Spring Rolls",
+                "type": "fast_food",
+                "latitude": 43.6621213,
+                "longitude": -79.3983721
+            },
+            {
+                "id": 860764215,
+                "name": "L'Espresso Bar Mercurio",
+                "type": "cafe",
+                "latitude": 43.6673858,
+                "longitude": -79.3992096
+            },
+            {
+                "id": 914191009,
+                "name": "Family Services",
+                "type": "social_facility",
+                "latitude": 43.6591594,
+                "longitude": -79.396964
+            },
+            {
+                "id": 938000027,
+                "name": "Diabolos Coffee Bar",
+                "type": "cafe",
+                "latitude": 43.6630996,
+                "longitude": -79.3964649
+            },
+            {
+                "id": 938166471,
+                "name": "Engineering Library",
+                "type": "library",
+                "latitude": 43.6601686,
+                "longitude": -79.3949804
+            },
+            {
+                "id": 989458613,
+                "name": "RBC",
+                "type": "atm",
+                "latitude": 43.6609059,
+                "longitude": -79.3936306
+            },
+            {
+                "id": 1153342892,
+                "name": "Joseph L. Rotman Library",
+                "type": "library",
+                "latitude": 43.665098,
+                "longitude": -79.3985
+            },
+            {
+                "id": 1480794704,
+                "name": "VEDA",
+                "type": "fast_food",
+                "latitude": 43.6606401,
+                "longitude": -79.4005068
+            },
+            {
+                "id": 2143284305,
+                "name": "Emmanuel College Library",
+                "type": "library",
+                "latitude": 43.666578,
+                "longitude": -79.3926981
+            },
+            {
+                "id": 2143434330,
+                "name": "Hart House Library",
+                "type": "library",
+                "latitude": 43.663612,
+                "longitude": -79.3947865
+            },
+            {
+                "id": 2191590606,
+                "name": "Exchange Cafe",
+                "type": "fast_food",
+                "latitude": 43.6646523,
+                "longitude": -79.3983328
+            },
+            {
+                "id": 2480737247,
+                "name": "Food court seating",
+                "type": "food_court",
+                "latitude": 43.660659,
+                "longitude": -79.3924415
+            },
+            {
+                "id": 2684503408,
+                "name": "Veda",
+                "type": "fast_food",
+                "latitude": 43.6599323,
+                "longitude": -79.3949392
+            },
+            {
+                "id": 2785652246,
+                "name": "Butt Stop",
+                "type": "recycling",
+                "latitude": 43.6655867,
+                "longitude": -79.3993065
+            },
+            {
+                "id": 2809328001,
+                "name": "Nancy Park",
+                "type": "bench",
+                "latitude": 43.6652103,
+                "longitude": -79.3995521
+            },
+            {
+                "id": 2887824195,
+                "name": "Ned's Cafe",
+                "type": "fast_food",
+                "latitude": 43.6676852,
+                "longitude": -79.3925309
+            },
+            {
+                "id": 2889300733,
+                "name": "24 Hours",
+                "type": "vending_machine",
+                "latitude": 43.6603938,
+                "longitude": -79.3885488
+            },
+            {
+                "id": 3584692560,
+                "name": "b espresso bar",
+                "type": "cafe",
+                "latitude": 43.667719,
+                "longitude": -79.3958369
+            },
+            {
+                "id": 3733276159,
+                "name": "Map & Data Library",
+                "type": "library",
+                "latitude": 43.6645816,
+                "longitude": -79.3994417
+            },
+            {
+                "id": 3779624796,
+                "name": "Innis Cafe",
+                "type": "cafe",
+                "latitude": 43.6655579,
+                "longitude": -79.3995943
+            },
+            {
+                "id": 4635759005,
+                "name": "Mama's Best",
+                "type": "fast_food",
+                "latitude": 43.6623181,
+                "longitude": -79.3978248
+            },
+            {
+                "id": 5052350790,
+                "name": "MacMillan Theatre",
+                "type": "theatre",
+                "latitude": 43.666722,
+                "longitude": -79.3946275
+            },
+            {
+                "id": 5052350791,
+                "name": "Walter Hall",
+                "type": "theatre",
+                "latitude": 43.6665041,
+                "longitude": -79.3945216
+            },
+            {
+                "id": 5101101760,
+                "name": "Koerner Hall",
+                "type": "theatre",
+                "latitude": 43.6676514,
+                "longitude": -79.3961376
+            },
+            {
+                "id": 5101124687,
+                "name": "Mazzoleni Concert Hall",
+                "type": "theatre",
+                "latitude": 43.6676902,
+                "longitude": -79.3959793
+            },
+            {
+                "id": 5720509421,
+                "name": "College Street Animal Hospital",
+                "type": "veterinary",
+                "latitude": 43.6633334,
+                "longitude": -79.3976997
+            },
+            {
+                "id": 6532307284,
+                "name": "Galbraith Rd & King's College Rd",
+                "type": "bicycle_rental",
+                "latitude": 43.6604029,
+                "longitude": -79.3954119
+            },
+            {
+                "id": 6584392236,
+                "name": "Bike Share Toronto",
+                "type": "bicycle_rental",
+                "latitude": 43.6603612,
+                "longitude": -79.3971607
+            },
+            {
+                "id": 8555481471,
+                "name": "Trinity College Chapel",
+                "type": "place_of_worship",
+                "latitude": 43.6648606,
+                "longitude": -79.3959447
+            },
+            {
+                "id": 9799617753,
+                "name": "Penguin Pickup",
+                "type": "parcel_locker",
+                "latitude": 43.6590299,
+                "longitude": -79.3967724
+            },
+            {
+                "id": 10879354442,
+                "name": "Café Reznikoff",
+                "type": "cafe",
+                "latitude": 43.6631115,
+                "longitude": -79.3977806
+            },
+            {
+                "id": 10900941547,
+                "name": "Ideal Catering (Brown Food Truck)",
+                "type": "fast_food",
+                "latitude": 43.6628913,
+                "longitude": -79.3980307
+            },
+            {
+                "id": 11384840089,
+                "name": "Terima Coffee + Pantry Bar",
+                "type": "cafe",
+                "latitude": 43.6658474,
+                "longitude": -79.3937585
+            },
+            {
+                "id": 11543893452,
+                "name": "Caffiends",
+                "type": "cafe",
+                "latitude": 43.6670272,
+                "longitude": -79.3920908
+            },
+            {
+                "id": 11543893453,
+                "name": "CIUT 89.5FM",
+                "type": "studio",
+                "latitude": 43.6640011,
+                "longitude": -79.3951925
+            },
+            {
+                "id": 7991747,
+                "name": "Robarts Library",
+                "type": "library",
+                "latitude": 43.66445743684844,
+                "longitude": -79.3995261783608
+            },
+            {
+                "id": 8027952,
+                "name": "J. M. Kelly Library",
+                "type": "library",
+                "latitude": 43.66485249966416,
+                "longitude": -79.38950858395337
+            },
+            {
+                "id": 8111900,
+                "name": "E. J. Pratt Library",
+                "type": "library",
+                "latitude": 43.66632040295819,
+                "longitude": -79.39129184887085
+            },
+            {
+                "id": 9916090,
+                "name": "Fisher Rare Book Library",
+                "type": "library",
+                "latitude": 43.664082513086356,
+                "longitude": -79.39898791447239
+            },
+            {
+                "id": 12000627,
+                "name": "Bora Laskin Law Library",
+                "type": "library",
+                "latitude": 43.66578652232204,
+                "longitude": -79.39430631660491
+            },
+            {
+                "id": 15401928,
+                "name": "St. Michael's College parking",
+                "type": "parking",
+                "latitude": 43.66622810021814,
+                "longitude": -79.38843218382722
+            },
+            {
+                "id": 20898045,
+                "name": "Trinity College Parking",
+                "type": "parking",
+                "latitude": 43.666057758604765,
+                "longitude": -79.3971133271303
+            },
+            {
+                "id": 22199519,
+                "name": "Sigma Chi fraternity",
+                "type": "fraternity",
+                "latitude": 43.66385171869982,
+                "longitude": -79.40053436853475
+            },
+            {
+                "id": 22372211,
+                "name": "Lambda Chi Alpha",
+                "type": "fraternity",
+                "latitude": 43.666342180483355,
+                "longitude": -79.39973178089143
+            },
+            {
+                "id": 22372213,
+                "name": "Kappa Alpha",
+                "type": "fraternity",
+                "latitude": 43.66688336764919,
+                "longitude": -79.39996209172224
+            },
+            {
+                "id": 23434161,
+                "name": "Early Learning Centre",
+                "type": "childcare",
+                "latitude": 43.66393556785799,
+                "longitude": -79.40116498002327
+            },
+            {
+                "id": 27291427,
+                "name": "George Ignatieff Theatre",
+                "type": "theatre",
+                "latitude": 43.665845454529524,
+                "longitude": -79.39711918391124
+            },
+            {
+                "id": 28516661,
+                "name": "St. Thomas Aquinas Church",
+                "type": "place_of_worship",
+                "latitude": 43.664523,
+                "longitude": -79.39780130000001
+            },
+            {
+                "id": 682466791,
+                "name": "Willcocks St & St. George St",
+                "type": "bicycle_rental",
+                "latitude": 43.66209195,
+                "longitude": -79.39785689999998
+            },
+            {
+                "id": 760401745,
+                "name": "St. Joseph's College School",
+                "type": "school",
+                "latitude": 43.66434525153962,
+                "longitude": -79.38881332877637
+            },
+            {
+                "id": 813660516,
+                "name": "St George St & Bloor St W",
+                "type": "bicycle_rental",
+                "latitude": 43.66712275,
+                "longitude": -79.39954759999999
+            },
+            {
+                "id": 1217925388,
+                "name": "John W. Graham Library",
+                "type": "library",
+                "latitude": 43.66507074377145,
+                "longitude": -79.3964213352775
+            },
+            {
+                "id": 14756874,
+                "name": "Gerstein Science Information Centre",
+                "type": "library",
+                "latitude": 43.662107667059985,
+                "longitude": -79.39369054482552
+            },
+            {
+                "id": 213342330,
+                "name": "Nona MacDonald Visitors Centre",
+                "type": "nan",
+                "latitude": 43.6611315,
+                "longitude": -79.3963727
+            },
+            {
+                "id": 4942687,
+                "name": "Royal Ontario Museum",
+                "type": "nan",
+                "latitude": 43.66769650273421,
+                "longitude": -79.39469878099953
+            },
+            {
+                "id": 7685383,
+                "name": "Wetmore Hall",
+                "type": "nan",
+                "latitude": 43.6622122287363,
+                "longitude": -79.40030352621905
+            },
+            {
+                "id": 7948423,
+                "name": "Sidney Smith Hall",
+                "type": "nan",
+                "latitude": 43.66247741726225,
+                "longitude": -79.39870688552571
+            },
+            {
+                "id": 8027962,
+                "name": "Sir Daniel Wilson Residence (University College)",
+                "type": "nan",
+                "latitude": 43.66245717072374,
+                "longitude": -79.39731261115992
+            },
+            {
+                "id": 8032167,
+                "name": "University College",
+                "type": "nan",
+                "latitude": 43.66290131529174,
+                "longitude": -79.39578413139482
+            },
+            {
+                "id": 8033844,
+                "name": "Toronto Magnetic and Meteorological Observatory",
+                "type": "nan",
+                "latitude": 43.66317698434713,
+                "longitude": -79.39463592475887
+            },
+            {
+                "id": 8068859,
+                "name": "New Residence (New College)",
+                "type": "nan",
+                "latitude": 43.66097531123207,
+                "longitude": -79.40084006176772
+            },
+            {
+                "id": 8095834,
+                "name": "Varsity Arena",
+                "type": "nan",
+                "latitude": 43.667052888194796,
+                "longitude": -79.39612110154681
+            },
+            {
+                "id": 8099717,
+                "name": "Koffler Student Services Centre",
+                "type": "nan",
+                "latitude": 43.65913741474226,
+                "longitude": -79.39693148848997
+            },
+            {
+                "id": 8101762,
+                "name": "Daniels Building",
+                "type": "nan",
+                "latitude": 43.659653104983136,
+                "longitude": -79.4007089292196
+            },
+            {
+                "id": 8106022,
+                "name": "Warren Stevens Building",
+                "type": "nan",
+                "latitude": 43.66275738869204,
+                "longitude": -79.40103102477916
+            },
+            {
+                "id": 8117208,
+                "name": "Northrop Frye Hall",
+                "type": "nan",
+                "latitude": 43.666413136294835,
+                "longitude": -79.39214424944268
+            },
+            {
+                "id": 8810864,
+                "name": "Carr Hall",
+                "type": "nan",
+                "latitude": 43.66523660307468,
+                "longitude": -79.39044585644663
+            },
+            {
+                "id": 8932810,
+                "name": "Muzzo Family Alumni Hall",
+                "type": "nan",
+                "latitude": 43.66476441758187,
+                "longitude": -79.39011844808115
+            },
+            {
+                "id": 9303310,
+                "name": "Ramsay Wright Building",
+                "type": "nan",
+                "latitude": 43.66321184230642,
+                "longitude": -79.39899801630912
+            },
+            {
+                "id": 9916087,
+                "name": "Clara Benson Building",
+                "type": "nan",
+                "latitude": 43.66298323690915,
+                "longitude": -79.40025843236886
+            },
+            {
+                "id": 10334994,
+                "name": "Munk School of Global Affairs & Public Policy",
+                "type": "nan",
+                "latitude": 43.66503636647828,
+                "longitude": -79.39659364967085
+            },
+            {
+                "id": 10334995,
+                "name": "Claude T. Bissell Building",
+                "type": "nan",
+                "latitude": 43.66504222627525,
+                "longitude": -79.3993308501549
+            },
+            {
+                "id": 10336055,
+                "name": "Simcoe Hall",
+                "type": "nan",
+                "latitude": 43.66074229452654,
+                "longitude": -79.39595019062594
+            },
+            {
+                "id": 10336057,
+                "name": "Woodsworth College Residence",
+                "type": "nan",
+                "latitude": 43.66731589958226,
+                "longitude": -79.3991801827061
+            },
+            {
+                "id": 10336058,
+                "name": "Wilson Hall",
+                "type": "nan",
+                "latitude": 43.66180488967091,
+                "longitude": -79.4008035624794
+            },
+            {
+                "id": 12000624,
+                "name": "Edward Johnson Building",
+                "type": "nan",
+                "latitude": 43.66660422512804,
+                "longitude": -79.3945705660347
+            },
+            {
+                "id": 12000629,
+                "name": "Flavelle House",
+                "type": "nan",
+                "latitude": 43.666111862547574,
+                "longitude": -79.39394159051335
+            },
+            {
+                "id": 12000657,
+                "name": "Falconer Hall",
+                "type": "nan",
+                "latitude": 43.66671322577168,
+                "longitude": -79.39393495879153
+            },
+            {
+                "id": 12000960,
+                "name": "Joseph L. Rotman Faculty of Management",
+                "type": "nan",
+                "latitude": 43.66535697794703,
+                "longitude": -79.39842412444247
+            },
+            {
+                "id": 12872719,
+                "name": "John H. Daniels Faculty of Architecture, Landscape & Design",
+                "type": "nan",
+                "latitude": 43.65866196592802,
+                "longitude": -79.39801782597719
+            },
+            {
+                "id": 12873396,
+                "name": "The Terrence Donnelly Centre for Cellular and Biomolecular Research",
+                "type": "nan",
+                "latitude": 43.66013926085146,
+                "longitude": -79.39293110207723
+            },
+            {
+                "id": 12873543,
+                "name": "Lassonde Mining Building",
+                "type": "nan",
+                "latitude": 43.659539460940394,
+                "longitude": -79.39349102578319
+            },
+            {
+                "id": 12873582,
+                "name": "Leslie Dan Pharmacy Building",
+                "type": "nan",
+                "latitude": 43.65994945949378,
+                "longitude": -79.39177671687048
+            },
+            {
+                "id": 12873641,
+                "name": "Wallberg Building",
+                "type": "nan",
+                "latitude": 43.659187228332634,
+                "longitude": -79.39528529473358
+            },
+            {
+                "id": 12873822,
+                "name": "Margaret Addison Hall",
+                "type": "nan",
+                "latitude": 43.6681936683736,
+                "longitude": -79.39244159740537
+            },
+            {
+                "id": 12873850,
+                "name": "Burwash Hall",
+                "type": "nan",
+                "latitude": 43.666857685820936,
+                "longitude": -79.39096697500975
+            },
+            {
+                "id": 12873892,
+                "name": "Isabel Bader Theatre",
+                "type": "nan",
+                "latitude": 43.667250411722215,
+                "longitude": -79.39236045361271
+            },
+            {
+                "id": 12874002,
+                "name": "Birge Carnegie",
+                "type": "nan",
+                "latitude": 43.66710892637483,
+                "longitude": -79.39288918219515
+            },
+            {
+                "id": 12874330,
+                "name": "Morrison Hall",
+                "type": "nan",
+                "latitude": 43.66311149648587,
+                "longitude": -79.39743581470924
+            },
+            {
+                "id": 12874392,
+                "name": "Whitney Hall",
+                "type": "nan",
+                "latitude": 43.663805011819605,
+                "longitude": -79.39780644685982
+            },
+            {
+                "id": 13403180,
+                "name": "Sanford Fleming Building",
+                "type": "nan",
+                "latitude": 43.66012300929168,
+                "longitude": -79.39520426989954
+            },
+            {
+                "id": 13741969,
+                "name": "Howard Ferguson Dining Hall",
+                "type": "nan",
+                "latitude": 43.66298094315319,
+                "longitude": -79.39718129982312
+            },
+            {
+                "id": 13742114,
+                "name": "Centre for Biological Timing and Cognition",
+                "type": "nan",
+                "latitude": 43.662862707642596,
+                "longitude": -79.39930384328446
+            },
+            {
+                "id": 14748095,
+                "name": "The Jones and Edna Davenport Chemical Research Building",
+                "type": "nan",
+                "latitude": 43.66132820241505,
+                "longitude": -79.39779771302706
+            },
+            {
+                "id": 14748199,
+                "name": "McLennan Physical Laboratories",
+                "type": "nan",
+                "latitude": 43.661012539999476,
+                "longitude": -79.39850193825937
+            },
+            {
+                "id": 14748316,
+                "name": "McLennan Physical Laboratories",
+                "type": "nan",
+                "latitude": 43.660489153284864,
+                "longitude": -79.39850632990115
+            },
+            {
+                "id": 14748487,
+                "name": "Cody Hall",
+                "type": "nan",
+                "latitude": 43.660614431553185,
+                "longitude": -79.3975462653409
+            },
+            {
+                "id": 14748575,
+                "name": "South Borden Building",
+                "type": "nan",
+                "latitude": 43.66008687088938,
+                "longitude": -79.39975483389024
+            },
+            {
+                "id": 15401927,
+                "name": "Odette Hall",
+                "type": "nan",
+                "latitude": 43.66636143662609,
+                "longitude": -79.38865014507824
+            },
+            {
+                "id": 15401936,
+                "name": "Cardinal Flahiff Building",
+                "type": "nan",
+                "latitude": 43.665074513545896,
+                "longitude": -79.38859336582331
+            },
+            {
+                "id": 15401938,
+                "name": "Maritain House",
+                "type": "nan",
+                "latitude": 43.66564552227639,
+                "longitude": -79.38997378686364
+            },
+            {
+                "id": 15401943,
+                "name": "2",
+                "type": "nan",
+                "latitude": 43.66544020805078,
+                "longitude": -79.38987993378896
+            },
+            {
+                "id": 15401948,
+                "name": "Phelan House",
+                "type": "nan",
+                "latitude": 43.66580359366266,
+                "longitude": -79.38938260803405
+            },
+            {
+                "id": 15401950,
+                "name": "Sorbara Hall Student Residence",
+                "type": "nan",
+                "latitude": 43.66571972686967,
+                "longitude": -79.38894270379151
+            },
+            {
+                "id": 15401952,
+                "name": "Windle House",
+                "type": "nan",
+                "latitude": 43.66605278161229,
+                "longitude": -79.38946116148253
+            },
+            {
+                "id": 15401954,
+                "name": "Brennan Hall",
+                "type": "nan",
+                "latitude": 43.666391525049384,
+                "longitude": -79.38975254993217
+            },
+            {
+                "id": 15401956,
+                "name": "Burwash Dining Hall",
+                "type": "nan",
+                "latitude": 43.66745407381346,
+                "longitude": -79.39173497622566
+            },
+            {
+                "id": 15401957,
+                "name": "Physical Geography Building",
+                "type": "nan",
+                "latitude": 43.660384756755825,
+                "longitude": -79.39652776546313
+            },
+            {
+                "id": 15401959,
+                "name": "McLennan Physical Laboratories",
+                "type": "nan",
+                "latitude": 43.66054910126152,
+                "longitude": -79.39815388781547
+            },
+            {
+                "id": 15401964,
+                "name": "D. L. Pratt Building",
+                "type": "nan",
+                "latitude": 43.65962623954984,
+                "longitude": -79.3948248420729
+            },
+            {
+                "id": 20173368,
+                "name": "J. Robert S. Prichard Alumni House",
+                "type": "nan",
+                "latitude": 43.66207828113792,
+                "longitude": -79.39676317929302
+            },
+            {
+                "id": 20174304,
+                "name": "Central Steam Plant",
+                "type": "nan",
+                "latitude": 43.659997468555495,
+                "longitude": -79.39784826344531
+            },
+            {
+                "id": 20251223,
+                "name": "TELUS Centre for Performance and Learning",
+                "type": "nan",
+                "latitude": 43.66778971296037,
+                "longitude": -79.39618181894093
+            },
+            {
+                "id": 20251671,
+                "name": "Munk School of Global Affairs",
+                "type": "nan",
+                "latitude": 43.66747089818239,
+                "longitude": -79.39854423397588
+            },
+            {
+                "id": 20319805,
+                "name": "Bancroft Hall",
+                "type": "nan",
+                "latitude": 43.660904409304315,
+                "longitude": -79.39989888951577
+            },
+            {
+                "id": 20319809,
+                "name": "Faculty Club",
+                "type": "nan",
+                "latitude": 43.661123653782724,
+                "longitude": -79.40053791947182
+            },
+            {
+                "id": 20319813,
+                "name": "North Borden Building",
+                "type": "nan",
+                "latitude": 43.66041456733939,
+                "longitude": -79.40008296308604
+            },
+            {
+                "id": 20319814,
+                "name": "Koffler House",
+                "type": "nan",
+                "latitude": 43.66059386402163,
+                "longitude": -79.40062831998614
+            },
+            {
+                "id": 20320131,
+                "name": "Lash Miller Laboratories",
+                "type": "nan",
+                "latitude": 43.66185352135812,
+                "longitude": -79.39798428989745
+            },
+            {
+                "id": 20343239,
+                "name": "Anthropology Building",
+                "type": "nan",
+                "latitude": 43.659866615383244,
+                "longitude": -79.39846878023258
+            },
+            {
+                "id": 20898043,
+                "name": "Innis Residence",
+                "type": "nan",
+                "latitude": 43.66594369171941,
+                "longitude": -79.39870564380956
+            },
+            {
+                "id": 22199517,
+                "name": "The Wolland Centre for Jewish Campus Life (Hillel)",
+                "type": "nan",
+                "latitude": 43.66359631151014,
+                "longitude": -79.40050277983673
+            },
+            {
+                "id": 22201015,
+                "name": "Newman Centre",
+                "type": "nan",
+                "latitude": 43.664425265005626,
+                "longitude": -79.39815530201601
+            },
+            {
+                "id": 22201203,
+                "name": "Rotman School of Management",
+                "type": "nan",
+                "latitude": 43.664813459749375,
+                "longitude": -79.39817887572636
+            },
+            {
+                "id": 22236557,
+                "name": "Rotman School of Management and Rotman Commerce",
+                "type": "nan",
+                "latitude": 43.666905053821,
+                "longitude": -79.39920732978872
+            },
+            {
+                "id": 22372209,
+                "name": "Max Gluskin House",
+                "type": "nan",
+                "latitude": 43.666091885276224,
+                "longitude": -79.39978375311826
+            },
+            {
+                "id": 22372212,
+                "name": "School of Continuing Studies",
+                "type": "nan",
+                "latitude": 43.666711750000005,
+                "longitude": -79.39996885
+            },
+            {
+                "id": 22372214,
+                "name": "162 St. George Street",
+                "type": "nan",
+                "latitude": 43.66708223491528,
+                "longitude": -79.40002753978092
+            },
+            {
+                "id": 22372215,
+                "name": "Innis College",
+                "type": "nan",
+                "latitude": 43.665588883570486,
+                "longitude": -79.39957656197554
+            },
+            {
+                "id": 22372217,
+                "name": "Centre for Industrial Relations and Human Resources",
+                "type": "nan",
+                "latitude": 43.66669635851445,
+                "longitude": -79.39910141028209
+            },
+            {
+                "id": 22597592,
+                "name": "School of Graduate Studies - Office of the Dean",
+                "type": "nan",
+                "latitude": 43.66201245770843,
+                "longitude": -79.39718525009883
+            },
+            {
+                "id": 22597593,
+                "name": "Macdonald-Mullard House",
+                "type": "nan",
+                "latitude": 43.66180325097479,
+                "longitude": -79.39702993258241
+            },
+            {
+                "id": 22775068,
+                "name": "University College Union",
+                "type": "nan",
+                "latitude": 43.66339517965347,
+                "longitude": -79.39755298154175
+            },
+            {
+                "id": 22914049,
+                "name": "Department of Obstetrics and Gynaecology",
+                "type": "nan",
+                "latitude": 43.66062379548648,
+                "longitude": -79.38808709580675
+            },
+            {
+                "id": 22914055,
+                "name": "Banting Institute",
+                "type": "nan",
+                "latitude": 43.66056883048342,
+                "longitude": -79.38863883322466
+            },
+            {
+                "id": 23113405,
+                "name": "Gerald Larkin Building",
+                "type": "nan",
+                "latitude": 43.66567308551567,
+                "longitude": -79.39694566796659
+            },
+            {
+                "id": 23432948,
+                "name": "Fields Institute for Research in Math Science",
+                "type": "nan",
+                "latitude": 43.658802274138374,
+                "longitude": -79.39755228448072
+            },
+            {
+                "id": 23433288,
+                "name": "Engineering Annex",
+                "type": "nan",
+                "latitude": 43.65960644560536,
+                "longitude": -79.39545356780002
+            },
+            {
+                "id": 23433306,
+                "name": "Haultain Building",
+                "type": "nan",
+                "latitude": 43.65992239868473,
+                "longitude": -79.3936379489165
+            },
+            {
+                "id": 23433444,
+                "name": "St. Hilda's College",
+                "type": "nan",
+                "latitude": 43.66571679666966,
+                "longitude": -79.39794327556787
+            },
+            {
+                "id": 23433584,
+                "name": "Tanz Neuroscience Building",
+                "type": "nan",
+                "latitude": 43.660368125572354,
+                "longitude": -79.39188190345654
+            },
+            {
+                "id": 23433608,
+                "name": "McMurrich Building",
+                "type": "nan",
+                "latitude": 43.6612629363031,
+                "longitude": -79.39293243732814
+            },
+            {
+                "id": 23433615,
+                "name": "Medical Sciences Building",
+                "type": "nan",
+                "latitude": 43.66076407956734,
+                "longitude": -79.3935128205347
+            },
+            {
+                "id": 23433971,
+                "name": "Centre of Criminology, School of Public Policy & Governance",
+                "type": "nan",
+                "latitude": 43.66192430013832,
+                "longitude": -79.3929487009216
+            },
+            {
+                "id": 23434831,
+                "name": "Pontifical Institute of Medieval Studies",
+                "type": "nan",
+                "latitude": 43.665661700253,
+                "longitude": -79.39090815724371
+            },
+            {
+                "id": 23434841,
+                "name": "Teefy Hall",
+                "type": "nan",
+                "latitude": 43.66536707631054,
+                "longitude": -79.39080321744159
+            },
+            {
+                "id": 23435125,
+                "name": "Elmsley Hall",
+                "type": "nan",
+                "latitude": 43.66672244618395,
+                "longitude": -79.3903291654144
+            },
+            {
+                "id": 23435200,
+                "name": "Old steam plant",
+                "type": "nan",
+                "latitude": 43.666175862450274,
+                "longitude": -79.39028755240615
+            },
+            {
+                "id": 23435826,
+                "name": "McLuhan Program in Culture and Technology",
+                "type": "nan",
+                "latitude": 43.66432361993985,
+                "longitude": -79.38976965485567
+            },
+            {
+                "id": 23436128,
+                "name": "Toronto School of Theology",
+                "type": "nan",
+                "latitude": 43.66477046755109,
+                "longitude": -79.39062274148951
+            },
+            {
+                "id": 23436149,
+                "name": "Multicultural History Society of Ontario",
+                "type": "nan",
+                "latitude": 43.66457134728528,
+                "longitude": -79.39055211872517
+            },
+            {
+                "id": 23436210,
+                "name": "Jesuits in English Canada",
+                "type": "nan",
+                "latitude": 43.66426638825853,
+                "longitude": -79.39039013780817
+            },
+            {
+                "id": 23436616,
+                "name": "Goldring Student Centre",
+                "type": "nan",
+                "latitude": 43.66775384305808,
+                "longitude": -79.39243553816218
+            },
+            {
+                "id": 23436623,
+                "name": "Annesley Hall",
+                "type": "nan",
+                "latitude": 43.66781143701242,
+                "longitude": -79.39295277639026
+            },
+            {
+                "id": 23436633,
+                "name": "Rowell Jackman Hall",
+                "type": "nan",
+                "latitude": 43.667448069819045,
+                "longitude": -79.39079761175722
+            },
+            {
+                "id": 23436644,
+                "name": "Loretto College",
+                "type": "nan",
+                "latitude": 43.667370930212016,
+                "longitude": -79.3900044708207
+            },
+            {
+                "id": 27750952,
+                "name": "Arthur M. Kruger Hall (Woodsworth College)",
+                "type": "nan",
+                "latitude": 43.66661372253053,
+                "longitude": -79.39879862081982
+            },
+            {
+                "id": 27801041,
+                "name": "Ernescliff College",
+                "type": "nan",
+                "latitude": 43.66651032872297,
+                "longitude": -79.39996625833209
+            },
+            {
+                "id": 27944824,
+                "name": "Crux Discount Theological Books",
+                "type": "nan",
+                "latitude": 43.66421151073727,
+                "longitude": -79.39526653851668
+            },
+            {
+                "id": 28516684,
+                "name": "former Canadian School of Missions",
+                "type": "nan",
+                "latitude": 43.66493187888658,
+                "longitude": -79.39842868054667
+            },
+            {
+                "id": 28822997,
+                "name": "Soldier's Tower",
+                "type": "nan",
+                "latitude": 43.66354428655611,
+                "longitude": -79.39522109194436
+            },
+            {
+                "id": 30430627,
+                "name": "Law House",
+                "type": "nan",
+                "latitude": 43.667813833652275,
+                "longitude": -79.38989748237918
+            },
+            {
+                "id": 30430628,
+                "name": "Stephenson House",
+                "type": "nan",
+                "latitude": 43.66783139917341,
+                "longitude": -79.38981460400711
+            },
+            {
+                "id": 34116297,
+                "name": "Graduate Students Union",
+                "type": "nan",
+                "latitude": 43.660811251713135,
+                "longitude": -79.40030772561099
+            },
+            {
+                "id": 34117654,
+                "name": "1 Thousand Bay",
+                "type": "nan",
+                "latitude": 43.665225776465824,
+                "longitude": -79.3878824387448
+            },
+            {
+                "id": 60303738,
+                "name": "Regis College",
+                "type": "nan",
+                "latitude": 43.664004362769504,
+                "longitude": -79.39026802766686
+            },
+            {
+                "id": 141691917,
+                "name": "Bahen Centre for Information Technology",
+                "type": "nan",
+                "latitude": 43.659627598906354,
+                "longitude": -79.39745459783157
+            },
+            {
+                "id": 141692092,
+                "name": "Cumberland House",
+                "type": "nan",
+                "latitude": 43.65946264612813,
+                "longitude": -79.39594071840737
+            },
+            {
+                "id": 156267735,
+                "name": "U Condominiums Presentation Centre",
+                "type": "nan",
+                "latitude": 43.66608653019241,
+                "longitude": -79.38823231091695
+            },
+            {
+                "id": 204323029,
+                "name": "Victoria College",
+                "type": "nan",
+                "latitude": 43.666934922902406,
+                "longitude": -79.3919580936287
+            },
+            {
+                "id": 204323317,
+                "name": "Emmanuel College",
+                "type": "nan",
+                "latitude": 43.666692593360594,
+                "longitude": -79.39270167064677
+            },
+            {
+                "id": 258167657,
+                "name": "Goldring Centre",
+                "type": "nan",
+                "latitude": 43.66697683671312,
+                "longitude": -79.39838506854858
+            },
+            {
+                "id": 301631920,
+                "name": "Lash Miller Laboratories",
+                "type": "nan",
+                "latitude": 43.66159706683864,
+                "longitude": -79.39843043863863
+            },
+            {
+                "id": 330718925,
+                "name": "Convocation Hall",
+                "type": "nan",
+                "latitude": 43.66078464852007,
+                "longitude": -79.39544765773503
+            },
+            {
+                "id": 354180330,
+                "name": "Rosebrugh Building",
+                "type": "nan",
+                "latitude": 43.66006393248968,
+                "longitude": -79.39325945861056
+            },
+            {
+                "id": 354180331,
+                "name": "Mechanical Engineering Building",
+                "type": "nan",
+                "latitude": 43.660103983683136,
+                "longitude": -79.39389537496649
+            },
+            {
+                "id": 403302492,
+                "name": "Myhal Centre",
+                "type": "nan",
+                "latitude": 43.66073090381118,
+                "longitude": -79.39655645914489
+            },
+            {
+                "id": 627629970,
+                "name": "Robarts Common",
+                "type": "nan",
+                "latitude": 43.66430504816513,
+                "longitude": -79.40004434244302
+            },
+            {
+                "id": 988615299,
+                "name": "Medical Sciences Building",
+                "type": "nan",
+                "latitude": 43.661339111360135,
+                "longitude": -79.39344235932735
+            },
+            {
+                "id": 1208837134,
+                "name": "Gilson House",
+                "type": "nan",
+                "latitude": 43.66573516740676,
+                "longitude": -79.38999247378733
+            },
+            {
+                "id": 1989,
+                "name": "Hart House",
+                "type": "nan",
+                "latitude": 43.66393804040987,
+                "longitude": -79.39447221276183
+            },
+            {
+                "id": 2032,
+                "name": "Knox College",
+                "type": "nan",
+                "latitude": 43.6614006056556,
+                "longitude": -79.39665187719824
+            },
+            {
+                "id": 2152,
+                "name": "Earth Sciences Centre",
+                "type": "nan",
+                "latitude": 43.66080702058031,
+                "longitude": -79.39951180680325
+            },
+            {
+                "id": 2687,
+                "name": "Trinity College",
+                "type": "nan",
+                "latitude": 43.6653776066598,
+                "longitude": -79.39579565710002
+            },
+            {
+                "id": 4323,
+                "name": "Massey College",
+                "type": "nan",
+                "latitude": 43.66485240384795,
+                "longitude": -79.39750693422975
+            },
+            {
+                "id": 47346,
+                "name": "Wycliffe College",
+                "type": "nan",
+                "latitude": 43.66449563691655,
+                "longitude": -79.39499140111265
+            },
+            {
+                "id": 73341,
+                "name": "Grad House",
+                "type": "nan",
+                "latitude": 43.66359872193373,
+                "longitude": -79.4017708504975
+            },
+            {
+                "id": 76177,
+                "name": "Galbraith Building",
+                "type": "nan",
+                "latitude": 43.659958854657475,
+                "longitude": -79.39597070427624
+            },
+            {
+                "id": 2582658,
+                "name": "Faculty of Music (South)",
+                "type": "nan",
+                "latitude": 43.66419583131452,
+                "longitude": -79.3895875505587
+            }
+        ]
+    }
+}

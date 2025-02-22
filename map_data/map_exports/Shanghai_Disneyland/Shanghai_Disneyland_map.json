@@ -1,0 +1,537 @@
+{
+    "id": -5726382354627657892,
+    "name": "上海迪士尼乐园",
+    "address": "中国上海市浦东新区 邮政编码: 201205",
+    "rating": 4.5,
+    "popularity": 52,
+    "data_path": "map_data/university_map/Shanghai_Disneyland",
+    "description": "上海迪士尼樂園（英語：Shanghai Disneyland）是一座位於上海市浦東新区川沙新镇的迪士尼樂園，也是上海迪士尼度假區中最重要的组成部份。樂園在2011年4月8日動工興建，2016年5月7日開始試營運，並於2016年6月16日12時正式開幕。乐园现有八大主题园区，30余个游乐项目，20多项娱乐演出，2017年客流量共达1100万人。\n上海迪士尼樂園是世界第六座、亞洲第三座、中國第二座、中國大陸第一座迪士尼樂園。以單一樂園面積來說，上海迪士尼樂園是世界所有迪士尼樂園中最大的，相當於東京迪士尼樂園加上東京迪士尼海洋、香港迪士尼樂園的3倍；但是以整體度假區佔地来說，上海迪士尼度假区在世界所有迪士尼度假区当中只位居第3，排在美國的迪士尼世界和巴黎迪士尼度假區之後。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c9/20161113%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E5%88%9B%E6%9E%81%E9%80%9F%E5%85%89%E8%BD%AE%E8%BF%90%E8%A1%8C%E4%B8%AD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/20161203%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E5%8D%8E%E7%89%B9%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%8E%E7%B1%B3%E8%80%81%E9%BC%A0%E9%93%9C%E5%83%8F.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d8/20170219%E6%98%8E%E6%97%A5%E4%B8%96%E7%95%8C%E6%97%A5%E8%90%BD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/201706_Shanghai_Disneyland_Roaring_Rapids.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6b/20180606%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E5%B7%B4%E6%B3%A2%E8%90%A8%E7%83%A7%E7%83%A4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/03/20180606%E6%8A%B1%E6%8A%B1%E9%BE%99%E5%86%B2%E5%A4%A9%E8%B5%9B%E8%BD%A6.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/20180606%E8%83%A1%E8%BF%AA%E7%89%9B%E4%BB%94%E5%98%89%E5%B9%B4%E5%8D%8E.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/Adventure_Isle_%2829540235881%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Adventure_Isle_%2829621215955%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Camp_Discovery_%2828996574474%29.jpg"
+    ],
+    "amenity": {
+        "affiliation": -5726382354627657892,
+        "amenity_list": [
+            {
+                "id": 4062642140,
+                "name": "玩具盒欢宴广场",
+                "type": "fast_food",
+                "latitude": 31.1447299,
+                "longitude": 121.6528797
+            },
+            {
+                "id": 4062670752,
+                "name": "星露台餐厅",
+                "type": "restaurant",
+                "latitude": 31.1433432,
+                "longitude": 121.6538491
+            },
+            {
+                "id": 4062679923,
+                "name": "皮诺丘乡村厨房",
+                "type": "fast_food",
+                "latitude": 31.1454819,
+                "longitude": 121.6547563
+            },
+            {
+                "id": 4062681997,
+                "name": "仙女教母妙味橱",
+                "type": "fast_food",
+                "latitude": 31.1454336,
+                "longitude": 121.6544611
+            },
+            {
+                "id": 4062689411,
+                "name": "魔法师秘制小食",
+                "type": "cafe",
+                "latitude": 31.1468692,
+                "longitude": 121.6548283
+            },
+            {
+                "id": 4062690142,
+                "name": "皇家宴会厅",
+                "type": "restaurant",
+                "latitude": 31.1457686,
+                "longitude": 121.6555706
+            },
+            {
+                "id": 4062730735,
+                "name": "米奇好伙伴美味集市",
+                "type": "fast_food",
+                "latitude": 31.1445678,
+                "longitude": 121.6579615
+            },
+            {
+                "id": 4062731125,
+                "name": "奇奇蒂蒂果摊",
+                "type": "fast_food",
+                "latitude": 31.1439996,
+                "longitude": 121.65747
+            },
+            {
+                "id": 4062731126,
+                "name": "小米大厨烘培坊",
+                "type": "cafe",
+                "latitude": 31.1441059,
+                "longitude": 121.6573813
+            },
+            {
+                "id": 4062732568,
+                "name": "帕帕里诺冰激凌",
+                "type": "ice_cream",
+                "latitude": 31.1437389,
+                "longitude": 121.6568144
+            },
+            {
+                "id": 4062741960,
+                "name": "土图嘉风味",
+                "type": "cafe",
+                "latitude": 31.1467966,
+                "longitude": 121.6592586
+            },
+            {
+                "id": 4062758443,
+                "name": "水手大排档",
+                "type": "fast_food",
+                "latitude": 31.1474571,
+                "longitude": 121.658873
+            },
+            {
+                "id": 4062759531,
+                "name": "旋味",
+                "type": "fast_food",
+                "latitude": 31.1436395,
+                "longitude": 121.6536028
+            },
+            {
+                "id": 4062759532,
+                "name": "提摩太小吃",
+                "type": "fast_food",
+                "latitude": 31.1444175,
+                "longitude": 121.6555888
+            },
+            {
+                "id": 4062772650,
+                "name": "明日世界E 空间聚乐部",
+                "type": "theatre",
+                "latitude": 31.1442298,
+                "longitude": 121.6530226
+            },
+            {
+                "id": 4062775390,
+                "name": "金色童话盛典",
+                "type": "theatre",
+                "latitude": 31.1454595,
+                "longitude": 121.6556344
+            },
+            {
+                "id": 4062775391,
+                "name": "点亮奇梦夜光幻影秀",
+                "type": "theatre",
+                "latitude": 31.1455684,
+                "longitude": 121.6555412
+            },
+            {
+                "id": 4062777657,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 31.1430262,
+                "longitude": 121.6533493
+            },
+            {
+                "id": 4064654901,
+                "name": "医务室",
+                "type": "clinic",
+                "latitude": 31.1444268,
+                "longitude": 121.6528171
+            },
+            {
+                "id": 4763181933,
+                "name": "护婴中心",
+                "type": "childcare",
+                "latitude": 31.1450998,
+                "longitude": 121.6578783
+            },
+            {
+                "id": 4826948804,
+                "name": "米奇童话专列",
+                "type": "theatre",
+                "latitude": 31.1441203,
+                "longitude": 121.6571204
+            },
+            {
+                "id": 4871475113,
+                "name": "巴波萨烧烤",
+                "type": "fast_food",
+                "latitude": 31.1476609,
+                "longitude": 121.6588101
+            },
+            {
+                "id": 9873514373,
+                "name": "琦妙美味屋",
+                "type": "cafe",
+                "latitude": 31.1440914,
+                "longitude": 121.6572995
+            },
+            {
+                "id": 9873514374,
+                "name": "吸烟区 - 米奇大街甜心糖果",
+                "type": "smoking_area",
+                "latitude": 31.1440829,
+                "longitude": 121.6577527
+            },
+            {
+                "id": 11463020874,
+                "name": "动物城食集",
+                "type": "fast_food",
+                "latitude": 31.1482037,
+                "longitude": 121.6558177
+            },
+            {
+                "id": 11463020875,
+                "name": "迪士尼疯狂动物城生活秀",
+                "type": "theatre",
+                "latitude": 31.1482546,
+                "longitude": 121.6553324
+            },
+            {
+                "id": 11463020877,
+                "name": "大象甜品店",
+                "type": "cafe",
+                "latitude": 31.1483718,
+                "longitude": 121.6550304
+            },
+            {
+                "id": 11464670742,
+                "name": "花栗鼠小厨",
+                "type": "restaurant",
+                "latitude": 31.1456744,
+                "longitude": 121.658867
+            },
+            {
+                "id": 405016993,
+                "name": "冰雪奇缘：欢唱盛会",
+                "type": "theatre",
+                "latitude": 31.14688422815576,
+                "longitude": 121.6525313684672
+            },
+            {
+                "id": 483555684,
+                "name": "Wolfgang Puck Kitchen & Bar",
+                "type": "restaurant",
+                "latitude": 31.143351596536448,
+                "longitude": 121.6562831505023
+            },
+            {
+                "id": 483555685,
+                "name": "上海小南国",
+                "type": "restaurant",
+                "latitude": 31.143385082966617,
+                "longitude": 121.65585094890262
+            },
+            {
+                "id": 483555686,
+                "name": "翡翠梦乐园",
+                "type": "restaurant",
+                "latitude": 31.143043231704528,
+                "longitude": 121.65567734790743
+            },
+            {
+                "id": 483566302,
+                "name": "部落丰盛堂",
+                "type": "fast_food",
+                "latitude": 31.14507645858496,
+                "longitude": 121.65833863448957
+            },
+            {
+                "id": 494343218,
+                "name": "凡迭戈剧院",
+                "type": "theatre",
+                "latitude": 31.147711137162126,
+                "longitude": 121.65946430550943
+            },
+            {
+                "id": 494348161,
+                "name": "奇幻童话城堡",
+                "type": "castle",
+                "latitude": 31.14574596160655,
+                "longitude": 121.65532470959127
+            },
+            {
+                "id": 494348814,
+                "name": "漫月轩",
+                "type": "cafe",
+                "latitude": 31.14577712923455,
+                "longitude": 121.65725868107425
+            },
+            {
+                "id": 494350988,
+                "name": "人猿泰山丛林的呼唤",
+                "type": "theatre",
+                "latitude": 31.146563842568124,
+                "longitude": 121.66081808873652
+            },
+            {
+                "id": 494508942,
+                "name": "Inn Between",
+                "type": "cafe",
+                "latitude": 31.14448455736526,
+                "longitude": 121.65872432328092
+            },
+            {
+                "id": 494510464,
+                "name": "老藤树食栈",
+                "type": "fast_food",
+                "latitude": 31.147590234014807,
+                "longitude": 121.65359675192299
+            },
+            {
+                "id": 494510583,
+                "name": "吟游风味",
+                "type": "fast_food",
+                "latitude": 31.146483864760327,
+                "longitude": 121.65365406737381
+            },
+            {
+                "id": 494576694,
+                "name": "海怪小吃",
+                "type": "fast_food",
+                "latitude": 31.14739639809613,
+                "longitude": 121.65785515033473
+            },
+            {
+                "id": 494722751,
+                "name": "花间美味",
+                "type": "cafe",
+                "latitude": 31.145230964961332,
+                "longitude": 121.65702962830912
+            },
+            {
+                "id": 495956023,
+                "name": "蓝蛙西餐厅酒吧",
+                "type": "pub",
+                "latitude": 31.142729985158613,
+                "longitude": 121.65719453198595
+            },
+            {
+                "id": 328313625,
+                "name": "娱乐演出大楼",
+                "type": "nan",
+                "latitude": 31.14585622496252,
+                "longitude": 121.65107035592214
+            },
+            {
+                "id": 328313627,
+                "name": "项目行政楼",
+                "type": "nan",
+                "latitude": 31.15009520841029,
+                "longitude": 121.65461036301862
+            },
+            {
+                "id": 328313629,
+                "name": "Walt Disney Imagineering",
+                "type": "nan",
+                "latitude": 31.14750152553719,
+                "longitude": 121.65041006742563
+            },
+            {
+                "id": 404362685,
+                "name": "旋转疯蜜罐",
+                "type": "nan",
+                "latitude": 31.14749867298389,
+                "longitude": 121.65442144580734
+            },
+            {
+                "id": 483565958,
+                "name": "童车和轮椅租赁",
+                "type": "nan",
+                "latitude": 31.142965904541555,
+                "longitude": 121.65764923258476
+            },
+            {
+                "id": 483566304,
+                "name": "探险岛快速通道",
+                "type": "nan",
+                "latitude": 31.14555490502755,
+                "longitude": 121.65857819030353
+            },
+            {
+                "id": 483567861,
+                "name": "待机食间",
+                "type": "nan",
+                "latitude": 31.142376117272907,
+                "longitude": 121.65267271595587
+            },
+            {
+                "id": 483567862,
+                "name": "星球大战远征基地",
+                "type": "nan",
+                "latitude": 31.142674782257554,
+                "longitude": 121.65242414046344
+            },
+            {
+                "id": 483567881,
+                "name": "漫威英雄总部",
+                "type": "nan",
+                "latitude": 31.144657326859825,
+                "longitude": 121.65436347100851
+            },
+            {
+                "id": 483567883,
+                "name": "小飞侠天空奇遇",
+                "type": "nan",
+                "latitude": 31.14542944952069,
+                "longitude": 121.65360819907112
+            },
+            {
+                "id": 487101804,
+                "name": "中央工坊",
+                "type": "nan",
+                "latitude": 31.149956221347,
+                "longitude": 121.65601467880239
+            },
+            {
+                "id": 494342315,
+                "name": "小熊维尼历险记",
+                "type": "nan",
+                "latitude": 31.148189134291375,
+                "longitude": 121.65440632920613
+            },
+            {
+                "id": 494343263,
+                "name": "探险家独木舟",
+                "type": "nan",
+                "latitude": 31.146220216783945,
+                "longitude": 121.6576447486155
+            },
+            {
+                "id": 494350986,
+                "name": "迪士尼团队大楼",
+                "type": "nan",
+                "latitude": 31.146870860297597,
+                "longitude": 121.6618481932625
+            },
+            {
+                "id": 494352064,
+                "name": "演职人员活动中心",
+                "type": "nan",
+                "latitude": 31.145694285182664,
+                "longitude": 121.66212171268923
+            },
+            {
+                "id": 494352071,
+                "name": "翱翔•飞越地平线",
+                "type": "nan",
+                "latitude": 31.145586865417254,
+                "longitude": 121.66118232260074
+            },
+            {
+                "id": 494510463,
+                "name": "幻想世界西部快速通道",
+                "type": "nan",
+                "latitude": 31.146851168232196,
+                "longitude": 121.655674441214
+            },
+            {
+                "id": 494580133,
+                "name": "安保园艺大楼",
+                "type": "nan",
+                "latitude": 31.148905714323057,
+                "longitude": 121.65942897054622
+            },
+            {
+                "id": 494580136,
+                "name": "中央厨房",
+                "type": "nan",
+                "latitude": 31.14939634354669,
+                "longitude": 121.65885480385028
+            },
+            {
+                "id": 494722750,
+                "name": "幸运兔车厢",
+                "type": "nan",
+                "latitude": 31.145025083939704,
+                "longitude": 121.65753139238309
+            },
+            {
+                "id": 494819468,
+                "name": "小贵客礼品屋",
+                "type": "nan",
+                "latitude": 31.145476485650452,
+                "longitude": 121.65408229268913
+            },
+            {
+                "id": 495378407,
+                "name": "创极速光轮",
+                "type": "nan",
+                "latitude": 31.144241672767432,
+                "longitude": 121.65179261461408
+            },
+            {
+                "id": 495381381,
+                "name": "明日世界快速通道",
+                "type": "nan",
+                "latitude": 31.143776773358297,
+                "longitude": 121.65314866182703
+            },
+            {
+                "id": 495387201,
+                "name": "达布隆集市",
+                "type": "nan",
+                "latitude": 31.147514515638125,
+                "longitude": 121.65820088618517
+            },
+            {
+                "id": 495387203,
+                "name": "加勒比海盗-沉落宝藏之战",
+                "type": "nan",
+                "latitude": 31.148147052022107,
+                "longitude": 121.65817154416497
+            },
+            {
+                "id": 495825844,
+                "name": "幻想世界东部快速通道",
+                "type": "nan",
+                "latitude": 31.146196102330514,
+                "longitude": 121.65353116516735
+            },
+            {
+                "id": 754485724,
+                "name": "艾尔玩具店",
+                "type": "nan",
+                "latitude": 31.14599956746558,
+                "longitude": 121.65226999411327
+            },
+            {
+                "id": 1234934036,
+                "name": "动物城站",
+                "type": "nan",
+                "latitude": 31.148581094603053,
+                "longitude": 121.65491794517273
+            },
+            {
+                "id": 1234934044,
+                "name": "疯狂动物城：热力追踪",
+                "type": "nan",
+                "latitude": 31.148881162912907,
+                "longitude": 121.65529223475585
+            },
+            {
+                "id": 1234934045,
+                "name": "动物城警局",
+                "type": "nan",
+                "latitude": 31.14859361649671,
+                "longitude": 121.65542887465887
+            }
+        ]
+    }
+}

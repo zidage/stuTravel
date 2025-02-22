@@ -1,0 +1,369 @@
+{
+    "id": -689164611433511694,
+    "name": "华东师范大学",
+    "address": "中国上海市普陀区中山北路3663号华东师范大学MBA 邮政编码: 200050",
+    "rating": 4.6,
+    "popularity": 64,
+    "data_path": "map_data/university_map/East_China_Normal_University",
+    "description": "华东师范大学（英語：East China Normal University，缩写：ECNU），简称华师大或华东师大，是一所位于中国上海市的公立研究型大学，1951年由大夏大学和光华大学合并而成，是中华人民共和国创办的第一所师范大学。在1952年院系调整中，圣约翰大学主要院系并入。1972年更名为上海师范大学，1980年恢复原校名。\n华东师范大学是中华人民共和国顶尖高校之一，是“双一流A类”和原“985工程”、原“211工程”重点建设大学，是中国教育部直属，由教育部和上海市共同建设。截至2019年7月，学校拥有闵行和中山北路两个校区，并正在上海崇明区筹建崇明校区，设有4个学部，30个全日制学院，4个书院，8个实体研究院，2个国家重点实验室，2个管理型书院，3家直属附属医院，另有国家设在学校的教育部中学校长培训中心。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ecnu_zhongbei.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/Institute_of_Global_Chinese_Language_Teacher_Education.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/Liu_Xiang_Doha_2010.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c2/Liwahe_ecnu.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/40/NYUShanghai.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Platopainting.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7c/St_Johns_College_Shanghai.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/74/Statue_of_Mao_Zedong%2C_East_China_Normal_University.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/8/87/Statue_of_Mao_Zedong_2%2C_East_China_Normal_University.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/View_with_Global_Harbor_towers%2C_Shanghai.JPG"
+    ],
+    "amenity": {
+        "affiliation": -689164611433511694,
+        "amenity_list": [
+            {
+                "id": 1317286639,
+                "name": "可能感兴趣的地点",
+                "type": "restaurant",
+                "latitude": 31.2323994,
+                "longitude": 121.3982506
+            },
+            {
+                "id": 1317292025,
+                "name": "中国工商银行",
+                "type": "bank",
+                "latitude": 31.2295743,
+                "longitude": 121.4053425
+            },
+            {
+                "id": 1693987774,
+                "name": "家味螺蛳粉",
+                "type": "fast_food",
+                "latitude": 31.2281514,
+                "longitude": 121.4046676
+            },
+            {
+                "id": 3860804724,
+                "name": "丽娃餐庁",
+                "type": "restaurant",
+                "latitude": 31.2263938,
+                "longitude": 121.400589
+            },
+            {
+                "id": 113655495,
+                "name": "体育馆",
+                "type": "public_building",
+                "latitude": 31.229207114543705,
+                "longitude": 121.40477026800677
+            },
+            {
+                "id": 116940019,
+                "name": "大学生活动中心",
+                "type": "public_building",
+                "latitude": 31.232040531826808,
+                "longitude": 121.40069909192128
+            },
+            {
+                "id": 116940021,
+                "name": "河东餐厅",
+                "type": "public_building",
+                "latitude": 31.231065976741426,
+                "longitude": 121.40383892341384
+            },
+            {
+                "id": 116940026,
+                "name": "对外汉语学院",
+                "type": "school",
+                "latitude": 31.22442338282922,
+                "longitude": 121.39933571744601
+            },
+            {
+                "id": 116940064,
+                "name": "办公楼",
+                "type": "public_building",
+                "latitude": 31.229516316891374,
+                "longitude": 121.40220084891484
+            },
+            {
+                "id": 116941150,
+                "name": "河西餐厅",
+                "type": "public_building",
+                "latitude": 31.23238609292148,
+                "longitude": 121.39826542909555
+            },
+            {
+                "id": 116945145,
+                "name": "校医院",
+                "type": "hospital",
+                "latitude": 31.23157982853949,
+                "longitude": 121.40188208520183
+            },
+            {
+                "id": 375944085,
+                "name": "中山北路校区大礼堂",
+                "type": "public_building",
+                "latitude": 31.230095834749704,
+                "longitude": 121.4034292789618
+            },
+            {
+                "id": 380080881,
+                "name": "华东师范大学附属小学",
+                "type": "school",
+                "latitude": 31.228348027944694,
+                "longitude": 121.4055035305351
+            },
+            {
+                "id": 5699952,
+                "name": "图书馆",
+                "type": "library",
+                "latitude": 31.230279433807944,
+                "longitude": 121.40181112384946
+            },
+            {
+                "id": 2999172465,
+                "name": "华东师范大学附属小学",
+                "type": "nan",
+                "latitude": 31.2285768,
+                "longitude": 121.4058215
+            },
+            {
+                "id": 113655484,
+                "name": "文科大楼(留学生办公室)",
+                "type": "nan",
+                "latitude": 31.228752349493497,
+                "longitude": 121.40381255372205
+            },
+            {
+                "id": 113655498,
+                "name": "文史楼",
+                "type": "nan",
+                "latitude": 31.23061546560559,
+                "longitude": 121.4040208073684
+            },
+            {
+                "id": 113655713,
+                "name": "文附楼",
+                "type": "nan",
+                "latitude": 31.22844828841375,
+                "longitude": 121.40395388845627
+            },
+            {
+                "id": 114518336,
+                "name": "国际交流服务中心",
+                "type": "nan",
+                "latitude": 31.225442306746977,
+                "longitude": 121.40121004328208
+            },
+            {
+                "id": 114518338,
+                "name": "丽娃餐厅",
+                "type": "nan",
+                "latitude": 31.226397344045118,
+                "longitude": 121.40045111989235
+            },
+            {
+                "id": 114518345,
+                "name": "上海市绿色化学与化工过程绿色化重点实验室",
+                "type": "nan",
+                "latitude": 31.229243658381975,
+                "longitude": 121.40050540097447
+            },
+            {
+                "id": 114518346,
+                "name": "资源环境学院",
+                "type": "nan",
+                "latitude": 31.228414647960573,
+                "longitude": 121.39922037701956
+            },
+            {
+                "id": 114518349,
+                "name": "第五宿舍",
+                "type": "nan",
+                "latitude": 31.231403387588525,
+                "longitude": 121.39837419565903
+            },
+            {
+                "id": 114518352,
+                "name": "国际汉语教师研修基地",
+                "type": "nan",
+                "latitude": 31.227371452274326,
+                "longitude": 121.40053943990766
+            },
+            {
+                "id": 116940017,
+                "name": "理科大楼",
+                "type": "nan",
+                "latitude": 31.22946000040632,
+                "longitude": 121.39884006159869
+            },
+            {
+                "id": 116940023,
+                "name": "设计学院",
+                "type": "nan",
+                "latitude": 31.22363465,
+                "longitude": 121.39850045
+            },
+            {
+                "id": 116940038,
+                "name": "第三宿舍",
+                "type": "nan",
+                "latitude": 31.230175639964738,
+                "longitude": 121.39817709542905
+            },
+            {
+                "id": 116940042,
+                "name": "第四宿舍",
+                "type": "nan",
+                "latitude": 31.230732140218315,
+                "longitude": 121.39826355410823
+            },
+            {
+                "id": 116940044,
+                "name": "第六宿舍",
+                "type": "nan",
+                "latitude": 31.230189381611538,
+                "longitude": 121.39869918015634
+            },
+            {
+                "id": 116940058,
+                "name": "国际教育中心",
+                "type": "nan",
+                "latitude": 31.22575307486435,
+                "longitude": 121.40090380513227
+            },
+            {
+                "id": 116940066,
+                "name": "留学生公寓",
+                "type": "nan",
+                "latitude": 31.2247335882267,
+                "longitude": 121.3985194648587
+            },
+            {
+                "id": 116941138,
+                "name": "小教楼",
+                "type": "nan",
+                "latitude": 31.228433295884837,
+                "longitude": 121.402719704512
+            },
+            {
+                "id": 116941139,
+                "name": "科学会堂",
+                "type": "nan",
+                "latitude": 31.22860744128818,
+                "longitude": 121.40199667562446
+            },
+            {
+                "id": 116941142,
+                "name": "计算机楼",
+                "type": "nan",
+                "latitude": 31.227880911461988,
+                "longitude": 121.40048470957616
+            },
+            {
+                "id": 116941145,
+                "name": "软件学院",
+                "type": "nan",
+                "latitude": 31.22827778707455,
+                "longitude": 121.40081114316644
+            },
+            {
+                "id": 116941148,
+                "name": "教育部中学校长培训中心",
+                "type": "nan",
+                "latitude": 31.227972626467082,
+                "longitude": 121.40213713687316
+            },
+            {
+                "id": 116950296,
+                "name": "外语学院",
+                "type": "nan",
+                "latitude": 31.230570977714848,
+                "longitude": 121.40043442458763
+            },
+            {
+                "id": 375411989,
+                "name": "逸夫楼——学术交流中心",
+                "type": "nan",
+                "latitude": 31.22820603276689,
+                "longitude": 121.4020328490735
+            },
+            {
+                "id": 375892085,
+                "name": "中國工商銀行",
+                "type": "nan",
+                "latitude": 31.22957066177881,
+                "longitude": 121.40536675055388
+            },
+            {
+                "id": 376043948,
+                "name": "第十一宿舍",
+                "type": "nan",
+                "latitude": 31.23103468838274,
+                "longitude": 121.39781870434655
+            },
+            {
+                "id": 376352638,
+                "name": "华东师范大学出版社",
+                "type": "nan",
+                "latitude": 31.227916958250457,
+                "longitude": 121.40343259869731
+            },
+            {
+                "id": 377707518,
+                "name": "信息化办公室",
+                "type": "nan",
+                "latitude": 31.230823948041582,
+                "longitude": 121.4014248631636
+            },
+            {
+                "id": 378934191,
+                "name": "18号宿舍（泉州楼）",
+                "type": "nan",
+                "latitude": 31.22682411687405,
+                "longitude": 121.40054949400916
+            },
+            {
+                "id": 379325683,
+                "name": "第十二宿舍",
+                "type": "nan",
+                "latitude": 31.230705863720196,
+                "longitude": 121.39786810169288
+            },
+            {
+                "id": 379325685,
+                "name": "第十宿舍",
+                "type": "nan",
+                "latitude": 31.23138168011552,
+                "longitude": 121.39777421291349
+            },
+            {
+                "id": 380040189,
+                "name": "游泳池",
+                "type": "nan",
+                "latitude": 31.23168568321171,
+                "longitude": 121.40234900553874
+            },
+            {
+                "id": 380054521,
+                "name": "书店",
+                "type": "nan",
+                "latitude": 31.23126042598082,
+                "longitude": 121.40253537250918
+            },
+            {
+                "id": 514669207,
+                "name": "田家炳教育书院",
+                "type": "nan",
+                "latitude": 31.23284720655802,
+                "longitude": 121.40212454841924
+            },
+            {
+                "id": 3393757,
+                "name": "对外汉语学院办公楼",
+                "type": "nan",
+                "latitude": 31.223848679055067,
+                "longitude": 121.39909057883682
+            }
+        ]
+    }
+}

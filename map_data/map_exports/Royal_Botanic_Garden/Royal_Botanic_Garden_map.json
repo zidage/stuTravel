@@ -1,0 +1,186 @@
+{
+    "id": 6823477551593061346,
+    "name": "悉尼皇家植物园",
+    "address": "Mrs Macquaries Rd, Sydney NSW 2000澳大利亚",
+    "rating": 4.7,
+    "popularity": 56,
+    "data_path": "map_data/university_map/Royal_Botanic_Garden",
+    "description": "悉尼皇家植物園（英文：The Royal Botanic Garden Sydney），位於澳洲新南威爾斯州，其西北端即悉尼歌劇院。 雪梨皇家植物園1816年建立，佔地30公頃（74英畝），是悉尼的一個大型的植物公園，由禁苑基金會管理，全年開放，免費入場。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gates_at_Royal_Botanic_Gardens_viewed_from_Art_Gallery_Road.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1f/Sydney_Royal_Botanic_Gardens_01.jpg"
+    ],
+    "amenity": {
+        "affiliation": 6823477551593061346,
+        "amenity_list": [
+            {
+                "id": 663409871,
+                "name": "Gateway Restaurant",
+                "type": "restaurant",
+                "latitude": 55.964234,
+                "longitude": -3.2119376
+            },
+            {
+                "id": 1128620719,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 55.9647423,
+                "longitude": -3.2041521
+            },
+            {
+                "id": 1128621139,
+                "name": "East Gate Coffee Bar",
+                "type": "cafe",
+                "latitude": 55.9647197,
+                "longitude": -3.2042135
+            },
+            {
+                "id": 6317042575,
+                "name": "Little Free Library",
+                "type": "public_bookcase",
+                "latitude": 55.9665542,
+                "longitude": -3.206719
+            },
+            {
+                "id": 11470090627,
+                "name": "Top Up Tap",
+                "type": "drinking_water",
+                "latitude": 55.9648389,
+                "longitude": -3.2043245
+            },
+            {
+                "id": 57709503,
+                "name": "Terrace Café",
+                "type": "cafe",
+                "latitude": 55.965019154458105,
+                "longitude": -3.2107302649990497
+            },
+            {
+                "id": 97465086,
+                "name": "T'ing",
+                "type": "shelter",
+                "latitude": 55.96390834952255,
+                "longitude": -3.2091796003542274
+            },
+            {
+                "id": 373233383,
+                "name": "RBGE Herbarium & Library",
+                "type": "library",
+                "latitude": 55.96651861504131,
+                "longitude": -3.2057192237738876
+            },
+            {
+                "id": 7760869806,
+                "name": "Education Yurt",
+                "type": "nan",
+                "latitude": 55.96559,
+                "longitude": -3.2130315
+            },
+            {
+                "id": 39627619,
+                "name": "RBGE Glasshouse - Main Range",
+                "type": "nan",
+                "latitude": 55.966577196863504,
+                "longitude": -3.207465772818395
+            },
+            {
+                "id": 57709492,
+                "name": "RBGE Horticultural Administration & Research",
+                "type": "nan",
+                "latitude": 55.96726065956421,
+                "longitude": -3.206971208895957
+            },
+            {
+                "id": 57709498,
+                "name": "RBGE Glasshouse - Cambridge House",
+                "type": "nan",
+                "latitude": 55.9668938606185,
+                "longitude": -3.20785243254119
+            },
+            {
+                "id": 57709506,
+                "name": "RBGE Glasshouse - Orchid & Cycad",
+                "type": "nan",
+                "latitude": 55.966757277704325,
+                "longitude": -3.2080473118355823
+            },
+            {
+                "id": 57709509,
+                "name": "East Gate Lodge",
+                "type": "nan",
+                "latitude": 55.96474050403755,
+                "longitude": -3.2041025453552545
+            },
+            {
+                "id": 57709515,
+                "name": "RBGE Fletcher Building",
+                "type": "nan",
+                "latitude": 55.96697509780466,
+                "longitude": -3.206276879312874
+            },
+            {
+                "id": 57709517,
+                "name": "RBGE Lecture Theatre",
+                "type": "nan",
+                "latitude": 55.96676785689757,
+                "longitude": -3.205953770848527
+            },
+            {
+                "id": 57709519,
+                "name": "RBGE Inverleith House",
+                "type": "nan",
+                "latitude": 55.96500683800909,
+                "longitude": -3.2101706081816506
+            },
+            {
+                "id": 95644855,
+                "name": "John Hope Gateway",
+                "type": "nan",
+                "latitude": 55.96431463392655,
+                "longitude": -3.2121174978864304
+            },
+            {
+                "id": 99554908,
+                "name": "RBGE Glasshouse - Palm House",
+                "type": "nan",
+                "latitude": 55.96701093343334,
+                "longitude": -3.2083471101003265
+            },
+            {
+                "id": 147682916,
+                "name": "RBGE Caledonian Hall",
+                "type": "nan",
+                "latitude": 55.96454363961376,
+                "longitude": -3.205655432997204
+            },
+            {
+                "id": 339555052,
+                "name": "RBGE Horticultural Administration & Research",
+                "type": "nan",
+                "latitude": 55.967702327709645,
+                "longitude": -3.206882118067018
+            },
+            {
+                "id": 339555055,
+                "name": "Garden office",
+                "type": "nan",
+                "latitude": 55.96691237385658,
+                "longitude": -3.2052306712289993
+            },
+            {
+                "id": 377899631,
+                "name": "The Botanic Cottage",
+                "type": "nan",
+                "latitude": 55.966851726077245,
+                "longitude": -3.2119422021576356
+            },
+            {
+                "id": 1030736195,
+                "name": "Taigh",
+                "type": "nan",
+                "latitude": 55.964225400000004,
+                "longitude": -3.2037672
+            }
+        ]
+    }
+}

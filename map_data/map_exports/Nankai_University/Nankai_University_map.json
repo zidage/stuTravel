@@ -1,0 +1,169 @@
+{
+    "id": 7419008082345425770,
+    "name": "南开大学深圳函授站",
+    "address": "中国广东省深圳市福田区笋岗八卦路55号 邮政编码: 518025",
+    "rating": 0,
+    "popularity": 0,
+    "data_path": "map_data/university_map/Nankai_University",
+    "description": "No description available",
+    "images": "",
+    "amenity": {
+        "affiliation": 7419008082345425770,
+        "amenity_list": [
+            {
+                "id": 8005677148,
+                "name": "交通银行",
+                "type": "bank",
+                "latitude": 39.1048468,
+                "longitude": 117.1723857
+            },
+            {
+                "id": 543826742,
+                "name": "文科创新楼",
+                "type": "college",
+                "latitude": 39.102698966009534,
+                "longitude": 117.16280655178707
+            },
+            {
+                "id": 543834370,
+                "name": "南开大学新图书馆",
+                "type": "library",
+                "latitude": 39.101905772326774,
+                "longitude": 117.15945943758355
+            },
+            {
+                "id": 543877990,
+                "name": "二食堂",
+                "type": "restaurant",
+                "latitude": 39.10369024231618,
+                "longitude": 117.16035823754581
+            },
+            {
+                "id": 543877991,
+                "name": "一食堂",
+                "type": "restaurant",
+                "latitude": 39.10331990756311,
+                "longitude": 117.16081204267033
+            },
+            {
+                "id": 543878014,
+                "name": "Nankai University Library",
+                "type": "library",
+                "latitude": 39.10342725365163,
+                "longitude": 117.1669351375689
+            },
+            {
+                "id": 970635730,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 39.10357707521554,
+                "longitude": 117.16835211664463
+            },
+            {
+                "id": 267172630,
+                "name": "教学2主楼",
+                "type": "nan",
+                "latitude": 39.10249120434172,
+                "longitude": 117.16467548955657
+            },
+            {
+                "id": 543815141,
+                "name": "天大南开联合实验楼",
+                "type": "nan",
+                "latitude": 39.1051838292032,
+                "longitude": 117.16896525023466
+            },
+            {
+                "id": 543826769,
+                "name": "南开大学商学院",
+                "type": "nan",
+                "latitude": 39.10361872305453,
+                "longitude": 117.14999992455502
+            },
+            {
+                "id": 543830002,
+                "name": "经济学院教学楼",
+                "type": "nan",
+                "latitude": 39.10152663952242,
+                "longitude": 117.15619776213032
+            },
+            {
+                "id": 543834371,
+                "name": "医学院",
+                "type": "nan",
+                "latitude": 39.10235916984715,
+                "longitude": 117.16037226631268
+            },
+            {
+                "id": 543834374,
+                "name": "化学学院",
+                "type": "nan",
+                "latitude": 39.10191556557567,
+                "longitude": 117.16179119941773
+            },
+            {
+                "id": 543866663,
+                "name": "历史学院",
+                "type": "nan",
+                "latitude": 39.10118222791136,
+                "longitude": 117.16034142494897
+            },
+            {
+                "id": 543866664,
+                "name": "范孙楼",
+                "type": "nan",
+                "latitude": 39.10227234139585,
+                "longitude": 117.1578753424588
+            },
+            {
+                "id": 543866665,
+                "name": "继续教育学院",
+                "type": "nan",
+                "latitude": 39.1017359164124,
+                "longitude": 117.15737233700395
+            },
+            {
+                "id": 543866666,
+                "name": "经济学院",
+                "type": "nan",
+                "latitude": 39.10220990177028,
+                "longitude": 117.15621350931669
+            },
+            {
+                "id": 543877987,
+                "name": "学者公寓A座",
+                "type": "nan",
+                "latitude": 39.10473461002429,
+                "longitude": 117.15119618574505
+            },
+            {
+                "id": 543877988,
+                "name": "学者公寓B座",
+                "type": "nan",
+                "latitude": 39.10434089514943,
+                "longitude": 117.15102731185033
+            },
+            {
+                "id": 550835723,
+                "name": "思源堂",
+                "type": "nan",
+                "latitude": 39.100752890611524,
+                "longitude": 117.16937560165866
+            },
+            {
+                "id": 550835724,
+                "name": "蒙民伟楼",
+                "type": "nan",
+                "latitude": 39.10101006427247,
+                "longitude": 117.17022390448282
+            },
+            {
+                "id": 609325731,
+                "name": "浴园",
+                "type": "nan",
+                "latitude": 39.104134266090895,
+                "longitude": 117.1593763095284
+            }
+        ]
+    }
+}

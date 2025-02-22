@@ -1,0 +1,2650 @@
+{
+    "id": 4784578879782535886,
+    "name": "威斯康星大学麦迪逊分校",
+    "address": "Madison, WI, 美国",
+    "rating": 4.6,
+    "popularity": 60,
+    "data_path": "map_data/university_map/University_of_Wisconsin-Madison",
+    "description": "威斯康辛大學麥迪遜分校（英語：University of Wisconsin–Madison，簡稱UW-Madison、Wisconsin、威大、UW），位于美国威斯康辛州首府麥迪遜，是威斯康辛大学系统的旗艦分校。成立於1848年，是一所公立研究型大学，美國大學協會及十大聯盟的創始成员。\n威斯康辛大學麥迪遜分校校園面積936英畝，現設有20個學院，在教育學、社會科學、歷史學、自然科学、電腦科學、醫學以及工程学等學術领域均享負盛名。作为威斯康星大学系统的旗舰学府，被誉为公立常春藤大学，意謂能夠提供如常春藤盟校般教育體驗的美国公立大学。\n截至2020年10月，威斯康辛大學麥迪遜分校产生了19名諾貝爾獎得主。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/BascomHill.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Memorial_Union_and_quadrangle.jpg"
+    ],
+    "amenity": {
+        "affiliation": 4784578879782535886,
+        "amenity_list": [
+            {
+                "id": 439069510,
+                "name": "可能感兴趣的地点",
+                "type": "recycling",
+                "latitude": 43.0849947,
+                "longitude": -89.4400097
+            },
+            {
+                "id": 463123809,
+                "name": "Central Campus Police",
+                "type": "police",
+                "latitude": 43.0759249,
+                "longitude": -89.4096648
+            },
+            {
+                "id": 1173065967,
+                "name": "College Library",
+                "type": "library",
+                "latitude": 43.0766467,
+                "longitude": -89.4009983
+            },
+            {
+                "id": 1173065971,
+                "name": "Lot 6 - Helen C. White Garage",
+                "type": "parking",
+                "latitude": 43.076776,
+                "longitude": -89.4009771
+            },
+            {
+                "id": 1182261192,
+                "name": "Calvary Lutheran Chapel",
+                "type": "place_of_worship",
+                "latitude": 43.0747587,
+                "longitude": -89.3976086
+            },
+            {
+                "id": 1849046475,
+                "name": "Lot 95 - Health Sciences Garage",
+                "type": "parking",
+                "latitude": 43.0777788,
+                "longitude": -89.4307349
+            },
+            {
+                "id": 1857524822,
+                "name": "Lot 93",
+                "type": "parking",
+                "latitude": 43.0737489,
+                "longitude": -89.4177998
+            },
+            {
+                "id": 1857568276,
+                "name": "Lot 7 - Grainger Hall Garage",
+                "type": "parking",
+                "latitude": 43.0727789,
+                "longitude": -89.4018132
+            },
+            {
+                "id": 1857746095,
+                "name": "Lot 10 (Education Building)",
+                "type": "parking",
+                "latitude": 43.0761891,
+                "longitude": -89.4021677
+            },
+            {
+                "id": 1857864078,
+                "name": "Lot 83 - Fluno Center Garage",
+                "type": "parking",
+                "latitude": 43.0727456,
+                "longitude": -89.3966741
+            },
+            {
+                "id": 1859366370,
+                "name": "Union South Garage (Lot 80)",
+                "type": "parking",
+                "latitude": 43.0712331,
+                "longitude": -89.4080381
+            },
+            {
+                "id": 1860399691,
+                "name": "Lot 38",
+                "type": "parking",
+                "latitude": 43.0761372,
+                "longitude": -89.4124057
+            },
+            {
+                "id": 2039097266,
+                "name": "Nancy Nicholas Hall Garage (Lot 27)",
+                "type": "parking",
+                "latitude": 43.0753889,
+                "longitude": -89.4095705
+            },
+            {
+                "id": 2178448357,
+                "name": "E2 - Engineering Eatery",
+                "type": "cafe",
+                "latitude": 43.0719447,
+                "longitude": -89.4097802
+            },
+            {
+                "id": 2522580937,
+                "name": "Babcock Dairy",
+                "type": "ice_cream",
+                "latitude": 43.0749419,
+                "longitude": -89.4134461
+            },
+            {
+                "id": 2522802448,
+                "name": "Strada",
+                "type": "restaurant",
+                "latitude": 43.0764595,
+                "longitude": -89.399408
+            },
+            {
+                "id": 2522802450,
+                "name": "Der Rathskeller",
+                "type": "restaurant",
+                "latitude": 43.0763301,
+                "longitude": -89.3998306
+            },
+            {
+                "id": 2522802452,
+                "name": "Stiftskeller",
+                "type": "bar",
+                "latitude": 43.0763315,
+                "longitude": -89.4000259
+            },
+            {
+                "id": 2522802454,
+                "name": "Daily Scoop",
+                "type": "ice_cream",
+                "latitude": 43.0763988,
+                "longitude": -89.3992301
+            },
+            {
+                "id": 2522840402,
+                "name": "Valentia Coffee",
+                "type": "cafe",
+                "latitude": 43.0730129,
+                "longitude": -89.3988887
+            },
+            {
+                "id": 2522840406,
+                "name": "Buffalo Wild Wings",
+                "type": "restaurant",
+                "latitude": 43.0730316,
+                "longitude": -89.3983997
+            },
+            {
+                "id": 2522840407,
+                "name": "Walgreens",
+                "type": "pharmacy",
+                "latitude": 43.0723327,
+                "longitude": -89.398893
+            },
+            {
+                "id": 2522840408,
+                "name": "Java Den",
+                "type": "cafe",
+                "latitude": 43.0723321,
+                "longitude": -89.4038985
+            },
+            {
+                "id": 2522840409,
+                "name": "Steenbocks",
+                "type": "restaurant",
+                "latitude": 43.0725698,
+                "longitude": -89.4076626
+            },
+            {
+                "id": 2522840410,
+                "name": "Aldo's Cafe",
+                "type": "cafe",
+                "latitude": 43.0731655,
+                "longitude": -89.4075991
+            },
+            {
+                "id": 2522840411,
+                "name": "QQ Express",
+                "type": "restaurant",
+                "latitude": 43.0731951,
+                "longitude": -89.4093442
+            },
+            {
+                "id": 2522840412,
+                "name": "Subway",
+                "type": "fast_food",
+                "latitude": 43.07319,
+                "longitude": -89.4092323
+            },
+            {
+                "id": 2522840414,
+                "name": "The Library",
+                "type": "bar",
+                "latitude": 43.0730776,
+                "longitude": -89.4092673
+            },
+            {
+                "id": 2768622488,
+                "name": "Slow Food UW Student Cafe",
+                "type": "cafe",
+                "latitude": 43.0729329,
+                "longitude": -89.4033849
+            },
+            {
+                "id": 2968974531,
+                "name": "The Sett",
+                "type": "pub",
+                "latitude": 43.0715321,
+                "longitude": -89.4077874
+            },
+            {
+                "id": 2968976942,
+                "name": "UW Credit Union",
+                "type": "bank",
+                "latitude": 43.0718431,
+                "longitude": -89.4077469
+            },
+            {
+                "id": 2969000796,
+                "name": "Prairie Fire",
+                "type": "cafe",
+                "latitude": 43.0719557,
+                "longitude": -89.4079064
+            },
+            {
+                "id": 2969004826,
+                "name": "South Cantina",
+                "type": "restaurant",
+                "latitude": 43.0718283,
+                "longitude": -89.4080244
+            },
+            {
+                "id": 2969012433,
+                "name": "Harvest Grains",
+                "type": "restaurant",
+                "latitude": 43.0718851,
+                "longitude": -89.4081263
+            },
+            {
+                "id": 2969013747,
+                "name": "Ginger Root",
+                "type": "restaurant",
+                "latitude": 43.0719204,
+                "longitude": -89.4082041
+            },
+            {
+                "id": 2969024345,
+                "name": "The Marquee",
+                "type": "cinema",
+                "latitude": 43.0717715,
+                "longitude": -89.4078259
+            },
+            {
+                "id": 2983015083,
+                "name": "Geography Library",
+                "type": "library",
+                "latitude": 43.0756308,
+                "longitude": -89.4011389
+            },
+            {
+                "id": 2983015084,
+                "name": "Robinson Map Library",
+                "type": "library",
+                "latitude": 43.0760579,
+                "longitude": -89.4010612
+            },
+            {
+                "id": 2983024871,
+                "name": "University St. & Charter St.",
+                "type": "bicycle_rental",
+                "latitude": 43.0735587,
+                "longitude": -89.4063551
+            },
+            {
+                "id": 3160340946,
+                "name": "Union South",
+                "type": "bicycle_rental",
+                "latitude": 43.0720836,
+                "longitude": -89.407812
+            },
+            {
+                "id": 3451966921,
+                "name": "Eat the Best Pizza",
+                "type": "fast_food",
+                "latitude": 43.0747955,
+                "longitude": -89.3977177
+            },
+            {
+                "id": 3452009375,
+                "name": "Memorial Union",
+                "type": "bicycle_rental",
+                "latitude": 43.0770289,
+                "longitude": -89.4006116
+            },
+            {
+                "id": 3452011460,
+                "name": "UW Children's Hospital",
+                "type": "bicycle_rental",
+                "latitude": 43.0758383,
+                "longitude": -89.4338969
+            },
+            {
+                "id": 3452015967,
+                "name": "N. Lake St. @ University Ave.",
+                "type": "bicycle_rental",
+                "latitude": 43.0729373,
+                "longitude": -89.397276
+            },
+            {
+                "id": 3452020557,
+                "name": "Observatory Dr. @ UW Hospital",
+                "type": "bicycle_rental",
+                "latitude": 43.0772071,
+                "longitude": -89.4309024
+            },
+            {
+                "id": 3680614959,
+                "name": "Ebling Library",
+                "type": "library",
+                "latitude": 43.0777498,
+                "longitude": -89.4297886
+            },
+            {
+                "id": 3702223839,
+                "name": "Four Lakes Market",
+                "type": "restaurant",
+                "latitude": 43.0779167,
+                "longitude": -89.4178509
+            },
+            {
+                "id": 3702223841,
+                "name": "The Bean and Creamery at Four Lakes Market",
+                "type": "cafe",
+                "latitude": 43.0775978,
+                "longitude": -89.4177062
+            },
+            {
+                "id": 3858920317,
+                "name": "Microbial Science Garage (Lot 38)",
+                "type": "parking",
+                "latitude": 43.075483,
+                "longitude": -89.4113782
+            },
+            {
+                "id": 3983330160,
+                "name": "Aveda Institute Madison",
+                "type": "training",
+                "latitude": 43.0726528,
+                "longitude": -89.3989036
+            },
+            {
+                "id": 4405259879,
+                "name": "LGBT Campus Center",
+                "type": "community_centre",
+                "latitude": 43.0764686,
+                "longitude": -89.3985138
+            },
+            {
+                "id": 5448561144,
+                "name": "Shannon Hall",
+                "type": "theatre",
+                "latitude": 43.0765849,
+                "longitude": -89.4003336
+            },
+            {
+                "id": 5448561145,
+                "name": "Fredric March Play Circle",
+                "type": "theatre",
+                "latitude": 43.0762294,
+                "longitude": -89.4002947
+            },
+            {
+                "id": 5448561146,
+                "name": "Peet's Coffee",
+                "type": "cafe",
+                "latitude": 43.0761945,
+                "longitude": -89.3992281
+            },
+            {
+                "id": 5529664774,
+                "name": "Amazon@UWMadison",
+                "type": "parcel_locker",
+                "latitude": 43.0717446,
+                "longitude": -89.3993327
+            },
+            {
+                "id": 5584566086,
+                "name": "Madison Cuisine",
+                "type": "restaurant",
+                "latitude": 43.0730203,
+                "longitude": -89.398256
+            },
+            {
+                "id": 5584566087,
+                "name": "U.S. Bank",
+                "type": "bank",
+                "latitude": 43.0729417,
+                "longitude": -89.3988901
+            },
+            {
+                "id": 5584566088,
+                "name": "Milio's",
+                "type": "fast_food",
+                "latitude": 43.0728421,
+                "longitude": -89.3988919
+            },
+            {
+                "id": 5584566094,
+                "name": "Mitchell Theater",
+                "type": "theatre",
+                "latitude": 43.0729664,
+                "longitude": -89.3993651
+            },
+            {
+                "id": 5584566095,
+                "name": "Capital Cafe",
+                "type": "cafe",
+                "latitude": 43.0723125,
+                "longitude": -89.4010003
+            },
+            {
+                "id": 5696932225,
+                "name": "Library Mall",
+                "type": "bicycle_rental",
+                "latitude": 43.07487,
+                "longitude": -89.39955
+            },
+            {
+                "id": 6577555069,
+                "name": "University Bicycle Resource Center",
+                "type": "bicycle_repair_station",
+                "latitude": 43.0768628,
+                "longitude": -89.40078
+            },
+            {
+                "id": 6886520174,
+                "name": "University Hospital Outpatient Pharmacy",
+                "type": "pharmacy",
+                "latitude": 43.0761367,
+                "longitude": -89.4315328
+            },
+            {
+                "id": 7175265285,
+                "name": "UW-Madison Intercity Bus",
+                "type": "bus_station",
+                "latitude": 43.0715537,
+                "longitude": -89.3976363
+            },
+            {
+                "id": 8521505739,
+                "name": "Lakeshore @ Dejope",
+                "type": "bicycle_rental",
+                "latitude": 43.0775881,
+                "longitude": -89.4163781
+            },
+            {
+                "id": 9023959417,
+                "name": "Wisconsin Foundation & Alumni Association",
+                "type": "bicycle_rental",
+                "latitude": 43.0735123,
+                "longitude": -89.4171161
+            },
+            {
+                "id": 9139711640,
+                "name": "Wisconsin Alumni Research Foundation",
+                "type": "bicycle_rental",
+                "latitude": 43.0765007,
+                "longitude": -89.4255137
+            },
+            {
+                "id": 9661386768,
+                "name": "W. Dayton & N. Lake",
+                "type": "bicycle_rental",
+                "latitude": 43.0710189,
+                "longitude": -89.3976944
+            },
+            {
+                "id": 9668481146,
+                "name": "University Bay Drive @ Picnic Point",
+                "type": "bicycle_rental",
+                "latitude": 43.0842826,
+                "longitude": -89.4286945
+            },
+            {
+                "id": 9793007148,
+                "name": "Observatory Drive @ Bascom Hall",
+                "type": "bicycle_rental",
+                "latitude": 43.0757725,
+                "longitude": -89.4036417
+            },
+            {
+                "id": 9900063360,
+                "name": "W. Johnson & E. Campus Mall",
+                "type": "bicycle_rental",
+                "latitude": 43.0723258,
+                "longitude": -89.3992371
+            },
+            {
+                "id": 10155624413,
+                "name": "Babcock Drive & Observatory",
+                "type": "bicycle_rental",
+                "latitude": 43.0763291,
+                "longitude": -89.4124688
+            },
+            {
+                "id": 10577941107,
+                "name": "MOKA",
+                "type": "cafe",
+                "latitude": 43.0748051,
+                "longitude": -89.3979538
+            },
+            {
+                "id": 11071869240,
+                "name": "N. Mills St. & Clymer Pl.",
+                "type": "bicycle_rental",
+                "latitude": 43.0716211,
+                "longitude": -89.4039568
+            },
+            {
+                "id": 11352871855,
+                "name": "The Bakke Center",
+                "type": "bicycle_rental",
+                "latitude": 43.0766001,
+                "longitude": -89.4186887
+            },
+            {
+                "id": 11353126438,
+                "name": "Eagle Heights & Lake Mendota Dr.",
+                "type": "bicycle_rental",
+                "latitude": 43.0862969,
+                "longitude": -89.4339037
+            },
+            {
+                "id": 11353212240,
+                "name": "Observatory Dr. & N. Charter",
+                "type": "bicycle_rental",
+                "latitude": 43.0761174,
+                "longitude": -89.4062279
+            },
+            {
+                "id": 11463433201,
+                "name": "Eagle's Wing Child Care",
+                "type": "childcare",
+                "latitude": 43.088425,
+                "longitude": -89.4363911
+            },
+            {
+                "id": 36969789,
+                "name": "Eagle Heights Community Center",
+                "type": "community_centre",
+                "latitude": 43.08833495080773,
+                "longitude": -89.4364788396689
+            },
+            {
+                "id": 36981716,
+                "name": "Lot Z",
+                "type": "parking",
+                "latitude": 43.085946833378365,
+                "longitude": -89.4346870570433
+            },
+            {
+                "id": 36981717,
+                "name": "Brown Shelter",
+                "type": "shelter",
+                "latitude": 43.086856670050786,
+                "longitude": -89.43900548470228
+            },
+            {
+                "id": 37018832,
+                "name": "Lot 131",
+                "type": "parking",
+                "latitude": 43.08384273454813,
+                "longitude": -89.43334946267032
+            },
+            {
+                "id": 37125203,
+                "name": "Lot 130",
+                "type": "parking",
+                "latitude": 43.08424304437413,
+                "longitude": -89.42963456157885
+            },
+            {
+                "id": 37516021,
+                "name": "Lot 36 - Observatory Drive Ramp",
+                "type": "parking",
+                "latitude": 43.076070035502866,
+                "longitude": -89.41412672898846
+            },
+            {
+                "id": 37550815,
+                "name": "Steenbock Memorial Library",
+                "type": "library",
+                "latitude": 43.0761102291403,
+                "longitude": -89.41336793404992
+            },
+            {
+                "id": 37662235,
+                "name": "Lot C",
+                "type": "parking",
+                "latitude": 43.0859641344444,
+                "longitude": -89.43610278551574
+            },
+            {
+                "id": 37692035,
+                "name": "Lot B",
+                "type": "parking",
+                "latitude": 43.08597490000001,
+                "longitude": -89.43734355000001
+            },
+            {
+                "id": 37722268,
+                "name": "Lot 12",
+                "type": "parking",
+                "latitude": 43.07598866283365,
+                "longitude": -89.41702233056789
+            },
+            {
+                "id": 37749303,
+                "name": "Lot 8",
+                "type": "parking",
+                "latitude": 43.07713565923477,
+                "longitude": -89.4025623133741
+            },
+            {
+                "id": 37804099,
+                "name": "Wisconsin State Historical Society",
+                "type": "library",
+                "latitude": 43.07539874704573,
+                "longitude": -89.40004929671535
+            },
+            {
+                "id": 38019751,
+                "name": "School of Veterinary Medicine",
+                "type": "veterinary",
+                "latitude": 43.07513834977828,
+                "longitude": -89.42024584269245
+            },
+            {
+                "id": 38064536,
+                "name": "Lot 76 - University Bay Ramp",
+                "type": "parking",
+                "latitude": 43.07987586085933,
+                "longitude": -89.42894743397534
+            },
+            {
+                "id": 38263371,
+                "name": "Lot 123",
+                "type": "parking",
+                "latitude": 43.07488720446678,
+                "longitude": -89.41942261459035
+            },
+            {
+                "id": 38311315,
+                "name": "Lot 4",
+                "type": "parking",
+                "latitude": 43.07441607576592,
+                "longitude": -89.42070442980643
+            },
+            {
+                "id": 38311316,
+                "name": "Lot 125",
+                "type": "parking",
+                "latitude": 43.07491962840722,
+                "longitude": -89.42115036673296
+            },
+            {
+                "id": 38311394,
+                "name": "Lot 124",
+                "type": "parking",
+                "latitude": 43.07526520653013,
+                "longitude": -89.4214393033681
+            },
+            {
+                "id": 38342293,
+                "name": "Lot 65",
+                "type": "parking",
+                "latitude": 43.0760653744284,
+                "longitude": -89.42618516162551
+            },
+            {
+                "id": 38855220,
+                "name": "Lot F",
+                "type": "parking",
+                "latitude": 43.08651225192322,
+                "longitude": -89.43695662196217
+            },
+            {
+                "id": 38855221,
+                "name": "Lot E",
+                "type": "parking",
+                "latitude": 43.0865366657493,
+                "longitude": -89.43555342543866
+            },
+            {
+                "id": 38855399,
+                "name": "Van Hise Garage (Lot 23)",
+                "type": "parking",
+                "latitude": 43.075359621005916,
+                "longitude": -89.40718484365479
+            },
+            {
+                "id": 38856036,
+                "name": "Lot 40",
+                "type": "parking",
+                "latitude": 43.074517099722165,
+                "longitude": -89.41423210740415
+            },
+            {
+                "id": 38856043,
+                "name": "Lot 30",
+                "type": "parking",
+                "latitude": 43.07464209999999,
+                "longitude": -89.41114684999998
+            },
+            {
+                "id": 39201353,
+                "name": "Lot 115 Chamberlain Loading Dock",
+                "type": "parking",
+                "latitude": 43.074265423224865,
+                "longitude": -89.40516522824912
+            },
+            {
+                "id": 56997833,
+                "name": "Engineering Drive Ramp (Lot 17)",
+                "type": "parking",
+                "latitude": 43.0717314917094,
+                "longitude": -89.41238323258236
+            },
+            {
+                "id": 101606143,
+                "name": "Hagenah Fountain",
+                "type": "fountain",
+                "latitude": 43.07538610069175,
+                "longitude": -89.39898553259519
+            },
+            {
+                "id": 101606146,
+                "name": "Memorial Library",
+                "type": "library",
+                "latitude": 43.07535413988397,
+                "longitude": -89.39796969616316
+            },
+            {
+                "id": 102234786,
+                "name": "21 N. Park St. and Lot 29 Ramp",
+                "type": "parking",
+                "latitude": 43.068197436636886,
+                "longitude": -89.40001835655293
+            },
+            {
+                "id": 102737830,
+                "name": "Lot 91",
+                "type": "parking",
+                "latitude": 43.06991081000334,
+                "longitude": -89.39509270604172
+            },
+            {
+                "id": 102926719,
+                "name": "Lot 9",
+                "type": "parking",
+                "latitude": 43.075888474377614,
+                "longitude": -89.40135941021771
+            },
+            {
+                "id": 103242253,
+                "name": "Lot 46 - Lake & Johnson Ramp",
+                "type": "parking",
+                "latitude": 43.07232321952354,
+                "longitude": -89.39665396164088
+            },
+            {
+                "id": 103242254,
+                "name": "Fluno Center",
+                "type": "conference_centre",
+                "latitude": 43.07287382784689,
+                "longitude": -89.39654105149108
+            },
+            {
+                "id": 107463295,
+                "name": "Waisman Center",
+                "type": "clinic",
+                "latitude": 43.078460600108286,
+                "longitude": -89.43412445383277
+            },
+            {
+                "id": 107463303,
+                "name": "American Family Children's Hospital",
+                "type": "hospital",
+                "latitude": 43.07682076206986,
+                "longitude": -89.43336893889303
+            },
+            {
+                "id": 107463322,
+                "name": "Lot 75 - UW Hospital Ramp",
+                "type": "parking",
+                "latitude": 43.076345191265396,
+                "longitude": -89.43001033949416
+            },
+            {
+                "id": 153640718,
+                "name": "Porchlight",
+                "type": "social_facility",
+                "latitude": 43.072440730192795,
+                "longitude": -89.40290615778275
+            },
+            {
+                "id": 159531184,
+                "name": "The Crossing",
+                "type": "place_of_worship",
+                "latitude": 43.07301121983442,
+                "longitude": -89.40539573320494
+            },
+            {
+                "id": 172053322,
+                "name": "Lot 11",
+                "type": "parking",
+                "latitude": 43.075649535384045,
+                "longitude": -89.40456271982802
+            },
+            {
+                "id": 173708702,
+                "name": "Lot 59",
+                "type": "parking",
+                "latitude": 43.074030167991545,
+                "longitude": -89.42306514019671
+            },
+            {
+                "id": 173711252,
+                "name": "Lot 35",
+                "type": "parking",
+                "latitude": 43.07780580769608,
+                "longitude": -89.412585925973
+            },
+            {
+                "id": 174188352,
+                "name": "Lot 64",
+                "type": "parking",
+                "latitude": 43.0758645831201,
+                "longitude": -89.42622186990586
+            },
+            {
+                "id": 174188354,
+                "name": "Lot 74",
+                "type": "parking",
+                "latitude": 43.07814596125307,
+                "longitude": -89.43039369007
+            },
+            {
+                "id": 174348079,
+                "name": "Lot 44",
+                "type": "parking",
+                "latitude": 43.070558554138515,
+                "longitude": -89.40178286851267
+            },
+            {
+                "id": 174349827,
+                "name": "Lot 68",
+                "type": "parking",
+                "latitude": 43.07114418065601,
+                "longitude": -89.40027506078029
+            },
+            {
+                "id": 174361680,
+                "name": "Lot 48",
+                "type": "parking",
+                "latitude": 43.07027101538263,
+                "longitude": -89.3995881403887
+            },
+            {
+                "id": 174362701,
+                "name": "Lot 56",
+                "type": "parking",
+                "latitude": 43.07168711220499,
+                "longitude": -89.4053343852308
+            },
+            {
+                "id": 174817939,
+                "name": "University Club",
+                "type": "restaurant",
+                "latitude": 43.07463009793077,
+                "longitude": -89.39928760938403
+            },
+            {
+                "id": 174820176,
+                "name": "Lot 18",
+                "type": "parking",
+                "latitude": 43.068866514078366,
+                "longitude": -89.41167550094096
+            },
+            {
+                "id": 174820864,
+                "name": "Lot 19",
+                "type": "parking",
+                "latitude": 43.06820140342306,
+                "longitude": -89.41340743988569
+            },
+            {
+                "id": 174823545,
+                "name": "Lot 72",
+                "type": "parking",
+                "latitude": 43.07414311623303,
+                "longitude": -89.42424529371941
+            },
+            {
+                "id": 174827529,
+                "name": "Lot 69",
+                "type": "parking",
+                "latitude": 43.071622058724614,
+                "longitude": -89.39625815936647
+            },
+            {
+                "id": 174829821,
+                "name": "Lot 134",
+                "type": "parking",
+                "latitude": 43.07558442444962,
+                "longitude": -89.43381306055265
+            },
+            {
+                "id": 174831314,
+                "name": "Lot 13",
+                "type": "parking",
+                "latitude": 43.071972345315935,
+                "longitude": -89.40642436217766
+            },
+            {
+                "id": 175092612,
+                "name": "Lot 112",
+                "type": "parking",
+                "latitude": 43.071599694864474,
+                "longitude": -89.40143802167603
+            },
+            {
+                "id": 175092874,
+                "name": "Lot 92",
+                "type": "parking",
+                "latitude": 43.07144396286148,
+                "longitude": -89.40293832458954
+            },
+            {
+                "id": 175093135,
+                "name": "Lot 53",
+                "type": "parking",
+                "latitude": 43.07064738029454,
+                "longitude": -89.40548861484591
+            },
+            {
+                "id": 175093436,
+                "name": "Lot 54",
+                "type": "parking",
+                "latitude": 43.0701306488908,
+                "longitude": -89.40626351206573
+            },
+            {
+                "id": 175095306,
+                "name": "Lot 50",
+                "type": "parking",
+                "latitude": 43.06868673078901,
+                "longitude": -89.40493515351426
+            },
+            {
+                "id": 175095307,
+                "name": "Lot 51",
+                "type": "parking",
+                "latitude": 43.06919146109979,
+                "longitude": -89.40438022932408
+            },
+            {
+                "id": 175112238,
+                "name": "Lot 41",
+                "type": "parking",
+                "latitude": 43.0738979253722,
+                "longitude": -89.41552831068088
+            },
+            {
+                "id": 175146005,
+                "name": "University Avenue Ramp (Lot 20)",
+                "type": "parking",
+                "latitude": 43.074132363472444,
+                "longitude": -89.40877697886553
+            },
+            {
+                "id": 175146012,
+                "name": "Lot 107 Chazen Museum Loading Area",
+                "type": "parking",
+                "latitude": 43.07343563265431,
+                "longitude": -89.39905642071183
+            },
+            {
+                "id": 175146013,
+                "name": "Lot 101",
+                "type": "parking",
+                "latitude": 43.076773922049526,
+                "longitude": -89.3973334440493
+            },
+            {
+                "id": 175146014,
+                "name": "Lot 138",
+                "type": "parking",
+                "latitude": 43.07259433797416,
+                "longitude": -89.39653337168097
+            },
+            {
+                "id": 175147432,
+                "name": "Lot 94",
+                "type": "parking",
+                "latitude": 43.06877551679451,
+                "longitude": -89.39580705839657
+            },
+            {
+                "id": 175148252,
+                "name": "Lot 136",
+                "type": "parking",
+                "latitude": 43.06850314472721,
+                "longitude": -89.40009837205935
+            },
+            {
+                "id": 175149560,
+                "name": "Lot 110 Barnard Hall Loading Area",
+                "type": "parking",
+                "latitude": 43.07355756126163,
+                "longitude": -89.40183290999666
+            },
+            {
+                "id": 175149562,
+                "name": "Lot 78",
+                "type": "parking",
+                "latitude": 43.06965653503966,
+                "longitude": -89.39942764558148
+            },
+            {
+                "id": 175149563,
+                "name": "Lot 105 Humanities Loading Dock",
+                "type": "parking",
+                "latitude": 43.074228000000005,
+                "longitude": -89.40042995
+            },
+            {
+                "id": 175149564,
+                "name": "Lot 106 Sellery Hall Loading Area",
+                "type": "parking",
+                "latitude": 43.0718705724729,
+                "longitude": -89.3995570900618
+            },
+            {
+                "id": 175149565,
+                "name": "Lot 109 Vilas Loading Dock",
+                "type": "parking",
+                "latitude": 43.072694886957116,
+                "longitude": -89.40041492528063
+            },
+            {
+                "id": 175329717,
+                "name": "Lot 86",
+                "type": "parking",
+                "latitude": 43.07136443406128,
+                "longitude": -89.40467959950445
+            },
+            {
+                "id": 175329721,
+                "name": "Lot 55",
+                "type": "parking",
+                "latitude": 43.07275821479031,
+                "longitude": -89.40517034868594
+            },
+            {
+                "id": 175331937,
+                "name": "Lot 114",
+                "type": "parking",
+                "latitude": 43.07248035,
+                "longitude": -89.41002820000003
+            },
+            {
+                "id": 175332344,
+                "name": "Lot 120",
+                "type": "parking",
+                "latitude": 43.075903796847705,
+                "longitude": -89.41505516736493
+            },
+            {
+                "id": 175334356,
+                "name": "Lot 127",
+                "type": "parking",
+                "latitude": 43.077412604848334,
+                "longitude": -89.4253824346287
+            },
+            {
+                "id": 175453141,
+                "name": "Lot 116 SMI Courtyard",
+                "type": "parking",
+                "latitude": 43.0742281,
+                "longitude": -89.4065006
+            },
+            {
+                "id": 175453481,
+                "name": "Lot 21",
+                "type": "parking",
+                "latitude": 43.074466062696565,
+                "longitude": -89.40765976763322
+            },
+            {
+                "id": 175453744,
+                "name": "Lot 28",
+                "type": "parking",
+                "latitude": 43.074563168284016,
+                "longitude": -89.4095642890668
+            },
+            {
+                "id": 232691020,
+                "name": "Lot 45",
+                "type": "parking",
+                "latitude": 43.07036304260224,
+                "longitude": -89.4034698184992
+            },
+            {
+                "id": 232691021,
+                "name": "Lot 33",
+                "type": "parking",
+                "latitude": 43.070340531598596,
+                "longitude": -89.40448007277233
+            },
+            {
+                "id": 279611140,
+                "name": "Lot 85",
+                "type": "parking",
+                "latitude": 43.077553937464884,
+                "longitude": -89.42735393947498
+            },
+            {
+                "id": 281753948,
+                "name": "William S. Middleton Memorial Veterans Hospital",
+                "type": "hospital",
+                "latitude": 43.07450072903342,
+                "longitude": -89.43097420141973
+            },
+            {
+                "id": 295278459,
+                "name": "Máquina",
+                "type": "fountain",
+                "latitude": 43.07274388666977,
+                "longitude": -89.41032007750373
+            },
+            {
+                "id": 295768827,
+                "name": "Lot 26",
+                "type": "parking",
+                "latitude": 43.07635952312766,
+                "longitude": -89.40604438043697
+            },
+            {
+                "id": 300842389,
+                "name": "Bernie's Place",
+                "type": "childcare",
+                "latitude": 43.08280622651683,
+                "longitude": -89.44188143889953
+            },
+            {
+                "id": 360719077,
+                "name": "Pres House",
+                "type": "place_of_worship",
+                "latitude": 43.07459884568783,
+                "longitude": -89.39869665321018
+            },
+            {
+                "id": 360719081,
+                "name": "Saint Paul University Catholic Center",
+                "type": "place_of_worship",
+                "latitude": 43.07464927789646,
+                "longitude": -89.39840133126026
+            },
+            {
+                "id": 412588608,
+                "name": "Luther Memorial Church",
+                "type": "place_of_worship",
+                "latitude": 43.07292481073325,
+                "longitude": -89.40338712316323
+            },
+            {
+                "id": 484383229,
+                "name": "Hamel Music Center",
+                "type": "arts_centre",
+                "latitude": 43.07366279780623,
+                "longitude": -89.39798051313927
+            },
+            {
+                "id": 486673933,
+                "name": "Memorial Union Terrace",
+                "type": "biergarten",
+                "latitude": 43.07679466597953,
+                "longitude": -89.39976367558893
+            },
+            {
+                "id": 534600247,
+                "name": "Lot 14",
+                "type": "parking",
+                "latitude": 43.07190792105461,
+                "longitude": -89.41133828291584
+            },
+            {
+                "id": 565832280,
+                "name": "The BBQ Stand",
+                "type": "bar",
+                "latitude": 43.07687768457109,
+                "longitude": -89.39922688854905
+            },
+            {
+                "id": 565832283,
+                "name": "Brat Stand",
+                "type": "fast_food",
+                "latitude": 43.07678835303616,
+                "longitude": -89.39992230196819
+            },
+            {
+                "id": 664867231,
+                "name": "Moped Parking",
+                "type": "motorcycle_parking",
+                "latitude": 43.07872957091234,
+                "longitude": -89.42496519404794
+            },
+            {
+                "id": 783129314,
+                "name": "Auditorium",
+                "type": "cinema",
+                "latitude": 43.07405587783118,
+                "longitude": -89.39860898576904
+            },
+            {
+                "id": 870590639,
+                "name": "UW Health University Hospital",
+                "type": "hospital",
+                "latitude": 43.076375111357365,
+                "longitude": -89.4319620097037
+            },
+            {
+                "id": 870590652,
+                "name": "Lot 63 - Children's Hospital Ramp",
+                "type": "parking",
+                "latitude": 43.07728616618718,
+                "longitude": -89.4334258939936
+            },
+            {
+                "id": 894733524,
+                "name": "Linden Drive Ramp (Lot 67)",
+                "type": "parking",
+                "latitude": 43.076003492032534,
+                "longitude": -89.41962042418774
+            },
+            {
+                "id": 1000383054,
+                "name": "Lot 87",
+                "type": "parking",
+                "latitude": 43.07014778123081,
+                "longitude": -89.39794063122429
+            },
+            {
+                "id": 2335674,
+                "name": "Lot 60",
+                "type": "parking",
+                "latitude": 43.07969178784871,
+                "longitude": -89.42676573186617
+            },
+            {
+                "id": 2339526,
+                "name": "Lot 133",
+                "type": "parking",
+                "latitude": 43.07568171238922,
+                "longitude": -89.43307851562199
+            },
+            {
+                "id": 2339605,
+                "name": "Lot 81",
+                "type": "parking",
+                "latitude": 43.06916391630048,
+                "longitude": -89.40647447455903
+            },
+            {
+                "id": 2606514,
+                "name": "Lot 58",
+                "type": "parking",
+                "latitude": 43.078425679005335,
+                "longitude": -89.41831050590231
+            },
+            {
+                "id": 3875425,
+                "name": "Lot 57",
+                "type": "parking",
+                "latitude": 43.07724571754899,
+                "longitude": -89.41884383621029
+            },
+            {
+                "id": 3875652,
+                "name": "Lot 5",
+                "type": "parking",
+                "latitude": 43.074170130753494,
+                "longitude": -89.4019605568186
+            },
+            {
+                "id": 3875654,
+                "name": "Lot 39",
+                "type": "parking",
+                "latitude": 43.07501968484432,
+                "longitude": -89.41637239490197
+            },
+            {
+                "id": 13147836,
+                "name": "Lot 34",
+                "type": "parking",
+                "latitude": 43.077634501767896,
+                "longitude": -89.40953013417034
+            },
+            {
+                "id": 13940426,
+                "name": "Lot 82",
+                "type": "parking",
+                "latitude": 43.0788715675756,
+                "longitude": -89.43320606627101
+            },
+            {
+                "id": 13940463,
+                "name": "Lot 37",
+                "type": "parking",
+                "latitude": 43.077955581115006,
+                "longitude": -89.41597437611601
+            },
+            {
+                "id": 36999138,
+                "name": "Apartment Services Office",
+                "type": "nan",
+                "latitude": 43.08287155080034,
+                "longitude": -89.43942068085623
+            },
+            {
+                "id": 37225867,
+                "name": "Memorial Union",
+                "type": "nan",
+                "latitude": 43.07642898916946,
+                "longitude": -89.39990276336769
+            },
+            {
+                "id": 37256547,
+                "name": "Wisconsin Alumni Research Foundation",
+                "type": "nan",
+                "latitude": 43.07624306739391,
+                "longitude": -89.42604759810709
+            },
+            {
+                "id": 37257115,
+                "name": "Wendt Commons",
+                "type": "nan",
+                "latitude": 43.071453029583175,
+                "longitude": -89.40863168013706
+            },
+            {
+                "id": 37516017,
+                "name": "Stock Pavilion",
+                "type": "nan",
+                "latitude": 43.074836548583775,
+                "longitude": -89.4151502420585
+            },
+            {
+                "id": 37516020,
+                "name": "Russell Laboratories",
+                "type": "nan",
+                "latitude": 43.075485579977666,
+                "longitude": -89.41358335545338
+            },
+            {
+                "id": 37516023,
+                "name": "DeLuca Biochemistry Laboratories",
+                "type": "nan",
+                "latitude": 43.074164605850896,
+                "longitude": -89.41198116775124
+            },
+            {
+                "id": 37550631,
+                "name": "Jones House",
+                "type": "nan",
+                "latitude": 43.0780155,
+                "longitude": -89.4157003
+            },
+            {
+                "id": 37550632,
+                "name": "Sullivan Hall",
+                "type": "nan",
+                "latitude": 43.07760382007495,
+                "longitude": -89.415510654597
+            },
+            {
+                "id": 37550804,
+                "name": "Agricultural Engineering Laboratory",
+                "type": "nan",
+                "latitude": 43.076134762333176,
+                "longitude": -89.41660925348035
+            },
+            {
+                "id": 37550805,
+                "name": "Animal Science Building",
+                "type": "nan",
+                "latitude": 43.07609850353272,
+                "longitude": -89.41529900110935
+            },
+            {
+                "id": 37550807,
+                "name": "Hanson Biomedical Sciences Building",
+                "type": "nan",
+                "latitude": 43.07573166442428,
+                "longitude": -89.4149686769159
+            },
+            {
+                "id": 37691885,
+                "name": "1910 Linden Dr.",
+                "type": "nan",
+                "latitude": 43.075718450000004,
+                "longitude": -89.41791689999998
+            },
+            {
+                "id": 37691887,
+                "name": "Poultry Research Laboratory",
+                "type": "nan",
+                "latitude": 43.07611622526301,
+                "longitude": -89.41791911179739
+            },
+            {
+                "id": 37691896,
+                "name": "Biotron Laboratory",
+                "type": "nan",
+                "latitude": 43.07598448020727,
+                "longitude": -89.42249816853013
+            },
+            {
+                "id": 37722267,
+                "name": "Livestock Laboratory",
+                "type": "nan",
+                "latitude": 43.07575275511961,
+                "longitude": -89.41687817674557
+            },
+            {
+                "id": 37723611,
+                "name": "Science Hall",
+                "type": "nan",
+                "latitude": 43.075865562719535,
+                "longitude": -89.40111399402231
+            },
+            {
+                "id": 37723613,
+                "name": "Radio Hall",
+                "type": "nan",
+                "latitude": 43.075976752098455,
+                "longitude": -89.40159581589096
+            },
+            {
+                "id": 37727228,
+                "name": "Van Hise Hall",
+                "type": "nan",
+                "latitude": 43.075576712019256,
+                "longitude": -89.40679553826587
+            },
+            {
+                "id": 37748615,
+                "name": "Walnut Street Greenhouses",
+                "type": "nan",
+                "latitude": 43.07605649396457,
+                "longitude": -89.42397230069984
+            },
+            {
+                "id": 37749296,
+                "name": "William H. Sewell Social Sciences Building",
+                "type": "nan",
+                "latitude": 43.07652894659707,
+                "longitude": -89.40525869993576
+            },
+            {
+                "id": 37749299,
+                "name": "Water Science & Engineering Laboratory",
+                "type": "nan",
+                "latitude": 43.07710144609694,
+                "longitude": -89.40186836529334
+            },
+            {
+                "id": 37749300,
+                "name": "Helen C White Hall",
+                "type": "nan",
+                "latitude": 43.07668892925339,
+                "longitude": -89.40133570198142
+            },
+            {
+                "id": 37749302,
+                "name": "Arthur D. Hasler Laboratory of Limnology",
+                "type": "nan",
+                "latitude": 43.07723650493649,
+                "longitude": -89.40295513550126
+            },
+            {
+                "id": 37751417,
+                "name": "Washburn Observatory",
+                "type": "nan",
+                "latitude": 43.07617395406492,
+                "longitude": -89.40892667848188
+            },
+            {
+                "id": 37751511,
+                "name": "Waters Residence Hall",
+                "type": "nan",
+                "latitude": 43.07694284825198,
+                "longitude": -89.40693378303527
+            },
+            {
+                "id": 37751913,
+                "name": "North Hall",
+                "type": "nan",
+                "latitude": 43.07568775,
+                "longitude": -89.4029299
+            },
+            {
+                "id": 37751914,
+                "name": "Education Building",
+                "type": "nan",
+                "latitude": 43.07573733621168,
+                "longitude": -89.40228277773693
+            },
+            {
+                "id": 37804098,
+                "name": "Armory and Gymnasium",
+                "type": "nan",
+                "latitude": 43.07630970380707,
+                "longitude": -89.39843589284706
+            },
+            {
+                "id": 37862319,
+                "name": "Chamberlin House",
+                "type": "nan",
+                "latitude": 43.078258950000006,
+                "longitude": -89.41536785
+            },
+            {
+                "id": 37862320,
+                "name": "Swenson House",
+                "type": "nan",
+                "latitude": 43.07793545,
+                "longitude": -89.41525475
+            },
+            {
+                "id": 37862321,
+                "name": "Bradley Residence Hall",
+                "type": "nan",
+                "latitude": 43.07790973009521,
+                "longitude": -89.41643740567216
+            },
+            {
+                "id": 37862322,
+                "name": "Phillips Residence Hall",
+                "type": "nan",
+                "latitude": 43.07855215794871,
+                "longitude": -89.41798730118072
+            },
+            {
+                "id": 37862323,
+                "name": "Goodnight Hall",
+                "type": "nan",
+                "latitude": 43.07884162993548,
+                "longitude": -89.4186893315577
+            },
+            {
+                "id": 37902549,
+                "name": "Allen D. Conover Hall",
+                "type": "nan",
+                "latitude": 43.07811779700856,
+                "longitude": -89.41468332707187
+            },
+            {
+                "id": 37965202,
+                "name": "Agricultural Dean's Residence",
+                "type": "nan",
+                "latitude": 43.07704874190245,
+                "longitude": -89.41315052226189
+            },
+            {
+                "id": 37965212,
+                "name": "Slichter Residence Hall",
+                "type": "nan",
+                "latitude": 43.077128859931555,
+                "longitude": -89.41220813731036
+            },
+            {
+                "id": 37965574,
+                "name": "Pyle Center",
+                "type": "nan",
+                "latitude": 43.07625964972143,
+                "longitude": -89.39777453200568
+            },
+            {
+                "id": 37966230,
+                "name": "Bascom Hall",
+                "type": "nan",
+                "latitude": 43.07532808810747,
+                "longitude": -89.40434046971426
+            },
+            {
+                "id": 37970663,
+                "name": "Cole Hall",
+                "type": "nan",
+                "latitude": 43.077364347006124,
+                "longitude": -89.41497582918738
+            },
+            {
+                "id": 37970664,
+                "name": "Mack House",
+                "type": "nan",
+                "latitude": 43.077992048040024,
+                "longitude": -89.41345422499903
+            },
+            {
+                "id": 37970665,
+                "name": "Turner House",
+                "type": "nan",
+                "latitude": 43.0784316,
+                "longitude": -89.41315160000002
+            },
+            {
+                "id": 37970666,
+                "name": "Gilman House",
+                "type": "nan",
+                "latitude": 43.078063799999995,
+                "longitude": -89.41296249999999
+            },
+            {
+                "id": 38019748,
+                "name": "Porter Boathouse",
+                "type": "nan",
+                "latitude": 43.07830702488868,
+                "longitude": -89.41248671661033
+            },
+            {
+                "id": 38019749,
+                "name": "Horse Barn",
+                "type": "nan",
+                "latitude": 43.07539540457834,
+                "longitude": -89.41612284428105
+            },
+            {
+                "id": 38019750,
+                "name": "US Dairy Forage Research Center",
+                "type": "nan",
+                "latitude": 43.07528526733847,
+                "longitude": -89.41806685310053
+            },
+            {
+                "id": 38060693,
+                "name": "Humphrey Hall",
+                "type": "nan",
+                "latitude": 43.07750374999999,
+                "longitude": -89.41296390000001
+            },
+            {
+                "id": 38060694,
+                "name": "Jorns Hall",
+                "type": "nan",
+                "latitude": 43.077726,
+                "longitude": -89.4133256
+            },
+            {
+                "id": 38060695,
+                "name": "Grant Showerman Hall",
+                "type": "nan",
+                "latitude": 43.07812065651383,
+                "longitude": -89.41414108773508
+            },
+            {
+                "id": 38064535,
+                "name": "Nielsen Tennis Stadium",
+                "type": "nan",
+                "latitude": 43.07962774931361,
+                "longitude": -89.43027681853994
+            },
+            {
+                "id": 38226215,
+                "name": "Holt Center",
+                "type": "nan",
+                "latitude": 43.07780565302155,
+                "longitude": -89.41442379330161
+            },
+            {
+                "id": 38263351,
+                "name": "Muscle & Meat Science Research Laboratory",
+                "type": "nan",
+                "latitude": 43.07452169082788,
+                "longitude": -89.41642978530967
+            },
+            {
+                "id": 38263360,
+                "name": "Dairy Cattle Instruction & Research Center",
+                "type": "nan",
+                "latitude": 43.074854415862085,
+                "longitude": -89.41712487490447
+            },
+            {
+                "id": 38263368,
+                "name": "Dairy Barn",
+                "type": "nan",
+                "latitude": 43.07463642052697,
+                "longitude": -89.41844749308622
+            },
+            {
+                "id": 38311314,
+                "name": "Wisconsin Veterinary Diagnostics Laboratory",
+                "type": "nan",
+                "latitude": 43.07445100520644,
+                "longitude": -89.42145593392061
+            },
+            {
+                "id": 38311318,
+                "name": "502 Herrick Dr.",
+                "type": "nan",
+                "latitude": 43.075312049999994,
+                "longitude": -89.42242909999999
+            },
+            {
+                "id": 38311319,
+                "name": "502 Herrick Dr.",
+                "type": "nan",
+                "latitude": 43.07521764999999,
+                "longitude": -89.42282929999999
+            },
+            {
+                "id": 38311386,
+                "name": "Walnut Street Heating & Cooling Plant",
+                "type": "nan",
+                "latitude": 43.07434638820253,
+                "longitude": -89.42429206703437
+            },
+            {
+                "id": 38311387,
+                "name": "West Campus Cogeneration Facility",
+                "type": "nan",
+                "latitude": 43.07506599824417,
+                "longitude": -89.42402936726627
+            },
+            {
+                "id": 38311389,
+                "name": "502 Herrick Dr.",
+                "type": "nan",
+                "latitude": 43.07502003558659,
+                "longitude": -89.4224240762991
+            },
+            {
+                "id": 38311390,
+                "name": "502 Herrick Dr.",
+                "type": "nan",
+                "latitude": 43.074835199999995,
+                "longitude": -89.4224224
+            },
+            {
+                "id": 38311391,
+                "name": "502 Herrick Dr.",
+                "type": "nan",
+                "latitude": 43.07463215000001,
+                "longitude": -89.4224735
+            },
+            {
+                "id": 38855393,
+                "name": "Law Building",
+                "type": "nan",
+                "latitude": 43.07454514777697,
+                "longitude": -89.40226684763314
+            },
+            {
+                "id": 38855394,
+                "name": "Birge Hall",
+                "type": "nan",
+                "latitude": 43.074426921466035,
+                "longitude": -89.40380229733104
+            },
+            {
+                "id": 38855396,
+                "name": "Van Vleck Hall",
+                "type": "nan",
+                "latitude": 43.074808050986526,
+                "longitude": -89.4049354409319
+            },
+            {
+                "id": 38855397,
+                "name": "Mark H Ingraham Hall",
+                "type": "nan",
+                "latitude": 43.07549199944651,
+                "longitude": -89.40534435216703
+            },
+            {
+                "id": 38855398,
+                "name": "Nancy Nicholas Hall",
+                "type": "nan",
+                "latitude": 43.075715913321694,
+                "longitude": -89.40876992940429
+            },
+            {
+                "id": 38855410,
+                "name": "Bradley Memorial Building",
+                "type": "nan",
+                "latitude": 43.07460189265466,
+                "longitude": -89.40755864224323
+            },
+            {
+                "id": 38855411,
+                "name": "Bardeen Medical Laboratories",
+                "type": "nan",
+                "latitude": 43.074847998518706,
+                "longitude": -89.40701767224209
+            },
+            {
+                "id": 38855412,
+                "name": "William S. Middleton Office Building",
+                "type": "nan",
+                "latitude": 43.07478605000001,
+                "longitude": -89.408199
+            },
+            {
+                "id": 38855842,
+                "name": "Nutritional Sciences",
+                "type": "nan",
+                "latitude": 43.07481936304891,
+                "longitude": -89.40892800911902
+            },
+            {
+                "id": 38855843,
+                "name": "Stovall Building (Wisconsin State Laboratory of Hygiene)",
+                "type": "nan",
+                "latitude": 43.074777709523985,
+                "longitude": -89.40983902923368
+            },
+            {
+                "id": 38855860,
+                "name": "Microbial Sciences Building",
+                "type": "nan",
+                "latitude": 43.075747824291405,
+                "longitude": -89.41198389684385
+            },
+            {
+                "id": 38856035,
+                "name": "Babcock Hall",
+                "type": "nan",
+                "latitude": 43.07480278628153,
+                "longitude": -89.41373073371999
+            },
+            {
+                "id": 38856039,
+                "name": "D.C. Smith Greenhouse",
+                "type": "nan",
+                "latitude": 43.07480622497895,
+                "longitude": -89.41250065429779
+            },
+            {
+                "id": 38856040,
+                "name": "Horticulture",
+                "type": "nan",
+                "latitude": 43.07474717211858,
+                "longitude": -89.41200491462969
+            },
+            {
+                "id": 38856041,
+                "name": "Moore Hall",
+                "type": "nan",
+                "latitude": 43.07473492401181,
+                "longitude": -89.41160982479144
+            },
+            {
+                "id": 38856044,
+                "name": "Robert M. Bock Laboratories",
+                "type": "nan",
+                "latitude": 43.07485612226574,
+                "longitude": -89.41110358870759
+            },
+            {
+                "id": 38856046,
+                "name": "Agricultural Engineering",
+                "type": "nan",
+                "latitude": 43.07477973498139,
+                "longitude": -89.41066797297219
+            },
+            {
+                "id": 38953056,
+                "name": "Hiram Smith Hall",
+                "type": "nan",
+                "latitude": 43.0759936535467,
+                "longitude": -89.4115708298298
+            },
+            {
+                "id": 38953057,
+                "name": "Hiram Smith Hall Annex",
+                "type": "nan",
+                "latitude": 43.075991955637534,
+                "longitude": -89.4112926811093
+            },
+            {
+                "id": 38953058,
+                "name": "Agricultural Heating Station",
+                "type": "nan",
+                "latitude": 43.07633164999999,
+                "longitude": -89.411607
+            },
+            {
+                "id": 38953059,
+                "name": "Soils Building",
+                "type": "nan",
+                "latitude": 43.0765172749092,
+                "longitude": -89.41129383474137
+            },
+            {
+                "id": 38953060,
+                "name": "King Hall",
+                "type": "nan",
+                "latitude": 43.07629928883901,
+                "longitude": -89.41086054664574
+            },
+            {
+                "id": 38953076,
+                "name": "Agricultural Hall",
+                "type": "nan",
+                "latitude": 43.07570879332477,
+                "longitude": -89.41028421715275
+            },
+            {
+                "id": 38953095,
+                "name": "Robert M. Lafollette School of Public Affairs",
+                "type": "nan",
+                "latitude": 43.07621951041443,
+                "longitude": -89.40763069487421
+            },
+            {
+                "id": 38953112,
+                "name": "Carson Gulley Center",
+                "type": "nan",
+                "latitude": 43.07715570226754,
+                "longitude": -89.41134061885893
+            },
+            {
+                "id": 39015616,
+                "name": "McArdle Building",
+                "type": "nan",
+                "latitude": 43.074432936202406,
+                "longitude": -89.40893869614477
+            },
+            {
+                "id": 39015618,
+                "name": "Taylor Hall",
+                "type": "nan",
+                "latitude": 43.074261922764144,
+                "longitude": -89.40938359241314
+            },
+            {
+                "id": 39015620,
+                "name": "Genetics-Biotechnology Center Building",
+                "type": "nan",
+                "latitude": 43.07382219022477,
+                "longitude": -89.40937813295882
+            },
+            {
+                "id": 39015623,
+                "name": "Service Memorial Institute",
+                "type": "nan",
+                "latitude": 43.07443493614246,
+                "longitude": -89.40691337438959
+            },
+            {
+                "id": 39015624,
+                "name": "School of Social Work Building",
+                "type": "nan",
+                "latitude": 43.07431262791559,
+                "longitude": -89.40820534127508
+            },
+            {
+                "id": 39015632,
+                "name": "Medical Sciences Center",
+                "type": "nan",
+                "latitude": 43.073947826864256,
+                "longitude": -89.40728802593718
+            },
+            {
+                "id": 39201158,
+                "name": "Sterling Hall",
+                "type": "nan",
+                "latitude": 43.07453495271962,
+                "longitude": -89.40555801099451
+            },
+            {
+                "id": 39201159,
+                "name": "Thomas C. Chamberlin Hall",
+                "type": "nan",
+                "latitude": 43.07387479864631,
+                "longitude": -89.40544063781967
+            },
+            {
+                "id": 39201161,
+                "name": "Lathrop Hall",
+                "type": "nan",
+                "latitude": 43.0736845372354,
+                "longitude": -89.40300714811843
+            },
+            {
+                "id": 39201162,
+                "name": "Barnard Residence Hall",
+                "type": "nan",
+                "latitude": 43.07366982459712,
+                "longitude": -89.40221483492479
+            },
+            {
+                "id": 39201163,
+                "name": "Music Hall",
+                "type": "nan",
+                "latitude": 43.07461352798725,
+                "longitude": -89.40136750173365
+            },
+            {
+                "id": 39201164,
+                "name": "Chadbourne Residence Hall",
+                "type": "nan",
+                "latitude": 43.07380120178052,
+                "longitude": -89.4012044428111
+            },
+            {
+                "id": 39201168,
+                "name": "South Hall",
+                "type": "nan",
+                "latitude": 43.0747875,
+                "longitude": -89.40311335000001
+            },
+            {
+                "id": 41783803,
+                "name": "Well #19",
+                "type": "nan",
+                "latitude": 43.08927162888959,
+                "longitude": -89.43317181450873
+            },
+            {
+                "id": 49982700,
+                "name": "Kohl Center",
+                "type": "nan",
+                "latitude": 43.06940807357188,
+                "longitude": -89.39678812214149
+            },
+            {
+                "id": 56997834,
+                "name": "1410 Engineering Dr",
+                "type": "nan",
+                "latitude": 43.07256505852554,
+                "longitude": -89.40966434441289
+            },
+            {
+                "id": 56997835,
+                "name": "Mechanical Engineering Building",
+                "type": "nan",
+                "latitude": 43.072770653312794,
+                "longitude": -89.41244863203796
+            },
+            {
+                "id": 56997836,
+                "name": "Engineering Centers Building",
+                "type": "nan",
+                "latitude": 43.07271873228614,
+                "longitude": -89.41340371472138
+            },
+            {
+                "id": 56997837,
+                "name": "Engineering Research Building",
+                "type": "nan",
+                "latitude": 43.07260876129662,
+                "longitude": -89.41162469216302
+            },
+            {
+                "id": 56997838,
+                "name": "Engineering Hall",
+                "type": "nan",
+                "latitude": 43.07177502175642,
+                "longitude": -89.41032548902136
+            },
+            {
+                "id": 58675200,
+                "name": "McClain Athletic Facility",
+                "type": "nan",
+                "latitude": 43.0709155802879,
+                "longitude": -89.41117214659819
+            },
+            {
+                "id": 58675201,
+                "name": "Camp Randall Sports Center",
+                "type": "nan",
+                "latitude": 43.069987121434465,
+                "longitude": -89.4109852712814
+            },
+            {
+                "id": 60320800,
+                "name": "Materials Science and Engineering",
+                "type": "nan",
+                "latitude": 43.07300101476711,
+                "longitude": -89.41128478463713
+            },
+            {
+                "id": 61758770,
+                "name": "Apartment Services Warehouse",
+                "type": "nan",
+                "latitude": 43.08298894290667,
+                "longitude": -89.4389443011378
+            },
+            {
+                "id": 101606150,
+                "name": "Extension Building",
+                "type": "nan",
+                "latitude": 43.0742133096825,
+                "longitude": -89.39788582862776
+            },
+            {
+                "id": 101606158,
+                "name": "Conrad A. Elvehjem Building",
+                "type": "nan",
+                "latitude": 43.07389668161515,
+                "longitude": -89.39940762814312
+            },
+            {
+                "id": 102201656,
+                "name": "Merit Residence Hall",
+                "type": "nan",
+                "latitude": 43.07075343604029,
+                "longitude": -89.40142974354191
+            },
+            {
+                "id": 102234778,
+                "name": "Environmental Health and Safety Building",
+                "type": "nan",
+                "latitude": 43.06885266675161,
+                "longitude": -89.39967194451924
+            },
+            {
+                "id": 102234779,
+                "name": "Art Lofts",
+                "type": "nan",
+                "latitude": 43.06904747234124,
+                "longitude": -89.39530804181167
+            },
+            {
+                "id": 102239119,
+                "name": "Smith Residence Hall",
+                "type": "nan",
+                "latitude": 43.06903819575425,
+                "longitude": -89.40039278103627
+            },
+            {
+                "id": 107463313,
+                "name": "Rennebohm Hall",
+                "type": "nan",
+                "latitude": 43.0784847583093,
+                "longitude": -89.42818033412813
+            },
+            {
+                "id": 107463323,
+                "name": "Health Sciences Learning Center",
+                "type": "nan",
+                "latitude": 43.07753115930299,
+                "longitude": -89.43025562106577
+            },
+            {
+                "id": 107584430,
+                "name": "Ogg Residence Hall",
+                "type": "nan",
+                "latitude": 43.07053633454279,
+                "longitude": -89.40002924881601
+            },
+            {
+                "id": 108065778,
+                "name": "UW Medical Foundation Centennial Building",
+                "type": "nan",
+                "latitude": 43.075409163393616,
+                "longitude": -89.43311773560353
+            },
+            {
+                "id": 139958463,
+                "name": "Integrative Biology Research Building",
+                "type": "nan",
+                "latitude": 43.0718275,
+                "longitude": -89.40502509999999
+            },
+            {
+                "id": 139958467,
+                "name": "Noland Hall",
+                "type": "nan",
+                "latitude": 43.071523168729776,
+                "longitude": -89.40452615761687
+            },
+            {
+                "id": 153060482,
+                "name": "Chemistry Building",
+                "type": "nan",
+                "latitude": 43.07264081071971,
+                "longitude": -89.40475953066331
+            },
+            {
+                "id": 153060483,
+                "name": "Grainger Hall",
+                "type": "nan",
+                "latitude": 43.07271207835881,
+                "longitude": -89.40156601661424
+            },
+            {
+                "id": 153060489,
+                "name": "Vilas Communication Hall",
+                "type": "nan",
+                "latitude": 43.072645078756864,
+                "longitude": -89.39986355852085
+            },
+            {
+                "id": 153063309,
+                "name": "Brogden Psychology",
+                "type": "nan",
+                "latitude": 43.07258389572401,
+                "longitude": -89.40621825054811
+            },
+            {
+                "id": 153063315,
+                "name": "Wisconsin Institute for Discovery",
+                "type": "nan",
+                "latitude": 43.07290479932129,
+                "longitude": -89.40805701855001
+            },
+            {
+                "id": 153063316,
+                "name": "University Square",
+                "type": "nan",
+                "latitude": 43.07261832584616,
+                "longitude": -89.39828419211877
+            },
+            {
+                "id": 153630414,
+                "name": "Witte Residence Hall",
+                "type": "nan",
+                "latitude": 43.07159091710689,
+                "longitude": -89.39694406563649
+            },
+            {
+                "id": 153640713,
+                "name": "Sellery Residence Hall",
+                "type": "nan",
+                "latitude": 43.07164463136559,
+                "longitude": -89.40000895469619
+            },
+            {
+                "id": 153640719,
+                "name": "Teacher Education",
+                "type": "nan",
+                "latitude": 43.07130805423221,
+                "longitude": -89.4035993074876
+            },
+            {
+                "id": 153640720,
+                "name": "Educational Sciences",
+                "type": "nan",
+                "latitude": 43.071832495861976,
+                "longitude": -89.40328789229112
+            },
+            {
+                "id": 153640722,
+                "name": "Davis Residence Hall",
+                "type": "nan",
+                "latitude": 43.071816275147825,
+                "longitude": -89.40162350436783
+            },
+            {
+                "id": 153640727,
+                "name": "Grand Central",
+                "type": "nan",
+                "latitude": 43.07246825892056,
+                "longitude": -89.40364939715563
+            },
+            {
+                "id": 153660065,
+                "name": "Union South",
+                "type": "nan",
+                "latitude": 43.07185137488558,
+                "longitude": -89.40806973757678
+            },
+            {
+                "id": 153660089,
+                "name": "Atmospheric & Oceanic Sciences",
+                "type": "nan",
+                "latitude": 43.07073586475955,
+                "longitude": -89.40693445771427
+            },
+            {
+                "id": 153660095,
+                "name": "Enzyme Institute",
+                "type": "nan",
+                "latitude": 43.073762030588256,
+                "longitude": -89.41539527386479
+            },
+            {
+                "id": 153660098,
+                "name": "1610 University Ave.",
+                "type": "nan",
+                "latitude": 43.07370496727563,
+                "longitude": -89.41467723396954
+            },
+            {
+                "id": 153660099,
+                "name": "Computer Sciences and Statistics",
+                "type": "nan",
+                "latitude": 43.07147392392562,
+                "longitude": -89.40672774604917
+            },
+            {
+                "id": 158973590,
+                "name": "Carillon Tower",
+                "type": "nan",
+                "latitude": 43.07611041457604,
+                "longitude": -89.40503669216113
+            },
+            {
+                "id": 171441058,
+                "name": "Below Alumni Center",
+                "type": "nan",
+                "latitude": 43.07677757477924,
+                "longitude": -89.39784238481961
+            },
+            {
+                "id": 172980981,
+                "name": "Fleet and Service Garage",
+                "type": "nan",
+                "latitude": 43.06887326584062,
+                "longitude": -89.40531835673218
+            },
+            {
+                "id": 172980982,
+                "name": "Harlow Primate Laboratory",
+                "type": "nan",
+                "latitude": 43.06857149057817,
+                "longitude": -89.40617101363162
+            },
+            {
+                "id": 172980983,
+                "name": "Wisconsin Primate Center",
+                "type": "nan",
+                "latitude": 43.06857381135446,
+                "longitude": -89.40694228360188
+            },
+            {
+                "id": 172980984,
+                "name": "Wisconsin National Primate Research Center",
+                "type": "nan",
+                "latitude": 43.06899615536075,
+                "longitude": -89.4065396514135
+            },
+            {
+                "id": 172992066,
+                "name": "Medical Sciences",
+                "type": "nan",
+                "latitude": 43.07479985190993,
+                "longitude": -89.40660626912289
+            },
+            {
+                "id": 173499562,
+                "name": "Rust-Schreiner Hall",
+                "type": "nan",
+                "latitude": 43.07032844891906,
+                "longitude": -89.40697507060905
+            },
+            {
+                "id": 173500044,
+                "name": "Meiklejohn House",
+                "type": "nan",
+                "latitude": 43.07199729905709,
+                "longitude": -89.40595273721995
+            },
+            {
+                "id": 173503696,
+                "name": "UW Foundation",
+                "type": "nan",
+                "latitude": 43.07362906123503,
+                "longitude": -89.41743497678614
+            },
+            {
+                "id": 173506603,
+                "name": "DeLuca Biochemical Sciences Building",
+                "type": "nan",
+                "latitude": 43.07431504190165,
+                "longitude": -89.41103378684322
+            },
+            {
+                "id": 173508078,
+                "name": "Plant Sciences",
+                "type": "nan",
+                "latitude": 43.0745705843748,
+                "longitude": -89.41222681176704
+            },
+            {
+                "id": 173708703,
+                "name": "502 Herrick Dr.",
+                "type": "nan",
+                "latitude": 43.07437947776142,
+                "longitude": -89.42300093538907
+            },
+            {
+                "id": 173709889,
+                "name": "Dejope Hall",
+                "type": "nan",
+                "latitude": 43.0777500191864,
+                "longitude": -89.41776736230737
+            },
+            {
+                "id": 173710620,
+                "name": "Adams Residence Hall",
+                "type": "nan",
+                "latitude": 43.07788036253169,
+                "longitude": -89.41198893941215
+            },
+            {
+                "id": 173710621,
+                "name": "Tripp Residence Hall",
+                "type": "nan",
+                "latitude": 43.07799414502084,
+                "longitude": -89.41096614975704
+            },
+            {
+                "id": 173996945,
+                "name": "206 Bernard Ct.",
+                "type": "nan",
+                "latitude": 43.07133233488531,
+                "longitude": -89.40176932709872
+            },
+            {
+                "id": 174188355,
+                "name": "Signe Skott Cooper Hall",
+                "type": "nan",
+                "latitude": 43.07752145161103,
+                "longitude": -89.42805964352888
+            },
+            {
+                "id": 174825275,
+                "name": "Carl Schuman Shelter",
+                "type": "nan",
+                "latitude": 43.07845545,
+                "longitude": -89.41887585
+            },
+            {
+                "id": 175079855,
+                "name": "Wisconsin Institutes for Medical Research",
+                "type": "nan",
+                "latitude": 43.078041836542596,
+                "longitude": -89.43177772800337
+            },
+            {
+                "id": 175121416,
+                "name": "McClimon Memorial Track Press Box",
+                "type": "nan",
+                "latitude": 43.077587033300254,
+                "longitude": -89.42701934994011
+            },
+            {
+                "id": 175151219,
+                "name": "Nicholas-Johnson Pavilion and Plaza",
+                "type": "nan",
+                "latitude": 43.06936108439939,
+                "longitude": -89.3979213487397
+            },
+            {
+                "id": 175344876,
+                "name": "Athletic Operations Building",
+                "type": "nan",
+                "latitude": 43.06884602826865,
+                "longitude": -89.41346850875158
+            },
+            {
+                "id": 175346220,
+                "name": "Field House",
+                "type": "nan",
+                "latitude": 43.06862953996416,
+                "longitude": -89.4126752611459
+            },
+            {
+                "id": 175346221,
+                "name": "Kellner Hall",
+                "type": "nan",
+                "latitude": 43.06895982822558,
+                "longitude": -89.41207622753667
+            },
+            {
+                "id": 193490363,
+                "name": "Wisconsin Energy Institute",
+                "type": "nan",
+                "latitude": 43.07374667475798,
+                "longitude": -89.41403025588804
+            },
+            {
+                "id": 193492268,
+                "name": "Gordon Dining and Event Center",
+                "type": "nan",
+                "latitude": 43.07120644639841,
+                "longitude": -89.39835223974801
+            },
+            {
+                "id": 193494687,
+                "name": "LaBahn Arena",
+                "type": "nan",
+                "latitude": 43.06978991570663,
+                "longitude": -89.39861725750504
+            },
+            {
+                "id": 193571969,
+                "name": "Leopold Residence Hall",
+                "type": "nan",
+                "latitude": 43.07752024450406,
+                "longitude": -89.41404986450996
+            },
+            {
+                "id": 295708135,
+                "name": "Chazen Museum of Art",
+                "type": "nan",
+                "latitude": 43.07388632348763,
+                "longitude": -89.39863264989232
+            },
+            {
+                "id": 299403522,
+                "name": "502 Herrick Dr.",
+                "type": "nan",
+                "latitude": 43.074838449999994,
+                "longitude": -89.42281890000002
+            },
+            {
+                "id": 299403523,
+                "name": "502 Herrick Dr.",
+                "type": "nan",
+                "latitude": 43.07445637746867,
+                "longitude": -89.42253868839325
+            },
+            {
+                "id": 338130757,
+                "name": "Pres House Apartments",
+                "type": "nan",
+                "latitude": 43.07433902271982,
+                "longitude": -89.3985706511307
+            },
+            {
+                "id": 360724943,
+                "name": "X01",
+                "type": "nan",
+                "latitude": 43.072874545207405,
+                "longitude": -89.40276613310212
+            },
+            {
+                "id": 382670809,
+                "name": "Memorial Arch",
+                "type": "nan",
+                "latitude": 43.07108544075853,
+                "longitude": -89.4093646927724
+            },
+            {
+                "id": 412585896,
+                "name": "DeLuca Biochemistry Building",
+                "type": "nan",
+                "latitude": 43.07383365908519,
+                "longitude": -89.41089430017848
+            },
+            {
+                "id": 490171328,
+                "name": "Meat Science and Animal Biologics Discovery",
+                "type": "nan",
+                "latitude": 43.07606098423291,
+                "longitude": -89.41868107830257
+            },
+            {
+                "id": 565639544,
+                "name": "Picnic Point Beach House",
+                "type": "nan",
+                "latitude": 43.08719362671119,
+                "longitude": -89.42454376918379
+            },
+            {
+                "id": 720057188,
+                "name": "Civil War Stockade",
+                "type": "nan",
+                "latitude": 43.0696492832648,
+                "longitude": -89.41021754616722
+            },
+            {
+                "id": 870590630,
+                "name": "Veterans Administration Hospital",
+                "type": "nan",
+                "latitude": 43.074595338411584,
+                "longitude": -89.43111604122933
+            },
+            {
+                "id": 907777252,
+                "name": "1932 Linden Drive",
+                "type": "nan",
+                "latitude": 43.07585405702977,
+                "longitude": -89.4189194982162
+            },
+            {
+                "id": 916831421,
+                "name": "Bakke Recreation & Wellbeing Center",
+                "type": "nan",
+                "latitude": 43.077036057286975,
+                "longitude": -89.41997718443427
+            },
+            {
+                "id": 1000383053,
+                "name": "Nicholas Recreation Center",
+                "type": "nan",
+                "latitude": 43.07053495245491,
+                "longitude": -89.3982656543199
+            },
+            {
+                "id": 1799692,
+                "name": "Camp Randall Stadium",
+                "type": "nan",
+                "latitude": 43.07004072495698,
+                "longitude": -89.41265346086284
+            },
+            {
+                "id": 2071317,
+                "name": "Weeks Hall for Geological Sciences",
+                "type": "nan",
+                "latitude": 43.070549369619485,
+                "longitude": -89.40621149356352
+            },
+            {
+                "id": 2075103,
+                "name": "Mosse Humanities Building",
+                "type": "nan",
+                "latitude": 43.07416253525117,
+                "longitude": -89.4000407692979
+            },
+            {
+                "id": 13436948,
+                "name": "Lot 41",
+                "type": "parking",
+                "latitude": 43.07388737148377,
+                "longitude": -89.41714912816565
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7202768313021757877,
+    "name": "中山陵",
+    "address": "中国江苏省南京市玄武区石祥路7号 邮政编码: 210014",
+    "rating": 4.6,
+    "popularity": 56,
+    "data_path": "map_data/university_map/Sun_Yat-Sen_Mausoleum",
+    "description": "中山陵，中華民國国父暨中國民主革命先行者孫中山的陵墓，位于中國大陸江苏省南京市玄武区紫金山南麓，东邻灵谷寺、西毗明孝陵。孙中山於1925年3月在北平市逝世後，國民政府和中國國民黨遵照他的遗愿，在南京为其修建陵墓。中山陵1926年1月开始兴建，1929年春建成祭堂等主要建筑，当年6月1日孙中山入葬，陵墓全部工程至1931年才告完成。\n中山陵由吕彦直设计，整体平面呈警钟形，与孙中山“唤起民众”的政治遗嘱相契合。陵墓设计充分利用地势，将牌坊、陵门、碑亭、祭堂等主要建筑从低到高依次排列在紫金山南的缓坡上。中山陵吸取中国古代陵墓的对称布局，利用墓道和台阶将主要建筑连为轴线，并布置大片绿地，将陵墓建筑群联接成与背景山势相称的宏大整体。陵墓主体建筑采用中国古典宫殿式建筑的大屋顶造型，应用西方建筑的设计和建造技术，以肃穆的蓝白色调和严谨的建筑构型表现出沉静恢弘的气度，被认为是中国近现代建筑史上融合中西的经典作品。1961年，中山陵被列为中华人民共和国第一批全国重点文物保护单位，2007年成为首批國家5A級旅遊景區。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Aerial_shot_of_Sun_Yat-sen%27s_Mausoleum_%28north%2C_1938%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/64/Funeral_of_Sun_Yat-sen_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gate_of_Dr._Sun_Yat-sen%27s_Mausoleum.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/Kuomintang_nanjing.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lu_Yanzhi%27s_Design_of_Sun_Yat-sen%27s_Mausoleum.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lu_Yanzhi%27s_Design_of_Sun_Yat-sen%27s_Mausoleum_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/36/Mao_Zedong_visiting_Sun_Yat-Sen%27s_Mausoleum_in_1953.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/National_Government_of_the_R.O.C.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/13/Soong_investigate_location_of_Sun%27s_cemetery_in_Nanjing.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/83/Stone_tablet_pavilion_of_Dr._Sun_Yat-sens_Mausoleum.jpg"
+    ],
+    "amenity": {
+        "affiliation": 7202768313021757877,
+        "amenity_list": []
+    }
+}

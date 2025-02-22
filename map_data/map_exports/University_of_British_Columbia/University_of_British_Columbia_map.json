@@ -1,0 +1,3813 @@
+{
+    "id": -3239103872022168131,
+    "name": "不列颠哥伦比亚大学",
+    "address": "Vancouver, BC V6T 1Z4加拿大",
+    "rating": 4.5,
+    "popularity": 56,
+    "data_path": "map_data/university_map/University_of_British_Columbia",
+    "description": "英屬哥倫比亞大學（英語：University of British Columbia，简称UBC），又或译为英属哥伦比亚大学等，简称卑诗大学或卑大，是一所位於加拿大卑詩省的公立大學，也是U15大學聯盟、大英國協大學協會、环太平洋大学联盟、和Universitas 21成員之一。截至目前，不列颠哥伦比亚大学共培养了8位諾貝爾獎得主。學校主校區位於緊鄰溫哥華市西端的大學保留地，於1908年創校，為卑詩省最古老的大學，起初為研究性合作機構，後來逐漸發展為聞名國際的綜合大學；另外位於基隆拿市的新校區成立于2005年，稱為英屬哥倫比亞大學奧卡納干分校，取代原奧卡納干大學學院。\n不列颠哥伦比亚大学与麦吉尔大学、多伦多大学并称加拿大大学“三强”。不列颠哥伦比亚大学现在稳定在加拿大的第二学术要地，其2019年在国际学术论坛上发表的论文超一万篇，被引用的各类文献稳定在北美前三，仅次于哈佛大学文献的被引用次数。同时，不列颠哥伦比亚大学作为加拿大西部实力最強的高等教育学府，在加拿大和美国乃至世界的影响力重大，在社会的各类建设中起到了十分重要的角色作用。这也导致了不列颠哥伦比亚大学在每年招生的选择上面有着非常严格的入学门槛，为加拿大最难入读的学府之一。\n不列颠哥伦比亚大学也是加拿大粒子与核物理国家实验室TRIUMF的所在地，该实验室拥有世界上最大的回旋加速器。除了彼得沃尔高等研究所和斯图尔特·布鲁森量子物质研究所之外，UBC和马克斯·普朗克学会还共同成立了北美第一家专门研究量子材料的马克斯·普朗克研究所。UBC图书馆系统更是加拿大最大的研究图书馆之一，在其21个分支中拥有超过990万册的藏书。\n不列颠哥伦比亚大学被誉为西海岸的明珠，素有“北美最美校园”之誉，其内部设有古花园建筑以及日式经典庭院。在主旗杆旁边的玫瑰花园(Rose Garden)更是来温哥华旅游的人们的必经之地。\n截至目前，不列颠哥伦比亚大学共培养了8名诺贝尔奖得主、71名罗德学者、65名奥林匹克运动员、10名美国文理科学院和英国皇家学会院士以及208名加拿大皇家学会院士。三名加拿大总理都曾在UBC接受教育，包括加拿大首位女总理金·坎贝尔和现任总理贾斯汀·特鲁多。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bertram_Brockhouse.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/04/Beverley_McLachlin_%28crop%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bjarni_Tryggvason.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/22/Chan_centre_performing_arts_concert_tessler.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/Chem1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/22/Dr_Patrick_Soon-Shiong_%2814212355607%29_cropped.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/86/Irving_K._Barber_Library.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/be/Justin_Trudeau_and_Benigno_Aquino_III_November_2015_cropped.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Peter_A._Allard_School_of_Law.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Platopainting.jpg"
+    ],
+    "amenity": {
+        "affiliation": -3239103872022168131,
+        "amenity_list": [
+            {
+                "id": 289808264,
+                "name": "可能感兴趣的地点",
+                "type": "bicycle_parking",
+                "latitude": 49.2658642,
+                "longitude": -123.2426102
+            },
+            {
+                "id": 427907430,
+                "name": "Koerner's Pub",
+                "type": "pub",
+                "latitude": 49.2684891,
+                "longitude": -123.258088
+            },
+            {
+                "id": 536078393,
+                "name": "Shoppers Drug Mart",
+                "type": "pharmacy",
+                "latitude": 49.2660917,
+                "longitude": -123.245768
+            },
+            {
+                "id": 642897588,
+                "name": "BMO",
+                "type": "bank",
+                "latitude": 49.265983,
+                "longitude": -123.2433819
+            },
+            {
+                "id": 642897589,
+                "name": "CIBC",
+                "type": "bank",
+                "latitude": 49.2664084,
+                "longitude": -123.2437104
+            },
+            {
+                "id": 642897591,
+                "name": "McDonald's",
+                "type": "fast_food",
+                "latitude": 49.2666817,
+                "longitude": -123.2425065
+            },
+            {
+                "id": 645578544,
+                "name": "Starbucks",
+                "type": "cafe",
+                "latitude": 49.2658614,
+                "longitude": -123.242794
+            },
+            {
+                "id": 645578560,
+                "name": "The Corner Kitchen UBC",
+                "type": "restaurant",
+                "latitude": 49.2659729,
+                "longitude": -123.24247
+            },
+            {
+                "id": 663959058,
+                "name": "Pho With Us",
+                "type": "restaurant",
+                "latitude": 49.2657244,
+                "longitude": -123.243097
+            },
+            {
+                "id": 663959735,
+                "name": "Pita Pit",
+                "type": "fast_food",
+                "latitude": 49.2661113,
+                "longitude": -123.2420861
+            },
+            {
+                "id": 663959770,
+                "name": "Only U Cafe",
+                "type": "cafe",
+                "latitude": 49.2660115,
+                "longitude": -123.2423353
+            },
+            {
+                "id": 768723042,
+                "name": "Tim Hortons",
+                "type": "cafe",
+                "latitude": 49.2656284,
+                "longitude": -123.2543584
+            },
+            {
+                "id": 768723049,
+                "name": "Ike's Café",
+                "type": "cafe",
+                "latitude": 49.2673017,
+                "longitude": -123.2526955
+            },
+            {
+                "id": 768723054,
+                "name": "Triple O's",
+                "type": "restaurant",
+                "latitude": 49.2658558,
+                "longitude": -123.2544402
+            },
+            {
+                "id": 1055740106,
+                "name": "Magma Cafè",
+                "type": "cafe",
+                "latitude": 49.262659,
+                "longitude": -123.251744
+            },
+            {
+                "id": 1117560886,
+                "name": "Bean Around The World",
+                "type": "cafe",
+                "latitude": 49.2588402,
+                "longitude": -123.2480899
+            },
+            {
+                "id": 1233310562,
+                "name": "Point Grill",
+                "type": "restaurant",
+                "latitude": 49.2617269,
+                "longitude": -123.2555515
+            },
+            {
+                "id": 1234993971,
+                "name": "UBC Farm Market",
+                "type": "marketplace",
+                "latitude": 49.250765,
+                "longitude": -123.2379433
+            },
+            {
+                "id": 1235355576,
+                "name": "TD Canada Trust",
+                "type": "atm",
+                "latitude": 49.2659234,
+                "longitude": -123.253945
+            },
+            {
+                "id": 1241298324,
+                "name": "University Pharmacy",
+                "type": "pharmacy",
+                "latitude": 49.2664917,
+                "longitude": -123.2432266
+            },
+            {
+                "id": 1369643082,
+                "name": "UBC Campus Mailing Services",
+                "type": "post_office",
+                "latitude": 49.2606569,
+                "longitude": -123.2534078
+            },
+            {
+                "id": 2911918402,
+                "name": "Mercante",
+                "type": "restaurant",
+                "latitude": 49.2637273,
+                "longitude": -123.2549792
+            },
+            {
+                "id": 3328040320,
+                "name": "Eaton Arrowsmith School",
+                "type": "school",
+                "latitude": 49.2613559,
+                "longitude": -123.2463657
+            },
+            {
+                "id": 3328058308,
+                "name": "Perugia Italian Caffè",
+                "type": "cafe",
+                "latitude": 49.2622036,
+                "longitude": -123.2449904
+            },
+            {
+                "id": 3353373729,
+                "name": "5 Tastes",
+                "type": "restaurant",
+                "latitude": 49.2660937,
+                "longitude": -123.2430436
+            },
+            {
+                "id": 3353373730,
+                "name": "Vera's Burgers",
+                "type": "fast_food",
+                "latitude": 49.2657903,
+                "longitude": -123.2432178
+            },
+            {
+                "id": 3353373731,
+                "name": "Subway",
+                "type": "fast_food",
+                "latitude": 49.2659168,
+                "longitude": -123.2431691
+            },
+            {
+                "id": 3353373732,
+                "name": "A&W",
+                "type": "fast_food",
+                "latitude": 49.2664689,
+                "longitude": -123.2433848
+            },
+            {
+                "id": 3353373733,
+                "name": "Pizza Garden",
+                "type": "fast_food",
+                "latitude": 49.2664557,
+                "longitude": -123.2434869
+            },
+            {
+                "id": 3947305340,
+                "name": "Garbage Can",
+                "type": "waste_basket",
+                "latitude": 49.2658677,
+                "longitude": -123.2551284
+            },
+            {
+                "id": 3954515979,
+                "name": "UBC Sustainability Sort it Out Waste Stations",
+                "type": "waste_basket",
+                "latitude": 49.264752,
+                "longitude": -123.252539
+            },
+            {
+                "id": 3960974022,
+                "name": "Agora",
+                "type": "cafe",
+                "latitude": 49.260953,
+                "longitude": -123.2510588
+            },
+            {
+                "id": 4232369893,
+                "name": "The Pit",
+                "type": "pub",
+                "latitude": 49.2665769,
+                "longitude": -123.2501701
+            },
+            {
+                "id": 4503723425,
+                "name": "Scotiabank",
+                "type": "bank",
+                "latitude": 49.2660002,
+                "longitude": -123.2461119
+            },
+            {
+                "id": 4503723428,
+                "name": "Loafe",
+                "type": "cafe",
+                "latitude": 49.2657839,
+                "longitude": -123.2501333
+            },
+            {
+                "id": 4503723429,
+                "name": "The Boulevard Coffee Roasting Co.",
+                "type": "cafe",
+                "latitude": 49.2659992,
+                "longitude": -123.2463424
+            },
+            {
+                "id": 4509164649,
+                "name": "Open Kitchen",
+                "type": "food_court",
+                "latitude": 49.260629,
+                "longitude": -123.2514649
+            },
+            {
+                "id": 4510121097,
+                "name": "Hummingbird Childcare",
+                "type": "kindergarten",
+                "latitude": 49.2603069,
+                "longitude": -123.2505133
+            },
+            {
+                "id": 4675986050,
+                "name": "The Loop Cafe",
+                "type": "cafe",
+                "latitude": 49.2618829,
+                "longitude": -123.2530369
+            },
+            {
+                "id": 5290614692,
+                "name": "Nori",
+                "type": "restaurant",
+                "latitude": 49.2662407,
+                "longitude": -123.247515
+            },
+            {
+                "id": 5290614693,
+                "name": "Jamjar",
+                "type": "restaurant",
+                "latitude": 49.2662923,
+                "longitude": -123.2471797
+            },
+            {
+                "id": 5290614694,
+                "name": "Rain or Shine Ice Cream",
+                "type": "ice_cream",
+                "latitude": 49.2664945,
+                "longitude": -123.246888
+            },
+            {
+                "id": 5290614695,
+                "name": "JJ Bean",
+                "type": "cafe",
+                "latitude": 49.2663694,
+                "longitude": -123.246809
+            },
+            {
+                "id": 5290614696,
+                "name": "Uncle Fatih's Pizza",
+                "type": "fast_food",
+                "latitude": 49.266267,
+                "longitude": -123.247343
+            },
+            {
+                "id": 5492180673,
+                "name": "500MeV Cyclotron",
+                "type": "science",
+                "latitude": 49.2472336,
+                "longitude": -123.2294201
+            },
+            {
+                "id": 5492180675,
+                "name": "Detector Facility",
+                "type": "workshop",
+                "latitude": 49.2471337,
+                "longitude": -123.2284396
+            },
+            {
+                "id": 5492180677,
+                "name": "UCN",
+                "type": "science",
+                "latitude": 49.2473326,
+                "longitude": -123.2290405
+            },
+            {
+                "id": 5492180678,
+                "name": "DRAGON",
+                "type": "science",
+                "latitude": 49.2479237,
+                "longitude": -123.2295057
+            },
+            {
+                "id": 5492180679,
+                "name": "TITAN",
+                "type": "science",
+                "latitude": 49.2478911,
+                "longitude": -123.2297605
+            },
+            {
+                "id": 5492180680,
+                "name": "Radiation Protection Group",
+                "type": "safety",
+                "latitude": 49.2476923,
+                "longitude": -123.2294032
+            },
+            {
+                "id": 5492180681,
+                "name": "Electronics Assembly",
+                "type": "workshop",
+                "latitude": 49.2462606,
+                "longitude": -123.2294836
+            },
+            {
+                "id": 5492180686,
+                "name": "Scintillator Shop",
+                "type": "workshop",
+                "latitude": 49.2475133,
+                "longitude": -123.2304555
+            },
+            {
+                "id": 5492180687,
+                "name": "Reception",
+                "type": "lobby",
+                "latitude": 49.2476616,
+                "longitude": -123.2308432
+            },
+            {
+                "id": 5492180688,
+                "name": "Cafeteria",
+                "type": "restaurant",
+                "latitude": 49.2477393,
+                "longitude": -123.2306549
+            },
+            {
+                "id": 5492180689,
+                "name": "GRIFFIN",
+                "type": "science",
+                "latitude": 49.2478152,
+                "longitude": -123.2296608
+            },
+            {
+                "id": 5492180690,
+                "name": "TIGRESS",
+                "type": "science",
+                "latitude": 49.2483521,
+                "longitude": -123.2289879
+            },
+            {
+                "id": 5492180691,
+                "name": "Auditorium",
+                "type": "theatre",
+                "latitude": 49.2477176,
+                "longitude": -123.23027
+            },
+            {
+                "id": 5608189222,
+                "name": "MOA handicap toilets",
+                "type": "toilets",
+                "latitude": 49.2692292,
+                "longitude": -123.2594723
+            },
+            {
+                "id": 5826154778,
+                "name": "Tacomio",
+                "type": "restaurant",
+                "latitude": 49.2663099,
+                "longitude": -123.2470453
+            },
+            {
+                "id": 5850147308,
+                "name": "The Norm Theatre",
+                "type": "theatre",
+                "latitude": 49.2672532,
+                "longitude": -123.2503018
+            },
+            {
+                "id": 5850147310,
+                "name": "Booster Juice",
+                "type": "fast_food",
+                "latitude": 49.2673302,
+                "longitude": -123.2497546
+            },
+            {
+                "id": 5908516612,
+                "name": "Cafe MOA",
+                "type": "cafe",
+                "latitude": 49.2697898,
+                "longitude": -123.2587258
+            },
+            {
+                "id": 5953020734,
+                "name": "Computer Science Reading Room",
+                "type": "library",
+                "latitude": 49.2612513,
+                "longitude": -123.2491887
+            },
+            {
+                "id": 5967851218,
+                "name": "Seedlings",
+                "type": "cafe",
+                "latitude": 49.2685879,
+                "longitude": -123.2577672
+            },
+            {
+                "id": 6292095580,
+                "name": "The Original Beanery",
+                "type": "cafe",
+                "latitude": 49.2636844,
+                "longitude": -123.2393409
+            },
+            {
+                "id": 6302107034,
+                "name": "Honour Roll",
+                "type": "fast_food",
+                "latitude": 49.2669332,
+                "longitude": -123.2501267
+            },
+            {
+                "id": 6326104806,
+                "name": "Geography Building Bench",
+                "type": "bench",
+                "latitude": 49.2660594,
+                "longitude": -123.255986
+            },
+            {
+                "id": 6326296452,
+                "name": "2002 Graduating Class Bench",
+                "type": "bench",
+                "latitude": 49.2659496,
+                "longitude": -123.2559124
+            },
+            {
+                "id": 6606325836,
+                "name": "Field House Cafe",
+                "type": "cafe",
+                "latitude": 49.2568059,
+                "longitude": -123.2400509
+            },
+            {
+                "id": 6796313307,
+                "name": "E-Waste Drop-off",
+                "type": "recycling",
+                "latitude": 49.2608228,
+                "longitude": -123.2538103
+            },
+            {
+                "id": 7495122384,
+                "name": "Organic Vegetables Nutrient Management Project",
+                "type": "research_institute",
+                "latitude": 49.250993,
+                "longitude": -123.2395925
+            },
+            {
+                "id": 7495128186,
+                "name": "Honey Bee Pathogen Response Project- BeeCSI",
+                "type": "research_institute",
+                "latitude": 49.2501437,
+                "longitude": -123.2359397
+            },
+            {
+                "id": 7495128187,
+                "name": "Truffle Establishment in BC",
+                "type": "research_institute",
+                "latitude": 49.2497052,
+                "longitude": -123.2368922
+            },
+            {
+                "id": 7495128188,
+                "name": "Indigenous Land Based Pedagogies and Food Sovereignty in Urban Contexts",
+                "type": "research_institute",
+                "latitude": 49.2505724,
+                "longitude": -123.23994
+            },
+            {
+                "id": 7495128189,
+                "name": "Participatory Variety Trial And Breeding For Canadian Organic Farmers (CANOVI)",
+                "type": "research_institute",
+                "latitude": 49.249342,
+                "longitude": -123.2385013
+            },
+            {
+                "id": 7495128190,
+                "name": "Identification and Characterisation of beneficial plant root-associated microbes",
+                "type": "research_institute",
+                "latitude": 49.2501273,
+                "longitude": -123.2400252
+            },
+            {
+                "id": 7495128191,
+                "name": "Greenhouse Gas Mitigation in Organic Blueberries",
+                "type": "research_institute",
+                "latitude": 49.2494042,
+                "longitude": -123.2359948
+            },
+            {
+                "id": 7495128192,
+                "name": "Ecological Pest Management for Spotted Wing Drosophila (SWD)",
+                "type": "research_institute",
+                "latitude": 49.2498374,
+                "longitude": -123.2376475
+            },
+            {
+                "id": 7495128193,
+                "name": "Click beetle monitoring",
+                "type": "research_institute",
+                "latitude": 49.2486062,
+                "longitude": -123.2359865
+            },
+            {
+                "id": 7495128194,
+                "name": "Too much water or too little: Climate resilient vegetable farming",
+                "type": "research_institute",
+                "latitude": 49.2508427,
+                "longitude": -123.2391696
+            },
+            {
+                "id": 7495128200,
+                "name": "Passive open top chambers (OTC): cost-effective methods for climate change research",
+                "type": "research_institute",
+                "latitude": 49.2512016,
+                "longitude": -123.241434
+            },
+            {
+                "id": 7711831865,
+                "name": "Little Free Library",
+                "type": "public_bookcase",
+                "latitude": 49.2650084,
+                "longitude": -123.255983
+            },
+            {
+                "id": 7816696999,
+                "name": "KINTON RAMEN",
+                "type": "restaurant",
+                "latitude": 49.2661144,
+                "longitude": -123.2483285
+            },
+            {
+                "id": 7979124006,
+                "name": "Little Free Library #67298",
+                "type": "public_bookcase",
+                "latitude": 49.264858,
+                "longitude": -123.2375859
+            },
+            {
+                "id": 8221578703,
+                "name": "Steve’s Poké Bar",
+                "type": "restaurant",
+                "latitude": 49.2659357,
+                "longitude": -123.2466332
+            },
+            {
+                "id": 8407537337,
+                "name": "Browns Crafthouse",
+                "type": "restaurant",
+                "latitude": 49.2660772,
+                "longitude": -123.2485788
+            },
+            {
+                "id": 8508184533,
+                "name": "UBC Hospital",
+                "type": "hospital",
+                "latitude": 49.2641866,
+                "longitude": -123.245747
+            },
+            {
+                "id": 8873278717,
+                "name": "Chatime",
+                "type": "cafe",
+                "latitude": 49.2657886,
+                "longitude": -123.2467173
+            },
+            {
+                "id": 8915229429,
+                "name": "Evo",
+                "type": "car_sharing",
+                "latitude": 49.2690556,
+                "longitude": -123.2481259
+            },
+            {
+                "id": 9054926819,
+                "name": "Blue Chip Cafe",
+                "type": "cafe",
+                "latitude": 49.2667996,
+                "longitude": -123.249958
+            },
+            {
+                "id": 9054935317,
+                "name": "Feast",
+                "type": "restaurant",
+                "latitude": 49.2579633,
+                "longitude": -123.2531257
+            },
+            {
+                "id": 9130636917,
+                "name": "Grand Noodle Emporium",
+                "type": "restaurant",
+                "latitude": 49.2669392,
+                "longitude": -123.249967
+            },
+            {
+                "id": 9140363041,
+                "name": "Down Low Chicken",
+                "type": "fast_food",
+                "latitude": 49.2662243,
+                "longitude": -123.2477394
+            },
+            {
+                "id": 9195994137,
+                "name": "Garden Shop Cafe",
+                "type": "cafe",
+                "latitude": 49.2539675,
+                "longitude": -123.2505286
+            },
+            {
+                "id": 9223340424,
+                "name": "University Village Medical",
+                "type": "clinic",
+                "latitude": 49.266172,
+                "longitude": -123.2422509
+            },
+            {
+                "id": 9236584317,
+                "name": "Sprouts",
+                "type": "cafe",
+                "latitude": 49.2676549,
+                "longitude": -123.2505723
+            },
+            {
+                "id": 9727953698,
+                "name": "Great Dane Coffee",
+                "type": "cafe",
+                "latitude": 49.2700754,
+                "longitude": -123.2507712
+            },
+            {
+                "id": 9739810751,
+                "name": "Bento Sushi",
+                "type": "restaurant",
+                "latitude": 49.2656179,
+                "longitude": -123.254191
+            },
+            {
+                "id": 9740474405,
+                "name": "The Outer Space Institute",
+                "type": "research_institute",
+                "latitude": 49.2664906,
+                "longitude": -123.2520373
+            },
+            {
+                "id": 10899950163,
+                "name": "Drinking water",
+                "type": "water_point",
+                "latitude": 49.2671427,
+                "longitude": -123.2490011
+            },
+            {
+                "id": 11746877369,
+                "name": "Café Ami",
+                "type": "cafe",
+                "latitude": 49.264606,
+                "longitude": -123.2445046
+            },
+            {
+                "id": 27318161,
+                "name": "Walter C. Koerner Library",
+                "type": "library",
+                "latitude": 49.26663567720493,
+                "longitude": -123.25514565964575
+            },
+            {
+                "id": 27318163,
+                "name": "Irving K. Barber Learning Centre",
+                "type": "library",
+                "latitude": 49.26757589422168,
+                "longitude": -123.25275128284376
+            },
+            {
+                "id": 36810744,
+                "name": "Frederic Wood Theatre",
+                "type": "theatre",
+                "latitude": 49.26804967515104,
+                "longitude": -123.25694872107651
+            },
+            {
+                "id": 36837808,
+                "name": "B4 Lot",
+                "type": "parking",
+                "latitude": 49.25991999999308,
+                "longitude": -123.24976375005267
+            },
+            {
+                "id": 62020058,
+                "name": "UBC Botanical Garden Parking",
+                "type": "parking",
+                "latitude": 49.25482728001644,
+                "longitude": -123.25149720319084
+            },
+            {
+                "id": 83418470,
+                "name": "St Mark's Parish",
+                "type": "place_of_worship",
+                "latitude": 49.27215354578205,
+                "longitude": -123.24898901319949
+            },
+            {
+                "id": 83418484,
+                "name": "Corpus Christi College",
+                "type": "college",
+                "latitude": 49.272379106045584,
+                "longitude": -123.24937747299754
+            },
+            {
+                "id": 83433308,
+                "name": "Triple O's/Trek Express",
+                "type": "restaurant",
+                "latitude": 49.26571088850886,
+                "longitude": -123.25432371254999
+            },
+            {
+                "id": 96911450,
+                "name": "University Hill Secondary School",
+                "type": "school",
+                "latitude": 49.25427525604026,
+                "longitude": -123.23875634905532
+            },
+            {
+                "id": 98838330,
+                "name": "West Parkade",
+                "type": "parking",
+                "latitude": 49.262596812986736,
+                "longitude": -123.25502606101192
+            },
+            {
+                "id": 98962852,
+                "name": "Old Barn Community Centre",
+                "type": "community_centre",
+                "latitude": 49.25890743230897,
+                "longitude": -123.24828632787738
+            },
+            {
+                "id": 99135915,
+                "name": "Thunderbird Parkade",
+                "type": "parking",
+                "latitude": 49.26165892777215,
+                "longitude": -123.24305133758807
+            },
+            {
+                "id": 99136523,
+                "name": "Purdy Pavilion",
+                "type": "social_facility",
+                "latitude": 49.26327050212687,
+                "longitude": -123.2459434859195
+            },
+            {
+                "id": 99205664,
+                "name": "North Parkade",
+                "type": "parking",
+                "latitude": 49.26904172544098,
+                "longitude": -123.25093479864941
+            },
+            {
+                "id": 99205665,
+                "name": "Hillel House",
+                "type": "place_of_worship",
+                "latitude": 49.26860411058755,
+                "longitude": -123.251344733225
+            },
+            {
+                "id": 99272772,
+                "name": "Health Sciences Parkade",
+                "type": "parking",
+                "latitude": 49.26339992063298,
+                "longitude": -123.24785129583782
+            },
+            {
+                "id": 99436420,
+                "name": "Fraser River Parkade",
+                "type": "parking",
+                "latitude": 49.266067197875714,
+                "longitude": -123.25805275213312
+            },
+            {
+                "id": 99575357,
+                "name": "Rose Garden Parkade",
+                "type": "parking",
+                "latitude": 49.269106723737565,
+                "longitude": -123.25630590029111
+            },
+            {
+                "id": 108390101,
+                "name": "Frank E. Buck",
+                "type": "fountain",
+                "latitude": 49.26726302872664,
+                "longitude": -123.25342264993311
+            },
+            {
+                "id": 341691675,
+                "name": "Life Building",
+                "type": "community_centre",
+                "latitude": 49.2674451908761,
+                "longitude": -123.25007869951791
+            },
+            {
+                "id": 391516812,
+                "name": "AMS Nest (Student Union Building)",
+                "type": "community_centre",
+                "latitude": 49.266575633270094,
+                "longitude": -123.24980620496964
+            },
+            {
+                "id": 631179442,
+                "name": "Martha Piper Fountain",
+                "type": "fountain",
+                "latitude": 49.264791474311075,
+                "longitude": -123.25279673473426
+            },
+            {
+                "id": 666054140,
+                "name": "Wesbrook Community Centre",
+                "type": "community_centre",
+                "latitude": 49.25401513509822,
+                "longitude": -123.23772132028235
+            },
+            {
+                "id": 671020872,
+                "name": "Norma Rose Point School",
+                "type": "school",
+                "latitude": 49.26176330531622,
+                "longitude": -123.23222568745585
+            },
+            {
+                "id": 679347060,
+                "name": "UBC Plant Operations",
+                "type": "parking",
+                "latitude": 49.26093706657602,
+                "longitude": -123.25261540026648
+            },
+            {
+                "id": 685568293,
+                "name": "Sage Bistro",
+                "type": "restaurant",
+                "latitude": 49.26913041520272,
+                "longitude": -123.25683774708833
+            },
+            {
+                "id": 686460994,
+                "name": "Barn Day Care",
+                "type": "childcare",
+                "latitude": 49.26187780908774,
+                "longitude": -123.25112199552619
+            },
+            {
+                "id": 686501755,
+                "name": "Roseline Sturdy Amphitheatre",
+                "type": "theatre",
+                "latitude": 49.25449277431648,
+                "longitude": -123.2472851898765
+            },
+            {
+                "id": 797143814,
+                "name": "MacInnes Field Parkade",
+                "type": "parking",
+                "latitude": 49.26672796866023,
+                "longitude": -123.2490168692664
+            },
+            {
+                "id": 996116157,
+                "name": "Buchanan Meter Lot",
+                "type": "parking",
+                "latitude": 49.26931925948558,
+                "longitude": -123.25356658252694
+            },
+            {
+                "id": 1065949666,
+                "name": "Saw-Whet",
+                "type": "childcare",
+                "latitude": 49.26040382309511,
+                "longitude": -123.23651615992819
+            },
+            {
+                "id": 1065949667,
+                "name": "Barish",
+                "type": "childcare",
+                "latitude": 49.26047177548994,
+                "longitude": -123.23553048631136
+            },
+            {
+                "id": 1065949668,
+                "name": "Willow",
+                "type": "childcare",
+                "latitude": 49.260832772468625,
+                "longitude": -123.23533352906593
+            },
+            {
+                "id": 1420041,
+                "name": "Woodward Library",
+                "type": "library",
+                "latitude": 49.26455296572474,
+                "longitude": -123.24758894066613
+            },
+            {
+                "id": 6769648,
+                "name": "Royal Bank Cinema",
+                "type": "cinema",
+                "latitude": 49.26985348465273,
+                "longitude": -123.25460569799937
+            },
+            {
+                "id": 6769650,
+                "name": "Telus Studio Theatre",
+                "type": "theatre",
+                "latitude": 49.27000810439483,
+                "longitude": -123.2552184899219
+            },
+            {
+                "id": 6769651,
+                "name": "Chan Shun Concert Hall",
+                "type": "theatre",
+                "latitude": 49.269727607605816,
+                "longitude": -123.25507786547863
+            },
+            {
+                "id": 9430729,
+                "name": "Chapel of the Epiphany",
+                "type": "place_of_worship",
+                "latitude": 49.27155878015639,
+                "longitude": -123.25228016769326
+            },
+            {
+                "id": 9463233,
+                "name": "Regent College",
+                "type": "college",
+                "latitude": 49.265978383189555,
+                "longitude": -123.24435134834133
+            },
+            {
+                "id": 10061281,
+                "name": "X̱wi7x̱wa",
+                "type": "library",
+                "latitude": 49.26545378685537,
+                "longitude": -123.25654032746822
+            },
+            {
+                "id": 10150537,
+                "name": "UBC Bus Exchange",
+                "type": "bus_station",
+                "latitude": 49.2677476693106,
+                "longitude": -123.24781740552989
+            },
+            {
+                "id": 773142038,
+                "name": "Moon Gate",
+                "type": "nan",
+                "latitude": 49.2529591,
+                "longitude": -123.2486442
+            },
+            {
+                "id": 27989126,
+                "name": "Buchanan Building Block A",
+                "type": "nan",
+                "latitude": 49.26846484176467,
+                "longitude": -123.25495837760353
+            },
+            {
+                "id": 27989128,
+                "name": "Buchanan Building Block C",
+                "type": "nan",
+                "latitude": 49.2687366702604,
+                "longitude": -123.25432969685691
+            },
+            {
+                "id": 27989129,
+                "name": "Buchanan Building Block D",
+                "type": "nan",
+                "latitude": 49.26925636065179,
+                "longitude": -123.25429481980845
+            },
+            {
+                "id": 27989130,
+                "name": "Buchanan Building Block E",
+                "type": "nan",
+                "latitude": 49.26910858248169,
+                "longitude": -123.25369895076344
+            },
+            {
+                "id": 27989131,
+                "name": "Buchanan Tower",
+                "type": "nan",
+                "latitude": 49.268580117149476,
+                "longitude": -123.25345090441662
+            },
+            {
+                "id": 27989134,
+                "name": "Student Recreation Centre",
+                "type": "nan",
+                "latitude": 49.26830079174997,
+                "longitude": -123.24897280451232
+            },
+            {
+                "id": 33176122,
+                "name": "Aquatic Ecosystems Research Laboratory",
+                "type": "nan",
+                "latitude": 49.26374376687626,
+                "longitude": -123.25098522579768
+            },
+            {
+                "id": 33176124,
+                "name": "Food, Nutrition and Health Building",
+                "type": "nan",
+                "latitude": 49.26399173024335,
+                "longitude": -123.24971538535263
+            },
+            {
+                "id": 33176178,
+                "name": "Museum of Anthropology",
+                "type": "nan",
+                "latitude": 49.269498306862104,
+                "longitude": -123.25939056662642
+            },
+            {
+                "id": 36810743,
+                "name": "Sing Tao Building",
+                "type": "nan",
+                "latitude": 49.26782865993558,
+                "longitude": -123.25775763442333
+            },
+            {
+                "id": 36810745,
+                "name": "Morris and Helen Belkin Art Gallery",
+                "type": "nan",
+                "latitude": 49.26817871618572,
+                "longitude": -123.2561956057955
+            },
+            {
+                "id": 36810746,
+                "name": "Music Building",
+                "type": "nan",
+                "latitude": 49.26743231582849,
+                "longitude": -123.25678571277231
+            },
+            {
+                "id": 36810747,
+                "name": "Frederic Lasserre Building",
+                "type": "nan",
+                "latitude": 49.26758500491693,
+                "longitude": -123.25597863246232
+            },
+            {
+                "id": 36810749,
+                "name": "Auditorium Annex Offices",
+                "type": "nan",
+                "latitude": 49.26643395,
+                "longitude": -123.25671355
+            },
+            {
+                "id": 36810751,
+                "name": "Old Administration Building",
+                "type": "nan",
+                "latitude": 49.267103410043624,
+                "longitude": -123.25551767496522
+            },
+            {
+                "id": 36810753,
+                "name": "Math Annex",
+                "type": "nan",
+                "latitude": 49.266091013906234,
+                "longitude": -123.2548384529778
+            },
+            {
+                "id": 36811090,
+                "name": "Abdul Ladha Science Student Centre",
+                "type": "nan",
+                "latitude": 49.26607435874908,
+                "longitude": -123.2513707217003
+            },
+            {
+                "id": 36811093,
+                "name": "Michael Smith Laboratories",
+                "type": "nan",
+                "latitude": 49.26455219426224,
+                "longitude": -123.25024038214322
+            },
+            {
+                "id": 36827412,
+                "name": "Brock Hall",
+                "type": "nan",
+                "latitude": 49.26864139988826,
+                "longitude": -123.25207836933033
+            },
+            {
+                "id": 36827447,
+                "name": "West Coast Suites",
+                "type": "nan",
+                "latitude": 49.269601401256395,
+                "longitude": -123.24858551624229
+            },
+            {
+                "id": 36827456,
+                "name": "Gage Apartments",
+                "type": "nan",
+                "latitude": 49.270158071329455,
+                "longitude": -123.24902800539165
+            },
+            {
+                "id": 36834529,
+                "name": "Education Library",
+                "type": "nan",
+                "latitude": 49.263778245487885,
+                "longitude": -123.25332089555846
+            },
+            {
+                "id": 36834532,
+                "name": "St. John's College",
+                "type": "nan",
+                "latitude": 49.26253819375264,
+                "longitude": -123.2567969310278
+            },
+            {
+                "id": 36835354,
+                "name": "Cunningham Building",
+                "type": "nan",
+                "latitude": 49.2647624160124,
+                "longitude": -123.24871753916705
+            },
+            {
+                "id": 36835369,
+                "name": "Medical Science Block C",
+                "type": "nan",
+                "latitude": 49.2649447,
+                "longitude": -123.24786019999999
+            },
+            {
+                "id": 36835371,
+                "name": "Friedman Building",
+                "type": "nan",
+                "latitude": 49.26534152971438,
+                "longitude": -123.24623055424868
+            },
+            {
+                "id": 36835372,
+                "name": "Macdonald Building",
+                "type": "nan",
+                "latitude": 49.26532539289396,
+                "longitude": -123.24532695917337
+            },
+            {
+                "id": 36835373,
+                "name": "David Strangway Building",
+                "type": "nan",
+                "latitude": 49.26583023712027,
+                "longitude": -123.2461689488157
+            },
+            {
+                "id": 36835375,
+                "name": "Beaty Biodiversity Museum",
+                "type": "nan",
+                "latitude": 49.263213715766554,
+                "longitude": -123.25092583907792
+            },
+            {
+                "id": 36835376,
+                "name": "Stirling House",
+                "type": "nan",
+                "latitude": 49.27047666661538,
+                "longitude": -123.25246873173643
+            },
+            {
+                "id": 36835377,
+                "name": "St. Andrew's Hall",
+                "type": "nan",
+                "latitude": 49.2701068716518,
+                "longitude": -123.2517381555138
+            },
+            {
+                "id": 36835379,
+                "name": "Westpoint",
+                "type": "nan",
+                "latitude": 49.270238771599765,
+                "longitude": -123.25048920659158
+            },
+            {
+                "id": 36835380,
+                "name": "Somerville House",
+                "type": "nan",
+                "latitude": 49.270395211452175,
+                "longitude": -123.25105969340898
+            },
+            {
+                "id": 36835381,
+                "name": "Argyll House West",
+                "type": "nan",
+                "latitude": 49.27077877898877,
+                "longitude": -123.25135525273443
+            },
+            {
+                "id": 36835383,
+                "name": "Argyll House East",
+                "type": "nan",
+                "latitude": 49.27142325772403,
+                "longitude": -123.24956056555651
+            },
+            {
+                "id": 50691590,
+                "name": "Ross House",
+                "type": "nan",
+                "latitude": 49.26558820644916,
+                "longitude": -123.24192632515114
+            },
+            {
+                "id": 50691591,
+                "name": "Mackenzie House",
+                "type": "nan",
+                "latitude": 49.26482221737443,
+                "longitude": -123.24198433916452
+            },
+            {
+                "id": 50691967,
+                "name": "Chaucer Hall",
+                "type": "nan",
+                "latitude": 49.26429955760287,
+                "longitude": -123.24293107175059
+            },
+            {
+                "id": 50691972,
+                "name": "Keats Hall",
+                "type": "nan",
+                "latitude": 49.263485486582304,
+                "longitude": -123.24222038174248
+            },
+            {
+                "id": 54926857,
+                "name": "Campus Energy Center",
+                "type": "nan",
+                "latitude": 49.26165675,
+                "longitude": -123.2450635
+            },
+            {
+                "id": 56055484,
+                "name": "Ichibo-an, Tea House",
+                "type": "nan",
+                "latitude": 49.266172234174235,
+                "longitude": -123.25914955547543
+            },
+            {
+                "id": 56055489,
+                "name": "Shed",
+                "type": "nan",
+                "latitude": 49.26584538348511,
+                "longitude": -123.2594225894733
+            },
+            {
+                "id": 56701161,
+                "name": "Earth Sciences Building",
+                "type": "nan",
+                "latitude": 49.262995604982514,
+                "longitude": -123.25214212028912
+            },
+            {
+                "id": 83425769,
+                "name": "Corus",
+                "type": "nan",
+                "latitude": 49.2706272227313,
+                "longitude": -123.2493968350221
+            },
+            {
+                "id": 83425874,
+                "name": "Trinity Central",
+                "type": "nan",
+                "latitude": 49.27162123525994,
+                "longitude": -123.2484437489643
+            },
+            {
+                "id": 83425875,
+                "name": "Carey Centre",
+                "type": "nan",
+                "latitude": 49.27152767576544,
+                "longitude": -123.24890415421083
+            },
+            {
+                "id": 83425876,
+                "name": "Trinity Central",
+                "type": "nan",
+                "latitude": 49.2718269653031,
+                "longitude": -123.24859493815272
+            },
+            {
+                "id": 83425877,
+                "name": "Esse",
+                "type": "nan",
+                "latitude": 49.2712146523634,
+                "longitude": -123.2483514458214
+            },
+            {
+                "id": 83429055,
+                "name": "East Tower",
+                "type": "nan",
+                "latitude": 49.269636906524326,
+                "longitude": -123.24916990195923
+            },
+            {
+                "id": 83429056,
+                "name": "South Tower",
+                "type": "nan",
+                "latitude": 49.2692027141527,
+                "longitude": -123.24973104610054
+            },
+            {
+                "id": 83429057,
+                "name": "Walter Gage Residence",
+                "type": "nan",
+                "latitude": 49.26953733681223,
+                "longitude": -123.24983816557112
+            },
+            {
+                "id": 83429058,
+                "name": "North Tower",
+                "type": "nan",
+                "latitude": 49.26984541584964,
+                "longitude": -123.25002802079486
+            },
+            {
+                "id": 83433026,
+                "name": "Geography Building",
+                "type": "nan",
+                "latitude": 49.26597812034923,
+                "longitude": -123.25614052809617
+            },
+            {
+                "id": 83433027,
+                "name": "Mathematics Building",
+                "type": "nan",
+                "latitude": 49.26644959974491,
+                "longitude": -123.25555415730862
+            },
+            {
+                "id": 83433028,
+                "name": "Old Auditorium",
+                "type": "nan",
+                "latitude": 49.266899962804345,
+                "longitude": -123.25607711563438
+            },
+            {
+                "id": 83433162,
+                "name": "University Transition Program",
+                "type": "nan",
+                "latitude": 49.26662751814571,
+                "longitude": -123.25658772136984
+            },
+            {
+                "id": 83433307,
+                "name": "Henry Angus Building",
+                "type": "nan",
+                "latitude": 49.26508760038769,
+                "longitude": -123.253893104245
+            },
+            {
+                "id": 83441340,
+                "name": "Centre For Advanced Wood Processing",
+                "type": "nan",
+                "latitude": 49.26081296124284,
+                "longitude": -123.24726878856039
+            },
+            {
+                "id": 83441658,
+                "name": "Wesbrook Building",
+                "type": "nan",
+                "latitude": 49.26525356920179,
+                "longitude": -123.24923423178343
+            },
+            {
+                "id": 83443396,
+                "name": "Chemistry Physics Building",
+                "type": "nan",
+                "latitude": 49.26572569441805,
+                "longitude": -123.2515209173017
+            },
+            {
+                "id": 83443398,
+                "name": "Hebb Theater",
+                "type": "nan",
+                "latitude": 49.266247508988954,
+                "longitude": -123.25149952140028
+            },
+            {
+                "id": 83443400,
+                "name": "Hebb Building",
+                "type": "nan",
+                "latitude": 49.266049952204604,
+                "longitude": -123.25177541155183
+            },
+            {
+                "id": 83443401,
+                "name": "Chemistry Building",
+                "type": "nan",
+                "latitude": 49.26593611893424,
+                "longitude": -123.25280282094938
+            },
+            {
+                "id": 83443402,
+                "name": "Chemistry Building",
+                "type": "nan",
+                "latitude": 49.26538695454807,
+                "longitude": -123.25236468631259
+            },
+            {
+                "id": 83443403,
+                "name": "Hennings Building",
+                "type": "nan",
+                "latitude": 49.266439175260764,
+                "longitude": -123.25221668155541
+            },
+            {
+                "id": 83469499,
+                "name": "Biological Sciences Building",
+                "type": "nan",
+                "latitude": 49.2644346212038,
+                "longitude": -123.25135144059995
+            },
+            {
+                "id": 83469502,
+                "name": "UBC Bookstore",
+                "type": "nan",
+                "latitude": 49.265030122740654,
+                "longitude": -123.25062236552328
+            },
+            {
+                "id": 83542777,
+                "name": "Neville Scarfe Building",
+                "type": "nan",
+                "latitude": 49.26400918434315,
+                "longitude": -123.25302343039156
+            },
+            {
+                "id": 89185122,
+                "name": "Forest Sciences Centre",
+                "type": "nan",
+                "latitude": 49.26042642281995,
+                "longitude": -123.24831464940897
+            },
+            {
+                "id": 91208093,
+                "name": "Buchanan Building Block B",
+                "type": "nan",
+                "latitude": 49.268107543308034,
+                "longitude": -123.25472272637737
+            },
+            {
+                "id": 91208094,
+                "name": "Buchanan Building Block B",
+                "type": "nan",
+                "latitude": 49.26827827820658,
+                "longitude": -123.2542403531642
+            },
+            {
+                "id": 98675523,
+                "name": "Environmental Services Facility - Solvent Storage",
+                "type": "nan",
+                "latitude": 49.243471050000004,
+                "longitude": -123.22900225000002
+            },
+            {
+                "id": 98675524,
+                "name": "In-Vessel Composting Facility",
+                "type": "nan",
+                "latitude": 49.24488539365192,
+                "longitude": -123.22802638348202
+            },
+            {
+                "id": 98675525,
+                "name": "Environmental Services Facility - Solvent Lab",
+                "type": "nan",
+                "latitude": 49.24333307017615,
+                "longitude": -123.22866984902193
+            },
+            {
+                "id": 98675526,
+                "name": "Design Office",
+                "type": "nan",
+                "latitude": 49.24661945412914,
+                "longitude": -123.23061184678767
+            },
+            {
+                "id": 98675527,
+                "name": "South Campus Warehouse",
+                "type": "nan",
+                "latitude": 49.2462496,
+                "longitude": -123.23186565
+            },
+            {
+                "id": 98675528,
+                "name": "Work / Machine Shop",
+                "type": "nan",
+                "latitude": 49.24624008781278,
+                "longitude": -123.23007514053361
+            },
+            {
+                "id": 98675530,
+                "name": "Environmental Services Facility - Pcb Containers",
+                "type": "nan",
+                "latitude": 49.243371366666665,
+                "longitude": -123.22798879999999
+            },
+            {
+                "id": 98675531,
+                "name": "Environmental Services Facility - Pcb Containers",
+                "type": "nan",
+                "latitude": 49.24335083333333,
+                "longitude": -123.2281448
+            },
+            {
+                "id": 98675532,
+                "name": "Plant Services Storage Shed",
+                "type": "nan",
+                "latitude": 49.245998689533685,
+                "longitude": -123.2304467460391
+            },
+            {
+                "id": 98675533,
+                "name": "Environmental Services Facility - Pcb Containers",
+                "type": "nan",
+                "latitude": 49.24336110000001,
+                "longitude": -123.22806680000001
+            },
+            {
+                "id": 98675534,
+                "name": "Environmental Services Facility - Incinerator",
+                "type": "nan",
+                "latitude": 49.24367822611446,
+                "longitude": -123.2290236193166
+            },
+            {
+                "id": 98675535,
+                "name": "Shipping and Receiving, Stores",
+                "type": "nan",
+                "latitude": 49.246461988653685,
+                "longitude": -123.23056785444047
+            },
+            {
+                "id": 98675536,
+                "name": "Environmental Services Facility - Pcb Containers",
+                "type": "nan",
+                "latitude": 49.2433406,
+                "longitude": -123.2282228
+            },
+            {
+                "id": 98675538,
+                "name": "Environmental Services Facility - Chemical Waste Processing",
+                "type": "nan",
+                "latitude": 49.24344382382978,
+                "longitude": -123.2287372465473
+            },
+            {
+                "id": 98677999,
+                "name": "Hazmat",
+                "type": "nan",
+                "latitude": 49.246727591745966,
+                "longitude": -123.22932677185369
+            },
+            {
+                "id": 98678000,
+                "name": "Cooling",
+                "type": "nan",
+                "latitude": 49.24668428139198,
+                "longitude": -123.229572781437
+            },
+            {
+                "id": 98678756,
+                "name": "TRIUMF - Service Annex Extension",
+                "type": "nan",
+                "latitude": 49.246925250140194,
+                "longitude": -123.23024864094782
+            },
+            {
+                "id": 98678757,
+                "name": "Accelerator & Experimental Building",
+                "type": "nan",
+                "latitude": 49.24723656552318,
+                "longitude": -123.22941647265293
+            },
+            {
+                "id": 98678758,
+                "name": "TRIUMF - Bio Medical Facility",
+                "type": "nan",
+                "latitude": 49.24707632202769,
+                "longitude": -123.22884531144929
+            },
+            {
+                "id": 98678759,
+                "name": "TRIUMF - M15 Experimental Bldg.",
+                "type": "nan",
+                "latitude": 49.247039099999995,
+                "longitude": -123.22912529999999
+            },
+            {
+                "id": 98678760,
+                "name": "TRIUMF - Radio Chemistry Annex",
+                "type": "nan",
+                "latitude": 49.24775772099131,
+                "longitude": -123.22869308287237
+            },
+            {
+                "id": 98678761,
+                "name": "TRIUMF - Meson Hall Service Annex",
+                "type": "nan",
+                "latitude": 49.24713445,
+                "longitude": -123.22843884999997
+            },
+            {
+                "id": 98678762,
+                "name": "Proton Hall Extension",
+                "type": "nan",
+                "latitude": 49.24711800726792,
+                "longitude": -123.2303993781336
+            },
+            {
+                "id": 98678763,
+                "name": "Meson Hall Extension",
+                "type": "nan",
+                "latitude": 49.247356489461666,
+                "longitude": -123.22842254406086
+            },
+            {
+                "id": 98678765,
+                "name": "TRIUMF - Service Annex",
+                "type": "nan",
+                "latitude": 49.246944302234546,
+                "longitude": -123.22974220047227
+            },
+            {
+                "id": 98678876,
+                "name": "TRIUMF ISAC1 Building",
+                "type": "nan",
+                "latitude": 49.24786226040635,
+                "longitude": -123.22947370080004
+            },
+            {
+                "id": 98678877,
+                "name": "TRIUMF ISAC2 Building",
+                "type": "nan",
+                "latitude": 49.24828364653907,
+                "longitude": -123.22938604264364
+            },
+            {
+                "id": 98678918,
+                "name": "Trailer Qq",
+                "type": "nan",
+                "latitude": 49.246825650000005,
+                "longitude": -123.23063920000003
+            },
+            {
+                "id": 98678919,
+                "name": "Plant Ops Storage",
+                "type": "nan",
+                "latitude": 49.24692546258851,
+                "longitude": -123.23080529356203
+            },
+            {
+                "id": 98678920,
+                "name": "Ariel operations",
+                "type": "nan",
+                "latitude": 49.247153158046004,
+                "longitude": -123.23086039775171
+            },
+            {
+                "id": 98678966,
+                "name": "Garbage Compactor",
+                "type": "nan",
+                "latitude": 49.2457842518832,
+                "longitude": -123.22853882953258
+            },
+            {
+                "id": 98683146,
+                "name": "Delta Kappa Epsilon",
+                "type": "nan",
+                "latitude": 49.259393904941135,
+                "longitude": -123.23906448903587
+            },
+            {
+                "id": 98683147,
+                "name": "Fraser Hall",
+                "type": "nan",
+                "latitude": 49.26147824310398,
+                "longitude": -123.24073691642658
+            },
+            {
+                "id": 98683148,
+                "name": "Alpha Delta Phi",
+                "type": "nan",
+                "latitude": 49.25956018862825,
+                "longitude": -123.23860063057724
+            },
+            {
+                "id": 98683150,
+                "name": "TRIUMF House",
+                "type": "nan",
+                "latitude": 49.26202626485469,
+                "longitude": -123.24118598278206
+            },
+            {
+                "id": 98683151,
+                "name": "Spirit Park Apartments",
+                "type": "nan",
+                "latitude": 49.26149517324667,
+                "longitude": -123.23937812718792
+            },
+            {
+                "id": 98683157,
+                "name": "Kappa Sigma",
+                "type": "nan",
+                "latitude": 49.25973501627282,
+                "longitude": -123.23935690644115
+            },
+            {
+                "id": 98683158,
+                "name": "Panhellenic Sorority House",
+                "type": "nan",
+                "latitude": 49.26011107518619,
+                "longitude": -123.23958493317885
+            },
+            {
+                "id": 98683159,
+                "name": "Point Grey Apartments",
+                "type": "nan",
+                "latitude": 49.25996090119988,
+                "longitude": -123.23798538330828
+            },
+            {
+                "id": 98683161,
+                "name": "Berwick Memorial Centre",
+                "type": "nan",
+                "latitude": 49.26059805092611,
+                "longitude": -123.23895527590157
+            },
+            {
+                "id": 98683163,
+                "name": "Sigma Chi",
+                "type": "nan",
+                "latitude": 49.25982664322372,
+                "longitude": -123.23914735980465
+            },
+            {
+                "id": 98683164,
+                "name": "Phi Gamma Delta",
+                "type": "nan",
+                "latitude": 49.25998167916718,
+                "longitude": -123.23866316601911
+            },
+            {
+                "id": 98683165,
+                "name": "Phi Delta Theta",
+                "type": "nan",
+                "latitude": 49.25964841716349,
+                "longitude": -123.23837351428486
+            },
+            {
+                "id": 98683166,
+                "name": "Psi Upsilon",
+                "type": "nan",
+                "latitude": 49.25946938781326,
+                "longitude": -123.23883409906212
+            },
+            {
+                "id": 98822066,
+                "name": "Sandpiper/Auklet",
+                "type": "nan",
+                "latitude": 49.260261958368275,
+                "longitude": -123.23474239913764
+            },
+            {
+                "id": 98822756,
+                "name": "C.C.S Administration",
+                "type": "nan",
+                "latitude": 49.260919761550106,
+                "longitude": -123.23422869472189
+            },
+            {
+                "id": 98822845,
+                "name": "Acadia House",
+                "type": "nan",
+                "latitude": 49.263078929454885,
+                "longitude": -123.23607380125384
+            },
+            {
+                "id": 98822846,
+                "name": "Sopron House",
+                "type": "nan",
+                "latitude": 49.262177318869526,
+                "longitude": -123.23534490639517
+            },
+            {
+                "id": 98822847,
+                "name": "Kids Club (Prince Rupert Child Care)",
+                "type": "nan",
+                "latitude": 49.26172961639688,
+                "longitude": -123.23481229940631
+            },
+            {
+                "id": 98822848,
+                "name": "Acadia Community Centre",
+                "type": "nan",
+                "latitude": 49.262629519559646,
+                "longitude": -123.23735245795125
+            },
+            {
+                "id": 98822849,
+                "name": "Acadia House",
+                "type": "nan",
+                "latitude": 49.262686573116284,
+                "longitude": -123.23575140221652
+            },
+            {
+                "id": 98822851,
+                "name": "Acadia High Rise",
+                "type": "nan",
+                "latitude": 49.26232040093592,
+                "longitude": -123.2368276989994
+            },
+            {
+                "id": 98824374,
+                "name": "Fairview Crescent Residence",
+                "type": "nan",
+                "latitude": 49.263250108890425,
+                "longitude": -123.24000447048157
+            },
+            {
+                "id": 98824376,
+                "name": "Fairview Crescent Residence",
+                "type": "nan",
+                "latitude": 49.26262958246955,
+                "longitude": -123.23922109432411
+            },
+            {
+                "id": 98824379,
+                "name": "Fairview Crescent Residence",
+                "type": "nan",
+                "latitude": 49.26310693527817,
+                "longitude": -123.23952687799597
+            },
+            {
+                "id": 98824380,
+                "name": "Fairview Crescent Residence",
+                "type": "nan",
+                "latitude": 49.26298150872489,
+                "longitude": -123.24058271132392
+            },
+            {
+                "id": 98824394,
+                "name": "Acadia Faculty Row Housing",
+                "type": "nan",
+                "latitude": 49.26531755155415,
+                "longitude": -123.238995366519
+            },
+            {
+                "id": 98824399,
+                "name": "Fairview Crescent Residence",
+                "type": "nan",
+                "latitude": 49.26312221566233,
+                "longitude": -123.23899377921457
+            },
+            {
+                "id": 98824408,
+                "name": "Fairview Crescent Residence",
+                "type": "nan",
+                "latitude": 49.263490931517424,
+                "longitude": -123.24029470455936
+            },
+            {
+                "id": 98824411,
+                "name": "Acadia Faculty Row Housing",
+                "type": "nan",
+                "latitude": 49.265080154076884,
+                "longitude": -123.23966985792921
+            },
+            {
+                "id": 98824416,
+                "name": "Acadia Faculty Row Housing",
+                "type": "nan",
+                "latitude": 49.26555358226739,
+                "longitude": -123.23832487219407
+            },
+            {
+                "id": 98828743,
+                "name": "Botanical Garden Nursery - Shadehouse",
+                "type": "nan",
+                "latitude": 49.24928220794972,
+                "longitude": -123.23512301654877
+            },
+            {
+                "id": 98828744,
+                "name": "Botanical Garden Nursery - Lunchroom",
+                "type": "nan",
+                "latitude": 49.2497096834565,
+                "longitude": -123.23438906790524
+            },
+            {
+                "id": 98828745,
+                "name": "Botanical Garden Nursery - Workshop",
+                "type": "nan",
+                "latitude": 49.24948407824232,
+                "longitude": -123.23448562790475
+            },
+            {
+                "id": 98828747,
+                "name": "Botanical Garden Nursery - Workshop",
+                "type": "nan",
+                "latitude": 49.24981019999999,
+                "longitude": -123.23527380000002
+            },
+            {
+                "id": 98828748,
+                "name": "Paprican",
+                "type": "nan",
+                "latitude": 49.25019989387629,
+                "longitude": -123.23029972772056
+            },
+            {
+                "id": 98828749,
+                "name": "Botanical Garden Nursery - Greenhouse& Workshop",
+                "type": "nan",
+                "latitude": 49.249650867587796,
+                "longitude": -123.23422388715359
+            },
+            {
+                "id": 98828750,
+                "name": "Botanical Garden Nursery - Greenhouse",
+                "type": "nan",
+                "latitude": 49.24963649273979,
+                "longitude": -123.23480333322614
+            },
+            {
+                "id": 98828797,
+                "name": "Plant Science Field Building",
+                "type": "nan",
+                "latitude": 49.250772790216395,
+                "longitude": -123.23798073466412
+            },
+            {
+                "id": 98828798,
+                "name": "Forestry Field House",
+                "type": "nan",
+                "latitude": 49.25156079960588,
+                "longitude": -123.24013833294367
+            },
+            {
+                "id": 98828800,
+                "name": "Plant Science Field Building",
+                "type": "nan",
+                "latitude": 49.25069150881218,
+                "longitude": -123.2378052665699
+            },
+            {
+                "id": 98828801,
+                "name": "Seed Hoophouse",
+                "type": "nan",
+                "latitude": 49.25104555000001,
+                "longitude": -123.23900934999999
+            },
+            {
+                "id": 98828802,
+                "name": "Seedling Greenhouse",
+                "type": "nan",
+                "latitude": 49.25114938939682,
+                "longitude": -123.23894753987037
+            },
+            {
+                "id": 98830549,
+                "name": "Campbell Building",
+                "type": "nan",
+                "latitude": 49.253884159252316,
+                "longitude": -123.25110613360413
+            },
+            {
+                "id": 98830550,
+                "name": "Reception Centre",
+                "type": "nan",
+                "latitude": 49.25414956940268,
+                "longitude": -123.25124043772662
+            },
+            {
+                "id": 98830551,
+                "name": "Garden Pavilion - Public Service Centre",
+                "type": "nan",
+                "latitude": 49.25324885686538,
+                "longitude": -123.24712274974999
+            },
+            {
+                "id": 98830552,
+                "name": "Alpine Garden",
+                "type": "nan",
+                "latitude": 49.2536441,
+                "longitude": -123.2458387
+            },
+            {
+                "id": 98830553,
+                "name": "Gate House",
+                "type": "nan",
+                "latitude": 49.25498176340674,
+                "longitude": -123.24691299687176
+            },
+            {
+                "id": 98830554,
+                "name": "Greenhouse",
+                "type": "nan",
+                "latitude": 49.254842786591226,
+                "longitude": -123.24753760528515
+            },
+            {
+                "id": 98830556,
+                "name": "Botanical Garden Centre - Lookout Tower",
+                "type": "nan",
+                "latitude": 49.25407720737697,
+                "longitude": -123.25164371198812
+            },
+            {
+                "id": 98837413,
+                "name": "Aldyen Hamber House",
+                "type": "nan",
+                "latitude": 49.26526671952981,
+                "longitude": -123.25879417842836
+            },
+            {
+                "id": 98837414,
+                "name": "Cariboo House",
+                "type": "nan",
+                "latitude": 49.26374050125023,
+                "longitude": -123.25897305879874
+            },
+            {
+                "id": 98837415,
+                "name": "Robson House",
+                "type": "nan",
+                "latitude": 49.263908192191415,
+                "longitude": -123.25843739618885
+            },
+            {
+                "id": 98837416,
+                "name": "Okanagan House",
+                "type": "nan",
+                "latitude": 49.26435018069728,
+                "longitude": -123.25778040040232
+            },
+            {
+                "id": 98837418,
+                "name": "Margaret Mackenzie House",
+                "type": "nan",
+                "latitude": 49.265689814267425,
+                "longitude": -123.25914208877423
+            },
+            {
+                "id": 98837419,
+                "name": "Korea House",
+                "type": "nan",
+                "latitude": 49.26460941147695,
+                "longitude": -123.26000998449362
+            },
+            {
+                "id": 98837420,
+                "name": "Tweedsmuir House",
+                "type": "nan",
+                "latitude": 49.26347927489192,
+                "longitude": -123.25830679862669
+            },
+            {
+                "id": 98837421,
+                "name": "Sherwood Lett House",
+                "type": "nan",
+                "latitude": 49.263393394465965,
+                "longitude": -123.25753349040518
+            },
+            {
+                "id": 98837422,
+                "name": "Phyllis Ross House",
+                "type": "nan",
+                "latitude": 49.26532067595425,
+                "longitude": -123.25961269939252
+            },
+            {
+                "id": 98837424,
+                "name": "Gordon Shrum Common Block",
+                "type": "nan",
+                "latitude": 49.26465626770968,
+                "longitude": -123.25857778448767
+            },
+            {
+                "id": 98837425,
+                "name": "Dorothy Mawdsley House",
+                "type": "nan",
+                "latitude": 49.26485893067713,
+                "longitude": -123.25950926898406
+            },
+            {
+                "id": 98837426,
+                "name": "Tec De Monterrey",
+                "type": "nan",
+                "latitude": 49.264032880421745,
+                "longitude": -123.25953580264253
+            },
+            {
+                "id": 98837427,
+                "name": "Kootenay House",
+                "type": "nan",
+                "latitude": 49.26387728177484,
+                "longitude": -123.25764051010904
+            },
+            {
+                "id": 98837482,
+                "name": "Marine Drive Commons Block",
+                "type": "nan",
+                "latitude": 49.26141848204468,
+                "longitude": -123.25678286647843
+            },
+            {
+                "id": 98837483,
+                "name": "Lower Mall Research Station",
+                "type": "nan",
+                "latitude": 49.26054189748499,
+                "longitude": -123.25551910361332
+            },
+            {
+                "id": 98837484,
+                "name": "Simon K.Y. Lee Hku-Ubc House",
+                "type": "nan",
+                "latitude": 49.26200277496972,
+                "longitude": -123.25588559161439
+            },
+            {
+                "id": 98837486,
+                "name": "Research Station Annex 6",
+                "type": "nan",
+                "latitude": 49.260699550000005,
+                "longitude": -123.25451430000003
+            },
+            {
+                "id": 98837487,
+                "name": "Marine Drive Residence - 5",
+                "type": "nan",
+                "latitude": 49.26111567976382,
+                "longitude": -123.25490822821668
+            },
+            {
+                "id": 98837489,
+                "name": "Marine Drive Residence - 4",
+                "type": "nan",
+                "latitude": 49.26155850951515,
+                "longitude": -123.25535455320703
+            },
+            {
+                "id": 98837490,
+                "name": "Marine Drive Residence - 6",
+                "type": "nan",
+                "latitude": 49.26107575583264,
+                "longitude": -123.25607491538777
+            },
+            {
+                "id": 98837491,
+                "name": "Lower Mall Header House",
+                "type": "nan",
+                "latitude": 49.26059525,
+                "longitude": -123.25480314999999
+            },
+            {
+                "id": 98837492,
+                "name": "Marine Drive Residence - 2",
+                "type": "nan",
+                "latitude": 49.26187463465168,
+                "longitude": -123.25676783656624
+            },
+            {
+                "id": 98837839,
+                "name": "Kwakiutl House",
+                "type": "nan",
+                "latitude": 49.259604282543485,
+                "longitude": -123.25239639009594
+            },
+            {
+                "id": 98837841,
+                "name": "Dene House",
+                "type": "nan",
+                "latitude": 49.25869663298557,
+                "longitude": -123.25353297564273
+            },
+            {
+                "id": 98837842,
+                "name": "Nootka House",
+                "type": "nan",
+                "latitude": 49.2586951475279,
+                "longitude": -123.2529253527676
+            },
+            {
+                "id": 98837843,
+                "name": "Coquihalla Common Block",
+                "type": "nan",
+                "latitude": 49.25802850309109,
+                "longitude": -123.25301678611174
+            },
+            {
+                "id": 98837844,
+                "name": "TOTEM PARK 1",
+                "type": "nan",
+                "latitude": 49.25933928400357,
+                "longitude": -123.2523272981871
+            },
+            {
+                "id": 98837845,
+                "name": "Salish House",
+                "type": "nan",
+                "latitude": 49.257454183743675,
+                "longitude": -123.25293309737133
+            },
+            {
+                "id": 98837846,
+                "name": "Haida House",
+                "type": "nan",
+                "latitude": 49.25745270610748,
+                "longitude": -123.25232546126576
+            },
+            {
+                "id": 98837847,
+                "name": "Shuswap House",
+                "type": "nan",
+                "latitude": 49.2590742728795,
+                "longitude": -123.25225827402471
+            },
+            {
+                "id": 98837848,
+                "name": "Ritsumeikan House",
+                "type": "nan",
+                "latitude": 49.260100411374566,
+                "longitude": -123.2530056094619
+            },
+            {
+                "id": 98838326,
+                "name": "Campus & Community Planning 1",
+                "type": "nan",
+                "latitude": 49.262360431204065,
+                "longitude": -123.25319887753537
+            },
+            {
+                "id": 98838327,
+                "name": "University Services Building",
+                "type": "nan",
+                "latitude": 49.26130346187247,
+                "longitude": -123.25378047826233
+            },
+            {
+                "id": 98838328,
+                "name": "Plant Operations Exterior Storage Shed",
+                "type": "nan",
+                "latitude": 49.26218482178551,
+                "longitude": -123.25441405199535
+            },
+            {
+                "id": 98838329,
+                "name": "Swing Space Building",
+                "type": "nan",
+                "latitude": 49.26279088226748,
+                "longitude": -123.25438790854867
+            },
+            {
+                "id": 98838332,
+                "name": "Douglas T. Kenny Building",
+                "type": "nan",
+                "latitude": 49.26331763966629,
+                "longitude": -123.25386710638637
+            },
+            {
+                "id": 98838333,
+                "name": "Continuing Studies Building",
+                "type": "nan",
+                "latitude": 49.26335217605317,
+                "longitude": -123.25501586653375
+            },
+            {
+                "id": 98838335,
+                "name": "Campus & Community Planning 2",
+                "type": "nan",
+                "latitude": 49.26255925725665,
+                "longitude": -123.25340732267065
+            },
+            {
+                "id": 98838429,
+                "name": "Theatre-Film Production Building - Annex",
+                "type": "nan",
+                "latitude": 49.263798703903134,
+                "longitude": -123.25384837969928
+            },
+            {
+                "id": 98838430,
+                "name": "Theatre-Film Production Building",
+                "type": "nan",
+                "latitude": 49.263900286714865,
+                "longitude": -123.25396728652781
+            },
+            {
+                "id": 98962411,
+                "name": "Earth & Ocean Sciences - South",
+                "type": "nan",
+                "latitude": 49.26212549754062,
+                "longitude": -123.25227397466293
+            },
+            {
+                "id": 98962412,
+                "name": "Wood Products Laboratory",
+                "type": "nan",
+                "latitude": 49.26145148211479,
+                "longitude": -123.2522691955108
+            },
+            {
+                "id": 98962414,
+                "name": "Horticulture Building",
+                "type": "nan",
+                "latitude": 49.26139506767506,
+                "longitude": -123.25277192610126
+            },
+            {
+                "id": 98962415,
+                "name": "Earth & Ocean Sciences - Main",
+                "type": "nan",
+                "latitude": 49.26256814409782,
+                "longitude": -123.25251631466396
+            },
+            {
+                "id": 98962417,
+                "name": "Stores Road Annex",
+                "type": "nan",
+                "latitude": 49.261647683868674,
+                "longitude": -123.25237126461768
+            },
+            {
+                "id": 98962418,
+                "name": "Centre Of Coal And Mineral Processing",
+                "type": "nan",
+                "latitude": 49.261131724625265,
+                "longitude": -123.25209559936725
+            },
+            {
+                "id": 98962420,
+                "name": "Frank Forward Building - Metallurgy",
+                "type": "nan",
+                "latitude": 49.26168631872172,
+                "longitude": -123.25170674467219
+            },
+            {
+                "id": 98962421,
+                "name": "Landscape Architecture Annex",
+                "type": "nan",
+                "latitude": 49.260646746165605,
+                "longitude": -123.25007343499152
+            },
+            {
+                "id": 98962816,
+                "name": "B3 Selkirk",
+                "type": "nan",
+                "latitude": 49.2593350139257,
+                "longitude": -123.249772971346
+            },
+            {
+                "id": 98962817,
+                "name": "B2 Selkirk",
+                "type": "nan",
+                "latitude": 49.25910342278478,
+                "longitude": -123.24946952281539
+            },
+            {
+                "id": 98962819,
+                "name": "Legacy",
+                "type": "nan",
+                "latitude": 49.25745684990728,
+                "longitude": -123.2480163202218
+            },
+            {
+                "id": 98962825,
+                "name": "C2 Hazelton",
+                "type": "nan",
+                "latitude": 49.25948925672937,
+                "longitude": -123.25058654382367
+            },
+            {
+                "id": 98962827,
+                "name": "B1 Coast",
+                "type": "nan",
+                "latitude": 49.258851211512514,
+                "longitude": -123.25017934383195
+            },
+            {
+                "id": 98962834,
+                "name": "B2 Selkirk",
+                "type": "nan",
+                "latitude": 49.25939483274241,
+                "longitude": -123.24932208169385
+            },
+            {
+                "id": 98962836,
+                "name": "C1 Hazelton",
+                "type": "nan",
+                "latitude": 49.25947860563785,
+                "longitude": -123.25108978976145
+            },
+            {
+                "id": 98962838,
+                "name": "Staff And Faculty Housing",
+                "type": "nan",
+                "latitude": 49.258728104405996,
+                "longitude": -123.24896644762599
+            },
+            {
+                "id": 98962846,
+                "name": "Cascara House",
+                "type": "nan",
+                "latitude": 49.258465150000504,
+                "longitude": -123.2496694004344
+            },
+            {
+                "id": 98962850,
+                "name": "B1 Coast",
+                "type": "nan",
+                "latitude": 49.258931457270755,
+                "longitude": -123.25060314545073
+            },
+            {
+                "id": 98962854,
+                "name": "Hawthorn Green",
+                "type": "nan",
+                "latitude": 49.25817277983639,
+                "longitude": -123.24858332438599
+            },
+            {
+                "id": 98962856,
+                "name": "B4 Coast",
+                "type": "nan",
+                "latitude": 49.259144602552304,
+                "longitude": -123.25031139698335
+            },
+            {
+                "id": 98962857,
+                "name": "C1 Hazelton",
+                "type": "nan",
+                "latitude": 49.25975399635404,
+                "longitude": -123.25095861933826
+            },
+            {
+                "id": 98963079,
+                "name": "Nine On The Park",
+                "type": "nan",
+                "latitude": 49.25932204302691,
+                "longitude": -123.24704297107186
+            },
+            {
+                "id": 98963080,
+                "name": "Clements Green",
+                "type": "nan",
+                "latitude": 49.25821328016518,
+                "longitude": -123.24584315695526
+            },
+            {
+                "id": 98963084,
+                "name": "Reflections",
+                "type": "nan",
+                "latitude": 49.25824871252024,
+                "longitude": -123.24689715150545
+            },
+            {
+                "id": 98963085,
+                "name": "Journey",
+                "type": "nan",
+                "latitude": 49.25803220128598,
+                "longitude": -123.24748611724719
+            },
+            {
+                "id": 98969449,
+                "name": "Plant Science Field Station",
+                "type": "nan",
+                "latitude": 49.25630832139257,
+                "longitude": -123.24950124330601
+            },
+            {
+                "id": 98969450,
+                "name": "Cea Kiln",
+                "type": "nan",
+                "latitude": 49.25676529608879,
+                "longitude": -123.24555106795712
+            },
+            {
+                "id": 98969454,
+                "name": "FPInnovations",
+                "type": "nan",
+                "latitude": 49.25680837978149,
+                "longitude": -123.24443806323428
+            },
+            {
+                "id": 98969455,
+                "name": "FPInnovations - Forest Operations",
+                "type": "nan",
+                "latitude": 49.25775870248571,
+                "longitude": -123.24452196243469
+            },
+            {
+                "id": 98969457,
+                "name": "Gas Gun Facility",
+                "type": "nan",
+                "latitude": 49.25601781641884,
+                "longitude": -123.24603865048653
+            },
+            {
+                "id": 98969462,
+                "name": "Promontory Tower",
+                "type": "nan",
+                "latitude": 49.25594585731326,
+                "longitude": -123.24756637567447
+            },
+            {
+                "id": 98969463,
+                "name": "Totem Field Studios",
+                "type": "nan",
+                "latitude": 49.25613965000001,
+                "longitude": -123.2490347
+            },
+            {
+                "id": 98969464,
+                "name": "Plant Science Garage",
+                "type": "nan",
+                "latitude": 49.25644497653718,
+                "longitude": -123.24927781725381
+            },
+            {
+                "id": 98969614,
+                "name": "Rugby Pavilion",
+                "type": "nan",
+                "latitude": 49.25866873214194,
+                "longitude": -123.24401824183133
+            },
+            {
+                "id": 98969615,
+                "name": "UBC Tennis Centre",
+                "type": "nan",
+                "latitude": 49.25978199969431,
+                "longitude": -123.24494620141046
+            },
+            {
+                "id": 98969616,
+                "name": "Doug Mitchell Thunderbird Winter Sports Centre",
+                "type": "nan",
+                "latitude": 49.260610855026975,
+                "longitude": -123.242176469393
+            },
+            {
+                "id": 98969617,
+                "name": "Thunderbird Arena",
+                "type": "nan",
+                "latitude": 49.26001685181448,
+                "longitude": -123.24164944632402
+            },
+            {
+                "id": 98969618,
+                "name": "Robert F. Osborne Centre - Unit 1",
+                "type": "nan",
+                "latitude": 49.26028895382539,
+                "longitude": -123.2437228902258
+            },
+            {
+                "id": 98969620,
+                "name": "Robert F. Osborne Centre - Unit 2",
+                "type": "nan",
+                "latitude": 49.25996925420106,
+                "longitude": -123.24432013363348
+            },
+            {
+                "id": 98971022,
+                "name": "A3 Monashee",
+                "type": "nan",
+                "latitude": 49.26011443189858,
+                "longitude": -123.24748385572013
+            },
+            {
+                "id": 98971023,
+                "name": "A1 Cassiar",
+                "type": "nan",
+                "latitude": 49.26033963905573,
+                "longitude": -123.24651720946599
+            },
+            {
+                "id": 98971024,
+                "name": "A2 Monashee",
+                "type": "nan",
+                "latitude": 49.25982001393422,
+                "longitude": -123.24735258695054
+            },
+            {
+                "id": 98971025,
+                "name": "Technology Enterprise Facility",
+                "type": "nan",
+                "latitude": 49.26114926149227,
+                "longitude": -123.24630424374759
+            },
+            {
+                "id": 98971026,
+                "name": "A4 Cassiar",
+                "type": "nan",
+                "latitude": 49.26030025790193,
+                "longitude": -123.24695362024251
+            },
+            {
+                "id": 98971027,
+                "name": "A2 Monashee",
+                "type": "nan",
+                "latitude": 49.259900839268084,
+                "longitude": -123.24780871187178
+            },
+            {
+                "id": 98971028,
+                "name": "A1 Cassiar",
+                "type": "nan",
+                "latitude": 49.26006624592809,
+                "longitude": -123.24665371378312
+            },
+            {
+                "id": 99136485,
+                "name": "Gerald McGavin Building",
+                "type": "nan",
+                "latitude": 49.26178797165465,
+                "longitude": -123.24676592708563
+            },
+            {
+                "id": 99136486,
+                "name": "Life Sciences Centre",
+                "type": "nan",
+                "latitude": 49.26254027137444,
+                "longitude": -123.24511977127442
+            },
+            {
+                "id": 99136487,
+                "name": "Donald Rix Building",
+                "type": "nan",
+                "latitude": 49.26197004569904,
+                "longitude": -123.24630219252549
+            },
+            {
+                "id": 99136521,
+                "name": "Ambulance Station",
+                "type": "nan",
+                "latitude": 49.26323772947675,
+                "longitude": -123.24360466730236
+            },
+            {
+                "id": 99136522,
+                "name": "Detwiller Pavilion",
+                "type": "nan",
+                "latitude": 49.26355729615844,
+                "longitude": -123.24447309523289
+            },
+            {
+                "id": 99136527,
+                "name": "Koerner Pavilion",
+                "type": "nan",
+                "latitude": 49.26411566102458,
+                "longitude": -123.24598365398948
+            },
+            {
+                "id": 99136531,
+                "name": "Biomedical Research Centre",
+                "type": "nan",
+                "latitude": 49.264120130516865,
+                "longitude": -123.24719042126624
+            },
+            {
+                "id": 99136765,
+                "name": "School of Population and Public Health",
+                "type": "nan",
+                "latitude": 49.26423373913913,
+                "longitude": -123.24841873846385
+            },
+            {
+                "id": 99272763,
+                "name": "High Head Lab",
+                "type": "nan",
+                "latitude": 49.263591200911684,
+                "longitude": -123.24899524412866
+            },
+            {
+                "id": 99272765,
+                "name": "Pulp And Paper Research",
+                "type": "nan",
+                "latitude": 49.26141394928574,
+                "longitude": -123.24758119804761
+            },
+            {
+                "id": 99272766,
+                "name": "Chemical and Biological Engineering Building",
+                "type": "nan",
+                "latitude": 49.262336473939804,
+                "longitude": -123.24693281475939
+            },
+            {
+                "id": 99272767,
+                "name": "Earthquake Engineering Research Facility",
+                "type": "nan",
+                "latitude": 49.263436035122844,
+                "longitude": -123.24893180967399
+            },
+            {
+                "id": 99272769,
+                "name": "MacLeod Building",
+                "type": "nan",
+                "latitude": 49.2617128244484,
+                "longitude": -123.24939899426518
+            },
+            {
+                "id": 99272771,
+                "name": "Civil And Mechanical Structures Lab",
+                "type": "nan",
+                "latitude": 49.26338182449007,
+                "longitude": -123.24927810727173
+            },
+            {
+                "id": 99272773,
+                "name": "Civil And Mechanical Lab",
+                "type": "nan",
+                "latitude": 49.26303397549247,
+                "longitude": -123.24941840485367
+            },
+            {
+                "id": 99272774,
+                "name": "Civil And Mechanical Engineering Building",
+                "type": "nan",
+                "latitude": 49.26255828531738,
+                "longitude": -123.248891108069
+            },
+            {
+                "id": 99272775,
+                "name": "Hugh Dempster Pavillion",
+                "type": "nan",
+                "latitude": 49.26124077357421,
+                "longitude": -123.2480387586683
+            },
+            {
+                "id": 99272776,
+                "name": "Fred Kaiser Building",
+                "type": "nan",
+                "latitude": 49.26235915716795,
+                "longitude": -123.25007554947807
+            },
+            {
+                "id": 99280368,
+                "name": "Clean Energy Research Centre",
+                "type": "nan",
+                "latitude": 49.262698908530865,
+                "longitude": -123.24686320755583
+            },
+            {
+                "id": 99280369,
+                "name": "Clean Energy Research Centre",
+                "type": "nan",
+                "latitude": 49.26249039309202,
+                "longitude": -123.24745555964293
+            },
+            {
+                "id": 99410548,
+                "name": "Ponderosa Annex Office F - Student Services",
+                "type": "nan",
+                "latitude": 49.2649199536052,
+                "longitude": -123.25715887702381
+            },
+            {
+                "id": 99410568,
+                "name": "Ponderosa Annex Office B",
+                "type": "nan",
+                "latitude": 49.264843123992165,
+                "longitude": -123.25596373467452
+            },
+            {
+                "id": 99410572,
+                "name": "Ponderosa Annex Office E - English Annex",
+                "type": "nan",
+                "latitude": 49.264674813217034,
+                "longitude": -123.2567022501708
+            },
+            {
+                "id": 99410577,
+                "name": "Ponderosa Annex Office G",
+                "type": "nan",
+                "latitude": 49.264488234564794,
+                "longitude": -123.25643910448481
+            },
+            {
+                "id": 99410587,
+                "name": "Ponderosa Annex Office A",
+                "type": "nan",
+                "latitude": 49.265169698254155,
+                "longitude": -123.25638211303303
+            },
+            {
+                "id": 99410588,
+                "name": "Ponderosa Annex Office C",
+                "type": "nan",
+                "latitude": 49.26485758283312,
+                "longitude": -123.25626310423054
+            },
+            {
+                "id": 99417832,
+                "name": "Dorothy Somerset Studios",
+                "type": "nan",
+                "latitude": 49.26469649999999,
+                "longitude": -123.25458604999999
+            },
+            {
+                "id": 99417834,
+                "name": "Leonard S. Klinck Building",
+                "type": "nan",
+                "latitude": 49.265431599808906,
+                "longitude": -123.25534482129714
+            },
+            {
+                "id": 99417839,
+                "name": "Old Fire Hall",
+                "type": "nan",
+                "latitude": 49.265027465795264,
+                "longitude": -123.25557192208848
+            },
+            {
+                "id": 99417840,
+                "name": "Meter Station",
+                "type": "nan",
+                "latitude": 49.265036217043765,
+                "longitude": -123.2544712514572
+            },
+            {
+                "id": 99417841,
+                "name": "Power House",
+                "type": "nan",
+                "latitude": 49.26522322264751,
+                "longitude": -123.25482310996024
+            },
+            {
+                "id": 99417846,
+                "name": "B.C. Binning Studios",
+                "type": "nan",
+                "latitude": 49.26460494590624,
+                "longitude": -123.25487298572459
+            },
+            {
+                "id": 99417849,
+                "name": "Jack Bell Building",
+                "type": "nan",
+                "latitude": 49.26447610017405,
+                "longitude": -123.25509842502989
+            },
+            {
+                "id": 99435185,
+                "name": "C.K. Choi Building For The Institute For Asian Research",
+                "type": "nan",
+                "latitude": 49.267267547804735,
+                "longitude": -123.2579563577447
+            },
+            {
+                "id": 99435186,
+                "name": "Asian Centre",
+                "type": "nan",
+                "latitude": 49.2667468040287,
+                "longitude": -123.25870886051777
+            },
+            {
+                "id": 99436422,
+                "name": "Spirit House",
+                "type": "nan",
+                "latitude": 49.265808716398865,
+                "longitude": -123.2574010138764
+            },
+            {
+                "id": 99436423,
+                "name": "West Mall Annex",
+                "type": "nan",
+                "latitude": 49.26624472765385,
+                "longitude": -123.25716579842053
+            },
+            {
+                "id": 99436425,
+                "name": "First Nations Longhouse",
+                "type": "nan",
+                "latitude": 49.265570272527825,
+                "longitude": -123.257407587453
+            },
+            {
+                "id": 99573428,
+                "name": "Norman Mackenzie House",
+                "type": "nan",
+                "latitude": 49.267618093227924,
+                "longitude": -123.2612312204505
+            },
+            {
+                "id": 99573430,
+                "name": "International House",
+                "type": "nan",
+                "latitude": 49.267804652663486,
+                "longitude": -123.25896249401121
+            },
+            {
+                "id": 99573431,
+                "name": "Liu Institute",
+                "type": "nan",
+                "latitude": 49.26755528897804,
+                "longitude": -123.25927807031262
+            },
+            {
+                "id": 99573605,
+                "name": "Haida House",
+                "type": "nan",
+                "latitude": 49.26900734990233,
+                "longitude": -123.26074320126106
+            },
+            {
+                "id": 99573607,
+                "name": "Mortuary House",
+                "type": "nan",
+                "latitude": 49.26903227480703,
+                "longitude": -123.26055766464395
+            },
+            {
+                "id": 99575340,
+                "name": "Thea Koerner House",
+                "type": "nan",
+                "latitude": 49.26831753590427,
+                "longitude": -123.25791578003104
+            },
+            {
+                "id": 99575344,
+                "name": "Isabel Macinnes Hall",
+                "type": "nan",
+                "latitude": 49.27053501730205,
+                "longitude": -123.25752570279177
+            },
+            {
+                "id": 99575352,
+                "name": "Leon & Thea Koerner University Centre",
+                "type": "nan",
+                "latitude": 49.268870066945425,
+                "longitude": -123.25726426053973
+            },
+            {
+                "id": 99575362,
+                "name": "Thea Koerner House",
+                "type": "nan",
+                "latitude": 49.26857334085813,
+                "longitude": -123.25785967501558
+            },
+            {
+                "id": 99580202,
+                "name": "Cecil Green Park Squash Court",
+                "type": "nan",
+                "latitude": 49.2714179,
+                "longitude": -123.25705625000005
+            },
+            {
+                "id": 99580208,
+                "name": "Green College Kitchen",
+                "type": "nan",
+                "latitude": 49.27099436875169,
+                "longitude": -123.25557647260244
+            },
+            {
+                "id": 99580210,
+                "name": "Cecil Green Park Coach House",
+                "type": "nan",
+                "latitude": 49.27099944984067,
+                "longitude": -123.25847320430815
+            },
+            {
+                "id": 99580213,
+                "name": "Building A North",
+                "type": "nan",
+                "latitude": 49.2711555140555,
+                "longitude": -123.25563909486463
+            },
+            {
+                "id": 99580218,
+                "name": "Green College - D Commons",
+                "type": "nan",
+                "latitude": 49.27129616786548,
+                "longitude": -123.25669674479106
+            },
+            {
+                "id": 99580220,
+                "name": "Green College Guest House",
+                "type": "nan",
+                "latitude": 49.27085681635628,
+                "longitude": -123.256523391203
+            },
+            {
+                "id": 99580225,
+                "name": "Green College Graham House",
+                "type": "nan",
+                "latitude": 49.27128178908841,
+                "longitude": -123.25625445637372
+            },
+            {
+                "id": 99580233,
+                "name": "Green College - Building B East",
+                "type": "nan",
+                "latitude": 49.27083253301892,
+                "longitude": -123.25600388896369
+            },
+            {
+                "id": 99580240,
+                "name": "Green College Coach House",
+                "type": "nan",
+                "latitude": 49.27114603894474,
+                "longitude": -123.25654470644237
+            },
+            {
+                "id": 99580254,
+                "name": "Cecil Green Park House",
+                "type": "nan",
+                "latitude": 49.271374807018724,
+                "longitude": -123.25767715105728
+            },
+            {
+                "id": 99580261,
+                "name": "Mary Bollert Hall",
+                "type": "nan",
+                "latitude": 49.270573047942946,
+                "longitude": -123.2560238932063
+            },
+            {
+                "id": 99580268,
+                "name": "Building A South",
+                "type": "nan",
+                "latitude": 49.27086396102684,
+                "longitude": -123.25526860988295
+            },
+            {
+                "id": 99580275,
+                "name": "Building A South",
+                "type": "nan",
+                "latitude": 49.271058566054,
+                "longitude": -123.25519355389406
+            },
+            {
+                "id": 99580279,
+                "name": "Green College Front Desk",
+                "type": "nan",
+                "latitude": 49.27098844330938,
+                "longitude": -123.25631892885644
+            },
+            {
+                "id": 99580286,
+                "name": "Green College - Prinicipal's Residence",
+                "type": "nan",
+                "latitude": 49.27090356888572,
+                "longitude": -123.25696051794728
+            },
+            {
+                "id": 100875877,
+                "name": "Trailer GG",
+                "type": "nan",
+                "latitude": 49.24618468448055,
+                "longitude": -123.22936165029883
+            },
+            {
+                "id": 128064466,
+                "name": "Warhol",
+                "type": "nan",
+                "latitude": 49.265739410491385,
+                "longitude": -123.23964248791232
+            },
+            {
+                "id": 128064468,
+                "name": "Carr",
+                "type": "nan",
+                "latitude": 49.26583700000001,
+                "longitude": -123.24052250000003
+            },
+            {
+                "id": 128064478,
+                "name": "University Lodge",
+                "type": "nan",
+                "latitude": 49.26658191680498,
+                "longitude": -123.23946375031318
+            },
+            {
+                "id": 128064479,
+                "name": "Bachra",
+                "type": "nan",
+                "latitude": 49.26569493193941,
+                "longitude": -123.24102754272155
+            },
+            {
+                "id": 128064480,
+                "name": "O'Keefe",
+                "type": "nan",
+                "latitude": 49.26526832623246,
+                "longitude": -123.2406170941219
+            },
+            {
+                "id": 128064483,
+                "name": "Somerset Manor",
+                "type": "nan",
+                "latitude": 49.2663603183455,
+                "longitude": -123.24000715722107
+            },
+            {
+                "id": 150420271,
+                "name": "Wayne & William White Engineering Design Centre",
+                "type": "nan",
+                "latitude": 49.26233325032752,
+                "longitude": -123.24817069151615
+            },
+            {
+                "id": 155241147,
+                "name": "Sitka",
+                "type": "nan",
+                "latitude": 49.2628765032399,
+                "longitude": -123.24193017797813
+            },
+            {
+                "id": 155241151,
+                "name": "Lutheran Campus Centre",
+                "type": "nan",
+                "latitude": 49.26683939789805,
+                "longitude": -123.24499585484257
+            },
+            {
+                "id": 156138512,
+                "name": "Pharmaceutical Building",
+                "type": "nan",
+                "latitude": 49.26225650115139,
+                "longitude": -123.2432929651139
+            },
+            {
+                "id": 258605900,
+                "name": "Axis",
+                "type": "nan",
+                "latitude": 49.27008902852763,
+                "longitude": -123.25218271778934
+            },
+            {
+                "id": 258742026,
+                "name": "Allard School of Law",
+                "type": "nan",
+                "latitude": 49.27003899830568,
+                "longitude": -123.25331254891327
+            },
+            {
+                "id": 264253215,
+                "name": "ARIEL",
+                "type": "nan",
+                "latitude": 49.24770460308176,
+                "longitude": -123.23002607104455
+            },
+            {
+                "id": 271373066,
+                "name": "UBC Tennis Centre",
+                "type": "nan",
+                "latitude": 49.25939308172176,
+                "longitude": -123.24348943554641
+            },
+            {
+                "id": 287556784,
+                "name": "Arbutus House",
+                "type": "nan",
+                "latitude": 49.26324591820103,
+                "longitude": -123.25593173459102
+            },
+            {
+                "id": 287556786,
+                "name": "Maple House",
+                "type": "nan",
+                "latitude": 49.26355399829998,
+                "longitude": -123.25544232047282
+            },
+            {
+                "id": 287556787,
+                "name": "Spruce House",
+                "type": "nan",
+                "latitude": 49.26365900936155,
+                "longitude": -123.25433573122402
+            },
+            {
+                "id": 287556788,
+                "name": "Audain Art Center",
+                "type": "nan",
+                "latitude": 49.2638643067861,
+                "longitude": -123.25449192685707
+            },
+            {
+                "id": 287558407,
+                "name": "Cedar House",
+                "type": "nan",
+                "latitude": 49.26420650533338,
+                "longitude": -123.25628740647035
+            },
+            {
+                "id": 297668226,
+                "name": "q’ələχən House",
+                "type": "nan",
+                "latitude": 49.25917388402908,
+                "longitude": -123.2515170269459
+            },
+            {
+                "id": 297668227,
+                "name": "həm’ləsəm’ House",
+                "type": "nan",
+                "latitude": 49.2585666542863,
+                "longitude": -123.2511620587649
+            },
+            {
+                "id": 323347791,
+                "name": "Coast West",
+                "type": "nan",
+                "latitude": 49.27073839436293,
+                "longitude": -123.25323025271034
+            },
+            {
+                "id": 323347792,
+                "name": "Coast East",
+                "type": "nan",
+                "latitude": 49.27103388518858,
+                "longitude": -123.25256930321785
+            },
+            {
+                "id": 341691670,
+                "name": "UBC Aquatic Centre",
+                "type": "nan",
+                "latitude": 49.26779827419458,
+                "longitude": -123.24860277342528
+            },
+            {
+                "id": 341691691,
+                "name": "War Memorial Gym",
+                "type": "nan",
+                "latitude": 49.26675703636862,
+                "longitude": -123.24766045736106
+            },
+            {
+                "id": 372420419,
+                "name": "Engineering Student Centre",
+                "type": "nan",
+                "latitude": 49.26219824999999,
+                "longitude": -123.24928719999997
+            },
+            {
+                "id": 379160748,
+                "name": "Robert H. Lee Alumni Centre",
+                "type": "nan",
+                "latitude": 49.26593312341317,
+                "longitude": -123.24992787682206
+            },
+            {
+                "id": 384612870,
+                "name": "Tamarack House",
+                "type": "nan",
+                "latitude": 49.25960702226667,
+                "longitude": -123.2463217870366
+            },
+            {
+                "id": 385362501,
+                "name": "Ladner Clock Tower",
+                "type": "nan",
+                "latitude": 49.267350016445505,
+                "longitude": -123.2536751905824
+            },
+            {
+                "id": 434818187,
+                "name": "Gerald McGavin UBC Rugby Centre",
+                "type": "nan",
+                "latitude": 49.259582978833855,
+                "longitude": -123.24129799414642
+            },
+            {
+                "id": 436477648,
+                "name": "Oak House",
+                "type": "nan",
+                "latitude": 49.26394332153888,
+                "longitude": -123.25598699816665
+            },
+            {
+                "id": 439256864,
+                "name": "Chancellor House",
+                "type": "nan",
+                "latitude": 49.271548603602625,
+                "longitude": -123.25144079082848
+            },
+            {
+                "id": 451632468,
+                "name": "Djavad Mowafaghian Centre for Brain Health",
+                "type": "nan",
+                "latitude": 49.26428881029263,
+                "longitude": -123.2445478114661
+            },
+            {
+                "id": 472883350,
+                "name": "Brimacombe Building",
+                "type": "nan",
+                "latitude": 49.26186423972816,
+                "longitude": -123.24805761045725
+            },
+            {
+                "id": 473496555,
+                "name": "Centre for Interactive Research on Sustainability",
+                "type": "nan",
+                "latitude": 49.26203272218912,
+                "longitude": -123.25306668707843
+            },
+            {
+                "id": 473497344,
+                "name": "Beta Theta Pi UBC",
+                "type": "nan",
+                "latitude": 49.26482894592672,
+                "longitude": -123.24354173828307
+            },
+            {
+                "id": 517623349,
+                "name": "Brock Commons - Tallwood House",
+                "type": "nan",
+                "latitude": 49.269495934353,
+                "longitude": -123.25137664657788
+            },
+            {
+                "id": 547310213,
+                "name": "c̓əsnaʔəm House",
+                "type": "nan",
+                "latitude": 49.25681333526403,
+                "longitude": -123.25164367289098
+            },
+            {
+                "id": 547529782,
+                "name": "Central",
+                "type": "nan",
+                "latitude": 49.266339122111496,
+                "longitude": -123.24723824565427
+            },
+            {
+                "id": 571435786,
+                "name": "Meson Hall",
+                "type": "nan",
+                "latitude": 49.24729383716851,
+                "longitude": -123.22894178687261
+            },
+            {
+                "id": 571435788,
+                "name": "Electron Hall",
+                "type": "nan",
+                "latitude": 49.24717749166747,
+                "longitude": -123.2299036336027
+            },
+            {
+                "id": 571435790,
+                "name": "Badge Room",
+                "type": "nan",
+                "latitude": 49.24749749748601,
+                "longitude": -123.23031200180549
+            },
+            {
+                "id": 571435796,
+                "name": "Trailer Ff",
+                "type": "nan",
+                "latitude": 49.24832524960118,
+                "longitude": -123.23082842154133
+            },
+            {
+                "id": 571435798,
+                "name": "Trailer Hh",
+                "type": "nan",
+                "latitude": 49.248359661691964,
+                "longitude": -123.23053641577575
+            },
+            {
+                "id": 571468958,
+                "name": "Plant Services Storage Shed",
+                "type": "nan",
+                "latitude": 49.24600998602637,
+                "longitude": -123.22964320987498
+            },
+            {
+                "id": 571468959,
+                "name": "Trailer Pp",
+                "type": "nan",
+                "latitude": 49.24635663744004,
+                "longitude": -123.2291742053962
+            },
+            {
+                "id": 571468960,
+                "name": "Compressor Building",
+                "type": "nan",
+                "latitude": 49.24665738724116,
+                "longitude": -123.22992021081845
+            },
+            {
+                "id": 571468961,
+                "name": "Trailer Aa",
+                "type": "nan",
+                "latitude": 49.24659776125426,
+                "longitude": -123.23035217721299
+            },
+            {
+                "id": 571468962,
+                "name": "Trailer Mm",
+                "type": "nan",
+                "latitude": 49.246810184926915,
+                "longitude": -123.22890324229193
+            },
+            {
+                "id": 571468963,
+                "name": "Trailer Ss",
+                "type": "nan",
+                "latitude": 49.24692461746527,
+                "longitude": -123.22835064691975
+            },
+            {
+                "id": 571468964,
+                "name": "Machine Shop Storage Shed",
+                "type": "nan",
+                "latitude": 49.24637692930501,
+                "longitude": -123.2298456722703
+            },
+            {
+                "id": 583754860,
+                "name": "Indian Residential School History and Dialogue Centre",
+                "type": "nan",
+                "latitude": 49.26698664874622,
+                "longitude": -123.2537502849027
+            },
+            {
+                "id": 648995790,
+                "name": "UBC Archives & UBC Rare Books and Special Collections",
+                "type": "nan",
+                "latitude": 49.267833087071466,
+                "longitude": -123.25305386524616
+            },
+            {
+                "id": 650798266,
+                "name": "UBC Baseball Indoor Training Centre",
+                "type": "nan",
+                "latitude": 49.256203247040176,
+                "longitude": -123.23951028824162
+            },
+            {
+                "id": 650798267,
+                "name": "National Soccer Development Centre",
+                "type": "nan",
+                "latitude": 49.25715512397695,
+                "longitude": -123.2399614198823
+            },
+            {
+                "id": 666046485,
+                "name": "St. John Hospice",
+                "type": "nan",
+                "latitude": 49.255516422704225,
+                "longitude": -123.24734404816982
+            },
+            {
+                "id": 671959007,
+                "name": "Vista Point",
+                "type": "nan",
+                "latitude": 49.261697409839805,
+                "longitude": -123.24026854307174
+            },
+            {
+                "id": 675696807,
+                "name": "Institute For Computing, Information And Cognitive Systems / Computer Science",
+                "type": "nan",
+                "latitude": 49.26117253086221,
+                "longitude": -123.24880527244567
+            },
+            {
+                "id": 679144667,
+                "name": "Trinity Central",
+                "type": "nan",
+                "latitude": 49.27171437425477,
+                "longitude": -123.24852596690361
+            },
+            {
+                "id": 679347065,
+                "name": "HR MacMillan Building",
+                "type": "nan",
+                "latitude": 49.261055649912315,
+                "longitude": -123.25072397910596
+            },
+            {
+                "id": 682008459,
+                "name": "Pollock",
+                "type": "nan",
+                "latitude": 49.26554346295559,
+                "longitude": -123.2402140030472
+            },
+            {
+                "id": 682015794,
+                "name": "Millennial Time Machine",
+                "type": "nan",
+                "latitude": 49.26751696578988,
+                "longitude": -123.25450814409446
+            },
+            {
+                "id": 682492085,
+                "name": "Vituoso",
+                "type": "nan",
+                "latitude": 49.25074259567563,
+                "longitude": -123.23398727314955
+            },
+            {
+                "id": 684296427,
+                "name": "Drivers' Facility",
+                "type": "nan",
+                "latitude": 49.2677536960147,
+                "longitude": -123.24743556830114
+            },
+            {
+                "id": 686503839,
+                "name": "Library Preservation and Archives",
+                "type": "nan",
+                "latitude": 49.24508471102804,
+                "longitude": -123.22970661470501
+            },
+            {
+                "id": 715585650,
+                "name": "Tool Shed",
+                "type": "nan",
+                "latitude": 49.250684644956614,
+                "longitude": -123.23882963196533
+            },
+            {
+                "id": 724661086,
+                "name": "Bioenergy Research & Demonstration Facility",
+                "type": "nan",
+                "latitude": 49.260296284967914,
+                "longitude": -123.25452209487001
+            },
+            {
+                "id": 744175844,
+                "name": "Focal",
+                "type": "nan",
+                "latitude": 49.266182408369225,
+                "longitude": -123.24841749595005
+            },
+            {
+                "id": 793325891,
+                "name": "Sopron Gate",
+                "type": "nan",
+                "latitude": 49.25989745329426,
+                "longitude": -123.24846092588733
+            },
+            {
+                "id": 800010194,
+                "name": "Braeburn House",
+                "type": "nan",
+                "latitude": 49.2607922650807,
+                "longitude": -123.25185930192366
+            },
+            {
+                "id": 800010197,
+                "name": "Bartlett House",
+                "type": "nan",
+                "latitude": 49.260360035670644,
+                "longitude": -123.25114313761541
+            },
+            {
+                "id": 809884429,
+                "name": "Octopus House",
+                "type": "nan",
+                "latitude": 49.27052545,
+                "longitude": -123.24834550000001
+            },
+            {
+                "id": 809884430,
+                "name": "Sea Otter House",
+                "type": "nan",
+                "latitude": 49.27016754999999,
+                "longitude": -123.24803369999998
+            },
+            {
+                "id": 809884431,
+                "name": "Herring House",
+                "type": "nan",
+                "latitude": 49.269590949999994,
+                "longitude": -123.24794130000001
+            },
+            {
+                "id": 809884432,
+                "name": "Sturgeon House",
+                "type": "nan",
+                "latitude": 49.269198700000004,
+                "longitude": -123.24859149999999
+            },
+            {
+                "id": 809884433,
+                "name": "Orca House",
+                "type": "nan",
+                "latitude": 49.268823399999995,
+                "longitude": -123.2496571
+            },
+            {
+                "id": 996115228,
+                "name": "Arts Student Centre",
+                "type": "nan",
+                "latitude": 49.2692926925068,
+                "longitude": -123.25307752652984
+            },
+            {
+                "id": 996134937,
+                "name": "Chancellor Hall",
+                "type": "nan",
+                "latitude": 49.271901901268286,
+                "longitude": -123.25048471541561
+            },
+            {
+                "id": 996134939,
+                "name": "Folio",
+                "type": "nan",
+                "latitude": 49.272100776741844,
+                "longitude": -123.24976214613929
+            },
+            {
+                "id": 1065742130,
+                "name": "UBC Counselling Services Annex",
+                "type": "nan",
+                "latitude": 49.268232463510884,
+                "longitude": -123.25201397988656
+            },
+            {
+                "id": 1065942970,
+                "name": "Exchange Residence",
+                "type": "nan",
+                "latitude": 49.26860841442018,
+                "longitude": -123.24772236901875
+            },
+            {
+                "id": 1065965985,
+                "name": "Pump House",
+                "type": "nan",
+                "latitude": 49.264616249999996,
+                "longitude": -123.25417374999999
+            },
+            {
+                "id": 1065978668,
+                "name": "Chan Gunn Pavilion",
+                "type": "nan",
+                "latitude": 49.26094509871594,
+                "longitude": -123.24166259966998
+            },
+            {
+                "id": 1066259312,
+                "name": "UBC Football Academic Centre",
+                "type": "nan",
+                "latitude": 49.25524879999999,
+                "longitude": -123.24503469999999
+            },
+            {
+                "id": 1066266564,
+                "name": "UBC Farm - Yurt",
+                "type": "nan",
+                "latitude": 49.2512633807762,
+                "longitude": -123.23992993933234
+            },
+            {
+                "id": 1066486487,
+                "name": "TRIUMF - Trailer LL",
+                "type": "nan",
+                "latitude": 49.24689784999999,
+                "longitude": -123.23099715000002
+            },
+            {
+                "id": 1066486488,
+                "name": "TRIUMF - Equipment Marque",
+                "type": "nan",
+                "latitude": 49.24674307368375,
+                "longitude": -123.23073487895107
+            },
+            {
+                "id": 1066486489,
+                "name": "TRIUMF - Accelerator Trailer",
+                "type": "nan",
+                "latitude": 49.24686314844789,
+                "longitude": -123.23016462057858
+            },
+            {
+                "id": 1066488325,
+                "name": "Staging Environmental Research Centre",
+                "type": "nan",
+                "latitude": 49.24538509999999,
+                "longitude": -123.22807974999999
+            },
+            {
+                "id": 1066489601,
+                "name": "Environmental Services Facility - Pcb Containers",
+                "type": "nan",
+                "latitude": 49.2433848,
+                "longitude": -123.22791514999999
+            },
+            {
+                "id": 1066491010,
+                "name": "Coast Townhouses",
+                "type": "nan",
+                "latitude": 49.27105191752858,
+                "longitude": -123.25305380361215
+            },
+            {
+                "id": 1414902,
+                "name": "TRIUMF MOB",
+                "type": "nan",
+                "latitude": 49.247638750075694,
+                "longitude": -123.23059222840845
+            },
+            {
+                "id": 1420040,
+                "name": "Woodward Instructional Resources Centre",
+                "type": "nan",
+                "latitude": 49.26481123337139,
+                "longitude": -123.24686581692048
+            },
+            {
+                "id": 1424726,
+                "name": "Mary Murrin Hall",
+                "type": "nan",
+                "latitude": 49.27047387461564,
+                "longitude": -123.25803254518651
+            },
+            {
+                "id": 1424727,
+                "name": "Anne Wesbrook Hall",
+                "type": "nan",
+                "latitude": 49.27008276502927,
+                "longitude": -123.25797210817998
+            },
+            {
+                "id": 1424728,
+                "name": "Anthropology And Sociology Building",
+                "type": "nan",
+                "latitude": 49.27026527880344,
+                "longitude": -123.25752699954039
+            },
+            {
+                "id": 6769649,
+                "name": "Chan Centre for the Performing Arts",
+                "type": "nan",
+                "latitude": 49.26978423633218,
+                "longitude": -123.255099374941
+            },
+            {
+                "id": 8996990,
+                "name": "Vancouver School of Economics",
+                "type": "nan",
+                "latitude": 49.27097134089447,
+                "longitude": -123.25031604799362
+            }
+        ]
+    }
+}

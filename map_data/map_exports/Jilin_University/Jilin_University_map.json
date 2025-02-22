@@ -1,0 +1,42 @@
+{
+    "id": 9099114496853403861,
+    "name": "吉林大学",
+    "address": "中国吉林省长春市朝阳区前进大街2699号 邮政编码: 130012",
+    "rating": 4.6,
+    "popularity": 68,
+    "data_path": "map_data/university_map/Jilin_University",
+    "description": "吉林大学（英語：Jilin University，縮寫：JLU），簡稱吉大，位于中国吉林省长春市，是中国共产党领导创建的第一所综合性高等学府，是中華人民共和國教育部直属的全国重点大学，社会主义一流大学，中国东北地区重点建设的一所综合性大学。\n吉林大学是“双一流A类”和原“985工程”、原“211工程”重点建设大学，同时也是国家首批“珠峰计划”、“111计划”、“卓越计划”和“2011计划”重点建设的名牌大学。2023年QS世界大学排名中，吉林大学世界排名第497名（中国大陆地区排名第27名）。主要院系有法学院，考古学院，车辆工程学院，数学学院和化学学院等。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jilinuniversity_square.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/98/Jilinuniversity_%E9%80%B8%E5%A4%AB%E5%9B%BE%E4%B9%A6%E9%A6%86.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6_%E6%A0%A1%E7%A2%91.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ae/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6%E4%B8%AD%E5%BF%83%E6%A0%A1%E5%8C%BA%E4%B8%9C%E9%97%A82012.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0f/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E5%AE%9E%E9%AA%8C%E5%AE%A4.JPG"
+    ],
+    "amenity": {
+        "affiliation": 9099114496853403861,
+        "amenity_list": [
+            {
+                "id": 131379151,
+                "name": "可能感兴趣的地点",
+                "type": "library",
+                "latitude": 43.880662397756204,
+                "longitude": 125.3033110250949
+            },
+            {
+                "id": 112648060,
+                "name": "地质宫",
+                "type": "nan",
+                "latitude": 43.880051203294144,
+                "longitude": 125.30112359965922
+            },
+            {
+                "id": 512313312,
+                "name": "钻采实验楼",
+                "type": "nan",
+                "latitude": 43.880703633187565,
+                "longitude": 125.29922280866975
+            }
+        ]
+    }
+}

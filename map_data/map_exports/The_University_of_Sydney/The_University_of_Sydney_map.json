@@ -1,0 +1,929 @@
+{
+    "id": -343925817426480780,
+    "name": "The University of Sydney",
+    "address": "Camperdown NSW 2050澳大利亚",
+    "rating": 4.4,
+    "popularity": 84,
+    "data_path": "map_data/university_map/The_University_of_Sydney",
+    "description": "悉尼大学（英语：The University of Sydney），简称悉大、USYD，是位於澳大利亚悉尼的公立研究型大学。學校创立于1850年，是澳大利亚歷史最悠久的大學，為南半球首屈一指的学术殿堂和世界著名的高等學府。悉尼大學目前名列2024年QS世界大學排名第19名、2021年泰晤士高等教育世界大學排名第51名、2021年US News世界大學排名第27名。其中悉尼大學商學院在《經濟學人》亞太二十五大商學院排名第15名，同時也是獲得商學院三重認證的全球頂尖商學院，其MBA於2024年由金融時報評比為全澳第一。根據2022年QS畢業生就業力排名，悉尼大學緊隨麻省理工學院、史丹佛大學和加州大學洛杉磯分校之後，排名世界第四位。\n悉尼大学是澳洲八校聯盟和六所砂岩学府的成员之一。悉尼大学同时也是环太平洋大学联盟、亚太国际贸易教育暨研究联盟、大英國協大學協會及全澳唯一入選全球管理教育聯盟（CEMS）的成员。\n悉尼大学历史上培养了一系列著名及重要的人物，包括八位澳大利亚总理、兩位澳大利亚總督、五位澳洲首席大法官、联合国大会主席、国际法院院长、世界银行行長、澳洲歷代首富，人數均為南半球最多。此外有七位校友獲得诺贝尔奖和克拉福德奖，以及110名学生获得罗德奖学金。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/cd/Anderson_Stuart_Building_Sydney_Uni.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/36/Camperdown_Womens_College.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Charles_Perkins_Centre_interior%2C_Sydney.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Dame_Joan_Sutherland%2C_by_Allan_Warren.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Fisher_Library%2C_University_of_Sydney.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cd/Freehill_Tower_Foyer_-_St_Johns_College_U_Sydney.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ed/Germaine_Greer%2C_28_October_2013_%28portrait_crop%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b9/Gough_Whitlam_1962.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/Great_Hall_-_St_Johns_College_U_Sydney.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/Hathor_capital_on_display_at_the_Nicholson_Museum.jpg"
+    ],
+    "amenity": {
+        "affiliation": -343925817426480780,
+        "amenity_list": [
+            {
+                "id": 515929955,
+                "name": "University of Sydney Veterinary Clinic",
+                "type": "veterinary",
+                "latitude": -33.8857851,
+                "longitude": 151.1822375
+            },
+            {
+                "id": 1252086564,
+                "name": "SciTech Library",
+                "type": "library",
+                "latitude": -33.8895222,
+                "longitude": 151.1912029
+            },
+            {
+                "id": 1252086567,
+                "name": "Manning Bar",
+                "type": "pub",
+                "latitude": -33.8868499,
+                "longitude": 151.1875444
+            },
+            {
+                "id": 1319610516,
+                "name": "可能感兴趣的地点",
+                "type": "bicycle_parking",
+                "latitude": -33.8907881,
+                "longitude": 151.1918331
+            },
+            {
+                "id": 1613758330,
+                "name": "NAB",
+                "type": "atm",
+                "latitude": -33.8894706,
+                "longitude": 151.1907642
+            },
+            {
+                "id": 1613758347,
+                "name": "ANZ",
+                "type": "atm",
+                "latitude": -33.8898268,
+                "longitude": 151.1904985
+            },
+            {
+                "id": 1613758372,
+                "name": "Commonwealth Bank",
+                "type": "atm",
+                "latitude": -33.889337,
+                "longitude": 151.1907106
+            },
+            {
+                "id": 2170430679,
+                "name": "Taste Baguette",
+                "type": "restaurant",
+                "latitude": -33.8875614,
+                "longitude": 151.1901859
+            },
+            {
+                "id": 2170430682,
+                "name": "Parma Cucina and Bar",
+                "type": "cafe",
+                "latitude": -33.889289,
+                "longitude": 151.1914948
+            },
+            {
+                "id": 2170430692,
+                "name": "Carslaw Kitchen",
+                "type": "cafe",
+                "latitude": -33.8882383,
+                "longitude": 151.190481
+            },
+            {
+                "id": 2189149291,
+                "name": "Subway",
+                "type": "fast_food",
+                "latitude": -33.8895345,
+                "longitude": 151.1910903
+            },
+            {
+                "id": 2337760355,
+                "name": "Hoochie Mamma Cafe",
+                "type": "cafe",
+                "latitude": -33.8921729,
+                "longitude": 151.1831644
+            },
+            {
+                "id": 2354390106,
+                "name": "Western Avenue Parking",
+                "type": "parking",
+                "latitude": -33.889956,
+                "longitude": 151.184889
+            },
+            {
+                "id": 6901209379,
+                "name": "Ralph's Cafe",
+                "type": "cafe",
+                "latitude": -33.8909936,
+                "longitude": 151.1923358
+            },
+            {
+                "id": 6901634579,
+                "name": "Grandstand",
+                "type": "restaurant",
+                "latitude": -33.8885154,
+                "longitude": 151.1845907
+            },
+            {
+                "id": 6901732598,
+                "name": "Forum",
+                "type": "restaurant",
+                "latitude": -33.889074,
+                "longitude": 151.1899077
+            },
+            {
+                "id": 6907320663,
+                "name": "Engo Grill",
+                "type": "cafe",
+                "latitude": -33.8902785,
+                "longitude": 151.1933736
+            },
+            {
+                "id": 6914022296,
+                "name": "Courtyard Cafe",
+                "type": "cafe",
+                "latitude": -33.8849753,
+                "longitude": 151.1870691
+            },
+            {
+                "id": 9837800723,
+                "name": "St John Paul II Student Centre",
+                "type": "place_of_worship",
+                "latitude": -33.8888753,
+                "longitude": 151.1915893
+            },
+            {
+                "id": 9875619085,
+                "name": "Camperdown Post Office",
+                "type": "post_office",
+                "latitude": -33.8887695,
+                "longitude": 151.1818807
+            },
+            {
+                "id": 10131610764,
+                "name": "Hermann's Bar",
+                "type": "bar",
+                "latitude": -33.8897482,
+                "longitude": 151.190651
+            },
+            {
+                "id": 11345458030,
+                "name": "Sounds Sydney",
+                "type": "cafe",
+                "latitude": -33.8851679,
+                "longitude": 151.1906928
+            },
+            {
+                "id": 45777490,
+                "name": "Seymour Centre",
+                "type": "theatre",
+                "latitude": -33.88856272181209,
+                "longitude": 151.1935354806375
+            },
+            {
+                "id": 46205383,
+                "name": "Shepherd Street Car Park",
+                "type": "parking",
+                "latitude": -33.888386045291526,
+                "longitude": 151.19475868590558
+            },
+            {
+                "id": 175998069,
+                "name": "Moore Theological College",
+                "type": "college",
+                "latitude": -33.89162336399165,
+                "longitude": 151.18724432300684
+            },
+            {
+                "id": 206967239,
+                "name": "Royal Prince Alfred Hospital",
+                "type": "hospital",
+                "latitude": -33.88956918061818,
+                "longitude": 151.18156982831283
+            },
+            {
+                "id": 600907466,
+                "name": "Newtown North Public School",
+                "type": "school",
+                "latitude": -33.8917929116706,
+                "longitude": 151.1853199173831
+            },
+            {
+                "id": 604686879,
+                "name": "Sand Roll House",
+                "type": "animal_shelter",
+                "latitude": -33.88578237621351,
+                "longitude": 151.1820844230278
+            },
+            {
+                "id": 1079380693,
+                "name": "Coffee @ Fisher",
+                "type": "cafe",
+                "latitude": -33.886832772717646,
+                "longitude": 151.19004330658154
+            },
+            {
+                "id": 2354390546,
+                "name": "Bosch Lecture Theatre",
+                "type": "nan",
+                "latitude": -33.8893014,
+                "longitude": 151.1852323
+            },
+            {
+                "id": 2354390628,
+                "name": "Bosch Building",
+                "type": "nan",
+                "latitude": -33.8895285,
+                "longitude": 151.1846905
+            },
+            {
+                "id": 16784706,
+                "name": "Fisher Library",
+                "type": "nan",
+                "latitude": -33.88647454005657,
+                "longitude": 151.19052142483437
+            },
+            {
+                "id": 26494127,
+                "name": "Biochemistry & Microbiology",
+                "type": "nan",
+                "latitude": -33.89025219941144,
+                "longitude": 151.19120085294006
+            },
+            {
+                "id": 45474350,
+                "name": "Carslaw Building",
+                "type": "nan",
+                "latitude": -33.88824858308286,
+                "longitude": 151.19071935332767
+            },
+            {
+                "id": 45474395,
+                "name": "Eastern Avenue Auditorium",
+                "type": "nan",
+                "latitude": -33.88813483186918,
+                "longitude": 151.19031562045427
+            },
+            {
+                "id": 45474403,
+                "name": "Law School Teaching Annex",
+                "type": "nan",
+                "latitude": -33.88761276161477,
+                "longitude": 151.19024846302992
+            },
+            {
+                "id": 45474427,
+                "name": "Law Building",
+                "type": "nan",
+                "latitude": -33.887291930122025,
+                "longitude": 151.1907826075698
+            },
+            {
+                "id": 45776129,
+                "name": "Edward Ford Building",
+                "type": "nan",
+                "latitude": -33.88804510418499,
+                "longitude": 151.18831903052393
+            },
+            {
+                "id": 45776727,
+                "name": "Manning House",
+                "type": "nan",
+                "latitude": -33.886915060731674,
+                "longitude": 151.1876718578373
+            },
+            {
+                "id": 45776882,
+                "name": "Physics Building",
+                "type": "nan",
+                "latitude": -33.88813891349108,
+                "longitude": 151.18712285483963
+            },
+            {
+                "id": 45777354,
+                "name": "International House",
+                "type": "nan",
+                "latitude": -33.888163815618114,
+                "longitude": 151.19304045142064
+            },
+            {
+                "id": 45777668,
+                "name": "W. H. Maze Building",
+                "type": "nan",
+                "latitude": -33.88835973088937,
+                "longitude": 151.19258598132583
+            },
+            {
+                "id": 46206302,
+                "name": "Aeronautical Engineering",
+                "type": "nan",
+                "latitude": -33.88870956335971,
+                "longitude": 151.19428493049153
+            },
+            {
+                "id": 46207232,
+                "name": "Mechanical Engineering",
+                "type": "nan",
+                "latitude": -33.88926183417083,
+                "longitude": 151.1941372883152
+            },
+            {
+                "id": 46207681,
+                "name": "Engineering Link Building",
+                "type": "nan",
+                "latitude": -33.889695400854016,
+                "longitude": 151.19388375109145
+            },
+            {
+                "id": 46208058,
+                "name": "Rose Street Building",
+                "type": "nan",
+                "latitude": -33.88994162742785,
+                "longitude": 151.19381147930838
+            },
+            {
+                "id": 46208575,
+                "name": "PNR Building",
+                "type": "nan",
+                "latitude": -33.8901396904579,
+                "longitude": 151.19311916369958
+            },
+            {
+                "id": 46208604,
+                "name": "Civil and Mining Engineering",
+                "type": "nan",
+                "latitude": -33.890736845355086,
+                "longitude": 151.1936007015081
+            },
+            {
+                "id": 46209606,
+                "name": "Workshop",
+                "type": "nan",
+                "latitude": -33.89113815554759,
+                "longitude": 151.1936490193178
+            },
+            {
+                "id": 46212891,
+                "name": "University Sports & Aquatic Centre",
+                "type": "nan",
+                "latitude": -33.891141187760546,
+                "longitude": 151.1917741547919
+            },
+            {
+                "id": 46213596,
+                "name": "Old Darlington School",
+                "type": "nan",
+                "latitude": -33.88988764855886,
+                "longitude": 151.1924573302467
+            },
+            {
+                "id": 46218288,
+                "name": "Union Child Care Centre",
+                "type": "nan",
+                "latitude": -33.89141175402379,
+                "longitude": 151.1930834610847
+            },
+            {
+                "id": 46218318,
+                "name": "Services Building",
+                "type": "nan",
+                "latitude": -33.8919361440168,
+                "longitude": 151.19182932884036
+            },
+            {
+                "id": 46225324,
+                "name": "Darlington Centre",
+                "type": "nan",
+                "latitude": -33.89130712891795,
+                "longitude": 151.1891041729133
+            },
+            {
+                "id": 46381730,
+                "name": "Education",
+                "type": "nan",
+                "latitude": -33.886810020396396,
+                "longitude": 151.18717859502297
+            },
+            {
+                "id": 46381866,
+                "name": "Education Annexe",
+                "type": "nan",
+                "latitude": -33.88707623371512,
+                "longitude": 151.18676064675995
+            },
+            {
+                "id": 46382975,
+                "name": "Brennan-MacCallum",
+                "type": "nan",
+                "latitude": -33.886239810005115,
+                "longitude": 151.18808026005635
+            },
+            {
+                "id": 46383420,
+                "name": "Brennan",
+                "type": "nan",
+                "latitude": -33.88627426048623,
+                "longitude": 151.1876064330234
+            },
+            {
+                "id": 46383599,
+                "name": "Griffith-Taylor Building",
+                "type": "nan",
+                "latitude": -33.886302723780766,
+                "longitude": 151.18718158207543
+            },
+            {
+                "id": 46502784,
+                "name": "University of Sydney Footbridge Theatre",
+                "type": "nan",
+                "latitude": -33.88505002147439,
+                "longitude": 151.18734792111354
+            },
+            {
+                "id": 46502790,
+                "name": "Holme Building",
+                "type": "nan",
+                "latitude": -33.885153433028144,
+                "longitude": 151.18686205631036
+            },
+            {
+                "id": 46502927,
+                "name": "Science Road Cottage",
+                "type": "nan",
+                "latitude": -33.88536597213397,
+                "longitude": 151.1868239261915
+            },
+            {
+                "id": 46502994,
+                "name": "Heydon-Lawrence Building",
+                "type": "nan",
+                "latitude": -33.88528086021242,
+                "longitude": 151.18624614731465
+            },
+            {
+                "id": 46503157,
+                "name": "Edgeworth-David",
+                "type": "nan",
+                "latitude": -33.88513568838161,
+                "longitude": 151.18779529479465
+            },
+            {
+                "id": 46503202,
+                "name": "Macleay Building",
+                "type": "nan",
+                "latitude": -33.885131304587695,
+                "longitude": 151.18839348510892
+            },
+            {
+                "id": 46503223,
+                "name": "Great Hall",
+                "type": "nan",
+                "latitude": -33.88541285483589,
+                "longitude": 151.1890105027655
+            },
+            {
+                "id": 46503297,
+                "name": "R. D. Watt Building",
+                "type": "nan",
+                "latitude": -33.885468213315576,
+                "longitude": 151.1855510917487
+            },
+            {
+                "id": 46503325,
+                "name": "Social Sciences Building (SSB)",
+                "type": "nan",
+                "latitude": -33.88526098516299,
+                "longitude": 151.18547280275348
+            },
+            {
+                "id": 46503357,
+                "name": "Baxter Lodge",
+                "type": "nan",
+                "latitude": -33.8850244279141,
+                "longitude": 151.19152311811203
+            },
+            {
+                "id": 46503360,
+                "name": "Guardhouse",
+                "type": "nan",
+                "latitude": -33.885417950000004,
+                "longitude": 151.19137869999997
+            },
+            {
+                "id": 47334391,
+                "name": "J. D. Stewart Building",
+                "type": "nan",
+                "latitude": -33.88580483456784,
+                "longitude": 151.18409389233616
+            },
+            {
+                "id": 47334405,
+                "name": "McMaster Building",
+                "type": "nan",
+                "latitude": -33.88571498936215,
+                "longitude": 151.1836202394931
+            },
+            {
+                "id": 47335416,
+                "name": "The Round House",
+                "type": "nan",
+                "latitude": -33.88598814114223,
+                "longitude": 151.18347982509175
+            },
+            {
+                "id": 47335637,
+                "name": "Evelyn Williams",
+                "type": "nan",
+                "latitude": -33.88614512806054,
+                "longitude": 151.18317923155678
+            },
+            {
+                "id": 47954545,
+                "name": "R.M.C. Gunn",
+                "type": "nan",
+                "latitude": -33.88658815444755,
+                "longitude": 151.18374930712736
+            },
+            {
+                "id": 47954564,
+                "name": "Veterinary Science Conference Centre",
+                "type": "nan",
+                "latitude": -33.88624165106175,
+                "longitude": 151.18379353082108
+            },
+            {
+                "id": 47954576,
+                "name": "McMaster Annexe",
+                "type": "nan",
+                "latitude": -33.88642347086468,
+                "longitude": 151.18353520341714
+            },
+            {
+                "id": 47956070,
+                "name": "Chaplaincy",
+                "type": "nan",
+                "latitude": -33.88702538277794,
+                "longitude": 151.18561839827166
+            },
+            {
+                "id": 47956100,
+                "name": "Chaplaincy",
+                "type": "nan",
+                "latitude": -33.88685593450944,
+                "longitude": 151.1855605065499
+            },
+            {
+                "id": 47956192,
+                "name": "Wesley College",
+                "type": "nan",
+                "latitude": -33.8890428107662,
+                "longitude": 151.18628310506185
+            },
+            {
+                "id": 47956459,
+                "name": "St Paul's College",
+                "type": "nan",
+                "latitude": -33.88991596115687,
+                "longitude": 151.1872545334631
+            },
+            {
+                "id": 48483905,
+                "name": "Principals Lodge",
+                "type": "nan",
+                "latitude": -33.890639472299874,
+                "longitude": 151.18560221040906
+            },
+            {
+                "id": 48483914,
+                "name": "Angus Hall",
+                "type": "nan",
+                "latitude": -33.89030992086955,
+                "longitude": 151.18551372369183
+            },
+            {
+                "id": 48483919,
+                "name": "Harper",
+                "type": "nan",
+                "latitude": -33.8901122705044,
+                "longitude": 151.185388573605
+            },
+            {
+                "id": 48483928,
+                "name": "Gillespie Hall",
+                "type": "nan",
+                "latitude": -33.88987956155397,
+                "longitude": 151.1854870556306
+            },
+            {
+                "id": 48484325,
+                "name": "Bruce Williams Pavillion",
+                "type": "nan",
+                "latitude": -33.888539614236834,
+                "longitude": 151.18464261175387
+            },
+            {
+                "id": 48671364,
+                "name": "Reid",
+                "type": "nan",
+                "latitude": -33.891020251579185,
+                "longitude": 151.18415636767602
+            },
+            {
+                "id": 48671415,
+                "name": "Thyne",
+                "type": "nan",
+                "latitude": -33.89109883889589,
+                "longitude": 151.18366617043998
+            },
+            {
+                "id": 48671662,
+                "name": "Workshop",
+                "type": "nan",
+                "latitude": -33.890310547414025,
+                "longitude": 151.1835335860716
+            },
+            {
+                "id": 48671796,
+                "name": "St. John's College",
+                "type": "nan",
+                "latitude": -33.88801190387907,
+                "longitude": 151.1818537932323
+            },
+            {
+                "id": 48671810,
+                "name": "Hintze Building",
+                "type": "nan",
+                "latitude": -33.88827698278582,
+                "longitude": 151.1814769086951
+            },
+            {
+                "id": 48671833,
+                "name": "Plunkett Building",
+                "type": "nan",
+                "latitude": -33.88793134498604,
+                "longitude": 151.18117139532848
+            },
+            {
+                "id": 48671890,
+                "name": "Sancta Sophia College",
+                "type": "nan",
+                "latitude": -33.88732578318596,
+                "longitude": 151.18070636660633
+            },
+            {
+                "id": 145270164,
+                "name": "The Arena Sport Centre",
+                "type": "nan",
+                "latitude": -33.88764584773854,
+                "longitude": 151.18627474285233
+            },
+            {
+                "id": 169219244,
+                "name": "Verge Gallery",
+                "type": "nan",
+                "latitude": -33.889004378280774,
+                "longitude": 151.19135064748272
+            },
+            {
+                "id": 169219245,
+                "name": "Jane Foss Russell Building",
+                "type": "nan",
+                "latitude": -33.88936230818,
+                "longitude": 151.19124102253167
+            },
+            {
+                "id": 169908416,
+                "name": "Wentworth Building",
+                "type": "nan",
+                "latitude": -33.889592668167765,
+                "longitude": 151.19079031975798
+            },
+            {
+                "id": 175377608,
+                "name": "Computer Science Building",
+                "type": "nan",
+                "latitude": -33.888194166530226,
+                "longitude": 151.19401993023058
+            },
+            {
+                "id": 176277405,
+                "name": "Centenary Institute",
+                "type": "nan",
+                "latitude": -33.88808640200358,
+                "longitude": 151.18388587958424
+            },
+            {
+                "id": 176277949,
+                "name": "Wallace Theatre",
+                "type": "nan",
+                "latitude": -33.885893478179376,
+                "longitude": 151.18564889040854
+            },
+            {
+                "id": 205131017,
+                "name": "RC Mills Building",
+                "type": "nan",
+                "latitude": -33.88747528306803,
+                "longitude": 151.18853297873915
+            },
+            {
+                "id": 205131027,
+                "name": "Chemistry Building",
+                "type": "nan",
+                "latitude": -33.887988891488924,
+                "longitude": 151.18954042449153
+            },
+            {
+                "id": 206951111,
+                "name": "Chemistry Lecture Theatres",
+                "type": "nan",
+                "latitude": -33.88766082611971,
+                "longitude": 151.1892370616205
+            },
+            {
+                "id": 262480022,
+                "name": "Charles Perkins Centre",
+                "type": "nan",
+                "latitude": -33.88742432201244,
+                "longitude": 151.18352041358528
+            },
+            {
+                "id": 267179802,
+                "name": "The Economics and Business Building, The University of Sydney",
+                "type": "nan",
+                "latitude": -33.89172859580378,
+                "longitude": 151.19079952108305
+            },
+            {
+                "id": 291157588,
+                "name": "The Hub",
+                "type": "nan",
+                "latitude": -33.887739052185346,
+                "longitude": 151.1839933162744
+            },
+            {
+                "id": 293280841,
+                "name": "Urbanest",
+                "type": "nan",
+                "latitude": -33.88902616760543,
+                "longitude": 151.19171142036788
+            },
+            {
+                "id": 354290800,
+                "name": "Sydney Nanoscience Hub",
+                "type": "nan",
+                "latitude": -33.88841898469235,
+                "longitude": 151.18749199994596
+            },
+            {
+                "id": 423503340,
+                "name": "H70 School of Business",
+                "type": "nan",
+                "latitude": -33.892181620644784,
+                "longitude": 151.19055475620308
+            },
+            {
+                "id": 604686878,
+                "name": "Demountable Village",
+                "type": "nan",
+                "latitude": -33.885446571959726,
+                "longitude": 151.1849172124195
+            },
+            {
+                "id": 619369525,
+                "name": "Abercrombie Student Accommodation",
+                "type": "nan",
+                "latitude": -33.89269648293851,
+                "longitude": 151.19026971249843
+            },
+            {
+                "id": 619369527,
+                "name": "Mandelbaum House",
+                "type": "nan",
+                "latitude": -33.89249656939559,
+                "longitude": 151.1908217280572
+            },
+            {
+                "id": 661062520,
+                "name": "LEES1 Building",
+                "type": "nan",
+                "latitude": -33.888708335227385,
+                "longitude": 151.19056954633763
+            },
+            {
+                "id": 661062521,
+                "name": "Michael Spence Building",
+                "type": "nan",
+                "latitude": -33.88928677983431,
+                "longitude": 151.18969628632254
+            },
+            {
+                "id": 679133517,
+                "name": "St Paul's Learning Centre",
+                "type": "nan",
+                "latitude": -33.88891518763731,
+                "longitude": 151.18734323588794
+            },
+            {
+                "id": 1013629044,
+                "name": "Susan Wakil Health Building (SWHB)",
+                "type": "nan",
+                "latitude": -33.889024777053315,
+                "longitude": 151.18462193934508
+            },
+            {
+                "id": 1079380690,
+                "name": "Chau Chak Wing Museum",
+                "type": "nan",
+                "latitude": -33.88527006961394,
+                "longitude": 151.19048749754364
+            },
+            {
+                "id": 1112478847,
+                "name": "Sibyl Centre",
+                "type": "nan",
+                "latitude": -33.88986568688947,
+                "longitude": 151.18594757376243
+            },
+            {
+                "id": 356776,
+                "name": "Anderson-Stuart Building",
+                "type": "nan",
+                "latitude": -33.887148211527574,
+                "longitude": 151.18921526190832
+            },
+            {
+                "id": 362737,
+                "name": "Chemical Engineering",
+                "type": "nan",
+                "latitude": -33.89061418600413,
+                "longitude": 151.19272712551597
+            },
+            {
+                "id": 362741,
+                "name": "Electrical Engineering",
+                "type": "nan",
+                "latitude": -33.889497632323774,
+                "longitude": 151.19335759695886
+            },
+            {
+                "id": 362803,
+                "name": "Merewether Building",
+                "type": "nan",
+                "latitude": -33.89047306635414,
+                "longitude": 151.19023999177782
+            },
+            {
+                "id": 363302,
+                "name": "Storie Dixon Wing",
+                "type": "nan",
+                "latitude": -33.89108674175681,
+                "longitude": 151.1897704859773
+            },
+            {
+                "id": 364300,
+                "name": "Old Teachers College",
+                "type": "nan",
+                "latitude": -33.88675822976542,
+                "longitude": 151.18627148609843
+            },
+            {
+                "id": 364963,
+                "name": "Badham Building",
+                "type": "nan",
+                "latitude": -33.885831201387106,
+                "longitude": 151.18752287171378
+            },
+            {
+                "id": 364964,
+                "name": "John Woolley Building",
+                "type": "nan",
+                "latitude": -33.88608018610305,
+                "longitude": 151.18629930916333
+            },
+            {
+                "id": 380079,
+                "name": "Women's College",
+                "type": "nan",
+                "latitude": -33.890616043570375,
+                "longitude": 151.18665292774693
+            },
+            {
+                "id": 391529,
+                "name": "St. Andrew's College Main Building",
+                "type": "nan",
+                "latitude": -33.890900636603334,
+                "longitude": 151.1829704928446
+            },
+            {
+                "id": 2753870,
+                "name": "Madsen Building",
+                "type": "nan",
+                "latitude": -33.888693626909,
+                "longitude": 151.18945523273914
+            }
+        ]
+    }
+}

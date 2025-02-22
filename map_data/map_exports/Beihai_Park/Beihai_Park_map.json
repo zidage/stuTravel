@@ -1,0 +1,250 @@
+{
+    "id": 7242978113997586743,
+    "name": "北海公园",
+    "address": "中国北京市西城区西安门文津街1号 邮政编码: 100034",
+    "rating": 4.5,
+    "popularity": 56,
+    "data_path": "map_data/university_map/Beihai_Park",
+    "description": "北海公园位于中華人民共和国北京市城区的中偏北部，故宫和景山的西北侧，始建于宋辽金时代，是世界上现存建园时间最早的皇家宫苑。北海的布局以琼华岛为主体，在岛的顶端建有标志性建筑永安寺白塔，与南岸的团城、北岸的宫苑群遥相呼应，相互借景，构成园林的南北中轴线。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/15/1965-10_1965%E5%B9%B4_%E5%8C%97%E4%BA%AC%E5%9B%A2%E5%9F%8E.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/26/Beihai_Park_65402.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/Beihai_Park_65414.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/87/Beihai_Park_White_Pagoda-20110104-RM-105607.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c8/Beihai_wlt1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Beihai_xtfj2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nine_Dragon_Wall%2C_Beihai_Park.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e2/Qiongdaochunyin.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/0/09/Shade_marquis_in_Beihai_Park%2C_Beijing.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/54/Temple_in_the_Imperial_City.jpg"
+    ],
+    "amenity": {
+        "affiliation": 7242978113997586743,
+        "amenity_list": [
+            {
+                "id": 269704764,
+                "name": "可能感兴趣的地点",
+                "type": "ferry_terminal",
+                "latitude": 39.9287887,
+                "longitude": 116.3809857
+            },
+            {
+                "id": 4912183874,
+                "name": "尽膳坊小吃店",
+                "type": "restaurant",
+                "latitude": 39.9305024,
+                "longitude": 116.3825887
+            },
+            {
+                "id": 4912239120,
+                "name": "蚕坛饭庄",
+                "type": "restaurant",
+                "latitude": 39.9299018,
+                "longitude": 116.385822
+            },
+            {
+                "id": 11736096642,
+                "name": "Miaoxiang Pavilion",
+                "type": "shelter",
+                "latitude": 39.9297367,
+                "longitude": 116.3785483
+            },
+            {
+                "id": 11736096646,
+                "name": "Public Toilet",
+                "type": "toilets",
+                "latitude": 39.9267919,
+                "longitude": 116.378494
+            },
+            {
+                "id": 11736096647,
+                "name": "Wulong Pavilion",
+                "type": "shelter",
+                "latitude": 39.9286451,
+                "longitude": 116.3796492
+            },
+            {
+                "id": 124007370,
+                "name": "永安寺",
+                "type": "place_of_worship",
+                "latitude": 39.92366030101921,
+                "longitude": 116.3827967964486
+            },
+            {
+                "id": 149430142,
+                "name": "小西天",
+                "type": "place_of_worship",
+                "latitude": 39.92871241749188,
+                "longitude": 116.37863226553125
+            },
+            {
+                "id": 412303877,
+                "name": "北京四中东校区",
+                "type": "school",
+                "latitude": 39.930837543721545,
+                "longitude": 116.37947136745491
+            },
+            {
+                "id": 478550200,
+                "name": "仿膳",
+                "type": "restaurant",
+                "latitude": 39.929780132123064,
+                "longitude": 116.38136628998541
+            },
+            {
+                "id": 652280608,
+                "name": "庆丰包子铺",
+                "type": "fast_food",
+                "latitude": 39.92308768079695,
+                "longitude": 116.38244007739833
+            },
+            {
+                "id": 1021040710,
+                "name": "涤蔼亭",
+                "type": "shelter",
+                "latitude": 39.92349768567604,
+                "longitude": 116.38286032211867
+            },
+            {
+                "id": 1021040711,
+                "name": "引胜亭",
+                "type": "shelter",
+                "latitude": 39.92350400670465,
+                "longitude": 116.38312942938563
+            },
+            {
+                "id": 1263139955,
+                "name": "Beijing No.4 Middle School (Junior High School Department)",
+                "type": "school",
+                "latitude": 39.9308319252143,
+                "longitude": 116.37949531732315
+            },
+            {
+                "id": 123849167,
+                "name": "承光殿",
+                "type": "nan",
+                "latitude": 39.921518593674044,
+                "longitude": 116.3828714045995
+            },
+            {
+                "id": 123849647,
+                "name": "大慈真如宝殿",
+                "type": "nan",
+                "latitude": 39.93083887888247,
+                "longitude": 116.3821621750373
+            },
+            {
+                "id": 262853255,
+                "name": "庆霄楼",
+                "type": "nan",
+                "latitude": 39.92415667482891,
+                "longitude": 116.38228513577141
+            },
+            {
+                "id": 478118166,
+                "name": "接待室",
+                "type": "nan",
+                "latitude": 39.923833097263,
+                "longitude": 116.38267617532931
+            },
+            {
+                "id": 478118167,
+                "name": "静憩轩",
+                "type": "nan",
+                "latitude": 39.9239716,
+                "longitude": 116.38266955
+            },
+            {
+                "id": 478118169,
+                "name": "正觉殿",
+                "type": "nan",
+                "latitude": 39.923720573021725,
+                "longitude": 116.3829955181428
+            },
+            {
+                "id": 478118170,
+                "name": "圣果殿",
+                "type": "nan",
+                "latitude": 39.92385821951348,
+                "longitude": 116.38315632111312
+            },
+            {
+                "id": 478118171,
+                "name": "宗镜殿",
+                "type": "nan",
+                "latitude": 39.92385684166928,
+                "longitude": 116.38285028134824
+            },
+            {
+                "id": 478118172,
+                "name": "普安殿",
+                "type": "nan",
+                "latitude": 39.923970033584716,
+                "longitude": 116.38300414214217
+            },
+            {
+                "id": 478118173,
+                "name": "悦心殿",
+                "type": "nan",
+                "latitude": 39.92390865433302,
+                "longitude": 116.38228617751939
+            },
+            {
+                "id": 478118193,
+                "name": "公园东门",
+                "type": "nan",
+                "latitude": 39.921529177846196,
+                "longitude": 116.38344395729762
+            },
+            {
+                "id": 478550190,
+                "name": "真谛门",
+                "type": "nan",
+                "latitude": 39.93082647442269,
+                "longitude": 116.38137556885549
+            },
+            {
+                "id": 561191892,
+                "name": "镜清斋",
+                "type": "nan",
+                "latitude": 39.93131384008385,
+                "longitude": 116.38308652657174
+            },
+            {
+                "id": 561191895,
+                "name": "抱素书屋",
+                "type": "nan",
+                "latitude": 39.93138786609674,
+                "longitude": 116.38337081560039
+            },
+            {
+                "id": 561193502,
+                "name": "法轮殿",
+                "type": "nan",
+                "latitude": 39.923224093709266,
+                "longitude": 116.38299564046329
+            },
+            {
+                "id": 561193504,
+                "name": "白塔",
+                "type": "nan",
+                "latitude": 39.924421892184895,
+                "longitude": 116.38302254995398
+            },
+            {
+                "id": 1021040719,
+                "name": "善因殿",
+                "type": "nan",
+                "latitude": 39.924296874056814,
+                "longitude": 116.3830244308968
+            },
+            {
+                "id": 7029112,
+                "name": "阅古楼",
+                "type": "nan",
+                "latitude": 39.92480817163677,
+                "longitude": 116.38197578494265
+            }
+        ]
+    }
+}

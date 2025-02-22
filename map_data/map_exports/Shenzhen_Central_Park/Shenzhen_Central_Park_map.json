@@ -1,0 +1,23 @@
+{
+    "id": -883143818765141217,
+    "name": "深圳市中心公园",
+    "address": "中国深圳市福田区 邮政编码: 518039",
+    "rating": 4.3,
+    "popularity": 88,
+    "data_path": "map_data/university_map/Shenzhen_Central_Park",
+    "description": "深圳市中心公园是中華人民共和國廣東省深圳市福田区的一座公园。公园呈南北长条形分布，北接笔架山，南临滨河大道，南北长约2.5公里，东西最宽处约800米，占地123公顷。公园连接了由笔架山等构成的深圳城市生态廊道，是构成区域生态系统的组成部分。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f1/Badminton_court_Shenzhen_Central_Park.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/Basketball_field_Shenzhen_Central_Park.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Futian_River_Shenzhen_Central_Park_C_Area.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9f/Shenzhen_Central_Park.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Shenzhen_Central_Park_D_Area_Square_A.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Shenzhen_Central_Park_Pedestrian_Path.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Shenzhen_Futian_River.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Soccer_Field_under_construction_Shenzhen_Central_Park.JPG"
+    ],
+    "amenity": {
+        "affiliation": -883143818765141217,
+        "amenity_list": []
+    }
+}

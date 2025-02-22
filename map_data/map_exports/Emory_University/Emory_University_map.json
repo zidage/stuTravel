@@ -1,0 +1,1251 @@
+{
+    "id": -3623411189479974676,
+    "name": "埃默里大学",
+    "address": "201 Dowman Dr, Atlanta, GA 30322美国",
+    "rating": 4.3,
+    "popularity": 52,
+    "data_path": "map_data/university_map/Emory_University",
+    "description": "埃默里大學（英語：Emory University），或譯艾文理大學、艾默利大學，創校於1836年，為一位於美國喬治亞州亞特蘭大都市地区迪卡尔布县德鲁伊山之私立研究型大學；另設有牛津校區。1836年循道宗主教约翰·埃默里创办埃默里学院为其起源。1915年学院迁到亚特兰大都市地区，改名为埃默里大学。它是乔治亚州第二老的私立高校。\n埃默里大學设有多个学院：埃默里文理学院、牛津学院、戈伊苏埃塔商学院、莱尼研究生院、法学院、内尔霍奇森伍德拉夫护理学院、罗琳斯公共卫生学院和康德勒神学院。埃默里大學与佐治亚理工学院一起运行生物医学工程系，该系与中国北京大学在教育和科研方面合作紧密。它和南京大学协作运行亚特兰大的孔子学院。埃默里大學与韩国科学技术院不断加强系际研究伙伴关系。埃默里大學的学生来自美国50个州、6个领土和100多个国家。\n埃默里医疗集团是喬治亞州最大的医疗集团系统，由七座大医院组成，其中包括国际知名的埃默里大学医院和埃默里大学医院中城院区。温希普癌症研究所、耶基斯国家灵长类研究中心和其它许多疾病和免疫研究中心也由埃默里大学运行。埃默里大学是国家过敏症和传染病研究所的疟疾病原体互动中心和美国卫生及公共服务部国家埃博拉训练和教育中心的主要组织者。埃默里大学是参加国家过敏症和传染病研究所肺结核研究项目的四所研究单位之一。国家级公共卫生机构国际联盟（International Association of National Public Health Institutes, IANPHI）的總部位在埃默里大学。美國疾病管制與預防中心和美国癌症协会的总部就位于大学校园边上。埃默里大学和卡特中心有伙伴关系。\n埃默里大學的学校基金会财产在美国排第16名，在全世界是第21富有的，根据《美国新闻与世界报道》2017年美國大学排行榜排第20名，综合排名第82名。研究生的数量和本科生的数量基本持平。常年錄取率保持在25%上下。卡內基高校评估把它评为“最高研究活动”。莱顿大学的高校排名里它被称为拥有最高科学成就和引文影响。国家科学基金会把它列为美国研究開發支出第36名高的学术机构。埃默里大學的研究主要由美國聯邦政府，尤其是國立衛生研究院支付。1995年埃默里大學被选入由62座美国和加拿大领先研究大学组成的美國學院與大學協會。在體育方面，埃默里大学是大學運動聯盟（UAA）的成員學校之一。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0e/Asa_G._C..jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/59/Emory_Campus_Aerial_Image.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e9/Emory_Clocktower.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ef/Emory_Glenn_Chapel.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/Emory_Quad.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/45/Emory_ReadingRoom.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/Emory_University_-_Administration_Building.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Emory_University_-_Charles_and_Peggy_Evans_Anatomy_Building.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/Emory_University_School_of_Law.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/23/Plaque_on_The_Depot_at_Emory_University.jpg"
+    ],
+    "amenity": {
+        "affiliation": -3623411189479974676,
+        "amenity_list": [
+            {
+                "id": 358779595,
+                "name": "Glenn Memorial United Methodist Church",
+                "type": "place_of_worship",
+                "latitude": 33.7886826,
+                "longitude": -84.3241408
+            },
+            {
+                "id": 358780362,
+                "name": "Center for Rehabilitation Medicine",
+                "type": "clinic",
+                "latitude": 33.7949415,
+                "longitude": -84.320485
+            },
+            {
+                "id": 358780372,
+                "name": "Budd Terrace",
+                "type": "nursing_home",
+                "latitude": 33.8028826,
+                "longitude": -84.3310358
+            },
+            {
+                "id": 358780376,
+                "name": "Wesley Woods Health Center",
+                "type": "clinic",
+                "latitude": 33.8046363,
+                "longitude": -84.3292013
+            },
+            {
+                "id": 461977079,
+                "name": "Emory Police Department",
+                "type": "police",
+                "latitude": 33.790585,
+                "longitude": -84.318282
+            },
+            {
+                "id": 490648379,
+                "name": "Emory Recycles",
+                "type": "recycling",
+                "latitude": 33.7985411,
+                "longitude": -84.332029
+            },
+            {
+                "id": 491092305,
+                "name": "Lowergate East Parking Deck",
+                "type": "parking",
+                "latitude": 33.7919291,
+                "longitude": -84.3194464
+            },
+            {
+                "id": 491092394,
+                "name": "Peavine Surface Lot",
+                "type": "parking",
+                "latitude": 33.7921842,
+                "longitude": -84.3279835
+            },
+            {
+                "id": 491947278,
+                "name": "Clinic A Valet Parking",
+                "type": "parking",
+                "latitude": 33.7923132,
+                "longitude": -84.3197422
+            },
+            {
+                "id": 491947281,
+                "name": "Clinic C Valet Parking",
+                "type": "parking",
+                "latitude": 33.7930123,
+                "longitude": -84.3193045
+            },
+            {
+                "id": 491947292,
+                "name": "Emory University Hospital Valet Parking",
+                "type": "parking",
+                "latitude": 33.7918282,
+                "longitude": -84.3211756
+            },
+            {
+                "id": 533979256,
+                "name": "可能感兴趣的地点",
+                "type": "parking_entrance",
+                "latitude": 33.7981925,
+                "longitude": -84.3098053
+            },
+            {
+                "id": 1358786365,
+                "name": "Wesley Woods Tower",
+                "type": "nursing_home",
+                "latitude": 33.803321,
+                "longitude": -84.3323807
+            },
+            {
+                "id": 5554395887,
+                "name": "Starbucks",
+                "type": "cafe",
+                "latitude": 33.7891845,
+                "longitude": -84.3267735
+            },
+            {
+                "id": 10834410890,
+                "name": "Emory Wesley Woods Hospital",
+                "type": "hospital",
+                "latitude": 33.804819,
+                "longitude": -84.331172
+            },
+            {
+                "id": 25509346,
+                "name": "Starvine Parking Deck",
+                "type": "parking",
+                "latitude": 33.79605376155453,
+                "longitude": -84.30814670451583
+            },
+            {
+                "id": 40859914,
+                "name": "Peavine Parking Deck",
+                "type": "parking",
+                "latitude": 33.79335671260243,
+                "longitude": -84.32829124632504
+            },
+            {
+                "id": 41169860,
+                "name": "Clinic B",
+                "type": "clinic",
+                "latitude": 33.791498840628144,
+                "longitude": -84.31983215846458
+            },
+            {
+                "id": 41169862,
+                "name": "Robert W. Woodruff Library",
+                "type": "library",
+                "latitude": 33.79051577102507,
+                "longitude": -84.3229142678356
+            },
+            {
+                "id": 41169864,
+                "name": "Gambrell Parking Deck",
+                "type": "parking",
+                "latitude": 33.79042827729106,
+                "longitude": -84.31895381733224
+            },
+            {
+                "id": 41556695,
+                "name": "Fishburne Parking Deck",
+                "type": "parking",
+                "latitude": 33.78906403492191,
+                "longitude": -84.32256731531271
+            },
+            {
+                "id": 42701401,
+                "name": "Clairmont EFGH Deck",
+                "type": "parking",
+                "latitude": 33.798201122053165,
+                "longitude": -84.30936239292559
+            },
+            {
+                "id": 43317371,
+                "name": "Candler Library",
+                "type": "library",
+                "latitude": 33.791294948356544,
+                "longitude": -84.32353374246543
+            },
+            {
+                "id": 51286211,
+                "name": "William R. Cannon Chapel",
+                "type": "place_of_worship",
+                "latitude": 33.79131140798294,
+                "longitude": -84.32513272901481
+            },
+            {
+                "id": 51302619,
+                "name": "Emory Clinic Building A",
+                "type": "clinic",
+                "latitude": 33.792454586372344,
+                "longitude": -84.32037802974511
+            },
+            {
+                "id": 51313299,
+                "name": "Donna and Marvin Schwartz Center for Performing Arts",
+                "type": "theatre",
+                "latitude": 33.78924339142396,
+                "longitude": -84.32184926851029
+            },
+            {
+                "id": 61494982,
+                "name": "Emory University Hospital",
+                "type": "hospital",
+                "latitude": 33.792121188345455,
+                "longitude": -84.3221790720872
+            },
+            {
+                "id": 112921497,
+                "name": "Winship Cancer Institute Clinic C",
+                "type": "clinic",
+                "latitude": 33.792807927808674,
+                "longitude": -84.31944656098572
+            },
+            {
+                "id": 112921498,
+                "name": "Physician's Parking Deck",
+                "type": "parking",
+                "latitude": 33.7923914158339,
+                "longitude": -84.31909293262022
+            },
+            {
+                "id": 167777685,
+                "name": "Longstreet-Means Parking Deck",
+                "type": "parking",
+                "latitude": 33.794649141191165,
+                "longitude": -84.32309796764972
+            },
+            {
+                "id": 167938151,
+                "name": "Oxford Road Parking Deck",
+                "type": "parking",
+                "latitude": 33.78958816889735,
+                "longitude": -84.32647835586714
+            },
+            {
+                "id": 210821305,
+                "name": "WHSCAB Lot",
+                "type": "parking",
+                "latitude": 33.79504036130232,
+                "longitude": -84.32190861084788
+            },
+            {
+                "id": 494884355,
+                "name": "Egleston Hospital",
+                "type": "hospital",
+                "latitude": 33.79386532301804,
+                "longitude": -84.31988654035581
+            },
+            {
+                "id": 761822115,
+                "name": "Lawley Fountain",
+                "type": "fountain",
+                "latitude": 33.7942010214276,
+                "longitude": -84.32223471397262
+            },
+            {
+                "id": 870475716,
+                "name": "Druid Hills High School",
+                "type": "school",
+                "latitude": 33.79373186843584,
+                "longitude": -84.31594978313733
+            },
+            {
+                "id": 1079888274,
+                "name": "Church School Amphitheatre",
+                "type": "theatre",
+                "latitude": 33.78874618938558,
+                "longitude": -84.32366932183513
+            },
+            {
+                "id": 1221469441,
+                "name": "VA Medical Center",
+                "type": "hospital",
+                "latitude": 33.801586250293695,
+                "longitude": -84.31166206539346
+            },
+            {
+                "id": 1673566,
+                "name": "The Clifton School",
+                "type": "kindergarten",
+                "latitude": 33.79572467466746,
+                "longitude": -84.31122321881354
+            },
+            {
+                "id": 367912654,
+                "name": "Lullwater Estate",
+                "type": "nan",
+                "latitude": 33.8006604,
+                "longitude": -84.3157575
+            },
+            {
+                "id": 367915134,
+                "name": "Woodruff Memorial Building",
+                "type": "nan",
+                "latitude": 33.7929949,
+                "longitude": -84.3223419
+            },
+            {
+                "id": 367915150,
+                "name": "Rich Memorial Building",
+                "type": "nan",
+                "latitude": 33.7895495,
+                "longitude": -84.3232577
+            },
+            {
+                "id": 367915236,
+                "name": "Emory National Primate Research Center",
+                "type": "nan",
+                "latitude": 33.8031603,
+                "longitude": -84.3188132
+            },
+            {
+                "id": 4457974967,
+                "name": "Asbury House",
+                "type": "nan",
+                "latitude": 33.7976324,
+                "longitude": -84.3306251
+            },
+            {
+                "id": 4457974968,
+                "name": "Kaminski Intramural Park Field House",
+                "type": "nan",
+                "latitude": 33.8000053,
+                "longitude": -84.33252
+            },
+            {
+                "id": 4457974969,
+                "name": "WaterHub",
+                "type": "nan",
+                "latitude": 33.7963546,
+                "longitude": -84.3276348
+            },
+            {
+                "id": 8752480285,
+                "name": "Repe A",
+                "type": "nan",
+                "latitude": 33.8027601,
+                "longitude": -84.3191579
+            },
+            {
+                "id": 8752480286,
+                "name": "Repe B",
+                "type": "nan",
+                "latitude": 33.802738,
+                "longitude": -84.3189063
+            },
+            {
+                "id": 8760989577,
+                "name": "Virology Research Wing",
+                "type": "nan",
+                "latitude": 33.8036591,
+                "longitude": -84.3193145
+            },
+            {
+                "id": 8760989578,
+                "name": "EPS Eye Building",
+                "type": "nan",
+                "latitude": 33.8036554,
+                "longitude": -84.3190944
+            },
+            {
+                "id": 8760989579,
+                "name": "EPS D Wing",
+                "type": "nan",
+                "latitude": 33.8031377,
+                "longitude": -84.319462
+            },
+            {
+                "id": 8760989580,
+                "name": "EPS Great Ape Wing",
+                "type": "nan",
+                "latitude": 33.8030259,
+                "longitude": -84.3188868
+            },
+            {
+                "id": 40859912,
+                "name": "Emory University School of Medicine",
+                "type": "nan",
+                "latitude": 33.79384543703464,
+                "longitude": -84.32183507503399
+            },
+            {
+                "id": 40859913,
+                "name": "Woodruff Health Sciences Administration Building",
+                "type": "nan",
+                "latitude": 33.79440457203975,
+                "longitude": -84.32166526629133
+            },
+            {
+                "id": 41109061,
+                "name": "Administration",
+                "type": "nan",
+                "latitude": 33.79012619007478,
+                "longitude": -84.32551261403707
+            },
+            {
+                "id": 41109062,
+                "name": "Tarbutton Hall",
+                "type": "nan",
+                "latitude": 33.792013644530016,
+                "longitude": -84.32496706505306
+            },
+            {
+                "id": 41109063,
+                "name": "Anthropology",
+                "type": "nan",
+                "latitude": 33.79228894122874,
+                "longitude": -84.32444985162876
+            },
+            {
+                "id": 41109064,
+                "name": "Modern Languages",
+                "type": "nan",
+                "latitude": 33.791717945173716,
+                "longitude": -84.32474669121919
+            },
+            {
+                "id": 41109065,
+                "name": "Alabama Hall",
+                "type": "nan",
+                "latitude": 33.79281493833126,
+                "longitude": -84.323230514805
+            },
+            {
+                "id": 41109068,
+                "name": "Mathematics and Science Center",
+                "type": "nan",
+                "latitude": 33.79021845483799,
+                "longitude": -84.32678662611767
+            },
+            {
+                "id": 41109069,
+                "name": "Goodrich C. White Hall",
+                "type": "nan",
+                "latitude": 33.790780190618904,
+                "longitude": -84.32591828273114
+            },
+            {
+                "id": 41109070,
+                "name": "Convocation Hall",
+                "type": "nan",
+                "latitude": 33.79086360653061,
+                "longitude": -84.3251760286001
+            },
+            {
+                "id": 41169856,
+                "name": "Lowergate East Parking Deck",
+                "type": "parking",
+                "latitude": 33.79142853511452,
+                "longitude": -84.31908265028395
+            },
+            {
+                "id": 41169863,
+                "name": "Harris Hall",
+                "type": "nan",
+                "latitude": 33.791253729876,
+                "longitude": -84.32149052967634
+            },
+            {
+                "id": 41169865,
+                "name": "North Decatur Building",
+                "type": "nan",
+                "latitude": 33.79065513160527,
+                "longitude": -84.31810733920426
+            },
+            {
+                "id": 41169867,
+                "name": "Boisfeuillet Jones Center",
+                "type": "nan",
+                "latitude": 33.78979294334556,
+                "longitude": -84.3261111905449
+            },
+            {
+                "id": 41380318,
+                "name": "Bowden Hall",
+                "type": "nan",
+                "latitude": 33.790747617756736,
+                "longitude": -84.32378218053975
+            },
+            {
+                "id": 42563699,
+                "name": "Emory National Primate Research Center",
+                "type": "nan",
+                "latitude": 33.803435781672846,
+                "longitude": -84.31873961669434
+            },
+            {
+                "id": 42614607,
+                "name": "Woodruff Physical Education Center",
+                "type": "nan",
+                "latitude": 33.793285333557115,
+                "longitude": -84.32598476100479
+            },
+            {
+                "id": 43448661,
+                "name": "Clairmont Building B",
+                "type": "nan",
+                "latitude": 33.79660037674157,
+                "longitude": -84.3095814714211
+            },
+            {
+                "id": 43621277,
+                "name": "Miller-Ward Alumni House",
+                "type": "nan",
+                "latitude": 33.8019347237104,
+                "longitude": -84.3222903021645
+            },
+            {
+                "id": 43621278,
+                "name": "The Luce Center at Emory University",
+                "type": "nan",
+                "latitude": 33.80177701274259,
+                "longitude": -84.32002077679563
+            },
+            {
+                "id": 51278657,
+                "name": "Campus Services Building C",
+                "type": "nan",
+                "latitude": 33.795764268035704,
+                "longitude": -84.32673006575432
+            },
+            {
+                "id": 51282136,
+                "name": "Peavine Facility",
+                "type": "nan",
+                "latitude": 33.79649428842429,
+                "longitude": -84.32802317915679
+            },
+            {
+                "id": 51282222,
+                "name": "Emory University Center for Rehabilitation Medicine",
+                "type": "nan",
+                "latitude": 33.794925929856475,
+                "longitude": -84.32039422988088
+            },
+            {
+                "id": 51283225,
+                "name": "ΒΘΠ",
+                "type": "nan",
+                "latitude": 33.795165210847976,
+                "longitude": -84.32798585976113
+            },
+            {
+                "id": 51283232,
+                "name": "Campus Services Building H - Steam Plant",
+                "type": "nan",
+                "latitude": 33.79532103012861,
+                "longitude": -84.32466361382525
+            },
+            {
+                "id": 51283241,
+                "name": "Campus Services Building I - Boiler 9",
+                "type": "nan",
+                "latitude": 33.795578662567266,
+                "longitude": -84.32532871733792
+            },
+            {
+                "id": 51284602,
+                "name": "Michael C. Carlos Museum",
+                "type": "nan",
+                "latitude": 33.79044770087064,
+                "longitude": -84.32417357924666
+            },
+            {
+                "id": 51286262,
+                "name": "Black Student Alliance House",
+                "type": "nan",
+                "latitude": 33.793772794233526,
+                "longitude": -84.32709625739984
+            },
+            {
+                "id": 51287217,
+                "name": "Campus Life Pavilion",
+                "type": "nan",
+                "latitude": 33.7967689587096,
+                "longitude": -84.32932975719282
+            },
+            {
+                "id": 51287227,
+                "name": "Building A",
+                "type": "nan",
+                "latitude": 33.79680408596421,
+                "longitude": -84.31047506525057
+            },
+            {
+                "id": 51287229,
+                "name": "Student Activity & Academic Center",
+                "type": "nan",
+                "latitude": 33.79676023836069,
+                "longitude": -84.3085618694169
+            },
+            {
+                "id": 51287234,
+                "name": "Spanish House",
+                "type": "nan",
+                "latitude": 33.79715427798284,
+                "longitude": -84.32999766104244
+            },
+            {
+                "id": 51287278,
+                "name": "ΣΧ",
+                "type": "nan",
+                "latitude": 33.794631481705025,
+                "longitude": -84.3257686837788
+            },
+            {
+                "id": 51287336,
+                "name": "Callaway Memorial Center",
+                "type": "nan",
+                "latitude": 33.791438780656655,
+                "longitude": -84.3241889222772
+            },
+            {
+                "id": 51288404,
+                "name": "Campus Services Building F - North Shop",
+                "type": "nan",
+                "latitude": 33.79574730362898,
+                "longitude": -84.3257945987072
+            },
+            {
+                "id": 51290085,
+                "name": "Tufts House",
+                "type": "nan",
+                "latitude": 33.7927329782822,
+                "longitude": -84.31871535998602
+            },
+            {
+                "id": 51290398,
+                "name": "Thomas Hall",
+                "type": "nan",
+                "latitude": 33.79073513881554,
+                "longitude": -84.32124082785792
+            },
+            {
+                "id": 51291645,
+                "name": "Emory Clairmont Tower",
+                "type": "nan",
+                "latitude": 33.79701659459288,
+                "longitude": -84.30977916987263
+            },
+            {
+                "id": 51291647,
+                "name": "Woodruff Residential Center",
+                "type": "nan",
+                "latitude": 33.796840649372534,
+                "longitude": -84.32150431982888
+            },
+            {
+                "id": 51294626,
+                "name": "Glenn Memorial United Methodist Church",
+                "type": "nan",
+                "latitude": 33.78867165278299,
+                "longitude": -84.32417457137905
+            },
+            {
+                "id": 51295534,
+                "name": "Emerson Hall",
+                "type": "nan",
+                "latitude": 33.79138800978235,
+                "longitude": -84.32628103547013
+            },
+            {
+                "id": 51297673,
+                "name": "Visual Arts Building",
+                "type": "nan",
+                "latitude": 33.796712789692926,
+                "longitude": -84.3286375986227
+            },
+            {
+                "id": 51297730,
+                "name": "ΚA",
+                "type": "nan",
+                "latitude": 33.79457152551002,
+                "longitude": -84.32744521320912
+            },
+            {
+                "id": 51300212,
+                "name": "Macmillan - Gambrell Hall",
+                "type": "nan",
+                "latitude": 33.78990861719911,
+                "longitude": -84.3201528902962
+            },
+            {
+                "id": 51301571,
+                "name": "ΚΣ",
+                "type": "nan",
+                "latitude": 33.793939351842326,
+                "longitude": -84.32779629401664
+            },
+            {
+                "id": 51301581,
+                "name": "Hamilton Holmes Hall",
+                "type": "nan",
+                "latitude": 33.79432899820044,
+                "longitude": -84.32343031332346
+            },
+            {
+                "id": 51301588,
+                "name": "McDonough Field Stage",
+                "type": "nan",
+                "latitude": 33.793836205679824,
+                "longitude": -84.32456089922036
+            },
+            {
+                "id": 51303656,
+                "name": "The Depot",
+                "type": "nan",
+                "latitude": 33.795278798690745,
+                "longitude": -84.32297424450536
+            },
+            {
+                "id": 51304281,
+                "name": "Goizueta Business School Building",
+                "type": "nan",
+                "latitude": 33.79000143466083,
+                "longitude": -84.32137698779098
+            },
+            {
+                "id": 51305052,
+                "name": "Cox Hall",
+                "type": "nan",
+                "latitude": 33.792403391040274,
+                "longitude": -84.32318377127038
+            },
+            {
+                "id": 51306546,
+                "name": "Building D",
+                "type": "nan",
+                "latitude": 33.79605595301145,
+                "longitude": -84.30953979351867
+            },
+            {
+                "id": 51306550,
+                "name": "EHSO Warehouse",
+                "type": "nan",
+                "latitude": 33.796321555728895,
+                "longitude": -84.32731033509451
+            },
+            {
+                "id": 51306610,
+                "name": "ΔΤΔ",
+                "type": "nan",
+                "latitude": 33.79461989101032,
+                "longitude": -84.32651314134264
+            },
+            {
+                "id": 51306614,
+                "name": "ΣAM",
+                "type": "nan",
+                "latitude": 33.79461324627506,
+                "longitude": -84.32614180558515
+            },
+            {
+                "id": 51307755,
+                "name": "Campus Services Building E",
+                "type": "nan",
+                "latitude": 33.796004615344266,
+                "longitude": -84.32658014228893
+            },
+            {
+                "id": 51310163,
+                "name": "ΣΑΕ",
+                "type": "nan",
+                "latitude": 33.79443386348824,
+                "longitude": -84.32802049078143
+            },
+            {
+                "id": 51310965,
+                "name": "ΑΤΩ",
+                "type": "nan",
+                "latitude": 33.794541474790904,
+                "longitude": -84.32699861013585
+            },
+            {
+                "id": 51310984,
+                "name": "Eagle Hall",
+                "type": "nan",
+                "latitude": 33.79467426210298,
+                "longitude": -84.32278698733626
+            },
+            {
+                "id": 51310997,
+                "name": "ΧΦ",
+                "type": "nan",
+                "latitude": 33.79505417434969,
+                "longitude": -84.32724899013115
+            },
+            {
+                "id": 51312708,
+                "name": "Sorority Complex",
+                "type": "nan",
+                "latitude": 33.79531912503445,
+                "longitude": -84.326691205823
+            },
+            {
+                "id": 51313252,
+                "name": "Emory Children's Center",
+                "type": "nan",
+                "latitude": 33.79355485237237,
+                "longitude": -84.31855924140541
+            },
+            {
+                "id": 51313455,
+                "name": "Glenn Church School Building",
+                "type": "nan",
+                "latitude": 33.78880692774945,
+                "longitude": -84.32339113061315
+            },
+            {
+                "id": 51315226,
+                "name": "Campus Services Building D",
+                "type": "nan",
+                "latitude": 33.79610803295707,
+                "longitude": -84.3269703033623
+            },
+            {
+                "id": 51315359,
+                "name": "ΑΕΠ",
+                "type": "nan",
+                "latitude": 33.79509537601059,
+                "longitude": -84.32846085414893
+            },
+            {
+                "id": 65841964,
+                "name": "Recycling Operations",
+                "type": "nan",
+                "latitude": 33.79903043260737,
+                "longitude": -84.33230414028267
+            },
+            {
+                "id": 65956875,
+                "name": "Goizueta Foundation Building",
+                "type": "nan",
+                "latitude": 33.79005836053644,
+                "longitude": -84.32226997699227
+            },
+            {
+                "id": 95475030,
+                "name": "Campus Services Building B",
+                "type": "nan",
+                "latitude": 33.795499347135156,
+                "longitude": -84.32583608599549
+            },
+            {
+                "id": 95475041,
+                "name": "Campus Services Building A - Campus Services Administration",
+                "type": "nan",
+                "latitude": 33.7953469759834,
+                "longitude": -84.32592148587922
+            },
+            {
+                "id": 96774356,
+                "name": "Building C",
+                "type": "nan",
+                "latitude": 33.796369082723345,
+                "longitude": -84.31075101210548
+            },
+            {
+                "id": 112912641,
+                "name": "Telecommunications",
+                "type": "nan",
+                "latitude": 33.79258738970413,
+                "longitude": -84.32265814174414
+            },
+            {
+                "id": 167773027,
+                "name": "Brumley Bridge",
+                "type": "nan",
+                "latitude": 33.793977490853486,
+                "longitude": -84.31827330652071
+            },
+            {
+                "id": 167773028,
+                "name": "Health Sciences Research Building",
+                "type": "nan",
+                "latitude": 33.794316043678144,
+                "longitude": -84.31759015725162
+            },
+            {
+                "id": 167837141,
+                "name": "Ignatius Few Hall",
+                "type": "nan",
+                "latitude": 33.794573472262215,
+                "longitude": -84.32471567583036
+            },
+            {
+                "id": 167837142,
+                "name": "Oxford Road Building",
+                "type": "nan",
+                "latitude": 33.789462189344114,
+                "longitude": -84.32683441445802
+            },
+            {
+                "id": 167837145,
+                "name": "Atwood Chemistry Center",
+                "type": "nan",
+                "latitude": 33.79111190037541,
+                "longitude": -84.32686526256326
+            },
+            {
+                "id": 167837151,
+                "name": "Candler School of Theology",
+                "type": "nan",
+                "latitude": 33.791665892722,
+                "longitude": -84.32585485843472
+            },
+            {
+                "id": 167837152,
+                "name": "Lettie Pate Whitehead Evans Hall",
+                "type": "nan",
+                "latitude": 33.794649685700094,
+                "longitude": -84.32536704633146
+            },
+            {
+                "id": 167837153,
+                "name": "Psychology and Interdisciplinary Sciences",
+                "type": "nan",
+                "latitude": 33.79110045966261,
+                "longitude": -84.32751056641503
+            },
+            {
+                "id": 167837834,
+                "name": "Ronald McDonald House",
+                "type": "nan",
+                "latitude": 33.79825584485977,
+                "longitude": -84.31874727234587
+            },
+            {
+                "id": 171973383,
+                "name": "Quadrangle Energy Plant",
+                "type": "nan",
+                "latitude": 33.79199814459661,
+                "longitude": -84.32464025512112
+            },
+            {
+                "id": 210682767,
+                "name": "Lullwater House",
+                "type": "nan",
+                "latitude": 33.80065733266351,
+                "longitude": -84.31569453206546
+            },
+            {
+                "id": 210770476,
+                "name": "EPS Neuroscience Building",
+                "type": "nan",
+                "latitude": 33.80296602950423,
+                "longitude": -84.31803860018518
+            },
+            {
+                "id": 210770588,
+                "name": "Cid",
+                "type": "nan",
+                "latitude": 33.80245685403102,
+                "longitude": -84.31897797431247
+            },
+            {
+                "id": 216261215,
+                "name": "Turman Hall",
+                "type": "nan",
+                "latitude": 33.794035048638584,
+                "longitude": -84.32289999798253
+            },
+            {
+                "id": 239890974,
+                "name": "Building E",
+                "type": "nan",
+                "latitude": 33.79848531840963,
+                "longitude": -84.3086126865342
+            },
+            {
+                "id": 239890975,
+                "name": "Building F",
+                "type": "nan",
+                "latitude": 33.79785716321036,
+                "longitude": -84.30999603881094
+            },
+            {
+                "id": 239890976,
+                "name": "Residential Services Building",
+                "type": "nan",
+                "latitude": 33.79866357005811,
+                "longitude": -84.3105605542527
+            },
+            {
+                "id": 239890980,
+                "name": "Building H",
+                "type": "nan",
+                "latitude": 33.79801538783697,
+                "longitude": -84.30923382411791
+            },
+            {
+                "id": 239890981,
+                "name": "Building G",
+                "type": "nan",
+                "latitude": 33.79839745229807,
+                "longitude": -84.30947292725895
+            },
+            {
+                "id": 239890982,
+                "name": "Autism Resource center",
+                "type": "nan",
+                "latitude": 33.79936468099168,
+                "longitude": -84.3089134648254
+            },
+            {
+                "id": 239890983,
+                "name": "Hope Lodge",
+                "type": "nan",
+                "latitude": 33.79899432901002,
+                "longitude": -84.30953758564026
+            },
+            {
+                "id": 239890984,
+                "name": "Mason Guest House",
+                "type": "nan",
+                "latitude": 33.799602315727014,
+                "longitude": -84.30986678850405
+            },
+            {
+                "id": 286360476,
+                "name": "Raoul Hall",
+                "type": "nan",
+                "latitude": 33.79487069924403,
+                "longitude": -84.32373958986784
+            },
+            {
+                "id": 287210916,
+                "name": "Smith Hall",
+                "type": "nan",
+                "latitude": 33.79078040114735,
+                "longitude": -84.3219417193747
+            },
+            {
+                "id": 287210917,
+                "name": "Hopkins Hall",
+                "type": "nan",
+                "latitude": 33.79061826045357,
+                "longitude": -84.32161697715483
+            },
+            {
+                "id": 288252107,
+                "name": "Michael C. Carlos Hall",
+                "type": "nan",
+                "latitude": 33.79020715100053,
+                "longitude": -84.32458867765268
+            },
+            {
+                "id": 293646727,
+                "name": "Dowman Drive Visitor Information Booth",
+                "type": "nan",
+                "latitude": 33.789378091394795,
+                "longitude": -84.32563172665091
+            },
+            {
+                "id": 293658372,
+                "name": "Emory University Hospital Tower",
+                "type": "nan",
+                "latitude": 33.79112663058603,
+                "longitude": -84.32024410813088
+            },
+            {
+                "id": 294784067,
+                "name": "Pitts Theology Library",
+                "type": "nan",
+                "latitude": 33.79145463889126,
+                "longitude": -84.32559710869404
+            },
+            {
+                "id": 669782051,
+                "name": "Asbury House",
+                "type": "nan",
+                "latitude": 33.797592828883296,
+                "longitude": -84.33075431610654
+            },
+            {
+                "id": 669782331,
+                "name": "Kaminsky Park Field House",
+                "type": "nan",
+                "latitude": 33.79986032704151,
+                "longitude": -84.33267345816951
+            },
+            {
+                "id": 669784571,
+                "name": "Houston Mill House",
+                "type": "nan",
+                "latitude": 33.802659680991056,
+                "longitude": -84.32208388669365
+            },
+            {
+                "id": 761840928,
+                "name": "Emory Student Center",
+                "type": "nan",
+                "latitude": 33.793646852247335,
+                "longitude": -84.3239712252768
+            },
+            {
+                "id": 775061348,
+                "name": "Wesley Woods Health Center",
+                "type": "nan",
+                "latitude": 33.80465329282572,
+                "longitude": -84.32920391537547
+            },
+            {
+                "id": 775061350,
+                "name": "1817 Clifton Road",
+                "type": "nan",
+                "latitude": 33.804805288671325,
+                "longitude": -84.33333505050278
+            },
+            {
+                "id": 775061351,
+                "name": "A. G. Rhodes Health and Rehab",
+                "type": "nan",
+                "latitude": 33.80677135072855,
+                "longitude": -84.33106293382173
+            },
+            {
+                "id": 775061352,
+                "name": "Budd Terrace",
+                "type": "nan",
+                "latitude": 33.802878695132975,
+                "longitude": -84.33103152886625
+            },
+            {
+                "id": 887239234,
+                "name": "The 1599 Building",
+                "type": "nan",
+                "latitude": 33.799814551683696,
+                "longitude": -84.32436818362936
+            },
+            {
+                "id": 945411720,
+                "name": "EPS Dual Function Facility",
+                "type": "nan",
+                "latitude": 33.80361953235949,
+                "longitude": -84.31986892501723
+            },
+            {
+                "id": 945411722,
+                "name": "Living  Links Trailer",
+                "type": "nan",
+                "latitude": 33.804018049235026,
+                "longitude": -84.31974596741694
+            },
+            {
+                "id": 945411723,
+                "name": "EPS Behavior Management Trailer",
+                "type": "nan",
+                "latitude": 33.80403849337151,
+                "longitude": -84.31919068613085
+            },
+            {
+                "id": 945411724,
+                "name": "Animal Supv Trailer",
+                "type": "nan",
+                "latitude": 33.80399836181017,
+                "longitude": -84.31899346743666
+            },
+            {
+                "id": 945411725,
+                "name": "EPS Fmd Trailer",
+                "type": "nan",
+                "latitude": 33.804044510950504,
+                "longitude": -84.31938280853609
+            },
+            {
+                "id": 945411727,
+                "name": "EPS - T-14",
+                "type": "nan",
+                "latitude": 33.80382971123168,
+                "longitude": -84.31904513062145
+            },
+            {
+                "id": 945411728,
+                "name": "EPS T-12",
+                "type": "nan",
+                "latitude": 33.80386076893939,
+                "longitude": -84.31920123761691
+            },
+            {
+                "id": 945411729,
+                "name": "Repe C",
+                "type": "nan",
+                "latitude": 33.803845884551755,
+                "longitude": -84.31941751421556
+            },
+            {
+                "id": 945411730,
+                "name": "Idb",
+                "type": "nan",
+                "latitude": 33.80360400342961,
+                "longitude": -84.32026537721987
+            },
+            {
+                "id": 945411731,
+                "name": "Specimen Storage",
+                "type": "nan",
+                "latitude": 33.80348791169071,
+                "longitude": -84.32015958389965
+            },
+            {
+                "id": 945411733,
+                "name": "Repe D",
+                "type": "nan",
+                "latitude": 33.803741285772546,
+                "longitude": -84.31976249604837
+            },
+            {
+                "id": 1583249,
+                "name": "Hospital Annex",
+                "type": "nan",
+                "latitude": 33.7912434281666,
+                "longitude": -84.32222675385744
+            },
+            {
+                "id": 1629346,
+                "name": "Woodruff Memorial Building",
+                "type": "nan",
+                "latitude": 33.793002262658284,
+                "longitude": -84.32250297798305
+            },
+            {
+                "id": 1629347,
+                "name": "Dobbs Hall",
+                "type": "nan",
+                "latitude": 33.7928766769719,
+                "longitude": -84.32462281230222
+            },
+            {
+                "id": 1629348,
+                "name": "Rich Building",
+                "type": "nan",
+                "latitude": 33.78964523730989,
+                "longitude": -84.32311627776969
+            },
+            {
+                "id": 7249634,
+                "name": "Alumni Memorial University Center",
+                "type": "nan",
+                "latitude": 33.79357535727802,
+                "longitude": -84.32303345774095
+            }
+        ]
+    }
+}

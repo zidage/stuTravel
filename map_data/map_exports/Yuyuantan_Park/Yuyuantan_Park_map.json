@@ -1,0 +1,93 @@
+{
+    "id": -3574169488370712892,
+    "name": "玉渊潭公园",
+    "address": "中国北京市海淀区玉渊潭南路",
+    "rating": 4.6,
+    "popularity": 80,
+    "data_path": "map_data/university_map/Yuyuantan_Park",
+    "description": "玉渊潭公园位于北京市海淀区，北靠白堆子、马神庙，南通军博、世纪坛，东临钓鱼台，西接西三环，占地100多公顷，是北京市三环以内最大的公园，国家AAAA级景区。园内以栽种的樱花最为著名，每年四月底五月初，公园均举办“樱花节”并引来大量游客前来参观。园内湖水的水源来自北京市西北面的颐和园。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/72/Bayi_Lake_-_satellite_image_%281967-09-20%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/15/East_gate_of_Yuyuantan_Park_%2820210403174937%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/South_Gate_of_Yuyuantan_Park.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c2/Yuyuantan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/Yuyuantan_Park_2010.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Yuyuantan_Park_Cherry_Blossom_Buds%2C_Beijing.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/54/%E4%B8%AD%E5%9B%BD%E5%B0%91%E5%B9%B4%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91%EF%BC%8C%E5%8C%97%E4%BA%AC%E7%8E%89%E6%B8%8A%E6%BD%AD%E5%85%AC%E5%9B%AD.jpg"
+    ],
+    "amenity": {
+        "affiliation": -3574169488370712892,
+        "amenity_list": [
+            {
+                "id": 5968018485,
+                "name": "可能感兴趣的地点",
+                "type": "bench",
+                "latitude": 39.9139542,
+                "longitude": 116.3125401
+            },
+            {
+                "id": 6277705837,
+                "name": "玉渊亭",
+                "type": "shelter",
+                "latitude": 39.9139601,
+                "longitude": 116.3141724
+            },
+            {
+                "id": 647165944,
+                "name": "卫生间",
+                "type": "toilets",
+                "latitude": 39.91373033310684,
+                "longitude": 116.31978773390168
+            },
+            {
+                "id": 667089746,
+                "name": "知鱼榭",
+                "type": "shelter",
+                "latitude": 39.917645415253965,
+                "longitude": 116.31167471174831
+            },
+            {
+                "id": 655522987,
+                "name": "望海楼",
+                "type": "nan",
+                "latitude": 39.91411713020698,
+                "longitude": 116.32033884295605
+            },
+            {
+                "id": 655525355,
+                "name": "西南门",
+                "type": "nan",
+                "latitude": 39.91389161688621,
+                "longitude": 116.30549267294253
+            },
+            {
+                "id": 667090704,
+                "name": "樱苑",
+                "type": "nan",
+                "latitude": 39.91767690165888,
+                "longitude": 116.30906187864463
+            },
+            {
+                "id": 670356468,
+                "name": "西门",
+                "type": "nan",
+                "latitude": 39.91654736138416,
+                "longitude": 116.30485702874593
+            },
+            {
+                "id": 670356528,
+                "name": "北门",
+                "type": "nan",
+                "latitude": 39.91871367289844,
+                "longitude": 116.31309388346905
+            },
+            {
+                "id": 670356664,
+                "name": "东门",
+                "type": "nan",
+                "latitude": 39.911931365400974,
+                "longitude": 116.32771921856607
+            }
+        ]
+    }
+}

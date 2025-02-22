@@ -1,0 +1,47 @@
+{
+    "id": 1867214085365925037,
+    "name": "芝加哥大学",
+    "address": "5801 S Ellis Ave, Chicago, IL 60637美国",
+    "rating": 4.6,
+    "popularity": 64,
+    "data_path": "map_data/university_map/University_of_Chicago",
+    "description": "芝加哥大学（英語：University of Chicago），简称芝大（UChicago），位于美国伊利诺伊州芝加哥的世界顶级私立研究型大学，美洲大学协会12个创始会员之一，常年位列各大学排行榜世界前十。\n芝加哥大学1890年由石油大王约翰·洛克菲勒创办，包括大學学院以及由4个学术部门、6所职业学院和1所继续教育学院组成的各种研究生项目和跨学科委员会，并拥有约6000名學士生和10,000名研究生。 在世界范围内，芝加哥大学在伦敦、北京、香港、新加坡、德里等地设有中心机构或校区。\n芝加哥大学的学者和研究人员在众多领域均开创了“芝加哥学派”，其中包括著名的“芝加哥经济学派”和“芝加哥社会学派”。 芝加哥大学还是法律经济学的诞生地，是经济学、社会学、法学、人类学等学科全球最重要的研究教学中心之一。 而从曼哈顿计划开始，大批科学家汇集于芝大，在“原子能之父”恩里科·费米的领导下建立了世界上第一台可控核反应堆（“芝加哥一号堆”）、成功开启了人类的原子能时代，并创立了美国第一所国家实验室阿贡国家实验室和之后著名的费米实验室，进而奠定了芝大在自然科学界的重要地位。 2013年7月起，著名的生命科学研究中心海洋生物学实验室也成为芝加哥大学的附属实验室。\n截止至2020年10月，芝加哥大学的校友、教授及研究人员中，共有100位诺贝尔奖得主（世界第四）、10位菲尔兹奖得主 、4位图灵奖得主。 另有25位普利策奖得主在芝大工作或学习过，还有15位教授荣获过美国国家科学奖章，现任教授中有近70位美国国家科学院（44位）、美国国家工程院（9位）和美国国家医学院院士（14位）。 美国第44任总统奥巴马曾长期在芝大法学院任教（1992-2004年）。體育方面，芝加哥大学是大學運動聯盟（UAA）的成員學校之一。\n芝加哥大学是培养华人菁英的摇篮和聚集地之一。它培养了李政道、杨振宁和崔琦三个华人诺贝尔奖得主（其中，李政道和杨振宁实现华人首獲諾貝爾獎），著名华裔政治家、中华民国前副总统、中國國民黨前主席连战，著名法学家梅汝璈，著名医学家吴阶平，著名物理学家叶企孙，著名气象学家郭晓岚，著名经济学家邹至庄、世界银行前高级副总裁林毅夫等等亦毕业于芝加哥大学或曾在芝大学习。诺贝尔化学奖得主李远哲、数学家陈省身等也曾长期在芝加哥大学任教。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b4/Campus_Spring.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chicago_Pile_1_Monument.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/b/be/Eckhart_Hall.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3c/Enrico_Fermi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7f/Friedrich_Hayek_portrait.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Harper_Midway_Chicago.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/Henry_Hinds_Laboratory_at_University_of_Chicago5.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/James_O_McKinsey.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Portrait_of_Milton_Friedman.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg"
+    ],
+    "amenity": {
+        "affiliation": 1867214085365925037,
+        "amenity_list": [
+            {
+                "id": 11608801905,
+                "name": "可能感兴趣的地点",
+                "type": "bench",
+                "latitude": 41.7859246,
+                "longitude": -87.5913569
+            },
+            {
+                "id": 155418357,
+                "name": "Dorchester Parking Lot",
+                "type": "parking",
+                "latitude": 41.78509095954019,
+                "longitude": -87.59082352671685
+            },
+            {
+                "id": 278952385,
+                "name": "Vendor #1",
+                "type": "shelter",
+                "latitude": 41.7844045,
+                "longitude": -87.59073325
+            }
+        ]
+    }
+}

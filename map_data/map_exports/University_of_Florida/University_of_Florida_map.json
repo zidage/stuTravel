@@ -1,0 +1,3926 @@
+{
+    "id": 2514202766448795613,
+    "name": "佛罗里达大学",
+    "address": "Gainesville, FL 32611美国",
+    "rating": 4.4,
+    "popularity": 100,
+    "data_path": "map_data/university_map/University_of_Florida",
+    "description": "佛羅里達大學（英語：University of Florida，簡稱UF，也稱作UFL）是一所位於美國佛羅里達州蓋恩斯維爾市的公立研究型大學。佛羅里達大學建校可追溯至1853年，是佛羅里達州的頂尖學府，被譽為美國“公立常春藤”之一。\n佛羅里達大學是美國大學協會會員之一。， 該大學被卡內基教學促進基金會歸類為最高的第一級研究型大學 (R-1: Doctoral Universities)。2023年美國新聞與世界報道大學排名（US News）將其並列為全美公立大學第6名及全球大學第98名。該大學在2021-2022世界大學排名（CWUR）中名列第86名、2020-2021世界大學學术排名（ARWU）中名列第88名。\n體育方面，佛羅里達大學是全國大學體育協會（NCAA）的成員，隸屬東南聯盟學校之一，該校大學運動隊的吉祥物是一只名叫Albert的短吻鱷（alligator），簡稱Gator，是該校重要的校園文化之一。因此佛羅里達大學的學生以及球隊粉丝習慣性自稱為Gator，而大學運動隊在聯賽中的習慣性稱呼是Florida Gators。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Dsg_UF_Ben_Hill_Griffin_Stadium_Inside_20050507.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/Dsg_UF_Century_Tower_20050507.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/Lake_Alice_Winter.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/Pugh_Hall_at_the_University_of_Florida.JPG"
+    ],
+    "amenity": {
+        "affiliation": 2514202766448795613,
+        "amenity_list": [
+            {
+                "id": 583406704,
+                "name": "可能感兴趣的地点",
+                "type": "bicycle_parking",
+                "latitude": 29.6480135,
+                "longitude": -82.3450583
+            },
+            {
+                "id": 1171347358,
+                "name": "Reitz Union Food Court",
+                "type": "food_court",
+                "latitude": 29.6460208,
+                "longitude": -82.3477828
+            },
+            {
+                "id": 2294943771,
+                "name": "Chick-fil-A",
+                "type": "fast_food",
+                "latitude": 29.6470255,
+                "longitude": -82.3414993
+            },
+            {
+                "id": 2698391346,
+                "name": "Starbucks",
+                "type": "cafe",
+                "latitude": 29.6482553,
+                "longitude": -82.3454479
+            },
+            {
+                "id": 2816285544,
+                "name": "Subway",
+                "type": "fast_food",
+                "latitude": 29.6463319,
+                "longitude": -82.3432213
+            },
+            {
+                "id": 2838526683,
+                "name": "Tolbert Area Council",
+                "type": "community_centre",
+                "latitude": 29.6480431,
+                "longitude": -82.3511326
+            },
+            {
+                "id": 4249724476,
+                "name": "College of Dentistry",
+                "type": "dentist",
+                "latitude": 29.6390372,
+                "longitude": -82.3450961
+            },
+            {
+                "id": 4313709838,
+                "name": "Pepsi",
+                "type": "vending_machine",
+                "latitude": 29.6453762,
+                "longitude": -82.3469801
+            },
+            {
+                "id": 6313522874,
+                "name": "University of Florida College of Pharmacy",
+                "type": "college",
+                "latitude": 29.6417298,
+                "longitude": -82.3452511
+            },
+            {
+                "id": 6313522875,
+                "name": "University of Florida College of Nursing",
+                "type": "college",
+                "latitude": 29.6417252,
+                "longitude": -82.3451277
+            },
+            {
+                "id": 6313522876,
+                "name": "University of Florida College of Public Health and Health Professions",
+                "type": "college",
+                "latitude": 29.6416645,
+                "longitude": -82.3453101
+            },
+            {
+                "id": 8023646508,
+                "name": "Lawton Chiles Legal Information Center",
+                "type": "library",
+                "latitude": 29.6498492,
+                "longitude": -82.3588989
+            },
+            {
+                "id": 8041384121,
+                "name": "Constans Theatre",
+                "type": "theatre",
+                "latitude": 29.646388,
+                "longitude": -82.3468327
+            },
+            {
+                "id": 8045866199,
+                "name": "The Pride of the Sunshine Marching Band",
+                "type": "music_school",
+                "latitude": 29.6476256,
+                "longitude": -82.3426565
+            },
+            {
+                "id": 8064287638,
+                "name": "The Fresh Food Company",
+                "type": "restaurant",
+                "latitude": 29.6470262,
+                "longitude": -82.341145
+            },
+            {
+                "id": 9473991051,
+                "name": "UF Health Science Center Library",
+                "type": "library",
+                "latitude": 29.6409353,
+                "longitude": -82.3448944
+            },
+            {
+                "id": 10046398165,
+                "name": "Fletcher Library",
+                "type": "library",
+                "latitude": 29.6511323,
+                "longitude": -82.3454176
+            },
+            {
+                "id": 10112249654,
+                "name": "ChargePoint",
+                "type": "charging_station",
+                "latitude": 29.6403794,
+                "longitude": -82.3467959
+            },
+            {
+                "id": 10126734968,
+                "name": "Shands Childrens Hospital",
+                "type": "hospital",
+                "latitude": 29.6402603,
+                "longitude": -82.3440198
+            },
+            {
+                "id": 10565996559,
+                "name": "Firehouse Subs",
+                "type": "fast_food",
+                "latitude": 29.6487189,
+                "longitude": -82.3444961
+            },
+            {
+                "id": 10565996560,
+                "name": "Wild Blue Sushi",
+                "type": "restaurant",
+                "latitude": 29.6487507,
+                "longitude": -82.3445327
+            },
+            {
+                "id": 150800199,
+                "name": "Parking Garage 5",
+                "type": "parking",
+                "latitude": 29.64326118218843,
+                "longitude": -82.35128381602222
+            },
+            {
+                "id": 150800203,
+                "name": "UF Shands Garage 2",
+                "type": "parking",
+                "latitude": 29.638872240355806,
+                "longitude": -82.34677657026396
+            },
+            {
+                "id": 150800205,
+                "name": "UF Shands Garage 3",
+                "type": "parking",
+                "latitude": 29.63865464488912,
+                "longitude": -82.34776539953484
+            },
+            {
+                "id": 150803324,
+                "name": "Gator Corner Dining Center",
+                "type": "food_court",
+                "latitude": 29.64803998846252,
+                "longitude": -82.35014616753719
+            },
+            {
+                "id": 150821736,
+                "name": "Commuter Lot",
+                "type": "parking",
+                "latitude": 29.641571086009154,
+                "longitude": -82.35152617020745
+            },
+            {
+                "id": 150823416,
+                "name": "Parking Garage 4",
+                "type": "parking",
+                "latitude": 29.645267144119366,
+                "longitude": -82.3429798042721
+            },
+            {
+                "id": 150860048,
+                "name": "Marston Science Library",
+                "type": "library",
+                "latitude": 29.647934061661157,
+                "longitude": -82.3439277202402
+            },
+            {
+                "id": 150869222,
+                "name": "Hume Commons",
+                "type": "community_centre",
+                "latitude": 29.644522199934787,
+                "longitude": -82.3524825685886
+            },
+            {
+                "id": 150958003,
+                "name": "Diamond Commons",
+                "type": "community_centre",
+                "latitude": 29.642402624281328,
+                "longitude": -82.34047500247624
+            },
+            {
+                "id": 151101676,
+                "name": "UF Housing & Residence Education Office",
+                "type": "office",
+                "latitude": 29.64416195015475,
+                "longitude": -82.33980745178194
+            },
+            {
+                "id": 154223625,
+                "name": "Smathers Library",
+                "type": "library",
+                "latitude": 29.65091309916564,
+                "longitude": -82.34180910076492
+            },
+            {
+                "id": 154223652,
+                "name": "Student Infirmary",
+                "type": "clinic",
+                "latitude": 29.649530559869596,
+                "longitude": -82.34659098881423
+            },
+            {
+                "id": 154233152,
+                "name": "UF Health Davis Cancer Pavilion",
+                "type": "clinic",
+                "latitude": 29.637733225565146,
+                "longitude": -82.3496280054944
+            },
+            {
+                "id": 154233166,
+                "name": "Environmental Health & Safety",
+                "type": "office",
+                "latitude": 29.643531414588832,
+                "longitude": -82.34391308400538
+            },
+            {
+                "id": 196848218,
+                "name": "Parking Garage 7",
+                "type": "parking",
+                "latitude": 29.65060435135061,
+                "longitude": -82.35153910962964
+            },
+            {
+                "id": 208630203,
+                "name": "Broward Dining Center",
+                "type": "food_court",
+                "latitude": 29.646956839138017,
+                "longitude": -82.34127443504768
+            },
+            {
+                "id": 259926043,
+                "name": "Keys Commons",
+                "type": "community_centre",
+                "latitude": 29.64772870747043,
+                "longitude": -82.35335779247389
+            },
+            {
+                "id": 259926629,
+                "name": "North O'Connell Parking Lot",
+                "type": "parking",
+                "latitude": 29.65100574878105,
+                "longitude": -82.35099380333513
+            },
+            {
+                "id": 259927627,
+                "name": "Bledsoe Drive Parking",
+                "type": "parking",
+                "latitude": 29.639594911817284,
+                "longitude": -82.36985029586602
+            },
+            {
+                "id": 259946101,
+                "name": "Microcell Parking",
+                "type": "parking",
+                "latitude": 29.640005602942942,
+                "longitude": -82.36246369964438
+            },
+            {
+                "id": 259968301,
+                "name": "Lakeside Commons",
+                "type": "community_centre",
+                "latitude": 29.6418543696752,
+                "longitude": -82.36620307315849
+            },
+            {
+                "id": 276732667,
+                "name": "Jennings Hall Office",
+                "type": "community_centre",
+                "latitude": 29.64437964768072,
+                "longitude": -82.3422149180427
+            },
+            {
+                "id": 276736808,
+                "name": "Beaty Commons",
+                "type": "community_centre",
+                "latitude": 29.6443754750699,
+                "longitude": -82.340597407778
+            },
+            {
+                "id": 276746441,
+                "name": "Housing Orange Parking",
+                "type": "parking",
+                "latitude": 29.644168546067284,
+                "longitude": -82.3395648314676
+            },
+            {
+                "id": 276798990,
+                "name": "Diamond Village Parking",
+                "type": "parking",
+                "latitude": 29.64204978984846,
+                "longitude": -82.34107686534364
+            },
+            {
+                "id": 277001074,
+                "name": "UPD Centrex Building",
+                "type": "police",
+                "latitude": 29.643933028089357,
+                "longitude": -82.34308584854644
+            },
+            {
+                "id": 277024106,
+                "name": "Yulee Reid Parking",
+                "type": "parking",
+                "latitude": 29.647140784290094,
+                "longitude": -82.34007667505487
+            },
+            {
+                "id": 277082915,
+                "name": "Norman Garage",
+                "type": "parking",
+                "latitude": 29.645503287864393,
+                "longitude": -82.33749630020682
+            },
+            {
+                "id": 278093471,
+                "name": "Springs Common",
+                "type": "community_centre",
+                "latitude": 29.648707064164764,
+                "longitude": -82.35712573964636
+            },
+            {
+                "id": 278909993,
+                "name": "Graham Area Office",
+                "type": "community_centre",
+                "latitude": 29.64587792716264,
+                "longitude": -82.35108897247044
+            },
+            {
+                "id": 279551770,
+                "name": "Keys Complex Parking",
+                "type": "parking",
+                "latitude": 29.647350115384864,
+                "longitude": -82.35428405182819
+            },
+            {
+                "id": 279644392,
+                "name": "Hume Parking",
+                "type": "parking",
+                "latitude": 29.64416027753121,
+                "longitude": -82.35104925043935
+            },
+            {
+                "id": 279644406,
+                "name": "Pony Field Parking",
+                "type": "parking",
+                "latitude": 29.639154266257012,
+                "longitude": -82.3512752111635
+            },
+            {
+                "id": 284659321,
+                "name": "Springs Complex Parking",
+                "type": "parking",
+                "latitude": 29.648704041818238,
+                "longitude": -82.35661729862937
+            },
+            {
+                "id": 289899832,
+                "name": "Corry Village Commons",
+                "type": "community_centre",
+                "latitude": 29.646393139364008,
+                "longitude": -82.36091140990166
+            },
+            {
+                "id": 289899834,
+                "name": "Corry Village Parking",
+                "type": "parking",
+                "latitude": 29.646518403036335,
+                "longitude": -82.36050101703853
+            },
+            {
+                "id": 292712663,
+                "name": "Baby Gator",
+                "type": "childcare",
+                "latitude": 29.645374444574866,
+                "longitude": -82.36051897036847
+            },
+            {
+                "id": 292712673,
+                "name": "Lakeside Complex Parking",
+                "type": "parking",
+                "latitude": 29.641826512603746,
+                "longitude": -82.36668469537254
+            },
+            {
+                "id": 293325250,
+                "name": "Southwest Rec Center Parking",
+                "type": "parking",
+                "latitude": 29.637899900984134,
+                "longitude": -82.36734034993059
+            },
+            {
+                "id": 293325252,
+                "name": "North Lacrosse Parking",
+                "type": "parking",
+                "latitude": 29.637461133847353,
+                "longitude": -82.3665010102234
+            },
+            {
+                "id": 294197723,
+                "name": "Murphree Blue Parking",
+                "type": "parking",
+                "latitude": 29.651846854185994,
+                "longitude": -82.34551518288204
+            },
+            {
+                "id": 294197735,
+                "name": "Murphree Red 1 Parking",
+                "type": "parking",
+                "latitude": 29.651855282943462,
+                "longitude": -82.3467614393642
+            },
+            {
+                "id": 294197736,
+                "name": "Murphree Orange Parking Lot",
+                "type": "parking",
+                "latitude": 29.651252395729614,
+                "longitude": -82.34727882372557
+            },
+            {
+                "id": 294203172,
+                "name": "McCarty Hall Parking",
+                "type": "parking",
+                "latitude": 29.645950299630172,
+                "longitude": -82.3441056127999
+            },
+            {
+                "id": 294203188,
+                "name": "Surge Area Parking",
+                "type": "parking",
+                "latitude": 29.632217729664994,
+                "longitude": -82.36652908554422
+            },
+            {
+                "id": 294213159,
+                "name": "UVS Commons",
+                "type": "community_centre",
+                "latitude": 29.638740538916792,
+                "longitude": -82.37100127774131
+            },
+            {
+                "id": 294234938,
+                "name": "Maguire 13",
+                "type": "community_centre",
+                "latitude": 29.641146785864,
+                "longitude": -82.37080293571175
+            },
+            {
+                "id": 395178830,
+                "name": "Parking Garage 11",
+                "type": "parking",
+                "latitude": 29.636308474009024,
+                "longitude": -82.36844060778968
+            },
+            {
+                "id": 395178832,
+                "name": "Phillips Center for the Performing Arts",
+                "type": "theatre",
+                "latitude": 29.635281556342246,
+                "longitude": -82.36929771524106
+            },
+            {
+                "id": 404962532,
+                "name": "Mail & Document Services Parking",
+                "type": "parking",
+                "latitude": 29.64250692189822,
+                "longitude": -82.36707149726695
+            },
+            {
+                "id": 404962617,
+                "name": "Elmore Hall Parking",
+                "type": "parking",
+                "latitude": 29.64282363669746,
+                "longitude": -82.3662120299794
+            },
+            {
+                "id": 404962623,
+                "name": "Facilities Services Parking Lot",
+                "type": "parking",
+                "latitude": 29.643133437752425,
+                "longitude": -82.37076019460665
+            },
+            {
+                "id": 404962878,
+                "name": "UF Mail & Documents Services",
+                "type": "post_office",
+                "latitude": 29.642838683966776,
+                "longitude": -82.36704250273888
+            },
+            {
+                "id": 421670143,
+                "name": "UF Emerging Pathogens Institute",
+                "type": "research_institute",
+                "latitude": 29.637254367268312,
+                "longitude": -82.35197781443804
+            },
+            {
+                "id": 421670144,
+                "name": "UF Cancer & Genetics Research Complex",
+                "type": "research_institute",
+                "latitude": 29.638016427762327,
+                "longitude": -82.3515897740249
+            },
+            {
+                "id": 424512409,
+                "name": "Bat House Parking",
+                "type": "parking",
+                "latitude": 29.643466090082047,
+                "longitude": -82.36401439143404
+            },
+            {
+                "id": 426255502,
+                "name": "Cultural Plaza",
+                "type": "shelter",
+                "latitude": 29.637508599999997,
+                "longitude": -82.36853185000001
+            },
+            {
+                "id": 426692016,
+                "name": "Cancer Research Parking",
+                "type": "parking",
+                "latitude": 29.638040156435206,
+                "longitude": -82.34845884515447
+            },
+            {
+                "id": 427905273,
+                "name": "Hume Hall",
+                "type": "shelter",
+                "latitude": 29.644974875115107,
+                "longitude": -82.3521656558575
+            },
+            {
+                "id": 428102711,
+                "name": "University Gardens Parking",
+                "type": "parking",
+                "latitude": 29.644800398255875,
+                "longitude": -82.35754368228898
+            },
+            {
+                "id": 428102716,
+                "name": "Fraternity Row",
+                "type": "shelter",
+                "latitude": 29.648219960983116,
+                "longitude": -82.3576410088733
+            },
+            {
+                "id": 435957931,
+                "name": "Infirmary Parking",
+                "type": "parking",
+                "latitude": 29.64889024102904,
+                "longitude": -82.34641662637796
+            },
+            {
+                "id": 435957943,
+                "name": "Rhines Hall Parking",
+                "type": "parking",
+                "latitude": 29.64740394797384,
+                "longitude": -82.3486916908464
+            },
+            {
+                "id": 435959355,
+                "name": "Tigert Hall Parking",
+                "type": "parking",
+                "latitude": 29.649376571002808,
+                "longitude": -82.34069783345673
+            },
+            {
+                "id": 462870343,
+                "name": "UF Health Medical Plaza",
+                "type": "clinic",
+                "latitude": 29.63783575651358,
+                "longitude": -82.34898470876922
+            },
+            {
+                "id": 469683807,
+                "name": "Jimmy John's",
+                "type": "fast_food",
+                "latitude": 29.635254917438353,
+                "longitude": -82.35555787028537
+            },
+            {
+                "id": 474700556,
+                "name": "Track Parking Lot",
+                "type": "parking",
+                "latitude": 29.649448510216985,
+                "longitude": -82.35543122281886
+            },
+            {
+                "id": 475581007,
+                "name": "Natural Area Teaching Pavilion",
+                "type": "shelter",
+                "latitude": 29.633497190936097,
+                "longitude": -82.36744262415563
+            },
+            {
+                "id": 481247870,
+                "name": "Fine Arts C Parking",
+                "type": "parking",
+                "latitude": 29.647520353331068,
+                "longitude": -82.34052217506206
+            },
+            {
+                "id": 481247874,
+                "name": "Cypress Parking",
+                "type": "parking",
+                "latitude": 29.645667769943156,
+                "longitude": -82.33964974100172
+            },
+            {
+                "id": 481256536,
+                "name": "Bus Shelter McCarty Drive North",
+                "type": "shelter",
+                "latitude": 29.645294628567342,
+                "longitude": -82.34699662750594
+            },
+            {
+                "id": 481256537,
+                "name": "Bus Shelter McCarty Drive South",
+                "type": "shelter",
+                "latitude": 29.64539788361958,
+                "longitude": -82.34696026419103
+            },
+            {
+                "id": 481256541,
+                "name": "Frazier-Rogers Parking",
+                "type": "parking",
+                "latitude": 29.6443327152888,
+                "longitude": -82.3460905517053
+            },
+            {
+                "id": 481256555,
+                "name": "Sun Shelter",
+                "type": "shelter",
+                "latitude": 29.640891249999996,
+                "longitude": -82.34321039999999
+            },
+            {
+                "id": 481259369,
+                "name": "West O'Connell Center Parking Lot",
+                "type": "parking",
+                "latitude": 29.649271003598624,
+                "longitude": -82.35208608336373
+            },
+            {
+                "id": 481262058,
+                "name": "Vending Machines Shelter",
+                "type": "shelter",
+                "latitude": 29.646269031978598,
+                "longitude": -82.34493024564188
+            },
+            {
+                "id": 481285609,
+                "name": "West Law Circle Parking",
+                "type": "parking",
+                "latitude": 29.648925949270915,
+                "longitude": -82.35985012622923
+            },
+            {
+                "id": 481285610,
+                "name": "Law School Green Parking",
+                "type": "parking",
+                "latitude": 29.648442128282696,
+                "longitude": -82.35878221723578
+            },
+            {
+                "id": 481286276,
+                "name": "Fifield Hall Parking",
+                "type": "parking",
+                "latitude": 29.638557778662545,
+                "longitude": -82.36197290323331
+            },
+            {
+                "id": 481286284,
+                "name": "Archer Field Parking",
+                "type": "parking",
+                "latitude": 29.636453132145643,
+                "longitude": -82.35382364876347
+            },
+            {
+                "id": 502942019,
+                "name": "Select Specialty Hospital- Gainesville",
+                "type": "hospital",
+                "latitude": 29.632406815086398,
+                "longitude": -82.36399743562333
+            },
+            {
+                "id": 503128995,
+                "name": "UF Health Shands Hospital",
+                "type": "hospital",
+                "latitude": 29.64062058536125,
+                "longitude": -82.3437645764044
+            },
+            {
+                "id": 503128996,
+                "name": "Malcom Randall Veterans Administration Medical Center",
+                "type": "hospital",
+                "latitude": 29.63650527332085,
+                "longitude": -82.34624696411211
+            },
+            {
+                "id": 644534617,
+                "name": "Facilities Services Motor Pool",
+                "type": "fuel",
+                "latitude": 29.642830287307998,
+                "longitude": -82.36785227646811
+            },
+            {
+                "id": 648615996,
+                "name": "Service Vehicle Parking",
+                "type": "parking",
+                "latitude": 29.64275011341292,
+                "longitude": -82.34314615010166
+            },
+            {
+                "id": 654527443,
+                "name": "Mehrhof Hall Parking",
+                "type": "parking",
+                "latitude": 29.633786875512968,
+                "longitude": -82.36104172518225
+            },
+            {
+                "id": 654530392,
+                "name": "Entomology & Nematology Parking",
+                "type": "parking",
+                "latitude": 29.633986133028,
+                "longitude": -82.36660668668969
+            },
+            {
+                "id": 802735546,
+                "name": "Parking Garage 14",
+                "type": "parking",
+                "latitude": 29.642334523967204,
+                "longitude": -82.35135116224536
+            },
+            {
+                "id": 857708327,
+                "name": "Ballpark Parking",
+                "type": "parking",
+                "latitude": 29.63662786124071,
+                "longitude": -82.3647920837997
+            },
+            {
+                "id": 858365230,
+                "name": "West Fraternity Drive Parking",
+                "type": "parking",
+                "latitude": 29.6475389,
+                "longitude": -82.35987539999999
+            },
+            {
+                "id": 858697924,
+                "name": "Racquet Club Dining Center",
+                "type": "food_court",
+                "latitude": 29.650125342184225,
+                "longitude": -82.34634810405282
+            },
+            {
+                "id": 858697926,
+                "name": "Florida Pool Office/Lockers",
+                "type": "dressing_room",
+                "latitude": 29.65047062967884,
+                "longitude": -82.34740610243733
+            },
+            {
+                "id": 860542673,
+                "name": "Flavet Field Parking Lot",
+                "type": "parking",
+                "latitude": 29.645968198806532,
+                "longitude": -82.35275038934174
+            },
+            {
+                "id": 860542676,
+                "name": "Graham Hall Parking",
+                "type": "parking",
+                "latitude": 29.645467965807384,
+                "longitude": -82.35362219564401
+            },
+            {
+                "id": 860542678,
+                "name": "Flavet Field Parking",
+                "type": "parking",
+                "latitude": 29.646866778338083,
+                "longitude": -82.355311499037
+            },
+            {
+                "id": 860542679,
+                "name": "Woodlawn South Parking",
+                "type": "parking",
+                "latitude": 29.64658362881518,
+                "longitude": -82.35556266028006
+            },
+            {
+                "id": 860542680,
+                "name": "Woodlawn North Parking",
+                "type": "parking",
+                "latitude": 29.647688086084344,
+                "longitude": -82.35531837306635
+            },
+            {
+                "id": 860678068,
+                "name": "East Law Parking",
+                "type": "parking",
+                "latitude": 29.648915674609164,
+                "longitude": -82.35832351191094
+            },
+            {
+                "id": 862064691,
+                "name": "Softball Complex Parking",
+                "type": "parking",
+                "latitude": 29.64037766229225,
+                "longitude": -82.36898472763389
+            },
+            {
+                "id": 863211314,
+                "name": "Bookstore & Welcome Center Parking Garage",
+                "type": "parking",
+                "latitude": 29.64539048119577,
+                "longitude": -82.34825262581829
+            },
+            {
+                "id": 863211344,
+                "name": "Reitz Union Amphitheater",
+                "type": "theatre",
+                "latitude": 29.646081258041956,
+                "longitude": -82.3472797751504
+            },
+            {
+                "id": 864249476,
+                "name": "McCarty Drive Parking",
+                "type": "parking",
+                "latitude": 29.64632527733905,
+                "longitude": -82.34424036714422
+            },
+            {
+                "id": 864520976,
+                "name": "Norman Field Lot Parking",
+                "type": "parking",
+                "latitude": 29.645493078331267,
+                "longitude": -82.33808871329836
+            },
+            {
+                "id": 865086990,
+                "name": "Hume West Parking",
+                "type": "parking",
+                "latitude": 29.644290117526605,
+                "longitude": -82.35474357117815
+            },
+            {
+                "id": 866377520,
+                "name": "Fifield Field Parking Lot",
+                "type": "parking",
+                "latitude": 29.639970235294694,
+                "longitude": -82.36142634002826
+            },
+            {
+                "id": 866514694,
+                "name": "IFAS Parking",
+                "type": "parking",
+                "latitude": 29.63853496231028,
+                "longitude": -82.35644773052034
+            },
+            {
+                "id": 867026166,
+                "name": "Black Hall Parking",
+                "type": "parking",
+                "latitude": 29.641746255009593,
+                "longitude": -82.34709650236465
+            },
+            {
+                "id": 867290282,
+                "name": "Surplus Parking",
+                "type": "parking",
+                "latitude": 29.643749195151337,
+                "longitude": -82.36776395746128
+            },
+            {
+                "id": 867574516,
+                "name": "Cancer Genetics Parking",
+                "type": "parking",
+                "latitude": 29.63685644476981,
+                "longitude": -82.3537774514428
+            },
+            {
+                "id": 1015400666,
+                "name": "Beaty Towers",
+                "type": "shelter",
+                "latitude": 29.644956947579114,
+                "longitude": -82.34019312453209
+            },
+            {
+                "id": 11796558,
+                "name": "Cultural Plaza Parking",
+                "type": "parking",
+                "latitude": 29.636975665542227,
+                "longitude": -82.36889625703418
+            },
+            {
+                "id": 11806638,
+                "name": "University Village South Parking",
+                "type": "parking",
+                "latitude": 29.638695607135354,
+                "longitude": -82.37135740664779
+            },
+            {
+                "id": 11815029,
+                "name": "Beaty Towers Parking",
+                "type": "parking",
+                "latitude": 29.643659763660875,
+                "longitude": -82.34057769087003
+            },
+            {
+                "id": 11815307,
+                "name": "Jennings Parking",
+                "type": "parking",
+                "latitude": 29.643338523512472,
+                "longitude": -82.34280546704507
+            },
+            {
+                "id": 11818195,
+                "name": "Maguire Village Parking",
+                "type": "parking",
+                "latitude": 29.64087976990232,
+                "longitude": -82.37080114905574
+            },
+            {
+                "id": 12122775,
+                "name": "Library West",
+                "type": "library",
+                "latitude": 29.651387546999885,
+                "longitude": -82.34290975661152
+            },
+            {
+                "id": 45719880,
+                "name": "Gator Band Shell",
+                "type": "nan",
+                "latitude": 29.646684308053008,
+                "longitude": -82.3532241883188
+            },
+            {
+                "id": 45719889,
+                "name": "Exactech Arena",
+                "type": "nan",
+                "latitude": 29.649426284343782,
+                "longitude": -82.3511051033932
+            },
+            {
+                "id": 45719891,
+                "name": "Florida Gym",
+                "type": "nan",
+                "latitude": 29.649385920488527,
+                "longitude": -82.34727089269361
+            },
+            {
+                "id": 118249564,
+                "name": "McCarty Hall A",
+                "type": "nan",
+                "latitude": 29.646963719618654,
+                "longitude": -82.34553275392766
+            },
+            {
+                "id": 150684197,
+                "name": "Turlington Hall",
+                "type": "nan",
+                "latitude": 29.64918764388463,
+                "longitude": -82.34409625481278
+            },
+            {
+                "id": 150800193,
+                "name": "North Hall",
+                "type": "nan",
+                "latitude": 29.64789928073019,
+                "longitude": -82.35073156119488
+            },
+            {
+                "id": 150800194,
+                "name": "Riker Hall",
+                "type": "nan",
+                "latitude": 29.64747545227784,
+                "longitude": -82.35117546054731
+            },
+            {
+                "id": 150800195,
+                "name": "McCarty Hall D",
+                "type": "nan",
+                "latitude": 29.6464890820716,
+                "longitude": -82.34436128710799
+            },
+            {
+                "id": 150800196,
+                "name": "Tolbert Hall",
+                "type": "nan",
+                "latitude": 29.647975266040287,
+                "longitude": -82.35140593734016
+            },
+            {
+                "id": 150800197,
+                "name": "McCarty Hall C",
+                "type": "nan",
+                "latitude": 29.646661063753776,
+                "longitude": -82.34535447605192
+            },
+            {
+                "id": 150800198,
+                "name": "McCarty Hall B",
+                "type": "nan",
+                "latitude": 29.646744738230005,
+                "longitude": -82.3449233366864
+            },
+            {
+                "id": 150800200,
+                "name": "Weaver Hall",
+                "type": "nan",
+                "latitude": 29.64701441631705,
+                "longitude": -82.3507500150931
+            },
+            {
+                "id": 150800625,
+                "name": "Graham Hall",
+                "type": "nan",
+                "latitude": 29.646171102937778,
+                "longitude": -82.35075774507439
+            },
+            {
+                "id": 150800626,
+                "name": "Simpson Hall",
+                "type": "nan",
+                "latitude": 29.645437898076928,
+                "longitude": -82.35149272278987
+            },
+            {
+                "id": 150800627,
+                "name": "Trusler Hall",
+                "type": "nan",
+                "latitude": 29.645812901214963,
+                "longitude": -82.35181292255082
+            },
+            {
+                "id": 150803323,
+                "name": "East Hall",
+                "type": "nan",
+                "latitude": 29.647312226690627,
+                "longitude": -82.35021997794523
+            },
+            {
+                "id": 150821681,
+                "name": "Benton Hall",
+                "type": "nan",
+                "latitude": 29.643385833808736,
+                "longitude": -82.34761665293227
+            },
+            {
+                "id": 150821685,
+                "name": "McGuire Pavilion",
+                "type": "nan",
+                "latitude": 29.64618210638499,
+                "longitude": -82.3466172155101
+            },
+            {
+                "id": 150821689,
+                "name": "Larsen Hall",
+                "type": "nan",
+                "latitude": 29.643129998388936,
+                "longitude": -82.3473908388855
+            },
+            {
+                "id": 150821690,
+                "name": "MAE-A",
+                "type": "nan",
+                "latitude": 29.64329406868298,
+                "longitude": -82.34827647261436
+            },
+            {
+                "id": 150821694,
+                "name": "Nanoscale Research Facility",
+                "type": "nan",
+                "latitude": 29.642767488455775,
+                "longitude": -82.34613746497607
+            },
+            {
+                "id": 150821696,
+                "name": "Newins-Ziegler Hall",
+                "type": "nan",
+                "latitude": 29.64537656795056,
+                "longitude": -82.34572350170758
+            },
+            {
+                "id": 150821697,
+                "name": "Psychology Building",
+                "type": "nan",
+                "latitude": 29.643404667101027,
+                "longitude": -82.34630614148968
+            },
+            {
+                "id": 150821701,
+                "name": "UF Bookstore & Welcome Center",
+                "type": "nan",
+                "latitude": 29.64536297424699,
+                "longitude": -82.3478707417136
+            },
+            {
+                "id": 150821703,
+                "name": "Engineering HR South",
+                "type": "nan",
+                "latitude": 29.641626199592345,
+                "longitude": -82.34837615750799
+            },
+            {
+                "id": 150821706,
+                "name": "CLAS Greenhouse",
+                "type": "nan",
+                "latitude": 29.6443354,
+                "longitude": -82.34617265000001
+            },
+            {
+                "id": 150821709,
+                "name": "Wastewater Filters",
+                "type": "nan",
+                "latitude": 29.642212550000004,
+                "longitude": -82.34996964999999
+            },
+            {
+                "id": 150821710,
+                "name": "Biological Nutrient Removal Basins",
+                "type": "nan",
+                "latitude": 29.642906831321298,
+                "longitude": -82.34993718619911
+            },
+            {
+                "id": 150821715,
+                "name": "Chlorine Contact Chamber",
+                "type": "nan",
+                "latitude": 29.641978971111627,
+                "longitude": -82.34997569681235
+            },
+            {
+                "id": 150821716,
+                "name": "Hydropneumatic Tank",
+                "type": "nan",
+                "latitude": 29.64161835,
+                "longitude": -82.3501627
+            },
+            {
+                "id": 150821718,
+                "name": "Water Reclamation Administration Building",
+                "type": "nan",
+                "latitude": 29.642018902913335,
+                "longitude": -82.35021026494701
+            },
+            {
+                "id": 150821720,
+                "name": "Botany Greenhouse",
+                "type": "nan",
+                "latitude": 29.644222953669694,
+                "longitude": -82.34613842493671
+            },
+            {
+                "id": 150821722,
+                "name": "Water Reclamation Shop/Storage and Chemical Stg",
+                "type": "nan",
+                "latitude": 29.64161602499592,
+                "longitude": -82.34975757562408
+            },
+            {
+                "id": 150821724,
+                "name": "Zoology Greenhouse",
+                "type": "nan",
+                "latitude": 29.64421665,
+                "longitude": -82.3462744
+            },
+            {
+                "id": 150821725,
+                "name": "Water Reclamation Sludge Building",
+                "type": "nan",
+                "latitude": 29.642134756702283,
+                "longitude": -82.34973099625309
+            },
+            {
+                "id": 150821737,
+                "name": "Water Reclamation Storage Tank",
+                "type": "nan",
+                "latitude": 29.6413134712681,
+                "longitude": -82.34989545358441
+            },
+            {
+                "id": 150821740,
+                "name": "Clarifier (West)",
+                "type": "nan",
+                "latitude": 29.642517773900597,
+                "longitude": -82.35014295898833
+            },
+            {
+                "id": 150821743,
+                "name": "Clarifier (East)",
+                "type": "nan",
+                "latitude": 29.64251009141277,
+                "longitude": -82.34974744800978
+            },
+            {
+                "id": 150823412,
+                "name": "Rawlings Hall",
+                "type": "nan",
+                "latitude": 29.64624724156973,
+                "longitude": -82.34293617757915
+            },
+            {
+                "id": 150823413,
+                "name": "Rinker Hall",
+                "type": "nan",
+                "latitude": 29.64694900503964,
+                "longitude": -82.34320179925133
+            },
+            {
+                "id": 150858517,
+                "name": "Mallory Hall",
+                "type": "nan",
+                "latitude": 29.646788345990675,
+                "longitude": -82.34030452373614
+            },
+            {
+                "id": 150858518,
+                "name": "Reid Hall",
+                "type": "nan",
+                "latitude": 29.646457544548497,
+                "longitude": -82.33984186575046
+            },
+            {
+                "id": 150858519,
+                "name": "Rolfs Hall",
+                "type": "nan",
+                "latitude": 29.649245056722254,
+                "longitude": -82.34448823256359
+            },
+            {
+                "id": 150858520,
+                "name": "Weimer Hall",
+                "type": "nan",
+                "latitude": 29.647830858239562,
+                "longitude": -82.34739092662876
+            },
+            {
+                "id": 150858521,
+                "name": "Williamson Hall",
+                "type": "nan",
+                "latitude": 29.64791384370237,
+                "longitude": -82.34654851648088
+            },
+            {
+                "id": 150858522,
+                "name": "Yulee Hall",
+                "type": "nan",
+                "latitude": 29.646218757956156,
+                "longitude": -82.34036132411883
+            },
+            {
+                "id": 150858523,
+                "name": "Walker Hall Chilled Water Plant (CWP3)",
+                "type": "nan",
+                "latitude": 29.64942021918288,
+                "longitude": -82.34115054822976
+            },
+            {
+                "id": 150858524,
+                "name": "Weil Cooling Towers",
+                "type": "nan",
+                "latitude": 29.64759613730664,
+                "longitude": -82.34854901407263
+            },
+            {
+                "id": 150858526,
+                "name": "Microkelvin Laboratory",
+                "type": "nan",
+                "latitude": 29.648052949902826,
+                "longitude": -82.34644000792008
+            },
+            {
+                "id": 150859388,
+                "name": "Aquatic Food Products Lab",
+                "type": "nan",
+                "latitude": 29.64690435433853,
+                "longitude": -82.34396973090975
+            },
+            {
+                "id": 150859389,
+                "name": "McCarty Chilled Water Plant",
+                "type": "nan",
+                "latitude": 29.646049038678882,
+                "longitude": -82.3450302250721
+            },
+            {
+                "id": 150859390,
+                "name": "IFAS Information Technologies",
+                "type": "nan",
+                "latitude": 29.646029999999996,
+                "longitude": -82.3456659
+            },
+            {
+                "id": 150859391,
+                "name": "Materials Engineering",
+                "type": "nan",
+                "latitude": 29.646682371864983,
+                "longitude": -82.34919136039305
+            },
+            {
+                "id": 150859394,
+                "name": "McCarty Cooling Towers",
+                "type": "nan",
+                "latitude": 29.646206275238438,
+                "longitude": -82.34529737615351
+            },
+            {
+                "id": 150859395,
+                "name": "MAE-B",
+                "type": "nan",
+                "latitude": 29.64636283028099,
+                "longitude": -82.34943614851906
+            },
+            {
+                "id": 150859396,
+                "name": "Van Fleet Hall",
+                "type": "nan",
+                "latitude": 29.64855572819276,
+                "longitude": -82.35113223987419
+            },
+            {
+                "id": 150859397,
+                "name": "Wildlife Ecology",
+                "type": "nan",
+                "latitude": 29.645823171597176,
+                "longitude": -82.34575787277475
+            },
+            {
+                "id": 150859749,
+                "name": "Bartram Hall",
+                "type": "nan",
+                "latitude": 29.643922516619224,
+                "longitude": -82.34451042814207
+            },
+            {
+                "id": 150859750,
+                "name": "Carr Hall",
+                "type": "nan",
+                "latitude": 29.643850587671455,
+                "longitude": -82.34488662548233
+            },
+            {
+                "id": 150859752,
+                "name": "Frazier-Rogers Hall",
+                "type": "nan",
+                "latitude": 29.644411322603187,
+                "longitude": -82.34546231616251
+            },
+            {
+                "id": 150859753,
+                "name": "Botany Greenhouse",
+                "type": "nan",
+                "latitude": 29.643622399999995,
+                "longitude": -82.34488045
+            },
+            {
+                "id": 150860042,
+                "name": "Carleton Auditorium",
+                "type": "nan",
+                "latitude": 29.649078506901038,
+                "longitude": -82.34166615046836
+            },
+            {
+                "id": 150860043,
+                "name": "Century Tower",
+                "type": "nan",
+                "latitude": 29.64881377506948,
+                "longitude": -82.34332129058649
+            },
+            {
+                "id": 150860044,
+                "name": "Computer Sciences & Engineering Building",
+                "type": "nan",
+                "latitude": 29.648317645115263,
+                "longitude": -82.34436942869036
+            },
+            {
+                "id": 150860045,
+                "name": "Fine Arts A",
+                "type": "nan",
+                "latitude": 29.648182377979044,
+                "longitude": -82.34060514172758
+            },
+            {
+                "id": 150860047,
+                "name": "Grinter Hall",
+                "type": "nan",
+                "latitude": 29.649277660160557,
+                "longitude": -82.34209028806532
+            },
+            {
+                "id": 150860049,
+                "name": "Music Building",
+                "type": "nan",
+                "latitude": 29.648228951079957,
+                "longitude": -82.34288966898474
+            },
+            {
+                "id": 150861257,
+                "name": "Broward Hall",
+                "type": "nan",
+                "latitude": 29.64654656931086,
+                "longitude": -82.34208372185132
+            },
+            {
+                "id": 150861258,
+                "name": "Fine Arts C",
+                "type": "nan",
+                "latitude": 29.6477420432882,
+                "longitude": -82.34044349569761
+            },
+            {
+                "id": 150861261,
+                "name": "Fine Arts D",
+                "type": "nan",
+                "latitude": 29.648383008963247,
+                "longitude": -82.34015735066087
+            },
+            {
+                "id": 150869223,
+                "name": "Perry Indoor Tennis Facility",
+                "type": "nan",
+                "latitude": 29.650046207073753,
+                "longitude": -82.35638631303765
+            },
+            {
+                "id": 150924766,
+                "name": "Hume East",
+                "type": "nan",
+                "latitude": 29.644530922236243,
+                "longitude": -82.35168125717715
+            },
+            {
+                "id": 150924772,
+                "name": "Hume Staff Residence",
+                "type": "nan",
+                "latitude": 29.644320315754758,
+                "longitude": -82.3519608245643
+            },
+            {
+                "id": 150924774,
+                "name": "Hume West",
+                "type": "nan",
+                "latitude": 29.644572491933452,
+                "longitude": -82.35329661219082
+            },
+            {
+                "id": 150924777,
+                "name": "Holland Law Chilled Water Plant",
+                "type": "nan",
+                "latitude": 29.64811059531667,
+                "longitude": -82.35808630830853
+            },
+            {
+                "id": 150926626,
+                "name": "Bryant Space Science Center",
+                "type": "nan",
+                "latitude": 29.648929381197924,
+                "longitude": -82.34573865085534
+            },
+            {
+                "id": 150926629,
+                "name": "Murphree Hall",
+                "type": "nan",
+                "latitude": 29.651217467010564,
+                "longitude": -82.34673620929567
+            },
+            {
+                "id": 150926630,
+                "name": "Newell Hall",
+                "type": "nan",
+                "latitude": 29.64908360837135,
+                "longitude": -82.3451825146459
+            },
+            {
+                "id": 150926631,
+                "name": "Student Recreation & Fitness Center",
+                "type": "nan",
+                "latitude": 29.650115401398416,
+                "longitude": -82.34677503380766
+            },
+            {
+                "id": 150926632,
+                "name": "The Hub",
+                "type": "nan",
+                "latitude": 29.64817220435971,
+                "longitude": -82.34557186705304
+            },
+            {
+                "id": 150926633,
+                "name": "Ustler Hall",
+                "type": "nan",
+                "latitude": 29.650447949410335,
+                "longitude": -82.34689785794224
+            },
+            {
+                "id": 150927286,
+                "name": "MAE-C",
+                "type": "nan",
+                "latitude": 29.647350453803046,
+                "longitude": -82.3494997794264
+            },
+            {
+                "id": 150927287,
+                "name": "Nuclear Sciences",
+                "type": "nan",
+                "latitude": 29.647380484713896,
+                "longitude": -82.34806165164953
+            },
+            {
+                "id": 150927288,
+                "name": "Rhines Hall",
+                "type": "nan",
+                "latitude": 29.64748648340007,
+                "longitude": -82.34901233971767
+            },
+            {
+                "id": 151101671,
+                "name": "Beaty Tower A",
+                "type": "nan",
+                "latitude": 29.644096344641355,
+                "longitude": -82.34076886397885
+            },
+            {
+                "id": 151101679,
+                "name": "Beaty Service Building F",
+                "type": "nan",
+                "latitude": 29.643989249999997,
+                "longitude": -82.3404288
+            },
+            {
+                "id": 154223613,
+                "name": "Matherly Hall",
+                "type": "nan",
+                "latitude": 29.651627662710652,
+                "longitude": -82.34103857149964
+            },
+            {
+                "id": 154223630,
+                "name": "Pugh Hall",
+                "type": "nan",
+                "latitude": 29.64941591107061,
+                "longitude": -82.34553317508633
+            },
+            {
+                "id": 154223635,
+                "name": "University Auditorium",
+                "type": "nan",
+                "latitude": 29.648968776979615,
+                "longitude": -82.34291873328944
+            },
+            {
+                "id": 154223637,
+                "name": "Bryan Hall",
+                "type": "nan",
+                "latitude": 29.65126946179768,
+                "longitude": -82.34033126278395
+            },
+            {
+                "id": 154223641,
+                "name": "Walker Hall",
+                "type": "nan",
+                "latitude": 29.649458741426905,
+                "longitude": -82.34159262482719
+            },
+            {
+                "id": 154223646,
+                "name": "Gerson Hall",
+                "type": "nan",
+                "latitude": 29.650739763018535,
+                "longitude": -82.34010958311225
+            },
+            {
+                "id": 154223663,
+                "name": "Hough Hall",
+                "type": "nan",
+                "latitude": 29.650409558062414,
+                "longitude": -82.34074784113776
+            },
+            {
+                "id": 154223670,
+                "name": "Tigert Hall",
+                "type": "nan",
+                "latitude": 29.649437973230068,
+                "longitude": -82.339898379807
+            },
+            {
+                "id": 154223690,
+                "name": "Griffin-Floyd Hall",
+                "type": "nan",
+                "latitude": 29.650115754363863,
+                "longitude": -82.3437767146518
+            },
+            {
+                "id": 154223693,
+                "name": "Sisler Hall",
+                "type": "nan",
+                "latitude": 29.65004205405087,
+                "longitude": -82.3442565217731
+            },
+            {
+                "id": 154223698,
+                "name": "Keene-Flint Hall",
+                "type": "nan",
+                "latitude": 29.651419950255647,
+                "longitude": -82.34396009754482
+            },
+            {
+                "id": 154223782,
+                "name": "Farrior Hall",
+                "type": "nan",
+                "latitude": 29.65006286554561,
+                "longitude": -82.34571061269882
+            },
+            {
+                "id": 154223803,
+                "name": "Little Hall",
+                "type": "nan",
+                "latitude": 29.648850267970797,
+                "longitude": -82.34072941724072
+            },
+            {
+                "id": 154223807,
+                "name": "Anderson Hall",
+                "type": "nan",
+                "latitude": 29.651575348478772,
+                "longitude": -82.34190627430355
+            },
+            {
+                "id": 154233082,
+                "name": "Dickinson Hall",
+                "type": "nan",
+                "latitude": 29.644378631754105,
+                "longitude": -82.34418278412824
+            },
+            {
+                "id": 154233100,
+                "name": "Chemical Engineering Building",
+                "type": "nan",
+                "latitude": 29.642706493055698,
+                "longitude": -82.34799959716204
+            },
+            {
+                "id": 154233102,
+                "name": "Biomedical Sciences Building",
+                "type": "nan",
+                "latitude": 29.64044812304294,
+                "longitude": -82.34573153857154
+            },
+            {
+                "id": 154233115,
+                "name": "Holland Hall",
+                "type": "nan",
+                "latitude": 29.649747080363177,
+                "longitude": -82.3590672215738
+            },
+            {
+                "id": 154233119,
+                "name": "Southwest Recreation Center",
+                "type": "nan",
+                "latitude": 29.638404413096747,
+                "longitude": -82.36833721178138
+            },
+            {
+                "id": 154233130,
+                "name": "Jennings Hall A",
+                "type": "nan",
+                "latitude": 29.64436421989889,
+                "longitude": -82.34172527027327
+            },
+            {
+                "id": 154233138,
+                "name": "New Engineering Building",
+                "type": "nan",
+                "latitude": 29.642298793793152,
+                "longitude": -82.34714927362475
+            },
+            {
+                "id": 154233177,
+                "name": "HPNP Building",
+                "type": "nan",
+                "latitude": 29.641664914649446,
+                "longitude": -82.34523051584374
+            },
+            {
+                "id": 154233198,
+                "name": "Shepard Broad",
+                "type": "nan",
+                "latitude": 29.640275704860304,
+                "longitude": -82.34650731334331
+            },
+            {
+                "id": 154233200,
+                "name": "Particle Science & Technology",
+                "type": "nan",
+                "latitude": 29.641465574796364,
+                "longitude": -82.34784205455321
+            },
+            {
+                "id": 154233201,
+                "name": "Black Hall",
+                "type": "nan",
+                "latitude": 29.641918475854826,
+                "longitude": -82.34786624820113
+            },
+            {
+                "id": 154233206,
+                "name": "Levin Advocacy Center",
+                "type": "nan",
+                "latitude": 29.648801440872266,
+                "longitude": -82.3593498831173
+            },
+            {
+                "id": 196848207,
+                "name": "Indoor Football Practice Facility",
+                "type": "nan",
+                "latitude": 29.650592509043058,
+                "longitude": -82.35261536097369
+            },
+            {
+                "id": 196848210,
+                "name": "Earl & Christy Powell University House",
+                "type": "nan",
+                "latitude": 29.651653597376555,
+                "longitude": -82.35398136877106
+            },
+            {
+                "id": 196848214,
+                "name": "Peabody Hall",
+                "type": "nan",
+                "latitude": 29.650090739246824,
+                "longitude": -82.34204320736309
+            },
+            {
+                "id": 196848217,
+                "name": "Criser Hall",
+                "type": "nan",
+                "latitude": 29.650192914539556,
+                "longitude": -82.34163539380422
+            },
+            {
+                "id": 196848219,
+                "name": "ΘΧ",
+                "type": "nan",
+                "latitude": 29.647439214943553,
+                "longitude": -82.35721239893287
+            },
+            {
+                "id": 196848221,
+                "name": "Bat House",
+                "type": "nan",
+                "latitude": 29.64423570977379,
+                "longitude": -82.36277079366427
+            },
+            {
+                "id": 196848224,
+                "name": "ΑΕΠ",
+                "type": "nan",
+                "latitude": 29.648193000584715,
+                "longitude": -82.35592490707555
+            },
+            {
+                "id": 220368156,
+                "name": "Steinbrenner Band Hall",
+                "type": "nan",
+                "latitude": 29.647648359296902,
+                "longitude": -82.34263511381214
+            },
+            {
+                "id": 220368157,
+                "name": "Little Hall Express",
+                "type": "nan",
+                "latitude": 29.64871760300196,
+                "longitude": -82.34136299064225
+            },
+            {
+                "id": 259926039,
+                "name": "ΠΛΦ",
+                "type": "nan",
+                "latitude": 29.648051004026616,
+                "longitude": -82.35555929501864
+            },
+            {
+                "id": 259926040,
+                "name": "Keys Residence House 3",
+                "type": "nan",
+                "latitude": 29.6479074425697,
+                "longitude": -82.35393045595693
+            },
+            {
+                "id": 259926042,
+                "name": "ΣΝ",
+                "type": "nan",
+                "latitude": 29.647365296414282,
+                "longitude": -82.35842377157358
+            },
+            {
+                "id": 259926044,
+                "name": "Keys Residence house 5",
+                "type": "nan",
+                "latitude": 29.648026036809604,
+                "longitude": -82.35464944924395
+            },
+            {
+                "id": 259926048,
+                "name": "Keys Residence House 9",
+                "type": "nan",
+                "latitude": 29.647587154066407,
+                "longitude": -82.35375699299674
+            },
+            {
+                "id": 259926051,
+                "name": "Keys Residence House 2",
+                "type": "nan",
+                "latitude": 29.648069918674196,
+                "longitude": -82.35346454426073
+            },
+            {
+                "id": 259926055,
+                "name": "Keys Residence House 8",
+                "type": "nan",
+                "latitude": 29.647554103179807,
+                "longitude": -82.35412819887969
+            },
+            {
+                "id": 259926057,
+                "name": "Keys Residence House 7",
+                "type": "nan",
+                "latitude": 29.647593842511913,
+                "longitude": -82.3545100293173
+            },
+            {
+                "id": 259926058,
+                "name": "Keys Residence House 6",
+                "type": "nan",
+                "latitude": 29.647649095586694,
+                "longitude": -82.35488266755507
+            },
+            {
+                "id": 259926059,
+                "name": "ΚΑ",
+                "type": "nan",
+                "latitude": 29.64577345552238,
+                "longitude": -82.35665279724255
+            },
+            {
+                "id": 259926063,
+                "name": "Keys Residence House 10",
+                "type": "nan",
+                "latitude": 29.647369756131333,
+                "longitude": -82.35350491486557
+            },
+            {
+                "id": 259926065,
+                "name": "Keys Residence House 4",
+                "type": "nan",
+                "latitude": 29.647880572373644,
+                "longitude": -82.35431389505854
+            },
+            {
+                "id": 259946078,
+                "name": "Agricultural Engineering Building",
+                "type": "nan",
+                "latitude": 29.638268217717076,
+                "longitude": -82.36365082491601
+            },
+            {
+                "id": 259946081,
+                "name": "Fifield Hall",
+                "type": "nan",
+                "latitude": 29.63839580195042,
+                "longitude": -82.36114942159497
+            },
+            {
+                "id": 259946083,
+                "name": "IFAS Facilities Office",
+                "type": "nan",
+                "latitude": 29.639361282368846,
+                "longitude": -82.35728106874109
+            },
+            {
+                "id": 259946084,
+                "name": "IFAS Headhouse",
+                "type": "nan",
+                "latitude": 29.63869302117989,
+                "longitude": -82.35988608624139
+            },
+            {
+                "id": 259946086,
+                "name": "Agricultural Engineering Shop",
+                "type": "nan",
+                "latitude": 29.638148125102802,
+                "longitude": -82.36328780488651
+            },
+            {
+                "id": 259946088,
+                "name": "Agricultural Engineering Field Lab",
+                "type": "nan",
+                "latitude": 29.63827912509048,
+                "longitude": -82.36392345173205
+            },
+            {
+                "id": 259946092,
+                "name": "Microbiology/Cell Science Building",
+                "type": "nan",
+                "latitude": 29.639963455847393,
+                "longitude": -82.3630094435859
+            },
+            {
+                "id": 259946097,
+                "name": "Ornamental Horticulture Greenhouse",
+                "type": "nan",
+                "latitude": 29.639101735366577,
+                "longitude": -82.35963752501507
+            },
+            {
+                "id": 259946098,
+                "name": "Bio-Tech Lab",
+                "type": "nan",
+                "latitude": 29.638485273347865,
+                "longitude": -82.35962165893523
+            },
+            {
+                "id": 259946102,
+                "name": "Weed Sciences Field Building",
+                "type": "nan",
+                "latitude": 29.63918412859078,
+                "longitude": -82.36376689413243
+            },
+            {
+                "id": 264182363,
+                "name": "Dauer Hall",
+                "type": "nan",
+                "latitude": 29.649943184757568,
+                "longitude": -82.34509179196509
+            },
+            {
+                "id": 264182366,
+                "name": "Chemistry Laboratory",
+                "type": "nan",
+                "latitude": 29.650898109703302,
+                "longitude": -82.34412556917553
+            },
+            {
+                "id": 276736809,
+                "name": "Beaty Creekside Apartments",
+                "type": "nan",
+                "latitude": 29.644082161451923,
+                "longitude": -82.34107641812265
+            },
+            {
+                "id": 276867721,
+                "name": "Cypress Hall",
+                "type": "nan",
+                "latitude": 29.64590926621783,
+                "longitude": -82.33981185308271
+            },
+            {
+                "id": 277082917,
+                "name": "Rawlings Plaza",
+                "type": "nan",
+                "latitude": 29.646271588587677,
+                "longitude": -82.34320076617695
+            },
+            {
+                "id": 277082923,
+                "name": "Tropical Ecology & Conservation lab",
+                "type": "nan",
+                "latitude": 29.64568230467809,
+                "longitude": -82.34321503468614
+            },
+            {
+                "id": 277110226,
+                "name": "McKnight Brain Institute",
+                "type": "nan",
+                "latitude": 29.641846238345483,
+                "longitude": -82.34323111473202
+            },
+            {
+                "id": 278909996,
+                "name": "Pool Maintenance",
+                "type": "nan",
+                "latitude": 29.646148386262837,
+                "longitude": -82.35197595296373
+            },
+            {
+                "id": 284659325,
+                "name": "University Womens Club",
+                "type": "nan",
+                "latitude": 29.649243617783263,
+                "longitude": -82.35613724341702
+            },
+            {
+                "id": 284659326,
+                "name": "Basketball Practice Complex",
+                "type": "nan",
+                "latitude": 29.64961490053732,
+                "longitude": -82.35619925666373
+            },
+            {
+                "id": 284659330,
+                "name": "Ring Varsity Tennis Building",
+                "type": "nan",
+                "latitude": 29.649690714408862,
+                "longitude": -82.35771181983505
+            },
+            {
+                "id": 293325244,
+                "name": "Softball Field House",
+                "type": "nan",
+                "latitude": 29.638862831767792,
+                "longitude": -82.3653339874384
+            },
+            {
+                "id": 293325245,
+                "name": "Softball Batting Cage",
+                "type": "nan",
+                "latitude": 29.63906267515221,
+                "longitude": -82.36530964322638
+            },
+            {
+                "id": 293325256,
+                "name": "Lacrosse Support Facility",
+                "type": "nan",
+                "latitude": 29.63605352390459,
+                "longitude": -82.36632714442985
+            },
+            {
+                "id": 293325262,
+                "name": "West Chilled Water Plant",
+                "type": "nan",
+                "latitude": 29.639499000000004,
+                "longitude": -82.3659958
+            },
+            {
+                "id": 294197706,
+                "name": "Thomas Hall",
+                "type": "nan",
+                "latitude": 29.651199451454094,
+                "longitude": -82.34600230031863
+            },
+            {
+                "id": 294197707,
+                "name": "Sledd Hall",
+                "type": "nan",
+                "latitude": 29.6507652791721,
+                "longitude": -82.34553678714464
+            },
+            {
+                "id": 294197708,
+                "name": "Fletcher Hall",
+                "type": "nan",
+                "latitude": 29.651371122507314,
+                "longitude": -82.34531032471821
+            },
+            {
+                "id": 294197709,
+                "name": "Buckman Hall",
+                "type": "nan",
+                "latitude": 29.65088500210359,
+                "longitude": -82.34500278055816
+            },
+            {
+                "id": 294197710,
+                "name": "Murphree Area Commons Building",
+                "type": "nan",
+                "latitude": 29.651429719889624,
+                "longitude": -82.34570702386534
+            },
+            {
+                "id": 294203176,
+                "name": "Food Science & Human Nutrition",
+                "type": "nan",
+                "latitude": 29.646910405878845,
+                "longitude": -82.34439292387204
+            },
+            {
+                "id": 294203177,
+                "name": "Aquatic Food Pilot Plant",
+                "type": "nan",
+                "latitude": 29.647354448145588,
+                "longitude": -82.3440297719596
+            },
+            {
+                "id": 294203182,
+                "name": "Housing Specialty Shop",
+                "type": "nan",
+                "latitude": 29.63242187661508,
+                "longitude": -82.36635090630415
+            },
+            {
+                "id": 294203183,
+                "name": "Housing Furniture Shop",
+                "type": "nan",
+                "latitude": 29.631847132061544,
+                "longitude": -82.36642691614833
+            },
+            {
+                "id": 294203186,
+                "name": "Housing Supply Warehouse",
+                "type": "nan",
+                "latitude": 29.63128951201224,
+                "longitude": -82.36629762438076
+            },
+            {
+                "id": 294234916,
+                "name": "Maguire 15",
+                "type": "nan",
+                "latitude": 29.639925094898388,
+                "longitude": -82.37089246627546
+            },
+            {
+                "id": 294234917,
+                "name": "Maguire 9",
+                "type": "nan",
+                "latitude": 29.640041164933315,
+                "longitude": -82.37116131464848
+            },
+            {
+                "id": 294234919,
+                "name": "Maguire 16",
+                "type": "nan",
+                "latitude": 29.640100594941295,
+                "longitude": -82.37060329605501
+            },
+            {
+                "id": 294234920,
+                "name": "Maguire 3",
+                "type": "nan",
+                "latitude": 29.64030570766498,
+                "longitude": -82.37153024903273
+            },
+            {
+                "id": 294234921,
+                "name": "Maguire 1",
+                "type": "nan",
+                "latitude": 29.640236527778754,
+                "longitude": -82.37186763675122
+            },
+            {
+                "id": 294234926,
+                "name": "Maguire 4",
+                "type": "nan",
+                "latitude": 29.6406486489025,
+                "longitude": -82.37164423650127
+            },
+            {
+                "id": 294234928,
+                "name": "Maguire 10",
+                "type": "nan",
+                "latitude": 29.640501926767612,
+                "longitude": -82.37124705846486
+            },
+            {
+                "id": 294234931,
+                "name": "Maguire 17",
+                "type": "nan",
+                "latitude": 29.640348046753985,
+                "longitude": -82.37082375482792
+            },
+            {
+                "id": 294234932,
+                "name": "Maguire 18",
+                "type": "nan",
+                "latitude": 29.640531266524686,
+                "longitude": -82.37058710946356
+            },
+            {
+                "id": 294234935,
+                "name": "Maguire 11",
+                "type": "nan",
+                "latitude": 29.64076329579241,
+                "longitude": -82.37105686560488
+            },
+            {
+                "id": 294234940,
+                "name": "Maguire 23",
+                "type": "nan",
+                "latitude": 29.640267866131662,
+                "longitude": -82.37031411806095
+            },
+            {
+                "id": 294234943,
+                "name": "Maguire 5",
+                "type": "nan",
+                "latitude": 29.64090213673637,
+                "longitude": -82.37150294201561
+            },
+            {
+                "id": 294234946,
+                "name": "Maguire 24",
+                "type": "nan",
+                "latitude": 29.64045330210801,
+                "longitude": -82.37002626421791
+            },
+            {
+                "id": 294234948,
+                "name": "Maguire 25",
+                "type": "nan",
+                "latitude": 29.640705599090108,
+                "longitude": -82.36979823965224
+            },
+            {
+                "id": 294234951,
+                "name": "Maguire 26",
+                "type": "nan",
+                "latitude": 29.640787077132053,
+                "longitude": -82.37014467779208
+            },
+            {
+                "id": 294234955,
+                "name": "Maguire 2",
+                "type": "nan",
+                "latitude": 29.641173326328783,
+                "longitude": -82.37189461242791
+            },
+            {
+                "id": 294245555,
+                "name": "Maguire 7",
+                "type": "nan",
+                "latitude": 29.64128458094485,
+                "longitude": -82.37160013173667
+            },
+            {
+                "id": 294245559,
+                "name": "Maguire 6",
+                "type": "nan",
+                "latitude": 29.641153622574617,
+                "longitude": -82.37130593976207
+            },
+            {
+                "id": 294245566,
+                "name": "Maguire 8",
+                "type": "nan",
+                "latitude": 29.641544571519614,
+                "longitude": -82.37140947424282
+            },
+            {
+                "id": 294245574,
+                "name": "Maguire 14",
+                "type": "nan",
+                "latitude": 29.641700275806606,
+                "longitude": -82.37113990427245
+            },
+            {
+                "id": 294245579,
+                "name": "Maguire 12",
+                "type": "nan",
+                "latitude": 29.64144816185545,
+                "longitude": -82.37094770384041
+            },
+            {
+                "id": 294245588,
+                "name": "Maguire 21",
+                "type": "nan",
+                "latitude": 29.64175243303076,
+                "longitude": -82.3707080975367
+            },
+            {
+                "id": 294245592,
+                "name": "Maguire 20",
+                "type": "nan",
+                "latitude": 29.641471513639818,
+                "longitude": -82.37054470848089
+            },
+            {
+                "id": 294245598,
+                "name": "Maguire 19",
+                "type": "nan",
+                "latitude": 29.641281484748397,
+                "longitude": -82.37043412966993
+            },
+            {
+                "id": 294245600,
+                "name": "Maguire 22",
+                "type": "nan",
+                "latitude": 29.641872487840214,
+                "longitude": -82.37042219165929
+            },
+            {
+                "id": 294245613,
+                "name": "Maguire 29",
+                "type": "nan",
+                "latitude": 29.641600343160977,
+                "longitude": -82.37003044144726
+            },
+            {
+                "id": 294245616,
+                "name": "Maguire 28",
+                "type": "nan",
+                "latitude": 29.641364241536273,
+                "longitude": -82.36985402830496
+            },
+            {
+                "id": 294245617,
+                "name": "Maguire 27",
+                "type": "nan",
+                "latitude": 29.641196748116684,
+                "longitude": -82.37013825322687
+            },
+            {
+                "id": 296738967,
+                "name": "IFAS Environmental Stress Lab",
+                "type": "nan",
+                "latitude": 29.635451392394142,
+                "longitude": -82.36465666126246
+            },
+            {
+                "id": 296738968,
+                "name": "IFAS Fruit Packing Facility",
+                "type": "nan",
+                "latitude": 29.635659600281883,
+                "longitude": -82.36461907323488
+            },
+            {
+                "id": 296738969,
+                "name": "Fruit Crops Pole Barn",
+                "type": "nan",
+                "latitude": 29.63564695292268,
+                "longitude": -82.36394870580892
+            },
+            {
+                "id": 296738970,
+                "name": "IFAS Equipment Storage",
+                "type": "nan",
+                "latitude": 29.63559488517414,
+                "longitude": -82.36424101496523
+            },
+            {
+                "id": 395178802,
+                "name": "Florida Museum of Natural History",
+                "type": "nan",
+                "latitude": 29.635918273325842,
+                "longitude": -82.3703670572225
+            },
+            {
+                "id": 404962874,
+                "name": "Varsity Tennis Building",
+                "type": "nan",
+                "latitude": 29.650068297103612,
+                "longitude": -82.35773875547196
+            },
+            {
+                "id": 404962876,
+                "name": "UF Physical Security Department",
+                "type": "nan",
+                "latitude": 29.642657173896453,
+                "longitude": -82.37008520000664
+            },
+            {
+                "id": 404962880,
+                "name": "Facilities Services Human Resources",
+                "type": "nan",
+                "latitude": 29.643636299132215,
+                "longitude": -82.37020632413879
+            },
+            {
+                "id": 421670145,
+                "name": "Health Science Center Modular Building",
+                "type": "nan",
+                "latitude": 29.637516142671448,
+                "longitude": -82.35392593450781
+            },
+            {
+                "id": 421670146,
+                "name": "UF Aquatic Pathobiology Lab",
+                "type": "nan",
+                "latitude": 29.63726120616925,
+                "longitude": -82.35298525233078
+            },
+            {
+                "id": 421670147,
+                "name": "UF Center for Environmental & Human Toxicology",
+                "type": "nan",
+                "latitude": 29.636773085576614,
+                "longitude": -82.35307425042153
+            },
+            {
+                "id": 424512411,
+                "name": "Network Services Field Station",
+                "type": "nan",
+                "latitude": 29.644029700003493,
+                "longitude": -82.36406539994626
+            },
+            {
+                "id": 424512419,
+                "name": "Bat House",
+                "type": "nan",
+                "latitude": 29.64422755,
+                "longitude": -82.36290765000001
+            },
+            {
+                "id": 425677204,
+                "name": "Phelps Lab",
+                "type": "nan",
+                "latitude": 29.64455614736727,
+                "longitude": -82.34884319103388
+            },
+            {
+                "id": 425677205,
+                "name": "UF Clinical & Translational Research Building",
+                "type": "nan",
+                "latitude": 29.639855893329823,
+                "longitude": -82.34973331435546
+            },
+            {
+                "id": 425690658,
+                "name": "Baughman Center",
+                "type": "nan",
+                "latitude": 29.64223121965587,
+                "longitude": -82.36356341874517
+            },
+            {
+                "id": 427713642,
+                "name": "Baughman Center Administration",
+                "type": "nan",
+                "latitude": 29.64201552284666,
+                "longitude": -82.36361841243114
+            },
+            {
+                "id": 435952120,
+                "name": "Swiming & Diving Complex",
+                "type": "nan",
+                "latitude": 29.64859694913924,
+                "longitude": -82.35155540123213
+            },
+            {
+                "id": 445808709,
+                "name": "Weil Hall",
+                "type": "nan",
+                "latitude": 29.648348725898398,
+                "longitude": -82.34844449257012
+            },
+            {
+                "id": 445808710,
+                "name": "Reed Laboratory",
+                "type": "nan",
+                "latitude": 29.647947943029454,
+                "longitude": -82.34811062877759
+            },
+            {
+                "id": 445810539,
+                "name": "Nuclear Training Reactor",
+                "type": "nan",
+                "latitude": 29.6476356044728,
+                "longitude": -82.34809059057083
+            },
+            {
+                "id": 469683809,
+                "name": "Mobile Locksmith",
+                "type": "nan",
+                "latitude": 29.63529606616541,
+                "longitude": -82.35538729843347
+            },
+            {
+                "id": 474700649,
+                "name": "L. Gale Lemerand Athletic Center",
+                "type": "nan",
+                "latitude": 29.648773710580347,
+                "longitude": -82.35383397938669
+            },
+            {
+                "id": 474701289,
+                "name": "O'Connell Center Storage",
+                "type": "nan",
+                "latitude": 29.64993463212928,
+                "longitude": -82.35220417561167
+            },
+            {
+                "id": 474703145,
+                "name": "ΒΘΠ",
+                "type": "nan",
+                "latitude": 29.648147662333557,
+                "longitude": -82.3563783019445
+            },
+            {
+                "id": 474703146,
+                "name": "ΠΚΦ",
+                "type": "nan",
+                "latitude": 29.64783399165981,
+                "longitude": -82.35714051677319
+            },
+            {
+                "id": 474703458,
+                "name": "ΤΕΦ",
+                "type": "nan",
+                "latitude": 29.647094440153918,
+                "longitude": -82.35722158936012
+            },
+            {
+                "id": 474703461,
+                "name": "ΔΧ",
+                "type": "nan",
+                "latitude": 29.64606758752139,
+                "longitude": -82.35690362262886
+            },
+            {
+                "id": 474703463,
+                "name": "ΛΧΑ",
+                "type": "nan",
+                "latitude": 29.645420132360066,
+                "longitude": -82.35577419900312
+            },
+            {
+                "id": 474703465,
+                "name": "ΔΣΦ",
+                "type": "nan",
+                "latitude": 29.64524374317239,
+                "longitude": -82.35447023702199
+            },
+            {
+                "id": 479181002,
+                "name": "College of Veterinary Medicine",
+                "type": "nan",
+                "latitude": 29.63371532353603,
+                "longitude": -82.34880228477891
+            },
+            {
+                "id": 479185634,
+                "name": "Straughn IFAS Extension Professional Development Center",
+                "type": "nan",
+                "latitude": 29.63253581496,
+                "longitude": -82.35127192811044
+            },
+            {
+                "id": 481243471,
+                "name": "Scott Family Hall",
+                "type": "nan",
+                "latitude": 29.651419862422802,
+                "longitude": -82.34442589351936
+            },
+            {
+                "id": 481247880,
+                "name": "Heavener Hall",
+                "type": "nan",
+                "latitude": 29.651583012279975,
+                "longitude": -82.33991494374439
+            },
+            {
+                "id": 481247882,
+                "name": "Criser CIB",
+                "type": "nan",
+                "latitude": 29.6509639,
+                "longitude": -82.3414984
+            },
+            {
+                "id": 481256532,
+                "name": "Engineering Clock Tower",
+                "type": "nan",
+                "latitude": 29.648406457364718,
+                "longitude": -82.34928362493709
+            },
+            {
+                "id": 481256534,
+                "name": "Weil Chilled Water Plant",
+                "type": "nan",
+                "latitude": 29.64814684594335,
+                "longitude": -82.34850626600253
+            },
+            {
+                "id": 481256551,
+                "name": "Harrell Medical Education Building",
+                "type": "nan",
+                "latitude": 29.64200274623256,
+                "longitude": -82.34447204112584
+            },
+            {
+                "id": 481256552,
+                "name": "Shands Facilities Administration",
+                "type": "nan",
+                "latitude": 29.641311531775017,
+                "longitude": -82.34128789049643
+            },
+            {
+                "id": 481256553,
+                "name": "Shands Facilities Administration",
+                "type": "nan",
+                "latitude": 29.641474111066028,
+                "longitude": -82.34083832375389
+            },
+            {
+                "id": 481256565,
+                "name": "Lacy Rabon Chilled Water Plant",
+                "type": "nan",
+                "latitude": 29.640301914006873,
+                "longitude": -82.34760153581098
+            },
+            {
+                "id": 481256567,
+                "name": "Sanitary Lift Station L1",
+                "type": "nan",
+                "latitude": 29.64098398105637,
+                "longitude": -82.34701897502747
+            },
+            {
+                "id": 481256568,
+                "name": "SE Chilled Water Plant",
+                "type": "nan",
+                "latitude": 29.640883407680555,
+                "longitude": -82.34663767593828
+            },
+            {
+                "id": 481256570,
+                "name": "Shands Linen Utility",
+                "type": "nan",
+                "latitude": 29.639372776587223,
+                "longitude": -82.34575635441172
+            },
+            {
+                "id": 481256571,
+                "name": "Shands Biohazard Waste Storage",
+                "type": "nan",
+                "latitude": 29.63932646867721,
+                "longitude": -82.34584825387523
+            },
+            {
+                "id": 481256573,
+                "name": "Chemical Engineering Digester",
+                "type": "nan",
+                "latitude": 29.64246345557806,
+                "longitude": -82.34856870995777
+            },
+            {
+                "id": 481256576,
+                "name": "Chemical Engineering Solvent Storage",
+                "type": "nan",
+                "latitude": 29.642628137585625,
+                "longitude": -82.34856553935475
+            },
+            {
+                "id": 481256581,
+                "name": "Fiber Hut Aero",
+                "type": "nan",
+                "latitude": 29.64295245,
+                "longitude": -82.34864085
+            },
+            {
+                "id": 481256583,
+                "name": "Astronomy Teaching Observatory",
+                "type": "nan",
+                "latitude": 29.643003963459872,
+                "longitude": -82.34904731543881
+            },
+            {
+                "id": 481259359,
+                "name": "ROTC Rifle Range",
+                "type": "nan",
+                "latitude": 29.643886599999995,
+                "longitude": -82.34893184999999
+            },
+            {
+                "id": 481262057,
+                "name": "UF Substation #12",
+                "type": "nan",
+                "latitude": 29.645924884278063,
+                "longitude": -82.34531351559227
+            },
+            {
+                "id": 481262060,
+                "name": "Field Lab, Forestry",
+                "type": "nan",
+                "latitude": 29.64595742243387,
+                "longitude": -82.3460579994943
+            },
+            {
+                "id": 481285611,
+                "name": "ΠΒΦ",
+                "type": "nan",
+                "latitude": 29.64730516888287,
+                "longitude": -82.35950883898792
+            },
+            {
+                "id": 503128997,
+                "name": "Brain Institute Bridge",
+                "type": "nan",
+                "latitude": 29.641451638904506,
+                "longitude": -82.34340820038804
+            },
+            {
+                "id": 644534618,
+                "name": "Surplus/Facilities Annex",
+                "type": "nan",
+                "latitude": 29.643326741347558,
+                "longitude": -82.36715292541331
+            },
+            {
+                "id": 644534657,
+                "name": "UF Counseling & Wellness Center",
+                "type": "nan",
+                "latitude": 29.642478686584663,
+                "longitude": -82.36931652487448
+            },
+            {
+                "id": 644534658,
+                "name": "UF Facilities Services Central Stores",
+                "type": "nan",
+                "latitude": 29.64295840445628,
+                "longitude": -82.36925170611326
+            },
+            {
+                "id": 649785598,
+                "name": "Wallace Building",
+                "type": "nan",
+                "latitude": 29.638438924965822,
+                "longitude": -82.35909013383214
+            },
+            {
+                "id": 652995347,
+                "name": "Elmore Hall",
+                "type": "nan",
+                "latitude": 29.64346685565152,
+                "longitude": -82.36614932970585
+            },
+            {
+                "id": 654538305,
+                "name": "Food & Environmental Toxicology Lab",
+                "type": "nan",
+                "latitude": 29.637149727382873,
+                "longitude": -82.35937148378189
+            },
+            {
+                "id": 654801618,
+                "name": "UF Bookstore Warehouse",
+                "type": "nan",
+                "latitude": 29.643432851867946,
+                "longitude": -82.36804295128637
+            },
+            {
+                "id": 654801619,
+                "name": "Facilities Services Grounds",
+                "type": "nan",
+                "latitude": 29.64342954318203,
+                "longitude": -82.36882284747843
+            },
+            {
+                "id": 654801620,
+                "name": "Facilities Services Grounds Administration",
+                "type": "nan",
+                "latitude": 29.64350448984765,
+                "longitude": -82.36922279913291
+            },
+            {
+                "id": 654801621,
+                "name": "UF Facilities Services Maintenance",
+                "type": "nan",
+                "latitude": 29.644030307747787,
+                "longitude": -82.36923237198252
+            },
+            {
+                "id": 654801622,
+                "name": "Grounds Storage Building",
+                "type": "nan",
+                "latitude": 29.644159374930098,
+                "longitude": -82.36787343593552
+            },
+            {
+                "id": 654801623,
+                "name": "Surplus Property Warehouse",
+                "type": "nan",
+                "latitude": 29.643908492046382,
+                "longitude": -82.36808709643253
+            },
+            {
+                "id": 654801624,
+                "name": "Facilities Services Garage North",
+                "type": "nan",
+                "latitude": 29.644090663616705,
+                "longitude": -82.36832476680331
+            },
+            {
+                "id": 654801625,
+                "name": "Facilities Services Garage South",
+                "type": "nan",
+                "latitude": 29.643854250000004,
+                "longitude": -82.36832414999999
+            },
+            {
+                "id": 691686238,
+                "name": "O'Connell Center Pool Plant",
+                "type": "nan",
+                "latitude": 29.648703703122713,
+                "longitude": -82.35078440593996
+            },
+            {
+                "id": 785087352,
+                "name": "Solar Engineering Lab",
+                "type": "nan",
+                "latitude": 29.627085030426226,
+                "longitude": -82.36067043891177
+            },
+            {
+                "id": 785087354,
+                "name": "Fuel Cell Garage",
+                "type": "nan",
+                "latitude": 29.627444166127002,
+                "longitude": -82.36051466713263
+            },
+            {
+                "id": 785087357,
+                "name": "Mechanical & Aerospace Student Design Center",
+                "type": "nan",
+                "latitude": 29.62809546227444,
+                "longitude": -82.36147667662884
+            },
+            {
+                "id": 785087362,
+                "name": "Solar Energy Test House",
+                "type": "nan",
+                "latitude": 29.62897580575039,
+                "longitude": -82.3613247986982
+            },
+            {
+                "id": 856556116,
+                "name": "Sanders Football Practice Fields",
+                "type": "nan",
+                "latitude": 29.650577783414324,
+                "longitude": -82.35311215687484
+            },
+            {
+                "id": 857073736,
+                "name": "Heritage Hall",
+                "type": "nan",
+                "latitude": 29.651102069804427,
+                "longitude": -82.34862035922191
+            },
+            {
+                "id": 857391715,
+                "name": "West Skybox Tower",
+                "type": "nan",
+                "latitude": 29.649946303640114,
+                "longitude": -82.34964928199526
+            },
+            {
+                "id": 857391717,
+                "name": "Heavener Football Complex",
+                "type": "nan",
+                "latitude": 29.649030611313048,
+                "longitude": -82.34940938822824
+            },
+            {
+                "id": 857391718,
+                "name": "Sunshine Seats",
+                "type": "nan",
+                "latitude": 29.650760183108783,
+                "longitude": -82.34862269213104
+            },
+            {
+                "id": 857713084,
+                "name": "Dasburg House",
+                "type": "nan",
+                "latitude": 29.648169443025036,
+                "longitude": -82.36085389281523
+            },
+            {
+                "id": 858341222,
+                "name": "Bull Gator Deck",
+                "type": "nan",
+                "latitude": 29.649907364603063,
+                "longitude": -82.34948211943808
+            },
+            {
+                "id": 858341226,
+                "name": "Touchdown Terrace",
+                "type": "nan",
+                "latitude": 29.650669507959496,
+                "longitude": -82.34863334830544
+            },
+            {
+                "id": 858341233,
+                "name": "University Athletic Association",
+                "type": "nan",
+                "latitude": 29.650919964751626,
+                "longitude": -82.34931752975707
+            },
+            {
+                "id": 858341236,
+                "name": "South Ramp",
+                "type": "nan",
+                "latitude": 29.64882177959252,
+                "longitude": -82.34863171940707
+            },
+            {
+                "id": 858697927,
+                "name": "Florida Pool Compressor Building",
+                "type": "nan",
+                "latitude": 29.65047404850676,
+                "longitude": -82.34714212071698
+            },
+            {
+                "id": 858697941,
+                "name": "North End Zone Cooling Tower",
+                "type": "nan",
+                "latitude": 29.650696419920074,
+                "longitude": -82.34764111143743
+            },
+            {
+                "id": 858697956,
+                "name": "UF Information",
+                "type": "nan",
+                "latitude": 29.64906674214216,
+                "longitude": -82.34556464847701
+            },
+            {
+                "id": 858697957,
+                "name": "Computer Power Supply",
+                "type": "nan",
+                "latitude": 29.649210541506307,
+                "longitude": -82.34553658578055
+            },
+            {
+                "id": 858697958,
+                "name": "Enterprise Infrastructure & Operations Generator",
+                "type": "nan",
+                "latitude": 29.649300002356032,
+                "longitude": -82.3455245249428
+            },
+            {
+                "id": 858923136,
+                "name": "Wertheim Laboratory for Engineering Excellence",
+                "type": "nan",
+                "latitude": 29.647118702862475,
+                "longitude": -82.34798039080607
+            },
+            {
+                "id": 859521316,
+                "name": "UAA Storage Building",
+                "type": "nan",
+                "latitude": 29.650239010224233,
+                "longitude": -82.35522906731951
+            },
+            {
+                "id": 860231229,
+                "name": "Information Booth",
+                "type": "nan",
+                "latitude": 29.65007270000001,
+                "longitude": -82.34021225000002
+            },
+            {
+                "id": 860678063,
+                "name": "Bruton-Geer Hall",
+                "type": "nan",
+                "latitude": 29.64923227307792,
+                "longitude": -82.35904227177546
+            },
+            {
+                "id": 862064669,
+                "name": "Center for Outdoor Recreation & Education (CORE)",
+                "type": "nan",
+                "latitude": 29.63916120323633,
+                "longitude": -82.36899867281967
+            },
+            {
+                "id": 862064701,
+                "name": "Rec Facilities Score Keeper",
+                "type": "nan",
+                "latitude": 29.639971375713564,
+                "longitude": -82.36764283958584
+            },
+            {
+                "id": 862064703,
+                "name": "Recreation Sports Maintenance",
+                "type": "nan",
+                "latitude": 29.6408706935071,
+                "longitude": -82.36875110178673
+            },
+            {
+                "id": 863211313,
+                "name": "J. Wayne Reitz Union",
+                "type": "nan",
+                "latitude": 29.64633457513757,
+                "longitude": -82.34777702373668
+            },
+            {
+                "id": 863362357,
+                "name": "Lacrosse Ticket Booth",
+                "type": "nan",
+                "latitude": 29.637307000000003,
+                "longitude": -82.3668553
+            },
+            {
+                "id": 863385103,
+                "name": "Administration/Maintenance Building",
+                "type": "nan",
+                "latitude": 29.639974325148795,
+                "longitude": -82.36617505421064
+            },
+            {
+                "id": 863385104,
+                "name": "FMNH Behavior Lab Annex",
+                "type": "nan",
+                "latitude": 29.641976124859163,
+                "longitude": -82.36791051777509
+            },
+            {
+                "id": 863385105,
+                "name": "FMNH Special Projects Lab",
+                "type": "nan",
+                "latitude": 29.641853350243053,
+                "longitude": -82.3679461316409
+            },
+            {
+                "id": 863385106,
+                "name": "FMNH Greenhouse",
+                "type": "nan",
+                "latitude": 29.64177765,
+                "longitude": -82.36749870000001
+            },
+            {
+                "id": 863385107,
+                "name": "FMNH Pole Barn",
+                "type": "nan",
+                "latitude": 29.64179345,
+                "longitude": -82.3677423
+            },
+            {
+                "id": 863385108,
+                "name": "Lab of Southeastern Archeology",
+                "type": "nan",
+                "latitude": 29.64145872478222,
+                "longitude": -82.36776338366562
+            },
+            {
+                "id": 863605333,
+                "name": "IFAS Greenhouse",
+                "type": "nan",
+                "latitude": 29.635432325201272,
+                "longitude": -82.36402940489154
+            },
+            {
+                "id": 863605334,
+                "name": "IFAS Fruit Crops Greenhouse",
+                "type": "nan",
+                "latitude": 29.635426299424793,
+                "longitude": -82.3638985503067
+            },
+            {
+                "id": 863605344,
+                "name": "Center for the Study of Emotion & Attention",
+                "type": "nan",
+                "latitude": 29.63064255,
+                "longitude": -82.36774095000001
+            },
+            {
+                "id": 863605346,
+                "name": "Sustainable Materials Management Research Lab East",
+                "type": "nan",
+                "latitude": 29.630767892938703,
+                "longitude": -82.36723556115295
+            },
+            {
+                "id": 863605348,
+                "name": "FLARE Lab",
+                "type": "nan",
+                "latitude": 29.63109845193162,
+                "longitude": -82.36704752210468
+            },
+            {
+                "id": 863605349,
+                "name": "Environmental Health & Safety Program Support Building",
+                "type": "nan",
+                "latitude": 29.631104735406623,
+                "longitude": -82.36749582492553
+            },
+            {
+                "id": 863605350,
+                "name": "Sustainable Materials Management Research Lab West",
+                "type": "nan",
+                "latitude": 29.630783401164663,
+                "longitude": -82.3674611617527
+            },
+            {
+                "id": 863605351,
+                "name": "UF Fear & Anxiety Disorders Clinic",
+                "type": "nan",
+                "latitude": 29.63111263570261,
+                "longitude": -82.36733072484145
+            },
+            {
+                "id": 863605354,
+                "name": "UF Waste Management Facility",
+                "type": "nan",
+                "latitude": 29.631724755739175,
+                "longitude": -82.36814037174317
+            },
+            {
+                "id": 863605357,
+                "name": "Nuclear Field Building",
+                "type": "nan",
+                "latitude": 29.63184587235905,
+                "longitude": -82.36718558089039
+            },
+            {
+                "id": 863605358,
+                "name": "environmental Health & Safety Storage",
+                "type": "nan",
+                "latitude": 29.63172440622979,
+                "longitude": -82.36749033694221
+            },
+            {
+                "id": 863605359,
+                "name": "Nuclear Waste Storage",
+                "type": "nan",
+                "latitude": 29.631959936077504,
+                "longitude": -82.36752252524076
+            },
+            {
+                "id": 863605360,
+                "name": "Radiation Control Storage",
+                "type": "nan",
+                "latitude": 29.63177392891988,
+                "longitude": -82.36757328319861
+            },
+            {
+                "id": 863605362,
+                "name": "UF Facilities Services Storage #1",
+                "type": "nan",
+                "latitude": 29.632904545832247,
+                "longitude": -82.36741933046481
+            },
+            {
+                "id": 863605363,
+                "name": "UF Facilities Services Storage #2",
+                "type": "nan",
+                "latitude": 29.633011545832254,
+                "longitude": -82.3674229304648
+            },
+            {
+                "id": 863605378,
+                "name": "IFAS Crops & Soils Field Lab",
+                "type": "nan",
+                "latitude": 29.633658974996056,
+                "longitude": -82.36171121893042
+            },
+            {
+                "id": 863605383,
+                "name": "IFAS Research Laboratory #1",
+                "type": "nan",
+                "latitude": 29.6331646163693,
+                "longitude": -82.36115096711578
+            },
+            {
+                "id": 863605384,
+                "name": "IFAS Research Laboratory #2",
+                "type": "nan",
+                "latitude": 29.633156704079703,
+                "longitude": -82.36091536137523
+            },
+            {
+                "id": 863605386,
+                "name": "IFAS Field Support",
+                "type": "nan",
+                "latitude": 29.63349255000492,
+                "longitude": -82.36101854927048
+            },
+            {
+                "id": 864014431,
+                "name": "SW Chilled Water Plant",
+                "type": "nan",
+                "latitude": 29.635593903455746,
+                "longitude": -82.36837840910748
+            },
+            {
+                "id": 864194582,
+                "name": "GE22",
+                "type": "nan",
+                "latitude": 29.63366058480521,
+                "longitude": -82.36676417546508
+            },
+            {
+                "id": 864194583,
+                "name": "GE11",
+                "type": "nan",
+                "latitude": 29.633853869624975,
+                "longitude": -82.36675326146033
+            },
+            {
+                "id": 864194584,
+                "name": "GE19",
+                "type": "nan",
+                "latitude": 29.63386189123675,
+                "longitude": -82.367066628863
+            },
+            {
+                "id": 864194585,
+                "name": "GE18",
+                "type": "nan",
+                "latitude": 29.633861634293247,
+                "longitude": -82.36701337555071
+            },
+            {
+                "id": 864194586,
+                "name": "GE16",
+                "type": "nan",
+                "latitude": 29.633858965706757,
+                "longitude": -82.3669075244493
+            },
+            {
+                "id": 864194587,
+                "name": "GE17",
+                "type": "nan",
+                "latitude": 29.633859159849695,
+                "longitude": -82.36696077994945
+            },
+            {
+                "id": 864194588,
+                "name": "GE12",
+                "type": "nan",
+                "latitude": 29.63374498429104,
+                "longitude": -82.36691287553556
+            },
+            {
+                "id": 864194589,
+                "name": "GE13",
+                "type": "nan",
+                "latitude": 29.63374521570896,
+                "longitude": -82.36696612446443
+            },
+            {
+                "id": 864194590,
+                "name": "GE14",
+                "type": "nan",
+                "latitude": 29.633747715708964,
+                "longitude": -82.36701872446443
+            },
+            {
+                "id": 864194591,
+                "name": "GE15",
+                "type": "nan",
+                "latitude": 29.633747884291033,
+                "longitude": -82.36707197553557
+            },
+            {
+                "id": 864194592,
+                "name": "GH3",
+                "type": "nan",
+                "latitude": 29.633649540129607,
+                "longitude": -82.3669641251116
+            },
+            {
+                "id": 864194593,
+                "name": "GH4",
+                "type": "nan",
+                "latitude": 29.633648049999994,
+                "longitude": -82.36690515
+            },
+            {
+                "id": 864194594,
+                "name": "GH2",
+                "type": "nan",
+                "latitude": 29.63364995,
+                "longitude": -82.36702355
+            },
+            {
+                "id": 864194595,
+                "name": "GH5",
+                "type": "nan",
+                "latitude": 29.633584340129605,
+                "longitude": -82.36696672511157
+            },
+            {
+                "id": 864194596,
+                "name": "GH7",
+                "type": "nan",
+                "latitude": 29.633516459870396,
+                "longitude": -82.36691057488844
+            },
+            {
+                "id": 864194597,
+                "name": "GH6",
+                "type": "nan",
+                "latitude": 29.633581840129608,
+                "longitude": -82.36690712511158
+            },
+            {
+                "id": 864194598,
+                "name": "Entomology Shop",
+                "type": "nan",
+                "latitude": 29.633467800000002,
+                "longitude": -82.36673905
+            },
+            {
+                "id": 864194599,
+                "name": "Urban Entomology Lab",
+                "type": "nan",
+                "latitude": 29.63378412947084,
+                "longitude": -82.36622543983229
+            },
+            {
+                "id": 864194600,
+                "name": "Entomology South Shadehouse",
+                "type": "nan",
+                "latitude": 29.63363151125831,
+                "longitude": -82.36646366754732
+            },
+            {
+                "id": 864194601,
+                "name": "Entomology North Shadehouse",
+                "type": "nan",
+                "latitude": 29.633796587588044,
+                "longitude": -82.3664835427269
+            },
+            {
+                "id": 864194603,
+                "name": "GE1",
+                "type": "nan",
+                "latitude": 29.633745579127417,
+                "longitude": -82.36660819284083
+            },
+            {
+                "id": 864194604,
+                "name": "GE2",
+                "type": "nan",
+                "latitude": 29.633699420872585,
+                "longitude": -82.36660930715917
+            },
+            {
+                "id": 864194605,
+                "name": "GE21",
+                "type": "nan",
+                "latitude": 29.633632471483967,
+                "longitude": -82.3666113434522
+            },
+            {
+                "id": 864194606,
+                "name": "GE20",
+                "type": "nan",
+                "latitude": 29.63358022087258,
+                "longitude": -82.36661330715916
+            },
+            {
+                "id": 864194607,
+                "name": "GE8",
+                "type": "nan",
+                "latitude": 29.633874825175745,
+                "longitude": -82.36661116480535
+            },
+            {
+                "id": 864194608,
+                "name": "GE9",
+                "type": "nan",
+                "latitude": 29.6338269,
+                "longitude": -82.36661215000002
+            },
+            {
+                "id": 864194611,
+                "name": "Honey Bee Lab",
+                "type": "nan",
+                "latitude": 29.634598631809396,
+                "longitude": -82.3656669584005
+            },
+            {
+                "id": 864249478,
+                "name": "Field & Fork Pantry",
+                "type": "nan",
+                "latitude": 29.647082112658175,
+                "longitude": -82.34475214079292
+            },
+            {
+                "id": 864249479,
+                "name": "Fiber Hut CSE",
+                "type": "nan",
+                "latitude": 29.646999349999994,
+                "longitude": -82.34469804999999
+            },
+            {
+                "id": 864485373,
+                "name": "Charles R. Perry Construction Yard",
+                "type": "nan",
+                "latitude": 29.647080084820843,
+                "longitude": -82.34295745872431
+            },
+            {
+                "id": 864520974,
+                "name": "Norman Gym",
+                "type": "nan",
+                "latitude": 29.646232249999997,
+                "longitude": -82.33799160000001
+            },
+            {
+                "id": 865087025,
+                "name": "Hume Support Building",
+                "type": "nan",
+                "latitude": 29.644182199999996,
+                "longitude": -82.3533734
+            },
+            {
+                "id": 865483813,
+                "name": "Beaty Tower B",
+                "type": "nan",
+                "latitude": 29.644203881249922,
+                "longitude": -82.34024514784684
+            },
+            {
+                "id": 865542768,
+                "name": "Jennings Hall C",
+                "type": "nan",
+                "latitude": 29.64374667109594,
+                "longitude": -82.34249578674955
+            },
+            {
+                "id": 865542769,
+                "name": "Jennings Hall B",
+                "type": "nan",
+                "latitude": 29.644021974490506,
+                "longitude": -82.34199323166838
+            },
+            {
+                "id": 866087247,
+                "name": "Field & Fork Storage",
+                "type": "nan",
+                "latitude": 29.644537424594617,
+                "longitude": -82.36275305469155
+            },
+            {
+                "id": 866087250,
+                "name": "Bat House",
+                "type": "nan",
+                "latitude": 29.644306349999997,
+                "longitude": -82.36304305
+            },
+            {
+                "id": 866377524,
+                "name": "Turfgrass Envirotron",
+                "type": "nan",
+                "latitude": 29.63963150090163,
+                "longitude": -82.36045116822106
+            },
+            {
+                "id": 866464023,
+                "name": "IFAS Mechanical Equipment Building",
+                "type": "nan",
+                "latitude": 29.638453900000002,
+                "longitude": -82.36027565
+            },
+            {
+                "id": 866464024,
+                "name": "GHT1",
+                "type": "nan",
+                "latitude": 29.63937352500403,
+                "longitude": -82.36033898164973
+            },
+            {
+                "id": 866464025,
+                "name": "GHT3",
+                "type": "nan",
+                "latitude": 29.6394082,
+                "longitude": -82.3605991
+            },
+            {
+                "id": 866464026,
+                "name": "GHT2",
+                "type": "nan",
+                "latitude": 29.6394085,
+                "longitude": -82.36053419999999
+            },
+            {
+                "id": 866464027,
+                "name": "GHT4",
+                "type": "nan",
+                "latitude": 29.639333999999998,
+                "longitude": -82.3605341
+            },
+            {
+                "id": 866464028,
+                "name": "GHT5",
+                "type": "nan",
+                "latitude": 29.639333699999998,
+                "longitude": -82.360599
+            },
+            {
+                "id": 866486480,
+                "name": "Plant Pathology Diagnostics Lab",
+                "type": "nan",
+                "latitude": 29.63907055,
+                "longitude": -82.36074414999999
+            },
+            {
+                "id": 866486482,
+                "name": "Plant Science Facility",
+                "type": "nan",
+                "latitude": 29.63947740690501,
+                "longitude": -82.35960193993064
+            },
+            {
+                "id": 866486486,
+                "name": "Pathology Greenhouse",
+                "type": "nan",
+                "latitude": 29.639132331793437,
+                "longitude": -82.3594725750449
+            },
+            {
+                "id": 866486487,
+                "name": "Bio-Containment Facility",
+                "type": "nan",
+                "latitude": 29.639501338592627,
+                "longitude": -82.35996006049727
+            },
+            {
+                "id": 866486496,
+                "name": "Polyhouse 5",
+                "type": "nan",
+                "latitude": 29.64060202136983,
+                "longitude": -82.3586239738945
+            },
+            {
+                "id": 866486497,
+                "name": "Shadehouse",
+                "type": "nan",
+                "latitude": 29.640605196665224,
+                "longitude": -82.35845042412299
+            },
+            {
+                "id": 866486498,
+                "name": "Shadehouse",
+                "type": "nan",
+                "latitude": 29.64060599697101,
+                "longitude": -82.35827957412376
+            },
+            {
+                "id": 866486499,
+                "name": "Polyhouse 10",
+                "type": "nan",
+                "latitude": 29.640380271404336,
+                "longitude": -82.35862127479851
+            },
+            {
+                "id": 866486500,
+                "name": "Polyhouse 9",
+                "type": "nan",
+                "latitude": 29.640380196665227,
+                "longitude": -82.358449524123
+            },
+            {
+                "id": 866486501,
+                "name": "Shadehouse",
+                "type": "nan",
+                "latitude": 29.640380196971005,
+                "longitude": -82.35827687412375
+            },
+            {
+                "id": 866486502,
+                "name": "Shadehouse",
+                "type": "nan",
+                "latitude": 29.64037939697101,
+                "longitude": -82.35810247412377
+            },
+            {
+                "id": 866486503,
+                "name": "AT&T Fiber Hut",
+                "type": "nan",
+                "latitude": 29.640361624989865,
+                "longitude": -82.3579285937755
+            },
+            {
+                "id": 866486508,
+                "name": "GH13",
+                "type": "nan",
+                "latitude": 29.640429000000005,
+                "longitude": -82.35995030000001
+            },
+            {
+                "id": 866486512,
+                "name": "UF Transportation & Parking Services (TAPS)",
+                "type": "nan",
+                "latitude": 29.640387274358687,
+                "longitude": -82.35020587105494
+            },
+            {
+                "id": 866514689,
+                "name": "Pesticide Information Office",
+                "type": "nan",
+                "latitude": 29.63866978996046,
+                "longitude": -82.35606379627463
+            },
+            {
+                "id": 866514691,
+                "name": "IFAS Administrative Services",
+                "type": "nan",
+                "latitude": 29.63878254268902,
+                "longitude": -82.35668727830782
+            },
+            {
+                "id": 866514692,
+                "name": "IFAS Office/Lab",
+                "type": "nan",
+                "latitude": 29.638505583165973,
+                "longitude": -82.35693218719588
+            },
+            {
+                "id": 866514693,
+                "name": "Wildlife Molecular Ecology Office",
+                "type": "nan",
+                "latitude": 29.638375363761238,
+                "longitude": -82.35660229900415
+            },
+            {
+                "id": 866514696,
+                "name": "Forestry Resource & Conservation Office",
+                "type": "nan",
+                "latitude": 29.63845255369782,
+                "longitude": -82.35733607746036
+            },
+            {
+                "id": 866514697,
+                "name": "IFAS Communication Services",
+                "type": "nan",
+                "latitude": 29.63876056054801,
+                "longitude": -82.35732899970522
+            },
+            {
+                "id": 866514728,
+                "name": "IFAS Headhouse",
+                "type": "nan",
+                "latitude": 29.639103734592503,
+                "longitude": -82.35581602376459
+            },
+            {
+                "id": 866858625,
+                "name": "UF Facilities Services Administration Office",
+                "type": "nan",
+                "latitude": 29.644309000404174,
+                "longitude": -82.3705265731522
+            },
+            {
+                "id": 866858634,
+                "name": "Surplus Warehouse",
+                "type": "nan",
+                "latitude": 29.643488291867786,
+                "longitude": -82.36764327921757
+            },
+            {
+                "id": 866858636,
+                "name": "Facilities Services Building Services",
+                "type": "nan",
+                "latitude": 29.64340467263187,
+                "longitude": -82.36991012924274
+            },
+            {
+                "id": 867026173,
+                "name": "Water Reclamation Power Generator",
+                "type": "nan",
+                "latitude": 29.641882050000003,
+                "longitude": -82.3497578
+            },
+            {
+                "id": 867026174,
+                "name": "Water Reclamation Electrical",
+                "type": "nan",
+                "latitude": 29.64253638110888,
+                "longitude": -82.34994327530212
+            },
+            {
+                "id": 867183332,
+                "name": "Chemical Engineering Student Center",
+                "type": "nan",
+                "latitude": 29.64241784475469,
+                "longitude": -82.34784960998911
+            },
+            {
+                "id": 867290279,
+                "name": "Fiber Hut Elmore",
+                "type": "nan",
+                "latitude": 29.642679374973525,
+                "longitude": -82.36653480499386
+            },
+            {
+                "id": 867290284,
+                "name": "Facilities Services Masonry Shop",
+                "type": "nan",
+                "latitude": 29.64440195515559,
+                "longitude": -82.36815378034424
+            },
+            {
+                "id": 867290289,
+                "name": "Facilities Services Storage #2",
+                "type": "nan",
+                "latitude": 29.644680975045013,
+                "longitude": -82.36928752852486
+            },
+            {
+                "id": 867290291,
+                "name": "Grounds Storage Building",
+                "type": "nan",
+                "latitude": 29.6446613786523,
+                "longitude": -82.3687441441183
+            },
+            {
+                "id": 867290292,
+                "name": "Facilities Services Storage #3",
+                "type": "nan",
+                "latitude": 29.644476875175226,
+                "longitude": -82.3686745974379
+            },
+            {
+                "id": 867290293,
+                "name": "Facilities Services Training",
+                "type": "nan",
+                "latitude": 29.64444149156278,
+                "longitude": -82.37000812817168
+            },
+            {
+                "id": 867574524,
+                "name": "HOP Modular Building",
+                "type": "nan",
+                "latitude": 29.637150711962388,
+                "longitude": -82.35419722422394
+            },
+            {
+                "id": 867942362,
+                "name": "Mowry Chilled Water Plant",
+                "type": "nan",
+                "latitude": 29.63807613778458,
+                "longitude": -82.35311218895826
+            },
+            {
+                "id": 867942368,
+                "name": "CEHT Annex Building",
+                "type": "nan",
+                "latitude": 29.63659497871163,
+                "longitude": -82.35365824290345
+            },
+            {
+                "id": 867942375,
+                "name": "UF Vet Science Surgery",
+                "type": "nan",
+                "latitude": 29.637059491720336,
+                "longitude": -82.35372977613667
+            },
+            {
+                "id": 867942377,
+                "name": "UF Toxicology Research Facility",
+                "type": "nan",
+                "latitude": 29.637224848027753,
+                "longitude": -82.35366066450044
+            },
+            {
+                "id": 1027671966,
+                "name": "Communicore Building",
+                "type": "nan",
+                "latitude": 29.640855591820674,
+                "longitude": -82.34492760898783
+            },
+            {
+                "id": 1091061099,
+                "name": "James W. \"Bill\" Heavener Football Training Center",
+                "type": "nan",
+                "latitude": 29.649618423332168,
+                "longitude": -82.35299564017845
+            },
+            {
+                "id": 1091061101,
+                "name": "Student Health Care Center",
+                "type": "nan",
+                "latitude": 29.64870244580801,
+                "longitude": -82.35266404001185
+            },
+            {
+                "id": 1094502850,
+                "name": "Malachowsky Hall",
+                "type": "nan",
+                "latitude": 29.644047829946558,
+                "longitude": -82.34777925662289
+            },
+            {
+                "id": 1133281284,
+                "name": "Honors Village Residential Complex Building #1",
+                "type": "nan",
+                "latitude": 29.64534692731454,
+                "longitude": -82.34238191262261
+            },
+            {
+                "id": 1133281285,
+                "name": "Honors Village Residential Complex Building #3",
+                "type": "nan",
+                "latitude": 29.645047313547092,
+                "longitude": -82.34176285424611
+            },
+            {
+                "id": 2075617,
+                "name": "Leigh Hall",
+                "type": "nan",
+                "latitude": 29.650424441704267,
+                "longitude": -82.34427714956473
+            },
+            {
+                "id": 2805449,
+                "name": "Architecture Building",
+                "type": "nan",
+                "latitude": 29.647745463998657,
+                "longitude": -82.34168813594067
+            },
+            {
+                "id": 6325345,
+                "name": "New Physics Building",
+                "type": "nan",
+                "latitude": 29.643890889349844,
+                "longitude": -82.34979227243173
+            },
+            {
+                "id": 7173438,
+                "name": "Stuzin Hall",
+                "type": "nan",
+                "latitude": 29.65089684188309,
+                "longitude": -82.34110851953452
+            },
+            {
+                "id": 8510763,
+                "name": "Steinmetz Hall",
+                "type": "nan",
+                "latitude": 29.634648442099063,
+                "longitude": -82.3664772995331
+            },
+            {
+                "id": 11750027,
+                "name": "North Endzone Ramp",
+                "type": "nan",
+                "latitude": 29.65102394190929,
+                "longitude": -82.34823156960653
+            },
+            {
+                "id": 11750028,
+                "name": "North Endzone Ramp",
+                "type": "nan",
+                "latitude": 29.65102805029812,
+                "longitude": -82.34901135328128
+            },
+            {
+                "id": 11769845,
+                "name": "ΣΑΕ",
+                "type": "nan",
+                "latitude": 29.64534580855668,
+                "longitude": -82.35506916209192
+            },
+            {
+                "id": 11777613,
+                "name": "ΣΦΕ",
+                "type": "nan",
+                "latitude": 29.64553677444133,
+                "longitude": -82.3561711634655
+            },
+            {
+                "id": 11777614,
+                "name": "ΦΓΔ",
+                "type": "nan",
+                "latitude": 29.646392584278743,
+                "longitude": -82.35704128158763
+            },
+            {
+                "id": 11777615,
+                "name": "ΣΧ",
+                "type": "nan",
+                "latitude": 29.646720804013896,
+                "longitude": -82.35717903986954
+            },
+            {
+                "id": 11794357,
+                "name": "Fine Arts B",
+                "type": "nan",
+                "latitude": 29.648175264388737,
+                "longitude": -82.33979431941209
+            },
+            {
+                "id": 11797936,
+                "name": "Harn Museum of Art",
+                "type": "nan",
+                "latitude": 29.637009273552977,
+                "longitude": -82.37037492460634
+            },
+            {
+                "id": 11802663,
+                "name": "Norman Hall",
+                "type": "nan",
+                "latitude": 29.64668574867239,
+                "longitude": -82.33777689763588
+            }
+        ]
+    }
+}

@@ -1,0 +1,566 @@
+{
+    "id": 4082158006231652430,
+    "name": "大阪城公园",
+    "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002日本",
+    "rating": 4.3,
+    "popularity": 68,
+    "data_path": "map_data/university_map/Osaka_Castle_Park",
+    "description": "大阪城公園車站（日语：大阪城公園駅／おおさかじょうこうえんえき Ōsakajō-kōen eki */?）是一位於日本大阪府大阪市中央區大阪城公園、隸屬於西日本旅客鐵道公司（JR西日本）的鐵路車站。大阪城公園車站是環繞大阪市中心地區的環狀幹線大阪環狀線沿線的車站，也是JR西日本所屬大阪近郊鐵路路線群都市網路（アーバンネットワーク，Urban Network）範圍內的車站之一。大阪城公園車站位於大阪城公園的東側邊界上，是觀光旅客欲搭乘JR系統的列車前往大阪城觀光時最近的下車站，除此之外由於鄰近大阪商務園區（大阪ビジネスパーク，OBP），因此利用本站通勤的旅客數量也不少，在2005年度（平成17年）間本站的日平均旅客數為12,296人次。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/JRW_Osaka_Park_Station.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/15/Osakajo-Park_Station2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Osakajo-Park_Station3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c3/Osakajokoen_Sta01s4s3200.jpg"
+    ],
+    "amenity": {
+        "affiliation": 4082158006231652430,
+        "amenity_list": [
+            {
+                "id": 1708045809,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 34.686507,
+                "longitude": 135.5287672
+            },
+            {
+                "id": 3077866633,
+                "name": "Lawson MACHI café",
+                "type": "fast_food",
+                "latitude": 34.686594,
+                "longitude": 135.5287513
+            },
+            {
+                "id": 3675979141,
+                "name": "NTT",
+                "type": "telephone",
+                "latitude": 34.6895782,
+                "longitude": 135.5265797
+            },
+            {
+                "id": 4074519553,
+                "name": "石山若宮大明神",
+                "type": "place_of_worship",
+                "latitude": 34.6877272,
+                "longitude": 135.5272619
+            },
+            {
+                "id": 4923073434,
+                "name": "SAKURA DINING",
+                "type": "restaurant",
+                "latitude": 34.6901423,
+                "longitude": 135.5307323
+            },
+            {
+                "id": 5539323693,
+                "name": "タリーズコーヒー",
+                "type": "cafe",
+                "latitude": 34.6857406,
+                "longitude": 135.5265529
+            },
+            {
+                "id": 6344223668,
+                "name": "gram",
+                "type": "cafe",
+                "latitude": 34.6891898,
+                "longitude": 135.5323406
+            },
+            {
+                "id": 6344223669,
+                "name": "アロハフードホール ショーギ",
+                "type": "restaurant",
+                "latitude": 34.6888295,
+                "longitude": 135.5323995
+            },
+            {
+                "id": 6344223670,
+                "name": "Italian Dining NATURA",
+                "type": "restaurant",
+                "latitude": 34.689065,
+                "longitude": 135.5326298
+            },
+            {
+                "id": 6344223671,
+                "name": "名代 千房",
+                "type": "restaurant",
+                "latitude": 34.6889259,
+                "longitude": 135.5323513
+            },
+            {
+                "id": 7430229772,
+                "name": "テイスト オブ ザ ランドマークスクエア オオサカ",
+                "type": "cafe",
+                "latitude": 34.688625,
+                "longitude": 135.5333854
+            },
+            {
+                "id": 7430229776,
+                "name": "たこ焼道楽わなか",
+                "type": "fast_food",
+                "latitude": 34.6886763,
+                "longitude": 135.533087
+            },
+            {
+                "id": 7430301722,
+                "name": "駅前パーラー",
+                "type": "cafe",
+                "latitude": 34.6891262,
+                "longitude": 135.5324815
+            },
+            {
+                "id": 7430301723,
+                "name": "さち福や",
+                "type": "restaurant",
+                "latitude": 34.6889508,
+                "longitude": 135.5332299
+            },
+            {
+                "id": 7430301724,
+                "name": "かつ満",
+                "type": "restaurant",
+                "latitude": 34.6889994,
+                "longitude": 135.5330676
+            },
+            {
+                "id": 7433837962,
+                "name": "SSホール",
+                "type": "theatre",
+                "latitude": 34.6842277,
+                "longitude": 135.533482
+            },
+            {
+                "id": 7433837963,
+                "name": "TTホール",
+                "type": "theatre",
+                "latitude": 34.6845994,
+                "longitude": 135.5335088
+            },
+            {
+                "id": 9891379844,
+                "name": "crossfield with TERRACE LOUNGE",
+                "type": "restaurant",
+                "latitude": 34.6860164,
+                "longitude": 135.5265444
+            },
+            {
+                "id": 10983085877,
+                "name": "大阪城下町",
+                "type": "restaurant",
+                "latitude": 34.6888424,
+                "longitude": 135.5324525
+            },
+            {
+                "id": 48123160,
+                "name": "大阪市立修道館",
+                "type": "dojo",
+                "latitude": 34.68439671490274,
+                "longitude": 135.52497596207726
+            },
+            {
+                "id": 48229761,
+                "name": "結婚式場",
+                "type": "events_venue",
+                "latitude": 34.68409904829603,
+                "longitude": 135.52603599547137
+            },
+            {
+                "id": 48229767,
+                "name": "豊国神社",
+                "type": "place_of_worship",
+                "latitude": 34.68428322303383,
+                "longitude": 135.5268988380992
+            },
+            {
+                "id": 163560894,
+                "name": "森ノ宮 駐車場",
+                "type": "parking",
+                "latitude": 34.683328626367846,
+                "longitude": 135.5333446647683
+            },
+            {
+                "id": 164668231,
+                "name": "大阪城音楽堂",
+                "type": "theatre",
+                "latitude": 34.68270288610461,
+                "longitude": 135.5305877898572
+            },
+            {
+                "id": 164668950,
+                "name": "大阪城公園城南バス駐車場",
+                "type": "parking",
+                "latitude": 34.682333625347646,
+                "longitude": 135.5281268550441
+            },
+            {
+                "id": 164668961,
+                "name": "大阪城公園城南第二バス駐車場",
+                "type": "parking",
+                "latitude": 34.68244959522489,
+                "longitude": 135.5266619298438
+            },
+            {
+                "id": 176303041,
+                "name": "大阪城 ホール",
+                "type": "theatre",
+                "latitude": 34.689652462003316,
+                "longitude": 135.53009430945886
+            },
+            {
+                "id": 176311041,
+                "name": "大阪城公園管理事務所",
+                "type": "townhall",
+                "latitude": 34.681984144830075,
+                "longitude": 135.53108799767392
+            },
+            {
+                "id": 290085467,
+                "name": "公衆トイレ",
+                "type": "toilets",
+                "latitude": 34.682198243370955,
+                "longitude": 135.53315452614768
+            },
+            {
+                "id": 363432858,
+                "name": "手水舎",
+                "type": "place_of_worship",
+                "latitude": 34.684459000000004,
+                "longitude": 135.52611950000002
+            },
+            {
+                "id": 363529746,
+                "name": "若永神社",
+                "type": "place_of_worship",
+                "latitude": 34.684580825111205,
+                "longitude": 135.52625186081738
+            },
+            {
+                "id": 363529747,
+                "name": "白玉神社",
+                "type": "place_of_worship",
+                "latitude": 34.684563450000006,
+                "longitude": 135.5263431
+            },
+            {
+                "id": 512696243,
+                "name": "大阪城公園駅前駐車場",
+                "type": "parking",
+                "latitude": 34.68746068939051,
+                "longitude": 135.5337247588642
+            },
+            {
+                "id": 517671768,
+                "name": "スターバックス",
+                "type": "cafe",
+                "latitude": 34.689650150000006,
+                "longitude": 135.53207395
+            },
+            {
+                "id": 518478745,
+                "name": "大阪城パークセンター駐車場",
+                "type": "parking",
+                "latitude": 34.68201304340663,
+                "longitude": 135.53046498750322
+            },
+            {
+                "id": 588514284,
+                "name": "アールベイカー",
+                "type": "cafe",
+                "latitude": 34.68320115,
+                "longitude": 135.53229275
+            },
+            {
+                "id": 757656195,
+                "name": "WWホール",
+                "type": "theatre",
+                "latitude": 34.68529624999999,
+                "longitude": 135.5335424
+            },
+            {
+                "id": 794411295,
+                "name": "キャッスルガーデンOSAKA",
+                "type": "restaurant",
+                "latitude": 34.68827522438957,
+                "longitude": 135.5328479982196
+            },
+            {
+                "id": 5010861700,
+                "name": "東仕切門跡",
+                "type": "nan",
+                "latitude": 34.6890306,
+                "longitude": 135.5274391
+            },
+            {
+                "id": 34596708,
+                "name": "ミライザ大阪城",
+                "type": "nan",
+                "latitude": 34.68587373843916,
+                "longitude": 135.52653981919454
+            },
+            {
+                "id": 34618892,
+                "name": "旧大阪砲兵工廠 化学分析場",
+                "type": "nan",
+                "latitude": 34.690580849999996,
+                "longitude": 135.52308855000004
+            },
+            {
+                "id": 34619004,
+                "name": "旧大阪砲兵工廠 守衛詰所",
+                "type": "nan",
+                "latitude": 34.690026237406514,
+                "longitude": 135.52312751716798
+            },
+            {
+                "id": 34619038,
+                "name": "大阪城",
+                "type": "nan",
+                "latitude": 34.68737145488315,
+                "longitude": 135.52585335789863
+            },
+            {
+                "id": 48123161,
+                "name": "修道館事務所",
+                "type": "nan",
+                "latitude": 34.68416765020695,
+                "longitude": 135.52496501740367
+            },
+            {
+                "id": 48123162,
+                "name": "千貫櫓",
+                "type": "nan",
+                "latitude": 34.6856524150228,
+                "longitude": 135.5228944892827
+            },
+            {
+                "id": 48123163,
+                "name": "大手門",
+                "type": "nan",
+                "latitude": 34.685073191906866,
+                "longitude": 135.52303928630056
+            },
+            {
+                "id": 48123164,
+                "name": "多門櫓",
+                "type": "nan",
+                "latitude": 34.68522522587412,
+                "longitude": 135.52332874549728
+            },
+            {
+                "id": 48123165,
+                "name": "六番櫓",
+                "type": "nan",
+                "latitude": 34.684133267980336,
+                "longitude": 135.52416298977596
+            },
+            {
+                "id": 48229768,
+                "name": "一番櫓",
+                "type": "nan",
+                "latitude": 34.684338893705096,
+                "longitude": 135.5279988489611
+            },
+            {
+                "id": 176301498,
+                "name": "茶室 豊松庵",
+                "type": "nan",
+                "latitude": 34.68822339499189,
+                "longitude": 135.52398279561882
+            },
+            {
+                "id": 176301501,
+                "name": "大阪城弓道場",
+                "type": "nan",
+                "latitude": 34.68617934221751,
+                "longitude": 135.53358871541266
+            },
+            {
+                "id": 176301502,
+                "name": "焔硝蔵",
+                "type": "nan",
+                "latitude": 34.688359950000006,
+                "longitude": 135.5234829
+            },
+            {
+                "id": 176301507,
+                "name": "大阪迎賓館",
+                "type": "nan",
+                "latitude": 34.688110279523755,
+                "longitude": 135.52292116000646
+            },
+            {
+                "id": 176311043,
+                "name": "大阪城パークセンター",
+                "type": "nan",
+                "latitude": 34.68224774432203,
+                "longitude": 135.53050339179467
+            },
+            {
+                "id": 240797740,
+                "name": "教育の塔",
+                "type": "nan",
+                "latitude": 34.68293158118883,
+                "longitude": 135.52320610158637
+            },
+            {
+                "id": 240797784,
+                "name": "ローソン",
+                "type": "nan",
+                "latitude": 34.685615018105665,
+                "longitude": 135.52151480672993
+            },
+            {
+                "id": 290085439,
+                "name": "地下鉄3-A出入口",
+                "type": "nan",
+                "latitude": 34.68270211535348,
+                "longitude": 135.53351043367232
+            },
+            {
+                "id": 303446367,
+                "name": "桜門",
+                "type": "nan",
+                "latitude": 34.68521509962103,
+                "longitude": 135.52569638648296
+            },
+            {
+                "id": 303446373,
+                "name": "金蔵",
+                "type": "nan",
+                "latitude": 34.68654130607035,
+                "longitude": 135.52646825815313
+            },
+            {
+                "id": 303446384,
+                "name": "大阪城入場券売り場",
+                "type": "nan",
+                "latitude": 34.6869374952648,
+                "longitude": 135.5260398620112
+            },
+            {
+                "id": 303446402,
+                "name": "青屋門",
+                "type": "nan",
+                "latitude": 34.6886289307889,
+                "longitude": 135.52817718368988
+            },
+            {
+                "id": 303446404,
+                "name": "大阪社会運動顕彰塔",
+                "type": "nan",
+                "latitude": 34.68827235,
+                "longitude": 135.53371270000002
+            },
+            {
+                "id": 303446407,
+                "name": "公衆トイレ",
+                "type": "toilets",
+                "latitude": 34.68657057486545,
+                "longitude": 135.52629254331782
+            },
+            {
+                "id": 303446421,
+                "name": "水上バス 乗り場",
+                "type": "nan",
+                "latitude": 34.68956270864611,
+                "longitude": 135.53307071905826
+            },
+            {
+                "id": 360013203,
+                "name": "乾櫓",
+                "type": "nan",
+                "latitude": 34.68795400494704,
+                "longitude": 135.52149988986878
+            },
+            {
+                "id": 394937918,
+                "name": "ローソン",
+                "type": "nan",
+                "latitude": 34.68267198060923,
+                "longitude": 135.5273885241863
+            },
+            {
+                "id": 405236741,
+                "name": "北仕切門",
+                "type": "nan",
+                "latitude": 34.68813127729796,
+                "longitude": 135.52440340703427
+            },
+            {
+                "id": 454628174,
+                "name": "ローソン",
+                "type": "nan",
+                "latitude": 34.689393784459725,
+                "longitude": 135.52838854614203
+            },
+            {
+                "id": 508141192,
+                "name": "淀君並殉死者三十二名忠霊塔",
+                "type": "nan",
+                "latitude": 34.68840934318669,
+                "longitude": 135.5256010243346
+            },
+            {
+                "id": 512469498,
+                "name": "公衆トイレ",
+                "type": "toilets",
+                "latitude": 34.68444762884619,
+                "longitude": 135.525472851797
+            },
+            {
+                "id": 512474173,
+                "name": "タイムカプセル EXPO70",
+                "type": "nan",
+                "latitude": 34.68616025,
+                "longitude": 135.52572609999999
+            },
+            {
+                "id": 512474175,
+                "name": "公衆トイレ",
+                "type": "toilets",
+                "latitude": 34.68654009848138,
+                "longitude": 135.52509257445809
+            },
+            {
+                "id": 512691528,
+                "name": "銀明水井戸の井筒",
+                "type": "nan",
+                "latitude": 34.68527170630846,
+                "longitude": 135.52557817583497
+            },
+            {
+                "id": 512691529,
+                "name": "大阪城・上田城友好城郭提携記念碑",
+                "type": "nan",
+                "latitude": 34.686699874622704,
+                "longitude": 135.52574286010105
+            },
+            {
+                "id": 512713298,
+                "name": "ピースおおさか 大阪国際平和センター",
+                "type": "nan",
+                "latitude": 34.681867362664605,
+                "longitude": 135.52987405544872
+            },
+            {
+                "id": 517671758,
+                "name": "E-TERRACE",
+                "type": "nan",
+                "latitude": 34.68886045050852,
+                "longitude": 135.5324060746456
+            },
+            {
+                "id": 588514283,
+                "name": "スターバックス",
+                "type": "cafe",
+                "latitude": 34.683224445836814,
+                "longitude": 135.53176173447483
+            },
+            {
+                "id": 588514285,
+                "name": "ローソン",
+                "type": "nan",
+                "latitude": 34.682774489101895,
+                "longitude": 135.5314349800234
+            }
+        ]
+    }
+}

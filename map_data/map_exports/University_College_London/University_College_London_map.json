@@ -1,0 +1,607 @@
+{
+    "id": -2597054545994128499,
+    "name": "伦敦大学学院",
+    "address": "Gower St, London WC1E 6BT英国",
+    "rating": 4.5,
+    "popularity": 92,
+    "data_path": "map_data/university_map/University_College_London",
+    "description": "倫敦大學學院（英語：University College London；縮寫：UCL）是一所坐落於英國倫敦的公立研究型大學，为英格兰第三古老的高等教育机构。\n學院最初於1826年由湯瑪斯·坎貝爾及亨利·布魯厄姆以“倫敦大學”（London University）之名創立，是倫敦市第一所高等學府，且為全英首間不拘學生性別及宗教背景的世俗高校。雖沒有直接介入學校的建設，但哲學家傑里米·邊沁對教育的理念啟發了創辦者，故獲譽為“倫大教父”。1836年，以書院聯邦制正式成立倫敦大學，學校改名為“倫敦大學學院”，與倫敦國王學院成為了此大學的兩位始創成員學院。學校隨後迅速發展並與多所專科院校合併，也在英格蘭開創了不少高校學系。該校雖然是倫敦大學的成員學院，但學院本身擁有包括獨立頒授學位的高度自治權，故性質與一般大學無異。\n倫敦大學學院共設11所學術學院，擁有超過100個學術科系與研究中心。其主校區位於倫敦市中心的布盧姆茨伯里區，并设位于斯特拉福德的东校区（UCL East），此外另設兩所分別坐落於澳大利亚及卡塔爾的衛星校園。同時，校內擁有17間圖書館、9所博物館及收藏區，館藏涵蓋不同學術範疇。倫大學院為英國其中一所“金三角名校”，亦是国民保健署建立的11所生物醫學研究基地及多個科技聯盟的始創者之一。\n該校在QS世界大學排名、泰晤士高等教育世界大學排名、世界大學學術排名和U.S. News世界大學排名中位居全球前十名、英國前五名。截止2020年10月，此校的師生、校友及研究人员包括了34名諾貝爾獎得主、3位菲爾茲獲獎者、多名政治要員與組織領袖及數位著名文藝人。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Flaxman_Gallery%2C_UCL.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/6/60/Four_founders_of_UCL.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jeremy_Bentham_Auto-Icon.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Portrait_Gandhi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Portico_and_steps%2C_University_College%2C_London_-_geograph.org.uk_-_364428.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Portrait_Gandhi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/85/Senate_House%2C_University_of_London.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/The_London_University_by_Thomas_Hosmer_Shepherd_1827-28.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/36/UCL_Flaxman_Gallery_and_Jeremy_Bentham.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/UCL_Portico_Building.jpg"
+    ],
+    "amenity": {
+        "affiliation": -2597054545994128499,
+        "amenity_list": [
+            {
+                "id": 644625847,
+                "name": "Bloomsbury Café",
+                "type": "cafe",
+                "latitude": 51.5252191,
+                "longitude": -0.1327573
+            },
+            {
+                "id": 698447397,
+                "name": "Engineering Cafe",
+                "type": "cafe",
+                "latitude": 51.5228705,
+                "longitude": -0.132082
+            },
+            {
+                "id": 720890821,
+                "name": "Print Room Café",
+                "type": "cafe",
+                "latitude": 51.5241198,
+                "longitude": -0.1333457
+            },
+            {
+                "id": 1043301728,
+                "name": "Gordon's Café",
+                "type": "cafe",
+                "latitude": 51.525692,
+                "longitude": -0.1333174
+            },
+            {
+                "id": 1043329141,
+                "name": "The Refectory",
+                "type": "restaurant",
+                "latitude": 51.5248729,
+                "longitude": -0.1331937
+            },
+            {
+                "id": 1043339634,
+                "name": "可能感兴趣的地点",
+                "type": "atm",
+                "latitude": 51.5255858,
+                "longitude": -0.1333796
+            },
+            {
+                "id": 1043340227,
+                "name": "Stone Willy's Pizza",
+                "type": "fast_food",
+                "latitude": 51.5255755,
+                "longitude": -0.1332027
+            },
+            {
+                "id": 5373783084,
+                "name": "The Institute Bar",
+                "type": "bar",
+                "latitude": 51.5225336,
+                "longitude": -0.1281357
+            },
+            {
+                "id": 7366063272,
+                "name": "Department of Mathematics",
+                "type": "college",
+                "latitude": 51.5255523,
+                "longitude": -0.1334341
+            },
+            {
+                "id": 7908687362,
+                "name": "Phineas",
+                "type": "bar",
+                "latitude": 51.5257384,
+                "longitude": -0.1334
+            },
+            {
+                "id": 7913450256,
+                "name": "Main Library",
+                "type": "library",
+                "latitude": 51.5247805,
+                "longitude": -0.133408
+            },
+            {
+                "id": 9847847146,
+                "name": "Grab 'N' Go Counter",
+                "type": "cafe",
+                "latitude": 51.5251121,
+                "longitude": -0.1352045
+            },
+            {
+                "id": 90247857,
+                "name": "Macmillan Cancer Centre",
+                "type": "hospital",
+                "latitude": 51.523113513068424,
+                "longitude": -0.13521317955679413
+            },
+            {
+                "id": 224890389,
+                "name": "Dr Williams's Library",
+                "type": "library",
+                "latitude": 51.52394831847178,
+                "longitude": -0.1315448273388189
+            },
+            {
+                "id": 383553353,
+                "name": "Bloomsbury Theatre",
+                "type": "theatre",
+                "latitude": 51.525049213573666,
+                "longitude": -0.1328091564353965
+            },
+            {
+                "id": 750447448,
+                "name": "Santander",
+                "type": "bank",
+                "latitude": 51.52293509206428,
+                "longitude": -0.13626679487707144
+            },
+            {
+                "id": 789265602,
+                "name": "UCL Institute of Education Library",
+                "type": "library",
+                "latitude": 51.52328623047904,
+                "longitude": -0.12862744389584055
+            },
+            {
+                "id": 847530472,
+                "name": "The Huntley",
+                "type": "pub",
+                "latitude": 51.525154771166946,
+                "longitude": -0.1350354592466495
+            },
+            {
+                "id": 878165844,
+                "name": "Dough + Go Pizza",
+                "type": "fast_food",
+                "latitude": 51.523587915993524,
+                "longitude": -0.13278503518942442
+            },
+            {
+                "id": 953962864,
+                "name": "Mully's",
+                "type": "bar",
+                "latitude": 51.52505097271105,
+                "longitude": -0.13510223377748193
+            },
+            {
+                "id": 953962865,
+                "name": "Union StrEAT Kitchen",
+                "type": "cafe",
+                "latitude": 51.52503257011394,
+                "longitude": -0.135064594228427
+            },
+            {
+                "id": 1073532207,
+                "name": "George Farha Cafe",
+                "type": "cafe",
+                "latitude": 51.52505739294919,
+                "longitude": -0.1351561996016858
+            },
+            {
+                "id": 661011,
+                "name": "Friends House",
+                "type": "place_of_worship",
+                "latitude": 51.52637094324479,
+                "longitude": -0.13242125541015132
+            },
+            {
+                "id": 4960709,
+                "name": "North Observatory",
+                "type": "nan",
+                "latitude": 51.524665026720925,
+                "longitude": -0.13412193085461174
+            },
+            {
+                "id": 4960711,
+                "name": "South Observatory",
+                "type": "nan",
+                "latitude": 51.52441577163958,
+                "longitude": -0.13384423373875545
+            },
+            {
+                "id": 27432119,
+                "name": "Cruciform Building",
+                "type": "nan",
+                "latitude": 51.52406543178401,
+                "longitude": -0.13512085187917514
+            },
+            {
+                "id": 27702973,
+                "name": "Darwin Building",
+                "type": "nan",
+                "latitude": 51.5230473450738,
+                "longitude": -0.1329571077087848
+            },
+            {
+                "id": 27702997,
+                "name": "Anatomy Building",
+                "type": "nan",
+                "latitude": 51.52370321605116,
+                "longitude": -0.13352887388918214
+            },
+            {
+                "id": 27703019,
+                "name": "Malet Place Engineering Building",
+                "type": "nan",
+                "latitude": 51.52313806963019,
+                "longitude": -0.1325282875475643
+            },
+            {
+                "id": 27703085,
+                "name": "Petrie Museum of Egyptian Archeology",
+                "type": "nan",
+                "latitude": 51.52357824197071,
+                "longitude": -0.13298431901432736
+            },
+            {
+                "id": 27703112,
+                "name": "Andrew Huxley Building",
+                "type": "nan",
+                "latitude": 51.5241519400442,
+                "longitude": -0.13277629513826408
+            },
+            {
+                "id": 27703147,
+                "name": "Medical Sciences Building",
+                "type": "nan",
+                "latitude": 51.52386115118089,
+                "longitude": -0.132928217089928
+            },
+            {
+                "id": 27703173,
+                "name": "Foster Court",
+                "type": "nan",
+                "latitude": 51.52359918692243,
+                "longitude": -0.13239574471316962
+            },
+            {
+                "id": 40205764,
+                "name": "Christopher Ingold Building",
+                "type": "nan",
+                "latitude": 51.52540868359821,
+                "longitude": -0.13226326397289065
+            },
+            {
+                "id": 40205767,
+                "name": "25 Gordon Street",
+                "type": "nan",
+                "latitude": 51.525627120912944,
+                "longitude": -0.13336888086655171
+            },
+            {
+                "id": 40205769,
+                "name": "Medawar Building",
+                "type": "nan",
+                "latitude": 51.523717750721076,
+                "longitude": -0.13205827318963212
+            },
+            {
+                "id": 40205772,
+                "name": "UCL Institute of Archaeology",
+                "type": "nan",
+                "latitude": 51.52491591119801,
+                "longitude": -0.13160802173753983
+            },
+            {
+                "id": 40253189,
+                "name": "Gordon House",
+                "type": "nan",
+                "latitude": 51.52495998749822,
+                "longitude": -0.13198734733523387
+            },
+            {
+                "id": 40253190,
+                "name": "School of Slavonic and East European Studies",
+                "type": "nan",
+                "latitude": 51.525293458889024,
+                "longitude": -0.131732751981279
+            },
+            {
+                "id": 40253191,
+                "name": "Department of Anthropology",
+                "type": "nan",
+                "latitude": 51.52508584212093,
+                "longitude": -0.13162182478013146
+            },
+            {
+                "id": 40253192,
+                "name": "Campbell House West",
+                "type": "nan",
+                "latitude": 51.525734234844606,
+                "longitude": -0.13212606998458515
+            },
+            {
+                "id": 40253193,
+                "name": "Campbell House East",
+                "type": "nan",
+                "latitude": 51.52566053071527,
+                "longitude": -0.13139385692527641
+            },
+            {
+                "id": 40269405,
+                "name": "Kathleen Lonsdale Building",
+                "type": "nan",
+                "latitude": 51.525332656384094,
+                "longitude": -0.1343370092311091
+            },
+            {
+                "id": 40269406,
+                "name": "Lewis Building",
+                "type": "nan",
+                "latitude": 51.525067028141606,
+                "longitude": -0.13508967418051954
+            },
+            {
+                "id": 40916732,
+                "name": "Rockefeller Building",
+                "type": "nan",
+                "latitude": 51.523525648218005,
+                "longitude": -0.1344912845271245
+            },
+            {
+                "id": 48161697,
+                "name": "Paul O'Gorman Building",
+                "type": "nan",
+                "latitude": 51.52325868507321,
+                "longitude": -0.13459480514758218
+            },
+            {
+                "id": 50059489,
+                "name": "North Wing",
+                "type": "nan",
+                "latitude": 51.52500795790736,
+                "longitude": -0.13448334780566562
+            },
+            {
+                "id": 50059492,
+                "name": "Chadwick Building",
+                "type": "nan",
+                "latitude": 51.52405272017382,
+                "longitude": -0.13402198803608548
+            },
+            {
+                "id": 50059493,
+                "name": "South Wing",
+                "type": "nan",
+                "latitude": 51.524110784270654,
+                "longitude": -0.13347639387348628
+            },
+            {
+                "id": 50059498,
+                "name": "North-West Wing",
+                "type": "nan",
+                "latitude": 51.52471025804064,
+                "longitude": -0.13474708907076619
+            },
+            {
+                "id": 50059831,
+                "name": "London Centre for Nanotechnology",
+                "type": "nan",
+                "latitude": 51.52530758249358,
+                "longitude": -0.13302926275656743
+            },
+            {
+                "id": 51517608,
+                "name": "UCL Institute of Education",
+                "type": "university",
+                "latitude": 51.52306630271895,
+                "longitude": -0.1282692573925758
+            },
+            {
+                "id": 51517616,
+                "name": "Hilton London Euston",
+                "type": "nan",
+                "latitude": 51.526518452325526,
+                "longitude": -0.1303612657552415
+            },
+            {
+                "id": 90016554,
+                "name": "Advanced Centre for Biochemical Engineering",
+                "type": "nan",
+                "latitude": 51.52463608450496,
+                "longitude": -0.13293620700035413
+            },
+            {
+                "id": 224890376,
+                "name": "Henry Morley Building",
+                "type": "nan",
+                "latitude": 51.52383284408913,
+                "longitude": -0.13191642659310504
+            },
+            {
+                "id": 248989218,
+                "name": "Rayne Building",
+                "type": "nan",
+                "latitude": 51.52311775356229,
+                "longitude": -0.13587090325169787
+            },
+            {
+                "id": 329149299,
+                "name": "Main Quad Temporary Pop-up",
+                "type": "nan",
+                "latitude": 51.52431477876498,
+                "longitude": -0.13393609089442413
+            },
+            {
+                "id": 343250647,
+                "name": "Central House",
+                "type": "nan",
+                "latitude": 51.52686995149631,
+                "longitude": -0.12976652440792927
+            },
+            {
+                "id": 413975406,
+                "name": "Royal Academy of Dramatic Art",
+                "type": "university",
+                "latitude": 51.521830575454516,
+                "longitude": -0.13132221848978384
+            },
+            {
+                "id": 483804431,
+                "name": "The Bartlett",
+                "type": "nan",
+                "latitude": 51.525864466077564,
+                "longitude": -0.13262587290134809
+            },
+            {
+                "id": 557814878,
+                "name": "Social Science Research Unit",
+                "type": "nan",
+                "latitude": 51.5236550407828,
+                "longitude": -0.12942494482899614
+            },
+            {
+                "id": 557814881,
+                "name": "IOE Confucius Institute",
+                "type": "nan",
+                "latitude": 51.5235130558116,
+                "longitude": -0.1292678576245482
+            },
+            {
+                "id": 557814890,
+                "name": "Social Science Research Unit",
+                "type": "nan",
+                "latitude": 51.523268994701425,
+                "longitude": -0.12900712664440178
+            },
+            {
+                "id": 557825738,
+                "name": "Department of Science and Technology Studies",
+                "type": "nan",
+                "latitude": 51.52440628795335,
+                "longitude": -0.132048535387328
+            },
+            {
+                "id": 557825741,
+                "name": "Department of Philosophy",
+                "type": "nan",
+                "latitude": 51.5242414257871,
+                "longitude": -0.13186936194461968
+            },
+            {
+                "id": 680050665,
+                "name": "Wilkins Building",
+                "type": "nan",
+                "latitude": 51.52474369334104,
+                "longitude": -0.13346996251297713
+            },
+            {
+                "id": 681098584,
+                "name": "Bernard Katz Building",
+                "type": "nan",
+                "latitude": 51.52445051310645,
+                "longitude": -0.13272050595088056
+            },
+            {
+                "id": 681098586,
+                "name": "Student Centre",
+                "type": "nan",
+                "latitude": 51.524766700279045,
+                "longitude": -0.13256272610268985
+            },
+            {
+                "id": 802236338,
+                "name": "Roberts Building",
+                "type": "nan",
+                "latitude": 51.52291517398376,
+                "longitude": -0.13236670833993386
+            },
+            {
+                "id": 802236339,
+                "name": "Engineering Front Building",
+                "type": "nan",
+                "latitude": 51.522818360475185,
+                "longitude": -0.13217364688562747
+            },
+            {
+                "id": 802240712,
+                "name": "Department of Psychology and Human Development",
+                "type": "nan",
+                "latitude": 51.52302743526946,
+                "longitude": -0.1298849323347962
+            },
+            {
+                "id": 802240714,
+                "name": "Thomas Coram Research Unit",
+                "type": "nan",
+                "latitude": 51.52293044340993,
+                "longitude": -0.1297730526243791
+            },
+            {
+                "id": 845163820,
+                "name": "Refectory Cloister",
+                "type": "nan",
+                "latitude": 51.52475925341034,
+                "longitude": -0.13312129222744634
+            },
+            {
+                "id": 847530492,
+                "name": "Physics Building",
+                "type": "nan",
+                "latitude": 51.52536273699986,
+                "longitude": -0.1334048632615127
+            },
+            {
+                "id": 848060317,
+                "name": "South Quad Pop Up Learning Hub",
+                "type": "nan",
+                "latitude": 51.52390518110767,
+                "longitude": -0.13322616875372925
+            },
+            {
+                "id": 849005554,
+                "name": "DMS Watson Building",
+                "type": "nan",
+                "latitude": 51.52338826933611,
+                "longitude": -0.13281627244909783
+            },
+            {
+                "id": 868884091,
+                "name": "26 Bedford Way",
+                "type": "nan",
+                "latitude": 51.52392936859719,
+                "longitude": -0.12892683796438673
+            },
+            {
+                "id": 868884094,
+                "name": "Institute of Advanced Legal Studies",
+                "type": "nan",
+                "latitude": 51.52252514619872,
+                "longitude": -0.12740802911098245
+            },
+            {
+                "id": 875290551,
+                "name": "MRC Building",
+                "type": "nan",
+                "latitude": 51.52408190131582,
+                "longitude": -0.13234842756584236
+            },
+            {
+                "id": 877703027,
+                "name": "The Henry Wellcome Building",
+                "type": "nan",
+                "latitude": 51.52279181398159,
+                "longitude": -0.12973545927954896
+            },
+            {
+                "id": 877709713,
+                "name": "North Cloisters",
+                "type": "nan",
+                "latitude": 51.52496330788027,
+                "longitude": -0.13376894791765662
+            },
+            {
+                "id": 1050322259,
+                "name": "1-19 Torrington Place",
+                "type": "nan",
+                "latitude": 51.52188618249416,
+                "longitude": -0.13464020403891055
+            },
+            {
+                "id": 11814819,
+                "name": "College Hall",
+                "type": "nan",
+                "latitude": 51.5221182498174,
+                "longitude": -0.13146704419839444
+            }
+        ]
+    }
+}

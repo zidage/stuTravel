@@ -1,0 +1,138 @@
+{
+    "id": 8868748766549297476,
+    "name": "新加坡动物园",
+    "address": "80 Mandai Lake Rd, 新加坡 729826",
+    "rating": 4.6,
+    "popularity": 48,
+    "data_path": "map_data/university_map/Singapore_Zoo",
+    "description": "新加坡动物园（英語：Singapore Zoo）是一座位于新加坡的动物园，是新加坡的主要旅游景点，每年吸引游客190万人次。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cottontop_tamerin_Singapore_zoo.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2d/Flamingo_singapore_zoo.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/6/69/Kangaroo_at_Singapore_zoo.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/39/Lemur_singapore_zoo_2009.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f8/Polar_bear_singapore_zoo_sheba_inuka.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/4/47/Proboscis_monkey_singapore_zoo.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/5/57/Singapore_Zoo_2012_0627_-_Copy.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Singapore_Zoo_Tigers_cropped.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/Singapore_Zoo_entrance-15Feb2010.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/Sun_bear_singapore_zoo.JPG"
+    ],
+    "amenity": {
+        "affiliation": 8868748766549297476,
+        "amenity_list": [
+            {
+                "id": 1948721877,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 1.4053091,
+                "longitude": 103.794198
+            },
+            {
+                "id": 1948721903,
+                "name": "Ah Meng Restaurant",
+                "type": "restaurant",
+                "latitude": 1.4041897,
+                "longitude": 103.7936014
+            },
+            {
+                "id": 3839169208,
+                "name": "KFC",
+                "type": "fast_food",
+                "latitude": 1.4035011,
+                "longitude": 103.7968388
+            },
+            {
+                "id": 7836789016,
+                "name": "Ah Meng Bistro",
+                "type": "restaurant",
+                "latitude": 1.4038583,
+                "longitude": 103.793522
+            },
+            {
+                "id": 9288368451,
+                "name": "Forest Lodge",
+                "type": "events_venue",
+                "latitude": 1.4045241,
+                "longitude": 103.7935455
+            },
+            {
+                "id": 246273688,
+                "name": "Shaw Foundation Amphitheater",
+                "type": "theatre",
+                "latitude": 1.4046091856108527,
+                "longitude": 103.79495798195045
+            },
+            {
+                "id": 246273689,
+                "name": "Rainforest KidsWorld Ampitheatre",
+                "type": "theatre",
+                "latitude": 1.4035037165883617,
+                "longitude": 103.79647333961286
+            },
+            {
+                "id": 1006761126,
+                "name": "Garden With A View",
+                "type": "shelter",
+                "latitude": 1.4033100579780564,
+                "longitude": 103.79522249593518
+            },
+            {
+                "id": 246273696,
+                "name": "Kampung House",
+                "type": "nan",
+                "latitude": 1.403233236017932,
+                "longitude": 103.79694792323001
+            },
+            {
+                "id": 262861266,
+                "name": "Garden Pavilion",
+                "type": "nan",
+                "latitude": 1.4052999596567939,
+                "longitude": 103.79411220733047
+            },
+            {
+                "id": 262861273,
+                "name": "Wildlife Learning Centre",
+                "type": "nan",
+                "latitude": 1.404476841782403,
+                "longitude": 103.7911218250792
+            },
+            {
+                "id": 262861277,
+                "name": "Pavilion By The Lake",
+                "type": "nan",
+                "latitude": 1.406109171134298,
+                "longitude": 103.79452083615493
+            },
+            {
+                "id": 380599802,
+                "name": "Polar Bear",
+                "type": "nan",
+                "latitude": 1.4035377802229616,
+                "longitude": 103.79307849676239
+            },
+            {
+                "id": 380599811,
+                "name": "Stable",
+                "type": "nan",
+                "latitude": 1.4030916672273055,
+                "longitude": 103.7967532067328
+            },
+            {
+                "id": 380600768,
+                "name": "Fragile Forest",
+                "type": "nan",
+                "latitude": 1.4022261499999995,
+                "longitude": 103.79521374999999
+            },
+            {
+                "id": 1006761185,
+                "name": "Animal Playground",
+                "type": "nan",
+                "latitude": 1.403757410201023,
+                "longitude": 103.79314422767719
+            }
+        ]
+    }
+}

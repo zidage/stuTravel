@@ -1,0 +1,2462 @@
+{
+    "id": -6398500308543771325,
+    "name": "斯坦福大学",
+    "address": "450 Jane Stanford Way, Stanford, CA 94305美国",
+    "rating": 4.6,
+    "popularity": 96,
+    "data_path": "map_data/university_map/Stanford_University",
+    "description": "史丹佛大學（Stanford University），全称小利蘭·史丹佛大學（英語：Leland Stanford Junior University），為一所坐落於美國加州史丹佛的私立研究型大學，临近硅谷，是美洲大学协会的12个创始会员之一，因其學術聲譽和创业氛围而獲評為世界上最知名的高等學府之一。\n斯坦福大學於1891年由時任加州參議員及州長的鐵路大亨利蘭·史丹佛和他的妻子簡·萊思羅普·史丹佛創辦。這是為了紀念他們因傷寒而於16歲生日前夕去世的兒子（小利蘭·史丹佛）。斯坦福大学為男女及宗教自由的學校，在1930年代前所有學費全免。可是，1893年利蘭·史丹佛的逝世及1906年對校園造成重大損毀的三藩市大地震，為該校帶來嚴重的財政困難後才開始收費。二次世界大戰後，時任學校教務長的弗雷德里克·特曼全力支持校友與教職員的创业精神，希望能建立一個自給自足的本地工業，這也是現今硅谷的源流。\n學校的校園位於矽谷的西北方，鄰近帕羅奧圖。自上世紀七十年代，史丹佛成為了美國SLAC國家加速器實驗室的所在地，及其中一個高等研究計劃署網路（互聯網雛形）的起源地。校方的各個學術部門被歸入七所學術學院內，而包括生物保育區及加速實驗室在內的其他資產則設於主校區之外。 此校同時為最富有的教育機構之一，並為第一所在一年內獲得超過十億美元捐款升幅的大學。\n史丹佛為一所擁有高住宿率及高選擇性的大學，當中的研究生課程較本科的多元化。史丹佛學生透過36支代表隊參與不同的體育競賽，其為兩所太平洋十二校聯盟的私立大學之一。截止2021年，斯坦福大学的学生和校友在历届奥运会上共赢得了至少296枚奥运奖牌（其中150枚金牌）。有關校隊曾奪得過104次大學體育協會賽事的冠軍，成績於眾多大學中位列第二。自1994-95年起，其亦一直為全國大學體育競技董事杯的年度得主。\n截止2021年4月，斯坦福大学的校友、教授及研究人员中，共产生了84名諾貝爾獎得主、8位菲尔兹奖得主以及29位图灵奖得主。史丹佛培養了不少著名人士，其校友涵蓋30名富豪企業家及17名太空員，亦為培養最多美國國會成員的院校之一。史丹佛校友在世界各地創辦了眾多著名的公司機構，如：谷歌、雅虎、惠普、思科系统、耐克、昇陽電腦、台积电、英伟达、艺电等等，這些企業的資金合計相等於全球第十大經濟體系（截止2011年）。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/82/11-04-06-LSJUMB-003.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/36/Hoover_Tower_from_Main_Quad.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/Lake_Lagunita_Stanford_January_2013_panorama_4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Leland_Stanford_p1070023.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/86/Les-bourgeois-de-Calais.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7b/President_Reagan_and_Sandra_Day_O%27Connor.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fd/Stanford-bikes.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/70/StanfordLibrary-1906.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/28/Stanford_Campus_Aerial_Photo.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cd/Stanford_Oval_May_2011_panorama.jpg"
+    ],
+    "amenity": {
+        "affiliation": -6398500308543771325,
+        "amenity_list": [
+            {
+                "id": 281869945,
+                "name": "Stern Dining",
+                "type": "fast_food",
+                "latitude": 37.4243217,
+                "longitude": -122.165628
+            },
+            {
+                "id": 281870028,
+                "name": "CoHo",
+                "type": "cafe",
+                "latitude": 37.424076,
+                "longitude": -122.1708258
+            },
+            {
+                "id": 281870039,
+                "name": "Treehouse",
+                "type": "restaurant",
+                "latitude": 37.423915,
+                "longitude": -122.171192
+            },
+            {
+                "id": 281870129,
+                "name": "Jamba Juice",
+                "type": "fast_food",
+                "latitude": 37.4242642,
+                "longitude": -122.1707343
+            },
+            {
+                "id": 281870184,
+                "name": "Union Square",
+                "type": "fast_food",
+                "latitude": 37.4244824,
+                "longitude": -122.170871
+            },
+            {
+                "id": 281870217,
+                "name": "The Axe & Palm",
+                "type": "fast_food",
+                "latitude": 37.4250488,
+                "longitude": -122.170496
+            },
+            {
+                "id": 287462718,
+                "name": "Bytes Cafe",
+                "type": "cafe",
+                "latitude": 37.4293614,
+                "longitude": -122.1735455
+            },
+            {
+                "id": 287482979,
+                "name": "Cafe Cool",
+                "type": "fast_food",
+                "latitude": 37.4330232,
+                "longitude": -122.1710149
+            },
+            {
+                "id": 302117373,
+                "name": "可能感兴趣的地点",
+                "type": "clock",
+                "latitude": 37.4259676,
+                "longitude": -122.1688832
+            },
+            {
+                "id": 340331147,
+                "name": "Decadence",
+                "type": "ice_cream",
+                "latitude": 37.4246758,
+                "longitude": -122.170662
+            },
+            {
+                "id": 340332115,
+                "name": "Olives",
+                "type": "fast_food",
+                "latitude": 37.4282079,
+                "longitude": -122.16882
+            },
+            {
+                "id": 612020009,
+                "name": "Stanford Federal Credit Union",
+                "type": "bank",
+                "latitude": 37.4242351,
+                "longitude": -122.1708545
+            },
+            {
+                "id": 1255953568,
+                "name": "Fisher Conference Center",
+                "type": "events_venue",
+                "latitude": 37.431153,
+                "longitude": -122.164749
+            },
+            {
+                "id": 1255955100,
+                "name": "Alumni Café",
+                "type": "cafe",
+                "latitude": 37.4308433,
+                "longitude": -122.1646839
+            },
+            {
+                "id": 1708076036,
+                "name": "Cafe Buttery (serving Peet's Coffee)",
+                "type": "cafe",
+                "latitude": 37.430979,
+                "longitude": -122.1741744
+            },
+            {
+                "id": 1708076043,
+                "name": "Market Square Cafeteria",
+                "type": "fast_food",
+                "latitude": 37.4340306,
+                "longitude": -122.1753169
+            },
+            {
+                "id": 1708076048,
+                "name": "Med Cafe",
+                "type": "cafe",
+                "latitude": 37.4319649,
+                "longitude": -122.1755772
+            },
+            {
+                "id": 1708076058,
+                "name": "Lutticken's Deli",
+                "type": "fast_food",
+                "latitude": 37.4321372,
+                "longitude": -122.1770819
+            },
+            {
+                "id": 1708076067,
+                "name": "Beckman Bistro",
+                "type": "fast_food",
+                "latitude": 37.4318859,
+                "longitude": -122.1762933
+            },
+            {
+                "id": 1708076074,
+                "name": "Nexus Cafe",
+                "type": "fast_food",
+                "latitude": 37.4309062,
+                "longitude": -122.1745204
+            },
+            {
+                "id": 1781829281,
+                "name": "Lane Medical Library",
+                "type": "library",
+                "latitude": 37.4327332,
+                "longitude": -122.1755
+            },
+            {
+                "id": 1781833395,
+                "name": "Cafe Salute",
+                "type": "fast_food",
+                "latitude": 37.4357505,
+                "longitude": -122.1761971
+            },
+            {
+                "id": 1781835461,
+                "name": "Courtyard Cafe",
+                "type": "fast_food",
+                "latitude": 37.4356791,
+                "longitude": -122.1751195
+            },
+            {
+                "id": 1782081116,
+                "name": "Forbes Family Cafe",
+                "type": "fast_food",
+                "latitude": 37.4280832,
+                "longitude": -122.174103
+            },
+            {
+                "id": 2392411741,
+                "name": "Arbuckle Dining Pavillion",
+                "type": "restaurant",
+                "latitude": 37.4282873,
+                "longitude": -122.1627668
+            },
+            {
+                "id": 2410454091,
+                "name": "Stock Farm Road Children’s Center",
+                "type": "childcare",
+                "latitude": 37.430211,
+                "longitude": -122.1812378
+            },
+            {
+                "id": 3355037887,
+                "name": "Coupa Cafe",
+                "type": "cafe",
+                "latitude": 37.4283258,
+                "longitude": -122.1755881
+            },
+            {
+                "id": 3445812317,
+                "name": "Branner Earth Sciences Library",
+                "type": "library",
+                "latitude": 37.4264351,
+                "longitude": -122.1726434
+            },
+            {
+                "id": 4297732393,
+                "name": "Lathrop Tech Lounge",
+                "type": "computer_lab",
+                "latitude": 37.4295195,
+                "longitude": -122.1674625
+            },
+            {
+                "id": 4475806678,
+                "name": "Panda Express",
+                "type": "fast_food",
+                "latitude": 37.4245393,
+                "longitude": -122.170991
+            },
+            {
+                "id": 4732910085,
+                "name": "Robin Li and Melissa Ma Science Library",
+                "type": "library",
+                "latitude": 37.430686,
+                "longitude": -122.1714235
+            },
+            {
+                "id": 4742672886,
+                "name": "McCaw Hall",
+                "type": "events_venue",
+                "latitude": 37.4302819,
+                "longitude": -122.1649582
+            },
+            {
+                "id": 4742673778,
+                "name": "Bank of America",
+                "type": "atm",
+                "latitude": 37.424695,
+                "longitude": -122.170622
+            },
+            {
+                "id": 4742742378,
+                "name": "Stanford Wellness Room",
+                "type": "wellness_centre",
+                "latitude": 37.425219,
+                "longitude": -122.1707486
+            },
+            {
+                "id": 4742742429,
+                "name": "Stanford Bookstore Café",
+                "type": "cafe",
+                "latitude": 37.4250221,
+                "longitude": -122.1688008
+            },
+            {
+                "id": 4768549821,
+                "name": "David Rumsey Map Center",
+                "type": "library",
+                "latitude": 37.4268641,
+                "longitude": -122.167779
+            },
+            {
+                "id": 4846515988,
+                "name": "Robert Crown Law Library",
+                "type": "library",
+                "latitude": 37.4241944,
+                "longitude": -122.1676434
+            },
+            {
+                "id": 4892917223,
+                "name": "Stanford Geospatial Center",
+                "type": "library",
+                "latitude": 37.426415,
+                "longitude": -122.1725183
+            },
+            {
+                "id": 4987408937,
+                "name": "Roble Field Garage",
+                "type": "parking",
+                "latitude": 37.4263375,
+                "longitude": -122.1759606
+            },
+            {
+                "id": 5206903613,
+                "name": "Tanner Philosophy Library",
+                "type": "library",
+                "latitude": 37.4279242,
+                "longitude": -122.1712335
+            },
+            {
+                "id": 5532684528,
+                "name": "Ike's Press",
+                "type": "fast_food",
+                "latitude": 37.4324544,
+                "longitude": -122.1717798
+            },
+            {
+                "id": 5555812034,
+                "name": "5 Sure",
+                "type": "parking_space",
+                "latitude": 37.4238735,
+                "longitude": -122.1707284
+            },
+            {
+                "id": 5555953384,
+                "name": "Mendenhall Library",
+                "type": "library",
+                "latitude": 37.4283546,
+                "longitude": -122.1693194
+            },
+            {
+                "id": 5555953386,
+                "name": "Curry Up Now",
+                "type": "fast_food",
+                "latitude": 37.4244547,
+                "longitude": -122.170777
+            },
+            {
+                "id": 5555953387,
+                "name": "Subway",
+                "type": "fast_food",
+                "latitude": 37.424476,
+                "longitude": -122.171011
+            },
+            {
+                "id": 5555953388,
+                "name": "​Kikka Sushi",
+                "type": "fast_food",
+                "latitude": 37.4245783,
+                "longitude": -122.170938
+            },
+            {
+                "id": 5555953390,
+                "name": "Starbucks",
+                "type": "cafe",
+                "latitude": 37.4243503,
+                "longitude": -122.170831
+            },
+            {
+                "id": 5555953401,
+                "name": "FedEx Ship&Get",
+                "type": "parcel_locker",
+                "latitude": 37.42477,
+                "longitude": -122.1707884
+            },
+            {
+                "id": 5969685571,
+                "name": "Wilbur Dining",
+                "type": "restaurant",
+                "latitude": 37.4239643,
+                "longitude": -122.1631633
+            },
+            {
+                "id": 6444457266,
+                "name": "Blend Eatery",
+                "type": "restaurant",
+                "latitude": 37.430451,
+                "longitude": -122.1724507
+            },
+            {
+                "id": 6593596200,
+                "name": "Cantor Cafe",
+                "type": "cafe",
+                "latitude": 37.4326574,
+                "longitude": -122.1712381
+            },
+            {
+                "id": 6919493514,
+                "name": "CEMEX Auditorium",
+                "type": "theatre",
+                "latitude": 37.4287081,
+                "longitude": -122.1630173
+            },
+            {
+                "id": 6919493515,
+                "name": "Oberndorf Event Center",
+                "type": "events_venue",
+                "latitude": 37.4285526,
+                "longitude": -122.1626284
+            },
+            {
+                "id": 6919493516,
+                "name": "Seawell Family Boardroom",
+                "type": "events_venue",
+                "latitude": 37.4286943,
+                "longitude": -122.1621523
+            },
+            {
+                "id": 6920713360,
+                "name": "Asian American Activities Center",
+                "type": "community_centre",
+                "latitude": 37.4247727,
+                "longitude": -122.1699817
+            },
+            {
+                "id": 6920713361,
+                "name": "El Centro Chicano y Latino",
+                "type": "community_centre",
+                "latitude": 37.4252967,
+                "longitude": -122.1697001
+            },
+            {
+                "id": 6920713362,
+                "name": "Center for Inter-Religious Community, Learning and Experiences",
+                "type": "place_of_worship",
+                "latitude": 37.4251561,
+                "longitude": -122.170322
+            },
+            {
+                "id": 6920728327,
+                "name": "NVIDIA Auditorium",
+                "type": "theatre",
+                "latitude": 37.4281301,
+                "longitude": -122.1742004
+            },
+            {
+                "id": 6920764824,
+                "name": "Stanford Institute for Economic Policy Research",
+                "type": "college",
+                "latitude": 37.4291823,
+                "longitude": -122.1655078
+            },
+            {
+                "id": 6920811595,
+                "name": "Bike Fixation",
+                "type": "bicycle_repair_station",
+                "latitude": 37.4332894,
+                "longitude": -122.1741084
+            },
+            {
+                "id": 7115901022,
+                "name": "Coupa Cafe - Huang Engineering Center",
+                "type": "cafe",
+                "latitude": 37.4282157,
+                "longitude": -122.174279
+            },
+            {
+                "id": 7165706935,
+                "name": "Women’s Community Center",
+                "type": "community_centre",
+                "latitude": 37.4250457,
+                "longitude": -122.1717069
+            },
+            {
+                "id": 7165706936,
+                "name": "Lesbian, Gay, Bisexual, Transgender Community Resources Center",
+                "type": "community_centre",
+                "latitude": 37.4251214,
+                "longitude": -122.1716841
+            },
+            {
+                "id": 7165706938,
+                "name": "QSpot",
+                "type": "community_centre",
+                "latitude": 37.4250876,
+                "longitude": -122.1716943
+            },
+            {
+                "id": 7439173023,
+                "name": "Stanford Map Library",
+                "type": "library",
+                "latitude": 37.4264593,
+                "longitude": -122.1727583
+            },
+            {
+                "id": 8197646792,
+                "name": "Hoover Pharmacy",
+                "type": "pharmacy",
+                "latitude": 37.4414742,
+                "longitude": -122.1688125
+            },
+            {
+                "id": 9359811238,
+                "name": "COLLEGE RESTAURANTS INC",
+                "type": "restaurant",
+                "latitude": 37.4234363,
+                "longitude": -122.1683131
+            },
+            {
+                "id": 25841836,
+                "name": "Wilbur Field Garage",
+                "type": "parking",
+                "latitude": 37.423091402624706,
+                "longitude": -122.1641485175258
+            },
+            {
+                "id": 26249768,
+                "name": "Stock Farm Garage",
+                "type": "parking",
+                "latitude": 37.431713624932584,
+                "longitude": -122.18209236462124
+            },
+            {
+                "id": 26250074,
+                "name": "LKSC Parking Lot",
+                "type": "parking",
+                "latitude": 37.43136831546926,
+                "longitude": -122.17669615965492
+            },
+            {
+                "id": 26250622,
+                "name": "Varsity Lot",
+                "type": "parking",
+                "latitude": 37.432626811218725,
+                "longitude": -122.15986583359141
+            },
+            {
+                "id": 26250717,
+                "name": "Frost Amphitheatre",
+                "type": "theatre",
+                "latitude": 37.43077226739295,
+                "longitude": -122.16595152957288
+            },
+            {
+                "id": 26252222,
+                "name": "Tresidder Memorial Union",
+                "type": "community_centre",
+                "latitude": 37.42419302225743,
+                "longitude": -122.17095134695323
+            },
+            {
+                "id": 26308516,
+                "name": "Galvez Parking Lot (L-96)",
+                "type": "parking",
+                "latitude": 37.43349255220675,
+                "longitude": -122.16488628733194
+            },
+            {
+                "id": 30775651,
+                "name": "Casa Zapata",
+                "type": "dormitory",
+                "latitude": 37.423885099288576,
+                "longitude": -122.16557169394551
+            },
+            {
+                "id": 30775656,
+                "name": "Sally Ride House",
+                "type": "dormitory",
+                "latitude": 37.42400435144083,
+                "longitude": -122.16613522841256
+            },
+            {
+                "id": 30775658,
+                "name": "Donner House",
+                "type": "dormitory",
+                "latitude": 37.42435819451832,
+                "longitude": -122.1662038886675
+            },
+            {
+                "id": 30775659,
+                "name": "Burbank House",
+                "type": "dormitory",
+                "latitude": 37.42417303449407,
+                "longitude": -122.16529641011151
+            },
+            {
+                "id": 30775661,
+                "name": "Twain House East",
+                "type": "dormitory",
+                "latitude": 37.42463390790831,
+                "longitude": -122.16513595751117
+            },
+            {
+                "id": 30775670,
+                "name": "Twain House North",
+                "type": "dormitory",
+                "latitude": 37.42491352375822,
+                "longitude": -122.16522810556529
+            },
+            {
+                "id": 30775698,
+                "name": "Larkin House North",
+                "type": "dormitory",
+                "latitude": 37.42504481783747,
+                "longitude": -122.16580950238459
+            },
+            {
+                "id": 30775717,
+                "name": "Larkin House West",
+                "type": "dormitory",
+                "latitude": 37.42481148151142,
+                "longitude": -122.16605227981766
+            },
+            {
+                "id": 48162314,
+                "name": "Hoover Institution on War, Revolution and Peace",
+                "type": "college",
+                "latitude": 37.427631422771576,
+                "longitude": -122.1664061942061
+            },
+            {
+                "id": 109150501,
+                "name": "Hoover Pavilion",
+                "type": "clinic",
+                "latitude": 37.44140287367231,
+                "longitude": -122.16867385572323
+            },
+            {
+                "id": 205182889,
+                "name": "Bing Concert Hall",
+                "type": "theatre",
+                "latitude": 37.43206201637204,
+                "longitude": -122.16612412151947
+            },
+            {
+                "id": 222239208,
+                "name": "Knight Management Center",
+                "type": "college",
+                "latitude": 37.42810323909952,
+                "longitude": -122.16218910225552
+            },
+            {
+                "id": 232715572,
+                "name": "Stanford Comprehensive ENT Clinic",
+                "type": "clinic",
+                "latitude": 37.4366175,
+                "longitude": -122.176824
+            },
+            {
+                "id": 232715626,
+                "name": "Avanti",
+                "type": "fast_food",
+                "latitude": 37.424625273722576,
+                "longitude": -122.18086217751197
+            },
+            {
+                "id": 232715641,
+                "name": "Palo Alto Fire Station 6",
+                "type": "fire_station",
+                "latitude": 37.42748397421991,
+                "longitude": -122.15843147469374
+            },
+            {
+                "id": 232715643,
+                "name": "Stanford Auxiliary Library",
+                "type": "library",
+                "latitude": 37.4301596229579,
+                "longitude": -122.15498112648899
+            },
+            {
+                "id": 232715651,
+                "name": "Middle Earth",
+                "type": "fast_food",
+                "latitude": 37.424607991504075,
+                "longitude": -122.18056376830683
+            },
+            {
+                "id": 232715654,
+                "name": "Beefeaters",
+                "type": "fast_food",
+                "latitude": 37.42485319231653,
+                "longitude": -122.18083437030272
+            },
+            {
+                "id": 232715659,
+                "name": "Bollard",
+                "type": "fast_food",
+                "latitude": 37.4249375445293,
+                "longitude": -122.1805407607778
+            },
+            {
+                "id": 232715666,
+                "name": "Ricker Dining Hall",
+                "type": "restaurant",
+                "latitude": 37.42551922513029,
+                "longitude": -122.18048942714198
+            },
+            {
+                "id": 232805660,
+                "name": "Cecil H. Green Library",
+                "type": "library",
+                "latitude": 37.42663736674412,
+                "longitude": -122.16683167978877
+            },
+            {
+                "id": 232805685,
+                "name": "Lathrop Library",
+                "type": "library",
+                "latitude": 37.429209774726196,
+                "longitude": -122.1673282085988
+            },
+            {
+                "id": 232805741,
+                "name": "Stanford Station Post Office",
+                "type": "post_office",
+                "latitude": 37.42429486248683,
+                "longitude": -122.16889663940682
+            },
+            {
+                "id": 232841895,
+                "name": "Via Ortega Garage",
+                "type": "parking",
+                "latitude": 37.428071349538676,
+                "longitude": -122.17682512920125
+            },
+            {
+                "id": 232841898,
+                "name": "Roth Way Garage",
+                "type": "parking",
+                "latitude": 37.43287809844436,
+                "longitude": -122.1724511936889
+            },
+            {
+                "id": 324983015,
+                "name": "Pasteur Visitor Garage A",
+                "type": "parking",
+                "latitude": 37.43380258097292,
+                "longitude": -122.1782758022653
+            },
+            {
+                "id": 324983016,
+                "name": "Knight Management Center Garage",
+                "type": "parking",
+                "latitude": 37.42813130724773,
+                "longitude": -122.16154291286223
+            },
+            {
+                "id": 324983017,
+                "name": "Hoover Pavilion Garage",
+                "type": "parking",
+                "latitude": 37.440784334216275,
+                "longitude": -122.16910227161426
+            },
+            {
+                "id": 333374283,
+                "name": "Arrillaga Family Dining Commons",
+                "type": "restaurant",
+                "latitude": 37.42541857618022,
+                "longitude": -122.16410413111998
+            },
+            {
+                "id": 518904215,
+                "name": "Terman Fountain",
+                "type": "fountain",
+                "latitude": 37.42592763763663,
+                "longitude": -122.17343253808322
+            },
+            {
+                "id": 607637972,
+                "name": "Biology Loading Dock",
+                "type": "parking",
+                "latitude": 37.430453457269756,
+                "longitude": -122.17245621123487
+            },
+            {
+                "id": 676399051,
+                "name": "Shumway Fountain",
+                "type": "fountain",
+                "latitude": 37.426399294074486,
+                "longitude": -122.16741642931626
+            },
+            {
+                "id": 694964416,
+                "name": "Lasuen Restroom",
+                "type": "toilets",
+                "latitude": 37.4340468276069,
+                "longitude": -122.16573155617716
+            },
+            {
+                "id": 836474103,
+                "name": "Memorial Church",
+                "type": "place_of_worship",
+                "latitude": 37.42689674874076,
+                "longitude": -122.17046953694876
+            },
+            {
+                "id": 891732465,
+                "name": "Pasteur Staff Garage",
+                "type": "parking",
+                "latitude": 37.434796688267525,
+                "longitude": -122.17834942602076
+            },
+            {
+                "id": 3126353,
+                "name": "Faculty Club",
+                "type": "restaurant",
+                "latitude": 37.42390889318836,
+                "longitude": -122.17174207506456
+            },
+            {
+                "id": 9704740,
+                "name": "White Memorial Fountain",
+                "type": "fountain",
+                "latitude": 37.424963823892185,
+                "longitude": -122.16938254385971
+            },
+            {
+                "id": 12130449,
+                "name": "Lucile Packard Children's Hospital",
+                "type": "hospital",
+                "latitude": 37.43609754934684,
+                "longitude": -122.17452468209056
+            },
+            {
+                "id": 368166439,
+                "name": "Center for the Study of Language and Information",
+                "type": "nan",
+                "latitude": 37.4304226,
+                "longitude": -122.1787579
+            },
+            {
+                "id": 368166464,
+                "name": "Galvez Help Center",
+                "type": "nan",
+                "latitude": 37.4307725,
+                "longitude": -122.1649645
+            },
+            {
+                "id": 368166478,
+                "name": "Sterling Quadrangle",
+                "type": "nan",
+                "latitude": 37.425793,
+                "longitude": -122.1802778
+            },
+            {
+                "id": 368166497,
+                "name": "Lagunita Court",
+                "type": "nan",
+                "latitude": 37.4248886,
+                "longitude": -122.1762771
+            },
+            {
+                "id": 368166500,
+                "name": "Polya Data Center",
+                "type": "nan",
+                "latitude": 37.4288281,
+                "longitude": -122.1777426
+            },
+            {
+                "id": 368172750,
+                "name": "Spruce Hall",
+                "type": "nan",
+                "latitude": 37.4285503,
+                "longitude": -122.1769092
+            },
+            {
+                "id": 368172765,
+                "name": "Turing Hall",
+                "type": "nan",
+                "latitude": 37.4288507,
+                "longitude": -122.1775522
+            },
+            {
+                "id": 368172790,
+                "name": "Keck Hall",
+                "type": "nan",
+                "latitude": 37.4316585,
+                "longitude": -122.1719222
+            },
+            {
+                "id": 2411555180,
+                "name": "Crothers Memorial Hall",
+                "type": "nan",
+                "latitude": 37.4257703,
+                "longitude": -122.164747
+            },
+            {
+                "id": 26249839,
+                "name": "Fire Truck House",
+                "type": "nan",
+                "latitude": 37.42508385,
+                "longitude": -122.17169299999999
+            },
+            {
+                "id": 26292283,
+                "name": "Mechanical Engineering Laboratory",
+                "type": "nan",
+                "latitude": 37.425565236242136,
+                "longitude": -122.17214973549942
+            },
+            {
+                "id": 28592989,
+                "name": "Arrillaga Golf Shop",
+                "type": "nan",
+                "latitude": 37.42287531495217,
+                "longitude": -122.18161523010626
+            },
+            {
+                "id": 30754713,
+                "name": "Frances C. Arrillaga Alumni Center",
+                "type": "nan",
+                "latitude": 37.430757089770786,
+                "longitude": -122.16486795149163
+            },
+            {
+                "id": 30754822,
+                "name": "Fairchild Building",
+                "type": "nan",
+                "latitude": 37.4317611,
+                "longitude": -122.1751452
+            },
+            {
+                "id": 30775802,
+                "name": "Clubhouse",
+                "type": "nan",
+                "latitude": 37.424782410731176,
+                "longitude": -122.16998864890235
+            },
+            {
+                "id": 30775803,
+                "name": "The Nitery",
+                "type": "nan",
+                "latitude": 37.42535645591452,
+                "longitude": -122.16983979908686
+            },
+            {
+                "id": 30775809,
+                "name": "Old Union",
+                "type": "nan",
+                "latitude": 37.42520638902556,
+                "longitude": -122.17048948603237
+            },
+            {
+                "id": 30775908,
+                "name": "Otero",
+                "type": "nan",
+                "latitude": 37.42363882107717,
+                "longitude": -122.16368133584673
+            },
+            {
+                "id": 30775913,
+                "name": "Soto",
+                "type": "nan",
+                "latitude": 37.42441361116184,
+                "longitude": -122.16387080647192
+            },
+            {
+                "id": 31711714,
+                "name": "Schwab Residential Center",
+                "type": "nan",
+                "latitude": 37.426490818421776,
+                "longitude": -122.16194373028038
+            },
+            {
+                "id": 68584060,
+                "name": "Stanford Cancer Center",
+                "type": "nan",
+                "latitude": 37.43586734185218,
+                "longitude": -122.17629499988335
+            },
+            {
+                "id": 81794792,
+                "name": "Jen-Hsun Huang Engineering",
+                "type": "nan",
+                "latitude": 37.427884211698505,
+                "longitude": -122.17433004782274
+            },
+            {
+                "id": 81794793,
+                "name": "Jerry Yang & Akiko Yamazaki Environment & Energy Building",
+                "type": "nan",
+                "latitude": 37.42814664032665,
+                "longitude": -122.17555819281147
+            },
+            {
+                "id": 81794794,
+                "name": "Spilker Engineering and Applied Sciences",
+                "type": "nan",
+                "latitude": 37.428804734464464,
+                "longitude": -122.17403849803905
+            },
+            {
+                "id": 86355804,
+                "name": "Paul G. Allen",
+                "type": "nan",
+                "latitude": 37.429555048260944,
+                "longitude": -122.17485692502832
+            },
+            {
+                "id": 109151789,
+                "name": "Beckman Center",
+                "type": "nan",
+                "latitude": 37.4320409843545,
+                "longitude": -122.1764639956223
+            },
+            {
+                "id": 109151790,
+                "name": "Falk Center",
+                "type": "nan",
+                "latitude": 37.435026505876856,
+                "longitude": -122.17397710929228
+            },
+            {
+                "id": 116855068,
+                "name": "Li Ka Shing Center",
+                "type": "nan",
+                "latitude": 37.431822243994944,
+                "longitude": -122.17583508400378
+            },
+            {
+                "id": 130100412,
+                "name": "Blake Wilbur Building",
+                "type": "nan",
+                "latitude": 37.43552639872479,
+                "longitude": -122.17744290711781
+            },
+            {
+                "id": 130100416,
+                "name": "Lucile Packard Children's Hospital West",
+                "type": "nan",
+                "latitude": 37.43599186022346,
+                "longitude": -122.1749938990204
+            },
+            {
+                "id": 131641541,
+                "name": "Anne T. & Robert M. Bass Center",
+                "type": "nan",
+                "latitude": 37.42853873702099,
+                "longitude": -122.1622184304826
+            },
+            {
+                "id": 131641542,
+                "name": "W. Carter McClelland Building",
+                "type": "nan",
+                "latitude": 37.42782935642036,
+                "longitude": -122.16291639338323
+            },
+            {
+                "id": 131641543,
+                "name": "Lorenzo H. Zambrano Hall",
+                "type": "nan",
+                "latitude": 37.42866187146108,
+                "longitude": -122.16303409744411
+            },
+            {
+                "id": 131641545,
+                "name": "John A. & Cynthia Fry Gunn Building",
+                "type": "nan",
+                "latitude": 37.42827806430656,
+                "longitude": -122.16343366258633
+            },
+            {
+                "id": 131641546,
+                "name": "Faculty Building West",
+                "type": "nan",
+                "latitude": 37.42818819526016,
+                "longitude": -122.16188661942594
+            },
+            {
+                "id": 131641547,
+                "name": "Faculty Building East",
+                "type": "nan",
+                "latitude": 37.42804257130218,
+                "longitude": -122.16124922922944
+            },
+            {
+                "id": 131641548,
+                "name": "MBA Class of 1968 Building",
+                "type": "nan",
+                "latitude": 37.42765570159826,
+                "longitude": -122.16211176966243
+            },
+            {
+                "id": 158630338,
+                "name": "Clark Auditorium",
+                "type": "nan",
+                "latitude": 37.43112690110333,
+                "longitude": -122.17446244552184
+            },
+            {
+                "id": 158630340,
+                "name": "James H. Clark Center",
+                "type": "nan",
+                "latitude": 37.431336167430956,
+                "longitude": -122.17438640260774
+            },
+            {
+                "id": 158646524,
+                "name": "Richard M. Lucas Center for Imaging",
+                "type": "nan",
+                "latitude": 37.433194517511524,
+                "longitude": -122.1788376321456
+            },
+            {
+                "id": 158646528,
+                "name": "School of Medicine Loading Dock",
+                "type": "nan",
+                "latitude": 37.431491328060325,
+                "longitude": -122.17840379647514
+            },
+            {
+                "id": 158646537,
+                "name": "Lorry I. Lokey Stem Cell Research Building",
+                "type": "nan",
+                "latitude": 37.4314270006013,
+                "longitude": -122.1775786120782
+            },
+            {
+                "id": 158646543,
+                "name": "Center for Clinical Sciences Research",
+                "type": "nan",
+                "latitude": 37.43232734340982,
+                "longitude": -122.1775075647504
+            },
+            {
+                "id": 160447376,
+                "name": "Toyon Hall",
+                "type": "nan",
+                "latitude": 37.42605550541265,
+                "longitude": -122.1635106008515
+            },
+            {
+                "id": 166892958,
+                "name": "William H. Neukom Building",
+                "type": "nan",
+                "latitude": 37.42352872702093,
+                "longitude": -122.16814448712162
+            },
+            {
+                "id": 182325610,
+                "name": "John A. & Cynthia Fry Gunn Building",
+                "type": "nan",
+                "latitude": 37.429164436170915,
+                "longitude": -122.16551568968717
+            },
+            {
+                "id": 182440069,
+                "name": "Okada",
+                "type": "nan",
+                "latitude": 37.423475930140334,
+                "longitude": -122.16290612923675
+            },
+            {
+                "id": 182440070,
+                "name": "Rinconada",
+                "type": "nan",
+                "latitude": 37.42387647945178,
+                "longitude": -122.16401936504673
+            },
+            {
+                "id": 182440071,
+                "name": "Trancos",
+                "type": "nan",
+                "latitude": 37.424468647976695,
+                "longitude": -122.16341211383967
+            },
+            {
+                "id": 232715571,
+                "name": "Arrillaga Family Sports Center",
+                "type": "nan",
+                "latitude": 37.43022286607154,
+                "longitude": -122.16162339561909
+            },
+            {
+                "id": 232715573,
+                "name": "Avery Competition Pool",
+                "type": "nan",
+                "latitude": 37.43119066596216,
+                "longitude": -122.16099209843115
+            },
+            {
+                "id": 232715574,
+                "name": "Environmental Safety Facility Building A",
+                "type": "nan",
+                "latitude": 37.42917076837726,
+                "longitude": -122.1856651144154
+            },
+            {
+                "id": 232715587,
+                "name": "Puichon",
+                "type": "nan",
+                "latitude": 37.42903525561716,
+                "longitude": -122.1834515286901
+            },
+            {
+                "id": 232715588,
+                "name": "Barnes Hall",
+                "type": "nan",
+                "latitude": 37.42901247809257,
+                "longitude": -122.18302330185153
+            },
+            {
+                "id": 232715589,
+                "name": "Bleeker Hall",
+                "type": "nan",
+                "latitude": 37.429332150590525,
+                "longitude": -122.1830300527051
+            },
+            {
+                "id": 232715590,
+                "name": "Wadsworth Hall",
+                "type": "nan",
+                "latitude": 37.42954700000001,
+                "longitude": -122.1833155
+            },
+            {
+                "id": 232715591,
+                "name": "Price Hall",
+                "type": "nan",
+                "latitude": 37.42953895400239,
+                "longitude": -122.18283306410058
+            },
+            {
+                "id": 232715594,
+                "name": "Cordura Hall",
+                "type": "nan",
+                "latitude": 37.43048211070944,
+                "longitude": -122.17877277304714
+            },
+            {
+                "id": 232715595,
+                "name": "Ventura Hall",
+                "type": "nan",
+                "latitude": 37.43017292587985,
+                "longitude": -122.17875964695051
+            },
+            {
+                "id": 232715596,
+                "name": "Nora Suppes Hall",
+                "type": "nan",
+                "latitude": 37.430195,
+                "longitude": -122.17923850000001
+            },
+            {
+                "id": 232715598,
+                "name": "288",
+                "type": "nan",
+                "latitude": 37.43005161657474,
+                "longitude": -122.17961675099733
+            },
+            {
+                "id": 232715614,
+                "name": "Environmental Safety Facility Annex",
+                "type": "nan",
+                "latitude": 37.42967330805425,
+                "longitude": -122.18469397027296
+            },
+            {
+                "id": 232715615,
+                "name": "Automotive Innovation Facility",
+                "type": "nan",
+                "latitude": 37.43014051927743,
+                "longitude": -122.18383614409355
+            },
+            {
+                "id": 232715616,
+                "name": "Environmental Safety Facility Building C",
+                "type": "nan",
+                "latitude": 37.4297075428002,
+                "longitude": -122.18551358563109
+            },
+            {
+                "id": 232715623,
+                "name": "Murray House",
+                "type": "nan",
+                "latitude": 37.42516693003351,
+                "longitude": -122.17841013487234
+            },
+            {
+                "id": 232715627,
+                "name": "Darren McClung Estate & Precious Jewelry",
+                "type": "nan",
+                "latitude": 37.4375086286953,
+                "longitude": -122.17311781717792
+            },
+            {
+                "id": 232715632,
+                "name": "Stanford Federal Credit Union",
+                "type": "bank",
+                "latitude": 37.42918366647295,
+                "longitude": -122.15578301355356
+            },
+            {
+                "id": 232715640,
+                "name": "Maples Pavilion",
+                "type": "nan",
+                "latitude": 37.42956077962647,
+                "longitude": -122.16054538214232
+            },
+            {
+                "id": 232715642,
+                "name": "Sam McDonald Track House",
+                "type": "nan",
+                "latitude": 37.431535803706105,
+                "longitude": -122.16362677004004
+            },
+            {
+                "id": 232715664,
+                "name": "Environmental Safety Facility Building B",
+                "type": "nan",
+                "latitude": 37.42929332417372,
+                "longitude": -122.1853160088178
+            },
+            {
+                "id": 232715665,
+                "name": "Elliott Program Center",
+                "type": "nan",
+                "latitude": 37.42418212844449,
+                "longitude": -122.17798461934824
+            },
+            {
+                "id": 232715721,
+                "name": "Stanford Mausoleum",
+                "type": "nan",
+                "latitude": 37.43651322305035,
+                "longitude": -122.16994422784555
+            },
+            {
+                "id": 232715862,
+                "name": "Lyman Building 3",
+                "type": "nan",
+                "latitude": 37.42483407491568,
+                "longitude": -122.18160079183107
+            },
+            {
+                "id": 232715864,
+                "name": "Lyman Building 1",
+                "type": "nan",
+                "latitude": 37.425875456570466,
+                "longitude": -122.18148854000816
+            },
+            {
+                "id": 232805655,
+                "name": "BOB (Robert S Moore S)",
+                "type": "nan",
+                "latitude": 37.42148792791912,
+                "longitude": -122.168936940758
+            },
+            {
+                "id": 232805656,
+                "name": "Bechtel International Center",
+                "type": "nan",
+                "latitude": 37.423222716951095,
+                "longitude": -122.17245722250287
+            },
+            {
+                "id": 232805657,
+                "name": "Branner Hall",
+                "type": "nan",
+                "latitude": 37.425474951061055,
+                "longitude": -122.16284623516881
+            },
+            {
+                "id": 232805658,
+                "name": "Burnham Pavilion",
+                "type": "nan",
+                "latitude": 37.42829027077972,
+                "longitude": -122.16439581712373
+            },
+            {
+                "id": 232805659,
+                "name": "The Knoll",
+                "type": "nan",
+                "latitude": 37.42099432992268,
+                "longitude": -122.17240204176306
+            },
+            {
+                "id": 232805661,
+                "name": "Columbae House",
+                "type": "nan",
+                "latitude": 37.423081450611754,
+                "longitude": -122.16875823016635
+            },
+            {
+                "id": 232805662,
+                "name": "Coupa Cafe",
+                "type": "cafe",
+                "latitude": 37.42620130417735,
+                "longitude": -122.16696270541719
+            },
+            {
+                "id": 232805663,
+                "name": "Cubberly Education Building",
+                "type": "nan",
+                "latitude": 37.42635997867266,
+                "longitude": -122.16834155588501
+            },
+            {
+                "id": 232805665,
+                "name": "Dinkelspiel Memorial Music Auditorium",
+                "type": "nan",
+                "latitude": 37.42406167900902,
+                "longitude": -122.16989267437474
+            },
+            {
+                "id": 232805666,
+                "name": "Drell House",
+                "type": "nan",
+                "latitude": 37.422635944175376,
+                "longitude": -122.16824893540122
+            },
+            {
+                "id": 232805667,
+                "name": "Enchanted Broccoli Forest",
+                "type": "nan",
+                "latitude": 37.41975256517615,
+                "longitude": -122.17402602057166
+            },
+            {
+                "id": 232805668,
+                "name": "Arrillaga Center for Sports and Recreation",
+                "type": "nan",
+                "latitude": 37.42998005742579,
+                "longitude": -122.1637982086117
+            },
+            {
+                "id": 232805670,
+                "name": "Burnham Pavilion",
+                "type": "nan",
+                "latitude": 37.4285027779204,
+                "longitude": -122.16433629594025
+            },
+            {
+                "id": 232805671,
+                "name": "Ford Center For Sports & Recreation",
+                "type": "nan",
+                "latitude": 37.42890599813845,
+                "longitude": -122.16425064978695
+            },
+            {
+                "id": 232805672,
+                "name": "Herbert Hoover Memorial Building",
+                "type": "nan",
+                "latitude": 37.42724350000001,
+                "longitude": -122.16632760000003
+            },
+            {
+                "id": 232805674,
+                "name": "Bambi",
+                "type": "nan",
+                "latitude": 37.427141694185,
+                "longitude": -122.17581828360584
+            },
+            {
+                "id": 232805678,
+                "name": "Stanford Art Gallery",
+                "type": "nan",
+                "latitude": 37.42800700081258,
+                "longitude": -122.16769874423989
+            },
+            {
+                "id": 232805682,
+                "name": "HEPL South",
+                "type": "nan",
+                "latitude": 37.42712579833803,
+                "longitude": -122.17464987188342
+            },
+            {
+                "id": 232805684,
+                "name": "Barnum Center",
+                "type": "nan",
+                "latitude": 37.42567902904115,
+                "longitude": -122.16878376859903
+            },
+            {
+                "id": 232805686,
+                "name": "Stanford Bookstore",
+                "type": "nan",
+                "latitude": 37.42482215716343,
+                "longitude": -122.16870991211213
+            },
+            {
+                "id": 232805688,
+                "name": "Hoover Tower",
+                "type": "nan",
+                "latitude": 37.42762198334017,
+                "longitude": -122.1669933743115
+            },
+            {
+                "id": 232805690,
+                "name": "Harmony House",
+                "type": "nan",
+                "latitude": 37.42428550804698,
+                "longitude": -122.1730602816383
+            },
+            {
+                "id": 232805691,
+                "name": "Haas Center for Public Service",
+                "type": "nan",
+                "latitude": 37.422498713932896,
+                "longitude": -122.16744827142473
+            },
+            {
+                "id": 232805699,
+                "name": "William J. Patterson Building",
+                "type": "nan",
+                "latitude": 37.42751474720713,
+                "longitude": -122.16144299972716
+            },
+            {
+                "id": 232805704,
+                "name": "Lantana",
+                "type": "nan",
+                "latitude": 37.42569703515385,
+                "longitude": -122.16075136444947
+            },
+            {
+                "id": 232805707,
+                "name": "Jerry",
+                "type": "nan",
+                "latitude": 37.42108139623997,
+                "longitude": -122.17367329388082
+            },
+            {
+                "id": 232805712,
+                "name": "Kennedy Grove",
+                "type": "nan",
+                "latitude": 37.42390460781303,
+                "longitude": -122.17284775298158
+            },
+            {
+                "id": 232805713,
+                "name": "Kimball Hall",
+                "type": "nan",
+                "latitude": 37.42506250889122,
+                "longitude": -122.16187252404457
+            },
+            {
+                "id": 232805714,
+                "name": "Koret Pavillion",
+                "type": "nan",
+                "latitude": 37.422088825237616,
+                "longitude": -122.16796247253511
+            },
+            {
+                "id": 232805715,
+                "name": "La Casa Italiana (Robert S Moore N)",
+                "type": "nan",
+                "latitude": 37.42188539459327,
+                "longitude": -122.16916019381578
+            },
+            {
+                "id": 232805716,
+                "name": "Landau Economics Building",
+                "type": "nan",
+                "latitude": 37.42861793418793,
+                "longitude": -122.16583847802994
+            },
+            {
+                "id": 232805717,
+                "name": "Littlefield Center",
+                "type": "nan",
+                "latitude": 37.43033001927691,
+                "longitude": -122.1675402243956
+            },
+            {
+                "id": 232805718,
+                "name": "Lou Henry Hoover Building",
+                "type": "nan",
+                "latitude": 37.42768099999999,
+                "longitude": -122.16618489999996
+            },
+            {
+                "id": 232805719,
+                "name": "Castaño",
+                "type": "nan",
+                "latitude": 37.42507041743908,
+                "longitude": -122.16094767337401
+            },
+            {
+                "id": 232805720,
+                "name": "Mariposa",
+                "type": "nan",
+                "latitude": 37.42319853289156,
+                "longitude": -122.17182652966218
+            },
+            {
+                "id": 232805721,
+                "name": "Mars",
+                "type": "nan",
+                "latitude": 37.42268782958147,
+                "longitude": -122.16862849476344
+            },
+            {
+                "id": 232805722,
+                "name": "Memorial Hall",
+                "type": "nan",
+                "latitude": 37.42904305772644,
+                "longitude": -122.16649096350125
+            },
+            {
+                "id": 232805723,
+                "name": "Munger Building 1",
+                "type": "nan",
+                "latitude": 37.423291356764814,
+                "longitude": -122.16565062803114
+            },
+            {
+                "id": 232805724,
+                "name": "Munger Building 2",
+                "type": "nan",
+                "latitude": 37.42291583296265,
+                "longitude": -122.1663392112223
+            },
+            {
+                "id": 232805725,
+                "name": "Munger Building 3",
+                "type": "nan",
+                "latitude": 37.42358172965259,
+                "longitude": -122.16634553544088
+            },
+            {
+                "id": 232805726,
+                "name": "Munger Building 4",
+                "type": "nan",
+                "latitude": 37.42314866787234,
+                "longitude": -122.1669568916164
+            },
+            {
+                "id": 232805727,
+                "name": "Munger Building 5",
+                "type": "nan",
+                "latitude": 37.422872723639955,
+                "longitude": -122.16780994324664
+            },
+            {
+                "id": 232805728,
+                "name": "Muwekmah-tah-ruk",
+                "type": "nan",
+                "latitude": 37.42343169569493,
+                "longitude": -122.16901564186234
+            },
+            {
+                "id": 232805730,
+                "name": "Narnia",
+                "type": "nan",
+                "latitude": 37.41994743418768,
+                "longitude": -122.17492513812074
+            },
+            {
+                "id": 232805731,
+                "name": "Owen House",
+                "type": "nan",
+                "latitude": 37.42283138202656,
+                "longitude": -122.16839401307959
+            },
+            {
+                "id": 232805733,
+                "name": "Roble Hall",
+                "type": "nan",
+                "latitude": 37.424261888546,
+                "longitude": -122.17459013291887
+            },
+            {
+                "id": 232805734,
+                "name": "Rogers",
+                "type": "nan",
+                "latitude": 37.42343338129627,
+                "longitude": -122.1718974551879
+            },
+            {
+                "id": 232805735,
+                "name": "School of Law",
+                "type": "nan",
+                "latitude": 37.42405818502225,
+                "longitude": -122.16776320577671
+            },
+            {
+                "id": 232805736,
+                "name": "Attneave",
+                "type": "nan",
+                "latitude": 37.42294762827946,
+                "longitude": -122.17181675905604
+            },
+            {
+                "id": 232805737,
+                "name": "Sigma Alpha Epsilon",
+                "type": "nan",
+                "latitude": 37.41994928969652,
+                "longitude": -122.17096415341831
+            },
+            {
+                "id": 232805738,
+                "name": "Sigma Chi",
+                "type": "nan",
+                "latitude": 37.422838718379985,
+                "longitude": -122.16958831948999
+            },
+            {
+                "id": 232805739,
+                "name": "Sigma Nu",
+                "type": "nan",
+                "latitude": 37.422284,
+                "longitude": -122.1683965
+            },
+            {
+                "id": 232805740,
+                "name": "Stanford Center for Research and Development in Education",
+                "type": "nan",
+                "latitude": 37.42461951643252,
+                "longitude": -122.16695917982607
+            },
+            {
+                "id": 232805742,
+                "name": "Storey",
+                "type": "nan",
+                "latitude": 37.423225499999994,
+                "longitude": -122.169729
+            },
+            {
+                "id": 232805743,
+                "name": "Sweet Hall",
+                "type": "nan",
+                "latitude": 37.42520491591658,
+                "longitude": -122.16668787051624
+            },
+            {
+                "id": 232805745,
+                "name": "Xanadu",
+                "type": "nan",
+                "latitude": 37.422222027561574,
+                "longitude": -122.1692988923416
+            },
+            {
+                "id": 232805762,
+                "name": "Black Community Service Center",
+                "type": "nan",
+                "latitude": 37.42456950672402,
+                "longitude": -122.1726707793805
+            },
+            {
+                "id": 232805765,
+                "name": "Lake House",
+                "type": "nan",
+                "latitude": 37.42188528729561,
+                "longitude": -122.17361118562539
+            },
+            {
+                "id": 232841876,
+                "name": "Acacia",
+                "type": "nan",
+                "latitude": 37.43030808436893,
+                "longitude": -122.17728220557467
+            },
+            {
+                "id": 232841877,
+                "name": "Birch",
+                "type": "nan",
+                "latitude": 37.430548,
+                "longitude": -122.17786400000001
+            },
+            {
+                "id": 232841878,
+                "name": "Blume Earthquake Engineering Center",
+                "type": "nan",
+                "latitude": 37.42602767067887,
+                "longitude": -122.17116615545237
+            },
+            {
+                "id": 232841881,
+                "name": "Cedar Hall",
+                "type": "nan",
+                "latitude": 37.42917783789433,
+                "longitude": -122.17647708835
+            },
+            {
+                "id": 232841882,
+                "name": "Durand Building",
+                "type": "nan",
+                "latitude": 37.42685945413438,
+                "longitude": -122.17330036842385
+            },
+            {
+                "id": 232841883,
+                "name": "Encina Commons",
+                "type": "nan",
+                "latitude": 37.42679386234108,
+                "longitude": -122.16488577942303
+            },
+            {
+                "id": 232841884,
+                "name": "Forsythe Data Center",
+                "type": "nan",
+                "latitude": 37.428596640717736,
+                "longitude": -122.17751834343875
+            },
+            {
+                "id": 232841885,
+                "name": "Gates Computer Science",
+                "type": "nan",
+                "latitude": 37.43012563029684,
+                "longitude": -122.17344007507253
+            },
+            {
+                "id": 232841887,
+                "name": "Gilbert Hall",
+                "type": "nan",
+                "latitude": 37.43003894396516,
+                "longitude": -122.17249679577489
+            },
+            {
+                "id": 232841888,
+                "name": "Hagey Laboratory for Pediatric Regenerative Medicine",
+                "type": "nan",
+                "latitude": 37.43206767562649,
+                "longitude": -122.17845699879577
+            },
+            {
+                "id": 232841892,
+                "name": "Hewlett Teaching Center",
+                "type": "nan",
+                "latitude": 37.42901550619058,
+                "longitude": -122.17288604756202
+            },
+            {
+                "id": 232841897,
+                "name": "Lorry Lokey Labs",
+                "type": "nan",
+                "latitude": 37.43197006798653,
+                "longitude": -122.1728063549344
+            },
+            {
+                "id": 232841900,
+                "name": "Stauffer I",
+                "type": "nan",
+                "latitude": 37.43119790321298,
+                "longitude": -122.17215719468881
+            },
+            {
+                "id": 232841901,
+                "name": "Stauffer II",
+                "type": "nan",
+                "latitude": 37.430866565970575,
+                "longitude": -122.17227272484051
+            },
+            {
+                "id": 232841903,
+                "name": "Keck Science",
+                "type": "nan",
+                "latitude": 37.43170161561477,
+                "longitude": -122.17171910020262
+            },
+            {
+                "id": 232841904,
+                "name": "Bank of America",
+                "type": "bank",
+                "latitude": 37.43962984769763,
+                "longitude": -122.1705218447611
+            },
+            {
+                "id": 232841907,
+                "name": "Mechanical Engineering, TSG",
+                "type": "nan",
+                "latitude": 37.425856330224434,
+                "longitude": -122.1703569124652
+            },
+            {
+                "id": 232841908,
+                "name": "Mechanical Engineering, TSG",
+                "type": "nan",
+                "latitude": 37.42606520761822,
+                "longitude": -122.17044738745099
+            },
+            {
+                "id": 232841909,
+                "name": "Physics and Astrophysics",
+                "type": "nan",
+                "latitude": 37.42822572157709,
+                "longitude": -122.1726725787224
+            },
+            {
+                "id": 232841910,
+                "name": "Moore Material Research",
+                "type": "nan",
+                "latitude": 37.427821454932705,
+                "longitude": -122.1728293196414
+            },
+            {
+                "id": 232841911,
+                "name": "Cypress Hall",
+                "type": "nan",
+                "latitude": 37.428664230223625,
+                "longitude": -122.17664747038758
+            },
+            {
+                "id": 232841916,
+                "name": "Juniper",
+                "type": "nan",
+                "latitude": 37.43035452605899,
+                "longitude": -122.17754320037936
+            },
+            {
+                "id": 232841917,
+                "name": "Laurel",
+                "type": "nan",
+                "latitude": 37.4304635,
+                "longitude": -122.17723500000001
+            },
+            {
+                "id": 232841918,
+                "name": "McCullough",
+                "type": "nan",
+                "latitude": 37.42748685970556,
+                "longitude": -122.17293635136284
+            },
+            {
+                "id": 232841919,
+                "name": "Mechanical Engineering Administration",
+                "type": "nan",
+                "latitude": 37.42624699810845,
+                "longitude": -122.1710938293408
+            },
+            {
+                "id": 232841921,
+                "name": "Mitchell Earth Science Building",
+                "type": "nan",
+                "latitude": 37.42642351994519,
+                "longitude": -122.17267233321695
+            },
+            {
+                "id": 232841922,
+                "name": "Mudd Hall",
+                "type": "nan",
+                "latitude": 37.43156486870447,
+                "longitude": -122.17293013822312
+            },
+            {
+                "id": 232841923,
+                "name": "Oak",
+                "type": "nan",
+                "latitude": 37.43048000000001,
+                "longitude": -122.1777125
+            },
+            {
+                "id": 232841924,
+                "name": "Peterson Laboratory",
+                "type": "nan",
+                "latitude": 37.42630203627242,
+                "longitude": -122.1719016001385
+            },
+            {
+                "id": 232841926,
+                "name": "Pine Hall",
+                "type": "nan",
+                "latitude": 37.429475434113215,
+                "longitude": -122.17768437745835
+            },
+            {
+                "id": 232841928,
+                "name": "Poplar",
+                "type": "nan",
+                "latitude": 37.4305035,
+                "longitude": -122.17749149999999
+            },
+            {
+                "id": 232841929,
+                "name": "Redwood Hall",
+                "type": "nan",
+                "latitude": 37.42922398507577,
+                "longitude": -122.17712321171122
+            },
+            {
+                "id": 232841930,
+                "name": "Sequoia Hall",
+                "type": "nan",
+                "latitude": 37.42894313862379,
+                "longitude": -122.17221427971582
+            },
+            {
+                "id": 232841931,
+                "name": "Skilling Building",
+                "type": "nan",
+                "latitude": 37.427125510266634,
+                "longitude": -122.17285680870407
+            },
+            {
+                "id": 232841932,
+                "name": "Varian Physics Laboratory",
+                "type": "nan",
+                "latitude": 37.42852903175485,
+                "longitude": -122.17256686027876
+            },
+            {
+                "id": 232841933,
+                "name": "Packard",
+                "type": "nan",
+                "latitude": 37.429261816458116,
+                "longitude": -122.1738508732847
+            },
+            {
+                "id": 232841950,
+                "name": "Mark Taper Student Center",
+                "type": "nan",
+                "latitude": 37.42556960379487,
+                "longitude": -122.1653293698778
+            },
+            {
+                "id": 255490604,
+                "name": "Arrillaga Outdoor Education and Recreation Center",
+                "type": "nan",
+                "latitude": 37.426738305745985,
+                "longitude": -122.17749587096822
+            },
+            {
+                "id": 307364465,
+                "name": "Shriram Center for Bioengineering & Chemical Engineering",
+                "type": "nan",
+                "latitude": 37.42898626126833,
+                "longitude": -122.17525776332863
+            },
+            {
+                "id": 343020505,
+                "name": "Arroyo",
+                "type": "nan",
+                "latitude": 37.42429171869551,
+                "longitude": -122.16261646857885
+            },
+            {
+                "id": 343020506,
+                "name": "Cedro",
+                "type": "nan",
+                "latitude": 37.42406106493236,
+                "longitude": -122.16226256576832
+            },
+            {
+                "id": 343020507,
+                "name": "Junipero",
+                "type": "nan",
+                "latitude": 37.4235597703099,
+                "longitude": -122.16242840384407
+            },
+            {
+                "id": 383998358,
+                "name": "Comparative Medicine Pavilion",
+                "type": "nan",
+                "latitude": 37.43309486675406,
+                "longitude": -122.18024180123868
+            },
+            {
+                "id": 383998365,
+                "name": "Central Process Steam Building",
+                "type": "nan",
+                "latitude": 37.432997739262504,
+                "longitude": -122.18096839840219
+            },
+            {
+                "id": 469393555,
+                "name": "Sapp Center for Science Teaching and Learning",
+                "type": "nan",
+                "latitude": 37.43071431384897,
+                "longitude": -122.17155019524353
+            },
+            {
+                "id": 493811440,
+                "name": "Anderson Collection at Stanford University",
+                "type": "nan",
+                "latitude": 37.43377424440392,
+                "longitude": -122.17079022047822
+            },
+            {
+                "id": 518906030,
+                "name": "Meier Hall",
+                "type": "nan",
+                "latitude": 37.42516113042969,
+                "longitude": -122.17530491248749
+            },
+            {
+                "id": 518906031,
+                "name": "Windhover",
+                "type": "nan",
+                "latitude": 37.42499468391755,
+                "longitude": -122.17437699964985
+            },
+            {
+                "id": 545210038,
+                "name": "David & Joan Traitel Building",
+                "type": "nan",
+                "latitude": 37.42754700997712,
+                "longitude": -122.16782126516803
+            },
+            {
+                "id": 561917008,
+                "name": "Jack McDonald Hall",
+                "type": "nan",
+                "latitude": 37.42699909738529,
+                "longitude": -122.16372432644457
+            },
+            {
+                "id": 597085021,
+                "name": "Anne T. and Robert M. Bass Biology Research Building",
+                "type": "nan",
+                "latitude": 37.43089777634265,
+                "longitude": -122.17327596839694
+            },
+            {
+                "id": 607826168,
+                "name": "Manzanita Field Garage",
+                "type": "nan",
+                "latitude": 37.42634720439808,
+                "longitude": -122.16037757120998
+            },
+            {
+                "id": 643965064,
+                "name": "Annette's Cafe",
+                "type": "nan",
+                "latitude": 37.430435367629336,
+                "longitude": -122.17245836104719
+            },
+            {
+                "id": 666427563,
+                "name": "North Building",
+                "type": "nan",
+                "latitude": 37.42844645984763,
+                "longitude": -122.16266330439569
+            },
+            {
+                "id": 689417360,
+                "name": "Lucile Packard Children's Hospital Main",
+                "type": "nan",
+                "latitude": 37.4362621719702,
+                "longitude": -122.17383526177322
+            },
+            {
+                "id": 727171866,
+                "name": "Stanford Neuroscience Health Center",
+                "type": "nan",
+                "latitude": 37.441572091783385,
+                "longitude": -122.16939399236789
+            },
+            {
+                "id": 738808361,
+                "name": "Stanford ChEM-H Building",
+                "type": "nan",
+                "latitude": 37.43009268798915,
+                "longitude": -122.1768683889741
+            },
+            {
+                "id": 738808362,
+                "name": "Stanford Neurosciences Building",
+                "type": "nan",
+                "latitude": 37.429819399530636,
+                "longitude": -122.17624829666116
+            },
+            {
+                "id": 886812786,
+                "name": "Lorry I. Lokey Stanford Daily Building",
+                "type": "nan",
+                "latitude": 37.4255998,
+                "longitude": -122.17067924999999
+            },
+            {
+                "id": 887293797,
+                "name": "Environmental Health & Safety",
+                "type": "nan",
+                "latitude": 37.429082776066046,
+                "longitude": -122.18484907682871
+            },
+            {
+                "id": 891732466,
+                "name": "Stanford Hospital",
+                "type": "nan",
+                "latitude": 37.43464529687363,
+                "longitude": -122.17700513498966
+            },
+            {
+                "id": 905706377,
+                "name": "Modular 2",
+                "type": "nan",
+                "latitude": 37.430364885472166,
+                "longitude": -122.1812781282079
+            },
+            {
+                "id": 905706378,
+                "name": "Modular 1",
+                "type": "nan",
+                "latitude": 37.4303058743983,
+                "longitude": -122.18111428807836
+            },
+            {
+                "id": 905706379,
+                "name": "Modular 3",
+                "type": "nan",
+                "latitude": 37.430158899999995,
+                "longitude": -122.18115315
+            },
+            {
+                "id": 905706380,
+                "name": "Modular 5",
+                "type": "nan",
+                "latitude": 37.430011955537594,
+                "longitude": -122.1812309200632
+            },
+            {
+                "id": 905706381,
+                "name": "Modular 4",
+                "type": "nan",
+                "latitude": 37.430236646598374,
+                "longitude": -122.18134828031442
+            },
+            {
+                "id": 917710378,
+                "name": "Norcliffe",
+                "type": "nan",
+                "latitude": 37.425526002076,
+                "longitude": -122.17702085604512
+            },
+            {
+                "id": 922801147,
+                "name": "Huffington Barn",
+                "type": "nan",
+                "latitude": 37.4267573857248,
+                "longitude": -122.18342761178509
+            },
+            {
+                "id": 922801148,
+                "name": "Green House",
+                "type": "nan",
+                "latitude": 37.42669255,
+                "longitude": -122.1837006
+            },
+            {
+                "id": 922801150,
+                "name": "Lathe House",
+                "type": "nan",
+                "latitude": 37.426610149999995,
+                "longitude": -122.18344470000001
+            },
+            {
+                "id": 927548450,
+                "name": "District Work Center, Campus Drive",
+                "type": "nan",
+                "latitude": 37.43354424861905,
+                "longitude": -122.17235801433688
+            },
+            {
+                "id": 936563698,
+                "name": "Denning House",
+                "type": "nan",
+                "latitude": 37.42349616695099,
+                "longitude": -122.17388060820338
+            },
+            {
+                "id": 978632013,
+                "name": "Northwest Data Center and Communications Hub",
+                "type": "nan",
+                "latitude": 37.433437064912574,
+                "longitude": -122.18073854152176
+            },
+            {
+                "id": 1038160838,
+                "name": "Medical School Office Building",
+                "type": "nan",
+                "latitude": 37.43196460469471,
+                "longitude": -122.17930163934301
+            },
+            {
+                "id": 1040231570,
+                "name": "Ujamaa B",
+                "type": "nan",
+                "latitude": 37.42454245795247,
+                "longitude": -122.17547381860146
+            },
+            {
+                "id": 1040377400,
+                "name": "Granada",
+                "type": "nan",
+                "latitude": 37.42493767429885,
+                "longitude": -122.17731488917009
+            },
+            {
+                "id": 1040629365,
+                "name": "Adelfa",
+                "type": "nan",
+                "latitude": 37.425360875960926,
+                "longitude": -122.17644829087985
+            },
+            {
+                "id": 1040629366,
+                "name": "Naranja",
+                "type": "nan",
+                "latitude": 37.42524028434036,
+                "longitude": -122.17588842904182
+            },
+            {
+                "id": 1040629367,
+                "name": "Admin",
+                "type": "nan",
+                "latitude": 37.425411653813605,
+                "longitude": -122.17613748785729
+            },
+            {
+                "id": 1040629368,
+                "name": "Ujamaa A",
+                "type": "nan",
+                "latitude": 37.424798015219736,
+                "longitude": -122.17579834637978
+            },
+            {
+                "id": 1040629369,
+                "name": "Eucalipto",
+                "type": "nan",
+                "latitude": 37.42502352230356,
+                "longitude": -122.1768135866318
+            },
+            {
+                "id": 1040629370,
+                "name": "Lakeside Dining",
+                "type": "nan",
+                "latitude": 37.424697898459584,
+                "longitude": -122.17641096237405
+            },
+            {
+                "id": 1169137068,
+                "name": "Kappa Alpha",
+                "type": "nan",
+                "latitude": 37.420419018998196,
+                "longitude": -122.17397173785993
+            },
+            {
+                "id": 1169967277,
+                "name": "Breer Library",
+                "type": "nan",
+                "latitude": 37.42090392216039,
+                "longitude": -122.17143108088959
+            },
+            {
+                "id": 22862,
+                "name": "Lucie Stern Hall",
+                "type": "nan",
+                "latitude": 37.42446064754663,
+                "longitude": -122.16567725041293
+            },
+            {
+                "id": 35820,
+                "name": "Main Quad",
+                "type": "nan",
+                "latitude": 37.427644619687975,
+                "longitude": -122.17021975966858
+            },
+            {
+                "id": 1753562,
+                "name": "Stanford Hospital",
+                "type": "nan",
+                "latitude": 37.434371520064104,
+                "longitude": -122.17504439982133
+            },
+            {
+                "id": 3126352,
+                "name": "Florence Moore Hall",
+                "type": "nan",
+                "latitude": 37.42202647260024,
+                "longitude": -122.1717769775356
+            },
+            {
+                "id": 3126704,
+                "name": "Green Earth Sciences Building",
+                "type": "nan",
+                "latitude": 37.42689827230261,
+                "longitude": -122.17395275961516
+            },
+            {
+                "id": 4720978,
+                "name": "Alway",
+                "type": "nan",
+                "latitude": 37.432394646534185,
+                "longitude": -122.1748970470792
+            },
+            {
+                "id": 4721017,
+                "name": "Lane",
+                "type": "nan",
+                "latitude": 37.43254252641555,
+                "longitude": -122.1756260140499
+            },
+            {
+                "id": 4721018,
+                "name": "Edwards",
+                "type": "nan",
+                "latitude": 37.43268865784881,
+                "longitude": -122.1763222341875
+            },
+            {
+                "id": 4721019,
+                "name": "Boswell",
+                "type": "nan",
+                "latitude": 37.43315221179065,
+                "longitude": -122.175429975762
+            },
+            {
+                "id": 4721020,
+                "name": "Grant",
+                "type": "nan",
+                "latitude": 37.43296964995659,
+                "longitude": -122.17466792390442
+            },
+            {
+                "id": 6593510,
+                "name": "Roble Gymnasium",
+                "type": "nan",
+                "latitude": 37.426179311659034,
+                "longitude": -122.17479864327859
+            },
+            {
+                "id": 8530450,
+                "name": "McMurtry Art",
+                "type": "nan",
+                "latitude": 37.432597733799504,
+                "longitude": -122.17173989955688
+            },
+            {
+                "id": 10644548,
+                "name": "Stanford Humanities Center",
+                "type": "nan",
+                "latitude": 37.42464699148458,
+                "longitude": -122.17213313599602
+            },
+            {
+                "id": 11032551,
+                "name": "Schiff",
+                "type": "nan",
+                "latitude": 37.42615541132824,
+                "longitude": -122.18051366723918
+            },
+            {
+                "id": 11032836,
+                "name": "Potter House",
+                "type": "nan",
+                "latitude": 37.425658759618386,
+                "longitude": -122.17976649867686
+            },
+            {
+                "id": 11032837,
+                "name": "Adams",
+                "type": "nan",
+                "latitude": 37.425979303631784,
+                "longitude": -122.17982711774883
+            },
+            {
+                "id": 11032838,
+                "name": "Robinson House",
+                "type": "nan",
+                "latitude": 37.425904090958056,
+                "longitude": -122.18067290984501
+            },
+            {
+                "id": 12236339,
+                "name": "Cantor Arts Center",
+                "type": "nan",
+                "latitude": 37.43297056104214,
+                "longitude": -122.17086360503501
+            },
+            {
+                "id": 12460152,
+                "name": "Braun Hall",
+                "type": "nan",
+                "latitude": 37.42375736052438,
+                "longitude": -122.16945157145635
+            },
+            {
+                "id": 12565657,
+                "name": "Lyman Commons",
+                "type": "nan",
+                "latitude": 37.42520003225471,
+                "longitude": -122.18148633901939
+            }
+        ]
+    }
+}

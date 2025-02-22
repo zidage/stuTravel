@@ -1,0 +1,267 @@
+{
+    "id": -1809597088418290195,
+    "name": "朝阳公园",
+    "address": "中国北京市朝阳区朝阳公园南路1号",
+    "rating": 4.3,
+    "popularity": 72,
+    "data_path": "map_data/university_map/Chaoyang_Park",
+    "description": "朝阳公园可以指：\n\n",
+    "images": [],
+    "amenity": {
+        "affiliation": -1809597088418290195,
+        "amenity_list": [
+            {
+                "id": 2399974595,
+                "name": "索尼探梦咖啡厅",
+                "type": "cafe",
+                "latitude": 39.9358584,
+                "longitude": 116.4754863
+            },
+            {
+                "id": 2399974602,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 39.9331372,
+                "longitude": 116.4753852
+            },
+            {
+                "id": 2400037669,
+                "name": "雾泉",
+                "type": "fountain",
+                "latitude": 39.9433445,
+                "longitude": 116.4706719
+            },
+            {
+                "id": 2404818394,
+                "name": "小镇皮萨",
+                "type": "restaurant",
+                "latitude": 39.9361246,
+                "longitude": 116.4764061
+            },
+            {
+                "id": 2404818625,
+                "name": "快餐厅",
+                "type": "restaurant",
+                "latitude": 39.9375651,
+                "longitude": 116.4760129
+            },
+            {
+                "id": 2408653854,
+                "name": "4D动感影院",
+                "type": "cinema",
+                "latitude": 39.9380012,
+                "longitude": 116.4758089
+            },
+            {
+                "id": 6679891402,
+                "name": "厕所007",
+                "type": "toilets",
+                "latitude": 39.9400104,
+                "longitude": 116.4719573
+            },
+            {
+                "id": 7840263731,
+                "name": "神州租车",
+                "type": "car_rental",
+                "latitude": 39.943965,
+                "longitude": 116.468516
+            },
+            {
+                "id": 10718693191,
+                "name": "蔚来换电站",
+                "type": "charging_station",
+                "latitude": 39.9451062,
+                "longitude": 116.468524
+            },
+            {
+                "id": 232093782,
+                "name": "朝阳公园东2门",
+                "type": "parking",
+                "latitude": 39.94873200109853,
+                "longitude": 116.48254009408082
+            },
+            {
+                "id": 232093784,
+                "name": "东4门",
+                "type": "parking",
+                "latitude": 39.944147316020185,
+                "longitude": 116.48266158279066
+            },
+            {
+                "id": 232093846,
+                "name": "东7门",
+                "type": "parking",
+                "latitude": 39.9383628518957,
+                "longitude": 116.4827252723919
+            },
+            {
+                "id": 232093864,
+                "name": "北2门",
+                "type": "parking",
+                "latitude": 39.95316722735807,
+                "longitude": 116.47439914113326
+            },
+            {
+                "id": 232100111,
+                "name": "南门",
+                "type": "parking",
+                "latitude": 39.932827395971366,
+                "longitude": 116.47435320365422
+            },
+            {
+                "id": 232100127,
+                "name": "西4门",
+                "type": "parking",
+                "latitude": 39.94633206091134,
+                "longitude": 116.4696837533871
+            },
+            {
+                "id": 232100130,
+                "name": "东6门",
+                "type": "parking",
+                "latitude": 39.9407414825344,
+                "longitude": 116.48273309685489
+            },
+            {
+                "id": 723137697,
+                "name": "西大门",
+                "type": "parking",
+                "latitude": 39.942995497151585,
+                "longitude": 116.46886521953489
+            },
+            {
+                "id": 231658431,
+                "name": "索尼探梦科普乐园",
+                "type": "nan",
+                "latitude": 39.93607234979548,
+                "longitude": 116.4754715502671
+            },
+            {
+                "id": 231658434,
+                "name": "汇爱婚礼堂",
+                "type": "nan",
+                "latitude": 39.94497518524847,
+                "longitude": 116.4707801361744
+            },
+            {
+                "id": 231663896,
+                "name": "奥运沙滩排球场",
+                "type": "nan",
+                "latitude": 39.94556204815313,
+                "longitude": 116.47940612907182
+            },
+            {
+                "id": 231663917,
+                "name": "小人国职业体验城",
+                "type": "nan",
+                "latitude": 39.93780397017464,
+                "longitude": 116.47517911680565
+            },
+            {
+                "id": 231663918,
+                "name": "跳伞观光塔",
+                "type": "nan",
+                "latitude": 39.937789882983296,
+                "longitude": 116.47697320442595
+            },
+            {
+                "id": 231676937,
+                "name": "欧陆风韵俱乐部",
+                "type": "nan",
+                "latitude": 39.94131812871249,
+                "longitude": 116.47448164860214
+            },
+            {
+                "id": 231684723,
+                "name": "朝阳公园开发经营公司",
+                "type": "nan",
+                "latitude": 39.93967481042389,
+                "longitude": 116.48155288828852
+            },
+            {
+                "id": 232093800,
+                "name": "朝阳水务教育基地",
+                "type": "nan",
+                "latitude": 39.93529302006664,
+                "longitude": 116.47779832315805
+            },
+            {
+                "id": 232100156,
+                "name": "景区管理中心娱乐部",
+                "type": "nan",
+                "latitude": 39.93699072853665,
+                "longitude": 116.4737527750463
+            },
+            {
+                "id": 232105718,
+                "name": "碰碰车",
+                "type": "nan",
+                "latitude": 39.93884367318691,
+                "longitude": 116.47492100790303
+            },
+            {
+                "id": 232112605,
+                "name": "朝阳公园东1门",
+                "type": "nan",
+                "latitude": 39.952002553772445,
+                "longitude": 116.48253549483259
+            },
+            {
+                "id": 232112607,
+                "name": "朝阳公园西2门",
+                "type": "nan",
+                "latitude": 39.938242483130125,
+                "longitude": 116.46899777137492
+            },
+            {
+                "id": 232118923,
+                "name": "东7门",
+                "type": "nan",
+                "latitude": 39.93847221683921,
+                "longitude": 116.48229452225138
+            },
+            {
+                "id": 232415774,
+                "name": "北3门",
+                "type": "nan",
+                "latitude": 39.95525798757443,
+                "longitude": 116.47919382180967
+            },
+            {
+                "id": 232494896,
+                "name": "五星乐园",
+                "type": "nan",
+                "latitude": 39.93876790546612,
+                "longitude": 116.47756156941725
+            },
+            {
+                "id": 232495599,
+                "name": "太上老君庙",
+                "type": "nan",
+                "latitude": 39.94518918582436,
+                "longitude": 116.47737665274786
+            },
+            {
+                "id": 232495887,
+                "name": "首汽租赁三部",
+                "type": "nan",
+                "latitude": 39.95342377178543,
+                "longitude": 116.47508313421271
+            },
+            {
+                "id": 237176378,
+                "name": "沙滩乐园售票亭",
+                "type": "nan",
+                "latitude": 39.94445087934398,
+                "longitude": 116.4764905048357
+            },
+            {
+                "id": 309292046,
+                "name": "Encuéntrate con México",
+                "type": "nan",
+                "latitude": 39.94343240408215,
+                "longitude": 116.47081691485069
+            }
+        ]
+    }
+}

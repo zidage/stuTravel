@@ -1,0 +1,712 @@
+{
+    "id": -2910463941939079254,
+    "name": "卡内基梅隆大学",
+    "address": "5000 Forbes Ave, Pittsburgh, PA 15213美国",
+    "rating": 4.8,
+    "popularity": 52,
+    "data_path": "map_data/university_map/Carnegie_Mellon_University",
+    "description": "卡内基·梅隆大学（英語：Carnegie Mellon University，缩写为CMU）是一所位於美國賓夕法尼亞州匹茲堡的研究型私立大學。\n卡内基·梅隆大學的歷史從1900年美国钢铁大亨安德魯·卡內基創立的卡內基技術學校開始。1912年，學校發展為卡內基理工學院，並開始授予四年文憑。1967年，卡內基理工學院和梅隆工業研究學院合併，成為卡內基梅隆大學。大學主校園面積為0.57平方公里，距離匹茲堡市中心約5公里。校園附近有匹茲堡卡內基博物館、匹茲堡卡內基圖書館主館、卡內基音樂廳、申利公園、菲普斯溫室及植物園、匹茲堡高爾夫俱樂部以及匹茲堡大學主校園。\n卡內基梅隆大學共有七所學院：卡内基工学院、藝術學院、迪特里希人文及社會科學學院、梅隆理學院、泰珀商學院、海因茨信息系统和公共政策學院、以及计算机科學學院。学校在匹兹堡，硅谷，卡塔尔和卢旺达设有校区，并在全世界六大洲开设学位项目。\n在2018年泰晤士高等教育世界大学排行榜中，卡内基梅隆大学排名世界第20位，在同一机构的学科排名中，学校的计算机科学排名世界第六位，工程和技术排名第十二位，商学和经济学排名第十五位。在USNews发布的排行榜中，学校排名全美第25位，其中计算机科学排名全美第一位。学校拥有世界顶尖的机器人学和戏剧学项目，以及全世界建立最早的计算机学院之一。\n卡内基梅隆大學拥有来自全世界114个国家的14,799名學生，超过5,000名教职人员和超过100,000名的校友。截止2019年3月，学校的教员和校友中共有20人获得诺贝尔奖，13人获得图灵奖，22人获评美国艺术与科学院院士，19人进入美国科学促进会，72人入选美国国家学院，7人获得奥斯卡金像奖，44人获得托尼奖，114人获得艾美奖。\n卡内基梅隆大學共有17個體育代表隊，它是NCAA中的大學運動聯盟（UAA）成員學校之一。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/03/AWMellon.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Andrew_Carnegie%2C_three-quarter_length_portrait%2C_seated%2C_facing_slightly_left%2C_1913.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/13/CMU_Hamerschlag_Hall.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Carnegie-Mellon-University-29_Inside_Gates_Center.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/CarnegieMellonBuggy.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e5/Carnegie_Mellon_The_Cut_Planet.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Cmu_panorama.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hunt_Library_CMU_-_IMG_7844.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/John_f_nash_20061102_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mobot.jpg"
+    ],
+    "amenity": {
+        "affiliation": -2910463941939079254,
+        "amenity_list": [
+            {
+                "id": 367960585,
+                "name": "Cyert Center for Early Education",
+                "type": "kindergarten",
+                "latitude": 40.4454541,
+                "longitude": -79.9433899
+            },
+            {
+                "id": 392953745,
+                "name": "Wushiland",
+                "type": "cafe",
+                "latitude": 40.445609,
+                "longitude": -79.9489984
+            },
+            {
+                "id": 1203840691,
+                "name": "可能感兴趣的地点",
+                "type": "post_box",
+                "latitude": 40.4444725,
+                "longitude": -79.9461216
+            },
+            {
+                "id": 1703629129,
+                "name": "Gates Garage entrance",
+                "type": "parking_entrance",
+                "latitude": 40.4431423,
+                "longitude": -79.9446564
+            },
+            {
+                "id": 6874341547,
+                "name": "Carnegie Mellon Police Station",
+                "type": "police",
+                "latitude": 40.4456807,
+                "longitude": -79.9490816
+            },
+            {
+                "id": 9081931417,
+                "name": "CIC Garage",
+                "type": "parking",
+                "latitude": 40.444392,
+                "longitude": -79.9465766
+            },
+            {
+                "id": 9234421950,
+                "name": "Carnegie Mellon Café",
+                "type": "restaurant",
+                "latitude": 40.4424191,
+                "longitude": -79.9397388
+            },
+            {
+                "id": 9234421951,
+                "name": "Fresh52",
+                "type": "restaurant",
+                "latitude": 40.4425229,
+                "longitude": -79.9399823
+            },
+            {
+                "id": 9234421952,
+                "name": "Rooted",
+                "type": "restaurant",
+                "latitude": 40.4425475,
+                "longitude": -79.940106
+            },
+            {
+                "id": 9234421953,
+                "name": "Taste of India",
+                "type": "restaurant",
+                "latitude": 40.442555,
+                "longitude": -79.9401566
+            },
+            {
+                "id": 9234421954,
+                "name": "Innovation Kitchen",
+                "type": "restaurant",
+                "latitude": 40.4425386,
+                "longitude": -79.9400692
+            },
+            {
+                "id": 9235545182,
+                "name": "Tahini",
+                "type": "restaurant",
+                "latitude": 40.4425885,
+                "longitude": -79.9399266
+            },
+            {
+                "id": 9235545183,
+                "name": "Cucina",
+                "type": "restaurant",
+                "latitude": 40.4426765,
+                "longitude": -79.9402389
+            },
+            {
+                "id": 9255047005,
+                "name": "La Prima Espresso",
+                "type": "cafe",
+                "latitude": 40.4425835,
+                "longitude": -79.9459898
+            },
+            {
+                "id": 9255047006,
+                "name": "Hunan Express",
+                "type": "restaurant",
+                "latitude": 40.4432872,
+                "longitude": -79.9454755
+            },
+            {
+                "id": 9255047008,
+                "name": "Rothberg's Roasters II",
+                "type": "cafe",
+                "latitude": 40.4427045,
+                "longitude": -79.9466726
+            },
+            {
+                "id": 9255047009,
+                "name": "Au Bon Pain",
+                "type": "fast_food",
+                "latitude": 40.4439431,
+                "longitude": -79.9421986
+            },
+            {
+                "id": 9255047010,
+                "name": "Schatz Dining Room",
+                "type": "restaurant",
+                "latitude": 40.4431862,
+                "longitude": -79.9424903
+            },
+            {
+                "id": 9255047011,
+                "name": "Beefsteak",
+                "type": "restaurant",
+                "latitude": 40.4433652,
+                "longitude": -79.941973
+            },
+            {
+                "id": 9255047012,
+                "name": "Grano",
+                "type": "restaurant",
+                "latitude": 40.4433003,
+                "longitude": -79.9419895
+            },
+            {
+                "id": 9255047013,
+                "name": "Back Bar Grill",
+                "type": "restaurant",
+                "latitude": 40.4432479,
+                "longitude": -79.9420115
+            },
+            {
+                "id": 9255060541,
+                "name": "The Exchange",
+                "type": "restaurant",
+                "latitude": 40.4415167,
+                "longitude": -79.9419599
+            },
+            {
+                "id": 9255060552,
+                "name": "Nourish",
+                "type": "restaurant",
+                "latitude": 40.4436715,
+                "longitude": -79.94234
+            },
+            {
+                "id": 9255060553,
+                "name": "El Gallo de Oro",
+                "type": "restaurant",
+                "latitude": 40.4431674,
+                "longitude": -79.9420988
+            },
+            {
+                "id": 9261468988,
+                "name": "Sorrells Library",
+                "type": "library",
+                "latitude": 40.4426204,
+                "longitude": -79.9458063
+            },
+            {
+                "id": 10922209307,
+                "name": "De Fer Coffee & Tea",
+                "type": "cafe",
+                "latitude": 40.4411431,
+                "longitude": -79.9439143
+            },
+            {
+                "id": 27574204,
+                "name": "Hunt Library",
+                "type": "library",
+                "latitude": 40.44111058745497,
+                "longitude": -79.94373973890518
+            },
+            {
+                "id": 27574237,
+                "name": "East Campus Garage",
+                "type": "parking",
+                "latitude": 40.4438211596947,
+                "longitude": -79.9400292933513
+            },
+            {
+                "id": 27574406,
+                "name": "Purnell Center for the Arts",
+                "type": "arts_centre",
+                "latitude": 40.44351753079678,
+                "longitude": -79.9435400585842
+            },
+            {
+                "id": 27591134,
+                "name": "Warner Hall parking lot",
+                "type": "parking",
+                "latitude": 40.443921848452625,
+                "longitude": -79.94366608289961
+            },
+            {
+                "id": 103686985,
+                "name": "Webster Hall Parking Garage",
+                "type": "parking",
+                "latitude": 40.44752153551381,
+                "longitude": -79.95166138468251
+            },
+            {
+                "id": 544174670,
+                "name": "Central Catholic High School",
+                "type": "school",
+                "latitude": 40.44619546381895,
+                "longitude": -79.94593018303293
+            },
+            {
+                "id": 544174673,
+                "name": "WQED",
+                "type": "studio",
+                "latitude": 40.44672558082425,
+                "longitude": -79.94471838638637
+            },
+            {
+                "id": 739910512,
+                "name": "Residence on Fifth",
+                "type": "student_accommodation",
+                "latitude": 40.44687190873955,
+                "longitude": -79.94676938044499
+            },
+            {
+                "id": 1000419332,
+                "name": "Tartans Pavilion",
+                "type": "food_court",
+                "latitude": 40.4426444110885,
+                "longitude": -79.94006802376559
+            },
+            {
+                "id": 6922071,
+                "name": "Morewood Gardens Parking Lot",
+                "type": "parking",
+                "latitude": 40.44570474879905,
+                "longitude": -79.94397966133322
+            },
+            {
+                "id": 302970851,
+                "name": "Roselawn Houses",
+                "type": "nan",
+                "latitude": 40.4421129,
+                "longitude": -79.938069
+            },
+            {
+                "id": 303448483,
+                "name": "Gates Center for Computer Science",
+                "type": "nan",
+                "latitude": 40.4436245,
+                "longitude": -79.9444779
+            },
+            {
+                "id": 6549948478,
+                "name": "Posner Center",
+                "type": "nan",
+                "latitude": 40.4416269,
+                "longitude": -79.9424295
+            },
+            {
+                "id": 25795368,
+                "name": "Mellon Institute",
+                "type": "nan",
+                "latitude": 40.446115710970915,
+                "longitude": -79.95105321522134
+            },
+            {
+                "id": 27549961,
+                "name": "Porter Hall",
+                "type": "nan",
+                "latitude": 40.44171914691242,
+                "longitude": -79.94632556252822
+            },
+            {
+                "id": 27550292,
+                "name": "Scaife Hall",
+                "type": "nan",
+                "latitude": 40.44181664450216,
+                "longitude": -79.94732290783449
+            },
+            {
+                "id": 27551077,
+                "name": "Hamerschlag Hall",
+                "type": "nan",
+                "latitude": 40.44237195947758,
+                "longitude": -79.94674562336698
+            },
+            {
+                "id": 27551364,
+                "name": "Wean Hall",
+                "type": "nan",
+                "latitude": 40.44267648875512,
+                "longitude": -79.9457315936783
+            },
+            {
+                "id": 27551590,
+                "name": "Newell-Simon Hall",
+                "type": "nan",
+                "latitude": 40.443376288938175,
+                "longitude": -79.94561606035204
+            },
+            {
+                "id": 27574394,
+                "name": "Cohon University Center",
+                "type": "nan",
+                "latitude": 40.44348398527624,
+                "longitude": -79.94197894957651
+            },
+            {
+                "id": 27574545,
+                "name": "Doherty Hall",
+                "type": "nan",
+                "latitude": 40.442488863325,
+                "longitude": -79.94455011616898
+            },
+            {
+                "id": 27574704,
+                "name": "Warner Hall",
+                "type": "nan",
+                "latitude": 40.44417696650159,
+                "longitude": -79.943390578482
+            },
+            {
+                "id": 27574718,
+                "name": "Cyert Hall",
+                "type": "nan",
+                "latitude": 40.44427990734142,
+                "longitude": -79.94394149387041
+            },
+            {
+                "id": 27590641,
+                "name": "Roberts Engineering Hall",
+                "type": "nan",
+                "latitude": 40.44247567829668,
+                "longitude": -79.94724135129552
+            },
+            {
+                "id": 27590907,
+                "name": "Baker Hall",
+                "type": "nan",
+                "latitude": 40.441498323145815,
+                "longitude": -79.94504600676537
+            },
+            {
+                "id": 27590940,
+                "name": "Facilities Management Services Building",
+                "type": "nan",
+                "latitude": 40.44332727299439,
+                "longitude": -79.94640219879565
+            },
+            {
+                "id": 27591069,
+                "name": "Collaborative Innovation Center",
+                "type": "nan",
+                "latitude": 40.44397869188592,
+                "longitude": -79.9465391098624
+            },
+            {
+                "id": 27591096,
+                "name": "Hamburg Hall",
+                "type": "nan",
+                "latitude": 40.44422322135674,
+                "longitude": -79.94554598699486
+            },
+            {
+                "id": 27591104,
+                "name": "Smith Hall",
+                "type": "nan",
+                "latitude": 40.44396612213231,
+                "longitude": -79.94553540652763
+            },
+            {
+                "id": 27591225,
+                "name": "College of Fine Arts",
+                "type": "nan",
+                "latitude": 40.44156643809245,
+                "longitude": -79.94290854328217
+            },
+            {
+                "id": 27591241,
+                "name": "Posner Hall",
+                "type": "nan",
+                "latitude": 40.44127335194894,
+                "longitude": -79.94215212912964
+            },
+            {
+                "id": 27591314,
+                "name": "Margaret Morrison Carnegie Hall",
+                "type": "nan",
+                "latitude": 40.44218189206607,
+                "longitude": -79.94147444257234
+            },
+            {
+                "id": 27591346,
+                "name": "Donner House",
+                "type": "nan",
+                "latitude": 40.44192842401361,
+                "longitude": -79.94020768129387
+            },
+            {
+                "id": 27591351,
+                "name": "West Wing",
+                "type": "nan",
+                "latitude": 40.44270281105824,
+                "longitude": -79.94086008212896
+            },
+            {
+                "id": 27591352,
+                "name": "Resnik House",
+                "type": "nan",
+                "latitude": 40.4425132021332,
+                "longitude": -79.93997099654754
+            },
+            {
+                "id": 27591450,
+                "name": "Boss House",
+                "type": "nan",
+                "latitude": 40.44160472816081,
+                "longitude": -79.9393179496847
+            },
+            {
+                "id": 27591456,
+                "name": "McGill House",
+                "type": "nan",
+                "latitude": 40.441725156230206,
+                "longitude": -79.93902801695165
+            },
+            {
+                "id": 27591466,
+                "name": "Hamerschlag House",
+                "type": "nan",
+                "latitude": 40.4413151046524,
+                "longitude": -79.93892885134677
+            },
+            {
+                "id": 27591482,
+                "name": "Scobell House",
+                "type": "nan",
+                "latitude": 40.44134720543974,
+                "longitude": -79.93962847631305
+            },
+            {
+                "id": 27591484,
+                "name": "Welch House",
+                "type": "nan",
+                "latitude": 40.44115375436258,
+                "longitude": -79.93948989953914
+            },
+            {
+                "id": 27591488,
+                "name": "Henderson House",
+                "type": "nan",
+                "latitude": 40.44100314485152,
+                "longitude": -79.93925673865317
+            },
+            {
+                "id": 27591497,
+                "name": "Spirit House",
+                "type": "nan",
+                "latitude": 40.4423305083273,
+                "longitude": -79.93792978237674
+            },
+            {
+                "id": 27591503,
+                "name": "Woodlawn Apartments",
+                "type": "nan",
+                "latitude": 40.442442416801555,
+                "longitude": -79.93771661295735
+            },
+            {
+                "id": 27591602,
+                "name": "Tech House",
+                "type": "nan",
+                "latitude": 40.44192435965204,
+                "longitude": -79.93787277312119
+            },
+            {
+                "id": 27591621,
+                "name": "Delta Tau Delta House",
+                "type": "nan",
+                "latitude": 40.44189614623419,
+                "longitude": -79.93892086805913
+            },
+            {
+                "id": 27591646,
+                "name": "Disability Resources",
+                "type": "nan",
+                "latitude": 40.4420009882362,
+                "longitude": -79.93867969872211
+            },
+            {
+                "id": 27591681,
+                "name": "Margaret Morrison Apartments",
+                "type": "nan",
+                "latitude": 40.441754030506836,
+                "longitude": -79.93849502911392
+            },
+            {
+                "id": 27591700,
+                "name": "Stever House",
+                "type": "nan",
+                "latitude": 40.44629131624433,
+                "longitude": -79.9426784282038
+            },
+            {
+                "id": 27591702,
+                "name": "Mudge House C Building",
+                "type": "nan",
+                "latitude": 40.44667982844682,
+                "longitude": -79.94301233368327
+            },
+            {
+                "id": 27591703,
+                "name": "Mudge House A Building",
+                "type": "nan",
+                "latitude": 40.446921571512604,
+                "longitude": -79.94267967517058
+            },
+            {
+                "id": 27591706,
+                "name": "Mudge House B Building",
+                "type": "nan",
+                "latitude": 40.447149802239856,
+                "longitude": -79.94303841635549
+            },
+            {
+                "id": 27623372,
+                "name": "Gates and Hillman Centers",
+                "type": "nan",
+                "latitude": 40.443561725374224,
+                "longitude": -79.94456961300165
+            },
+            {
+                "id": 27630034,
+                "name": "Alumni House",
+                "type": "nan",
+                "latitude": 40.4447729625248,
+                "longitude": -79.9420863577256
+            },
+            {
+                "id": 29094259,
+                "name": "University Technology Development Center",
+                "type": "nan",
+                "latitude": 40.44604268044588,
+                "longitude": -79.94957242225664
+            },
+            {
+                "id": 44150733,
+                "name": "Software Engineering Institute",
+                "type": "nan",
+                "latitude": 40.44630223659406,
+                "longitude": -79.95012284497408
+            },
+            {
+                "id": 44156184,
+                "name": "Information Networking Institute",
+                "type": "nan",
+                "latitude": 40.446057754061826,
+                "longitude": -79.94802217670059
+            },
+            {
+                "id": 44157438,
+                "name": "Shirley Apartments",
+                "type": "nan",
+                "latitude": 40.44769034057127,
+                "longitude": -79.95139431902125
+            },
+            {
+                "id": 44157441,
+                "name": "Whitfield Hall",
+                "type": "nan",
+                "latitude": 40.44841206851896,
+                "longitude": -79.95019096121591
+            },
+            {
+                "id": 44157443,
+                "name": "Carnegie Mellon University",
+                "type": "nan",
+                "latitude": 40.4449940898221,
+                "longitude": -79.94839884297106
+            },
+            {
+                "id": 544174664,
+                "name": "Alumni Hall",
+                "type": "nan",
+                "latitude": 40.44584137206324,
+                "longitude": -79.94636859730993
+            },
+            {
+                "id": 544174671,
+                "name": "Central Catholic High School",
+                "type": "nan",
+                "latitude": 40.446781191956674,
+                "longitude": -79.94569376545607
+            },
+            {
+                "id": 544174672,
+                "name": "The Brother's House",
+                "type": "nan",
+                "latitude": 40.44651709256547,
+                "longitude": -79.94623245690477
+            },
+            {
+                "id": 544174675,
+                "name": "Morewood Gardens",
+                "type": "nan",
+                "latitude": 40.445543629685375,
+                "longitude": -79.94313704305645
+            },
+            {
+                "id": 583510520,
+                "name": "Tepper School of Business",
+                "type": "nan",
+                "latitude": 40.44509072726873,
+                "longitude": -79.94532964978173
+            },
+            {
+                "id": 879491687,
+                "name": "Zupanic Family STEM Center",
+                "type": "nan",
+                "latitude": 40.44640465706121,
+                "longitude": -79.94665283358844
+            },
+            {
+                "id": 1001941217,
+                "name": "ANSYS Hall",
+                "type": "nan",
+                "latitude": 40.44197333166804,
+                "longitude": -79.94665916366851
+            },
+            {
+                "id": 1002531075,
+                "name": "Morewood E-Tower",
+                "type": "nan",
+                "latitude": 40.44505676730647,
+                "longitude": -79.9433864181158
+            },
+            {
+                "id": 1002857138,
+                "name": "Hall of the Arts",
+                "type": "nan",
+                "latitude": 40.440905559323895,
+                "longitude": -79.9425667692174
+            },
+            {
+                "id": 1010489527,
+                "name": "Seoul Mart",
+                "type": "nan",
+                "latitude": 40.44724787701109,
+                "longitude": -79.94718401584429
+            },
+            {
+                "id": 1039908831,
+                "name": "Skibo Gymnasium",
+                "type": "nan",
+                "latitude": 40.440695817364066,
+                "longitude": -79.94138892781116
+            },
+            {
+                "id": 1203786280,
+                "name": "Forbes Beeler Apartments",
+                "type": "nan",
+                "latitude": 40.44437313913722,
+                "longitude": -79.93944943844699
+            },
+            {
+                "id": 13441031,
+                "name": "Scott Hall",
+                "type": "nan",
+                "latitude": 40.44296704840037,
+                "longitude": -79.94674743543344
+            }
+        ]
+    }
+}

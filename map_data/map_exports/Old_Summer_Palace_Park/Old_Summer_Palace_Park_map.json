@@ -1,0 +1,96 @@
+{
+    "id": -1744739762669487862,
+    "name": "圆明园遗址公园",
+    "address": "中国北京市海淀区圆明园 邮政编码: 100084",
+    "rating": 4.4,
+    "popularity": 48,
+    "data_path": "map_data/university_map/Old_Summer_Palace_Park",
+    "description": "圆明园是清朝興建的大型皇家园林，康熙帝賜此園予皇四子胤禛（法號圓明居士），並提匾「圓明」。供清帝盛夏避暑、听政，处理军政事务，位于現今中華人民共和国北京市海淀区。与长春园，绮春园合称为“圆明三园”，占地面积3.5平方公里，建筑面积达16万平方公尺，约合5,200亩一百五十余景，有“万园之园”之称。\n圆明园规模宏伟，运用了各式园林风格及造园技巧，其诗画意境被大多数中国园林学家认为是中国园林艺术的顶峰作品，是中国古典园林平地造园、堆山理水集大成的典范。清朝时一些外国传教士参观圆明园后将其称作“万园之园”。\n1860年，圆明园在第二次鸦片战争中被洗劫破坏后放火焚毁。历经战乱劫掠，现時仅存遗址。1976年成立圆明園管理处后开始实施保护与利用，1979年將其列入為文物保护单位，於1988年，圆明园遗址被中华人民共和国国务院公布为第三批全国重点文物保护单位之一。圆明园遗址中部和东部成立了圆明园遗址公园。2008年7月29日，圆明园管理局宣布，开放九州景区。\n圆明园在清室150余年的创建和经营下，曾以其宏大的地域规模、杰出的营造技艺、精美的建筑景群、丰富的文化收藏和博大精深的民族文化内涵而享誉于世，被誉为“一切造园艺术的典范”，被法国作家维克多·雨果称誉为“理想与艺术的典范”。道光朝时，国事日衰，财力不足，但宁撤万寿、香山、玉泉“三山”的陈设，罢热河避暑与木兰圍獵，仍不放弃圆明三园的改建和装饰。1860年英法联军洗劫圆明园，文物被劫掠，同治帝时欲修复圆明园，后因财政困难，被迫停止，改建其他建筑。八国联军之后，又遭到官僚、军阀巧取豪夺的毁灭打击，终变成一片废墟。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Beautiful_Scene_of_the_Square_Pot.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ad/Changchunyuan_Sluices_of_the_Yuanmingyuan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c9/Emperor%E2%80%99s_Private_Residence.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8d/Haiyantang_ruins_in_Yuanmingyuan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7a/Haiyuekaijin_in_Old_Summer_Palace.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Hall_of_Rectitude_and_Honor.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hanjingtang_20130126.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Happy_Place_of_Lianxi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/Huanghuazhen.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/21/Old_Summer_Palace%2C_Palace_Gates_of_Qichunyuan.jpg"
+    ],
+    "amenity": {
+        "affiliation": -1744739762669487862,
+        "amenity_list": [
+            {
+                "id": 494772296,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 40.0056022,
+                "longitude": 116.3027865
+            },
+            {
+                "id": 4137664061,
+                "name": "北京101中学",
+                "type": "school",
+                "latitude": 39.9969247,
+                "longitude": 116.2984965
+            },
+            {
+                "id": 11270757350,
+                "name": "花家怡园",
+                "type": "restaurant",
+                "latitude": 39.9984212,
+                "longitude": 116.3006549
+            },
+            {
+                "id": 11659699739,
+                "name": "大水法美食坊",
+                "type": "restaurant",
+                "latitude": 40.0122713,
+                "longitude": 116.3056484
+            },
+            {
+                "id": 40724027,
+                "name": "圆明园东门停车场",
+                "type": "parking",
+                "latitude": 40.01260188070462,
+                "longitude": 116.31134667719444
+            },
+            {
+                "id": 210641897,
+                "name": "鉴碧亭",
+                "type": "shelter",
+                "latitude": 40.00011245,
+                "longitude": 116.30465775
+            },
+            {
+                "id": 210641898,
+                "name": "文殊亭",
+                "type": "shelter",
+                "latitude": 39.99957781814915,
+                "longitude": 116.30328166413548
+            },
+            {
+                "id": 628032080,
+                "name": "北京第一〇一中学",
+                "type": "school",
+                "latitude": 40.00157311512141,
+                "longitude": 116.2984941280302
+            },
+            {
+                "id": 210641894,
+                "name": "最上楼",
+                "type": "nan",
+                "latitude": 39.99978018064562,
+                "longitude": 116.30322141302204
+            },
+            {
+                "id": 210641895,
+                "name": "三圣殿",
+                "type": "nan",
+                "latitude": 39.999297447480956,
+                "longitude": 116.30333317836518
+            }
+        ]
+    }
+}

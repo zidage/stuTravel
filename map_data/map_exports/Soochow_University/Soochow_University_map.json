@@ -1,0 +1,280 @@
+{
+    "id": -196079164611982519,
+    "name": "苏州大学",
+    "address": "中国江苏省苏州市姑苏区东环路50号 邮政编码: 215006",
+    "rating": 4.5,
+    "popularity": 48,
+    "data_path": "map_data/university_map/Soochow_University",
+    "description": "蘇州大學，簡稱蘇大，是江苏省省属重点综合性大学、“211工程”全国重点建设大学和首批“2011计划”牵头高校，其前身有東吳大學（創建於1900年）、無錫國學專修學校（創建於1920年）、江蘇省立教育學院（創建於1928年），以及國立社會教育學院（創建於1941年）。1952年，原江蘇教育學院、中國文學院（原無錫國學專修學校）、國立社會教育學院於兩年前合校而成的蘇南文化教育學院，與東吳大學等校有關文理系科合並在東吳大學舊址組建蘇南師範學院，同年定名江蘇師範學院，1982年更名為蘇州大學。以后苏州蚕桑专科学校、苏州丝绸工学院、苏州医学院等先后并入苏州大学。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/Motto_stone_of_Soochow_University-20240505.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/QingXiDongWu_at_Old_SooChow_Univ_in_Suzhou.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/8/82/Soochow_University_Kenneth_Wang_School_of_Law.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8b/SuDa_clock_building.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/7/75/Suzhou_University_Gate.jpg"
+    ],
+    "amenity": {
+        "affiliation": -196079164611982519,
+        "amenity_list": [
+            {
+                "id": 4206641653,
+                "name": "東吳大學郵局",
+                "type": "post_office",
+                "latitude": 25.0941381,
+                "longitude": 121.5462332
+            },
+            {
+                "id": 4307054731,
+                "name": "石超庸墓",
+                "type": "grave_yard",
+                "latitude": 25.0927304,
+                "longitude": 121.5464881
+            },
+            {
+                "id": 4307054732,
+                "name": "王寵惠墓園",
+                "type": "grave_yard",
+                "latitude": 25.0926807,
+                "longitude": 121.5464496
+            },
+            {
+                "id": 4905269471,
+                "name": "CHORD 校車咖啡",
+                "type": "cafe",
+                "latitude": 25.0935819,
+                "longitude": 121.545585
+            },
+            {
+                "id": 4905269484,
+                "name": "地下停車場",
+                "type": "parking",
+                "latitude": 25.0955323,
+                "longitude": 121.5444431
+            },
+            {
+                "id": 5151415522,
+                "name": "東吳大學雙溪吸煙區",
+                "type": "smoking_area",
+                "latitude": 25.0942033,
+                "longitude": 121.5470217
+            },
+            {
+                "id": 5151418522,
+                "name": "可能感兴趣的地点",
+                "type": "drinking_water",
+                "latitude": 25.0944847,
+                "longitude": 121.5476475
+            },
+            {
+                "id": 5151422023,
+                "name": "提款機",
+                "type": "atm",
+                "latitude": 25.0941311,
+                "longitude": 121.5468711
+            },
+            {
+                "id": 5151430122,
+                "name": "loveling 夢屋",
+                "type": "restaurant",
+                "latitude": 25.0945621,
+                "longitude": 121.5471135
+            },
+            {
+                "id": 5151431921,
+                "name": "東吳大學學生餐廳",
+                "type": "restaurant",
+                "latitude": 25.0938471,
+                "longitude": 121.5463404
+            },
+            {
+                "id": 5174346322,
+                "name": "大樹下",
+                "type": "restaurant",
+                "latitude": 25.0953044,
+                "longitude": 121.544646
+            },
+            {
+                "id": 5174354421,
+                "name": "爆料雞排",
+                "type": "fast_food",
+                "latitude": 25.0956643,
+                "longitude": 121.5439736
+            },
+            {
+                "id": 5938459996,
+                "name": "麥當勞",
+                "type": "fast_food",
+                "latitude": 25.0938659,
+                "longitude": 121.5465861
+            },
+            {
+                "id": 5956649387,
+                "name": "貝殼之家",
+                "type": "restaurant",
+                "latitude": 25.0952632,
+                "longitude": 121.5445241
+            },
+            {
+                "id": 404905850,
+                "name": "安素堂",
+                "type": "place_of_worship",
+                "latitude": 25.09404559765425,
+                "longitude": 121.54742318687023
+            },
+            {
+                "id": 453933597,
+                "name": "中正圖書館",
+                "type": "library",
+                "latitude": 25.093453427169965,
+                "longitude": 121.54645078430595
+            },
+            {
+                "id": 5162279621,
+                "name": "松勁樓",
+                "type": "nan",
+                "latitude": 25.0932293,
+                "longitude": 121.5475818
+            },
+            {
+                "id": 5965805353,
+                "name": "中正圖書館",
+                "type": "nan",
+                "latitude": 25.0934594,
+                "longitude": 121.546454
+            },
+            {
+                "id": 172956182,
+                "name": "寵惠堂",
+                "type": "nan",
+                "latitude": 25.09436899576716,
+                "longitude": 121.54572912788171
+            },
+            {
+                "id": 225008900,
+                "name": "松勁樓",
+                "type": "nan",
+                "latitude": 25.093318783964737,
+                "longitude": 121.54762994677111
+            },
+            {
+                "id": 225008902,
+                "name": "第一教學研究大樓",
+                "type": "nan",
+                "latitude": 25.093046465654737,
+                "longitude": 121.54627410558078
+            },
+            {
+                "id": 404899201,
+                "name": "綜合大樓",
+                "type": "nan",
+                "latitude": 25.09400493957165,
+                "longitude": 121.54649279604875
+            },
+            {
+                "id": 404905849,
+                "name": "第二教研大樓",
+                "type": "nan",
+                "latitude": 25.094516508199362,
+                "longitude": 121.54707752084953
+            },
+            {
+                "id": 404905851,
+                "name": "愛徒樓",
+                "type": "nan",
+                "latitude": 25.09409207123711,
+                "longitude": 121.54719987403533
+            },
+            {
+                "id": 420726239,
+                "name": "錢穆故居",
+                "type": "nan",
+                "latitude": 25.09410200956922,
+                "longitude": 121.54796860504594
+            },
+            {
+                "id": 453931777,
+                "name": "柚芳樓",
+                "type": "nan",
+                "latitude": 25.093410494071733,
+                "longitude": 121.54573581695882
+            },
+            {
+                "id": 453931803,
+                "name": "楓雅樓",
+                "type": "nan",
+                "latitude": 25.092993242769094,
+                "longitude": 121.54699266108126
+            },
+            {
+                "id": 453932583,
+                "name": "雷德樓（教師研究大樓）",
+                "type": "nan",
+                "latitude": 25.093919399999997,
+                "longitude": 121.54543474999998
+            },
+            {
+                "id": 453933154,
+                "name": "東桂學廬",
+                "type": "nan",
+                "latitude": 25.09320213130711,
+                "longitude": 121.54569054471582
+            },
+            {
+                "id": 453933155,
+                "name": "戴蓀堂",
+                "type": "nan",
+                "latitude": 25.09410438273726,
+                "longitude": 121.54575103678405
+            },
+            {
+                "id": 453933861,
+                "name": "哲生樓",
+                "type": "nan",
+                "latitude": 25.093704612340762,
+                "longitude": 121.54590964077795
+            },
+            {
+                "id": 453934783,
+                "name": "心理學系",
+                "type": "nan",
+                "latitude": 25.094106556386183,
+                "longitude": 121.54517968899656
+            },
+            {
+                "id": 453934980,
+                "name": "超庸館",
+                "type": "nan",
+                "latitude": 25.094054878159632,
+                "longitude": 121.5446525728651
+            },
+            {
+                "id": 453936139,
+                "name": "榕華樓",
+                "type": "nan",
+                "latitude": 25.093710358227668,
+                "longitude": 121.54513199396484
+            },
+            {
+                "id": 478952348,
+                "name": "民宅",
+                "type": "nan",
+                "latitude": 25.095224055010537,
+                "longitude": 121.54445370425246
+            },
+            {
+                "id": 499222711,
+                "name": "教師研究二樓",
+                "type": "nan",
+                "latitude": 25.093516479346636,
+                "longitude": 121.54697670527084
+            },
+            {
+                "id": 824647803,
+                "name": "單身宿舍",
+                "type": "nan",
+                "latitude": 25.092645885166313,
+                "longitude": 121.54661792301805
+            }
+        ]
+    }
+}

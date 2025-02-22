@@ -1,0 +1,418 @@
+{
+    "id": -8258245617539048425,
+    "name": "伦敦大学玛利皇后学院",
+    "address": "327 Mile End Rd, Bethnal Green, London E1 4NS英国",
+    "rating": 4.2,
+    "popularity": 40,
+    "data_path": "map_data/university_map/Queen_Mary_University_of_London",
+    "description": "伦敦玛丽女王大学（Queen Mary University of London）是英國伦敦大学系統的下属学院，得名于乔治五世的王后特克的玛丽。它由最早附属于人民宫的东伦敦技术学院发展起来，1915年加入伦敦大学系統，於1989年与西菲爾德學院合并，1995年合并了两所医学院。主校区位于伦敦东区麥爾安德。\n伦敦玛丽女王大学為罗素大学集团的成員之一，該校設有200多個學位的課程，在全英大學評比中，多數部門的研究評估分為5或5*，其在法律、財金、多媒體、電腦方面表現尤為突出。\n伦敦玛丽女王大学的教职工中不乏英國皇家學會、英國科學院、英國皇家醫學科學院和皇家工程院院士。在伦敦玛丽女王大学在校师生和過去的校友中，有9位諾貝爾獎得主 。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Platopainting.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c5/Queens%27_Building_%282899476115%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/85/Senate_House%2C_University_of_London.jpg"
+    ],
+    "amenity": {
+        "affiliation": -8258245617539048425,
+        "amenity_list": [
+            {
+                "id": 246842416,
+                "name": "可能感兴趣的地点",
+                "type": "post_box",
+                "latitude": 51.5251118,
+                "longitude": -0.0391318
+            },
+            {
+                "id": 5108070427,
+                "name": "Cafe Grad",
+                "type": "cafe",
+                "latitude": 51.5232361,
+                "longitude": -0.0419601
+            },
+            {
+                "id": 11197412830,
+                "name": "Ground Café",
+                "type": "cafe",
+                "latitude": 51.5237173,
+                "longitude": -0.0394268
+            },
+            {
+                "id": 11197412832,
+                "name": "The Nest",
+                "type": "social_centre",
+                "latitude": 51.5235197,
+                "longitude": -0.0398099
+            },
+            {
+                "id": 11218323101,
+                "name": "QMUL Post Room",
+                "type": "post_office",
+                "latitude": 51.5237672,
+                "longitude": -0.0416932
+            },
+            {
+                "id": 11241816968,
+                "name": "The Curve",
+                "type": "fast_food",
+                "latitude": 51.5251263,
+                "longitude": -0.0396089
+            },
+            {
+                "id": 11241816970,
+                "name": "Mucci’s",
+                "type": "restaurant",
+                "latitude": 51.5244431,
+                "longitude": -0.040625
+            },
+            {
+                "id": 11259926289,
+                "name": "Drapers’ Bar & Kitchen",
+                "type": "bar",
+                "latitude": 51.5232087,
+                "longitude": -0.0428375
+            },
+            {
+                "id": 11260386879,
+                "name": "Starbucks",
+                "type": "cafe",
+                "latitude": 51.5253216,
+                "longitude": -0.0396074
+            },
+            {
+                "id": 29079452,
+                "name": "Mile End Library",
+                "type": "library",
+                "latitude": 51.52419788987734,
+                "longitude": -0.03964991223083276
+            },
+            {
+                "id": 184154674,
+                "name": "Mile End Hospital",
+                "type": "hospital",
+                "latitude": 51.525049456648226,
+                "longitude": -0.0421222131938569
+            },
+            {
+                "id": 263494318,
+                "name": "Baron de Stern Clock Tower",
+                "type": "clock",
+                "latitude": 51.52306025307413,
+                "longitude": -0.04021183199241555
+            },
+            {
+                "id": 612390091,
+                "name": "Tower Hamlets Local History Library and Archives",
+                "type": "library",
+                "latitude": 51.52382423136832,
+                "longitude": -0.04230781075114555
+            },
+            {
+                "id": 1213391310,
+                "name": "Westfield Nursery",
+                "type": "childcare",
+                "latitude": 51.52344543622193,
+                "longitude": -0.04275797883053414
+            },
+            {
+                "id": 11347382806,
+                "name": "Scape Canalside",
+                "type": "nan",
+                "latitude": 51.5268794,
+                "longitude": -0.0414543
+            },
+            {
+                "id": 29079280,
+                "name": "Joseph Priestley Building",
+                "type": "nan",
+                "latitude": 51.52479972931258,
+                "longitude": -0.03903603299503406
+            },
+            {
+                "id": 29079322,
+                "name": "Arts One",
+                "type": "nan",
+                "latitude": 51.52422272983722,
+                "longitude": -0.038009897325350726
+            },
+            {
+                "id": 29079331,
+                "name": "Laws Building",
+                "type": "nan",
+                "latitude": 51.52400489490181,
+                "longitude": -0.03837512189116479
+            },
+            {
+                "id": 29079365,
+                "name": "Students' Union Hub",
+                "type": "nan",
+                "latitude": 51.52357591348883,
+                "longitude": -0.0393874113267845
+            },
+            {
+                "id": 29079404,
+                "name": "G.O. Jones Building",
+                "type": "nan",
+                "latitude": 51.523805275977985,
+                "longitude": -0.040132389006297724
+            },
+            {
+                "id": 29079476,
+                "name": "Francis Bancroft Building",
+                "type": "nan",
+                "latitude": 51.52478556654472,
+                "longitude": -0.04034733807547024
+            },
+            {
+                "id": 29079545,
+                "name": "Mathematical Sciences Building",
+                "type": "nan",
+                "latitude": 51.52250003891065,
+                "longitude": -0.04309349334367747
+            },
+            {
+                "id": 29098154,
+                "name": "Geography Building",
+                "type": "nan",
+                "latitude": 51.52425164727953,
+                "longitude": -0.040975873697366764
+            },
+            {
+                "id": 29098681,
+                "name": "G.E. Fogg Building",
+                "type": "nan",
+                "latitude": 51.5234610131395,
+                "longitude": -0.04212918180151486
+            },
+            {
+                "id": 29098977,
+                "name": "St Benet's Chapel",
+                "type": "nan",
+                "latitude": 51.523315464653784,
+                "longitude": -0.0395863930745167
+            },
+            {
+                "id": 29099037,
+                "name": "Varey House",
+                "type": "nan",
+                "latitude": 51.52551768168631,
+                "longitude": -0.03918552763057909
+            },
+            {
+                "id": 29099056,
+                "name": "Selincourt House",
+                "type": "nan",
+                "latitude": 51.525756128634576,
+                "longitude": -0.03901169659104571
+            },
+            {
+                "id": 29099060,
+                "name": "Lodge House",
+                "type": "nan",
+                "latitude": 51.52551731364439,
+                "longitude": -0.03876607773016185
+            },
+            {
+                "id": 29099112,
+                "name": "Arts Research Centre",
+                "type": "nan",
+                "latitude": 51.52431192561416,
+                "longitude": -0.037315566877077176
+            },
+            {
+                "id": 29099244,
+                "name": "Lock Keeper's Cottage",
+                "type": "nan",
+                "latitude": 51.52498278354347,
+                "longitude": -0.03807825378285596
+            },
+            {
+                "id": 29099401,
+                "name": "Pooley House",
+                "type": "nan",
+                "latitude": 51.52670834408563,
+                "longitude": -0.04067234758058605
+            },
+            {
+                "id": 29099470,
+                "name": "Creed Court",
+                "type": "nan",
+                "latitude": 51.526307158742334,
+                "longitude": -0.04008810839173346
+            },
+            {
+                "id": 29099522,
+                "name": "Maurice Court",
+                "type": "nan",
+                "latitude": 51.52625475406946,
+                "longitude": -0.040677720905634235
+            },
+            {
+                "id": 29099565,
+                "name": "Lynden House",
+                "type": "nan",
+                "latitude": 51.526338902419255,
+                "longitude": -0.04120463375748024
+            },
+            {
+                "id": 29099616,
+                "name": "Beaumont Court",
+                "type": "nan",
+                "latitude": 51.52581505356934,
+                "longitude": -0.04000259990024035
+            },
+            {
+                "id": 29099643,
+                "name": "Feilden House",
+                "type": "nan",
+                "latitude": 51.52527828217318,
+                "longitude": -0.03969536525384477
+            },
+            {
+                "id": 67484593,
+                "name": "Temporary Building",
+                "type": "nan",
+                "latitude": 51.523908200296795,
+                "longitude": -0.04168270772463614
+            },
+            {
+                "id": 67901225,
+                "name": "Informatics Teaching Laboratory",
+                "type": "nan",
+                "latitude": 51.52284360000001,
+                "longitude": -0.04326189999999957
+            },
+            {
+                "id": 234976066,
+                "name": "Engineering Building",
+                "type": "nan",
+                "latitude": 51.52279738669499,
+                "longitude": -0.041989522112561684
+            },
+            {
+                "id": 397419888,
+                "name": "Graduate Centre",
+                "type": "nan",
+                "latitude": 51.52328435587661,
+                "longitude": -0.04158744790940423
+            },
+            {
+                "id": 662754054,
+                "name": "The Octagon",
+                "type": "nan",
+                "latitude": 51.52388859157192,
+                "longitude": -0.04090061038555006
+            },
+            {
+                "id": 1208468848,
+                "name": "QMUL Observatory",
+                "type": "nan",
+                "latitude": 51.52386384971033,
+                "longitude": -0.040161739368471
+            },
+            {
+                "id": 1208724715,
+                "name": "People's Palace",
+                "type": "nan",
+                "latitude": 51.52311325150006,
+                "longitude": -0.040995581811293376
+            },
+            {
+                "id": 1210540324,
+                "name": "Maynard House",
+                "type": "nan",
+                "latitude": 51.52512873229187,
+                "longitude": -0.03868679143105487
+            },
+            {
+                "id": 1210752813,
+                "name": "Chesney House",
+                "type": "nan",
+                "latitude": 51.52537316921014,
+                "longitude": -0.038611464029641065
+            },
+            {
+                "id": 1210752814,
+                "name": "Chapman House",
+                "type": "nan",
+                "latitude": 51.525130965327385,
+                "longitude": -0.038340027934219034
+            },
+            {
+                "id": 1210826233,
+                "name": "Peter Landin Building",
+                "type": "nan",
+                "latitude": 51.52311065992631,
+                "longitude": -0.04338058882483572
+            },
+            {
+                "id": 1210826234,
+                "name": "Bancroft Road Teaching Rooms",
+                "type": "nan",
+                "latitude": 51.52324038352929,
+                "longitude": -0.04261880739192759
+            },
+            {
+                "id": 1210826235,
+                "name": "Union Shop",
+                "type": "nan",
+                "latitude": 51.523043175251566,
+                "longitude": -0.04250644855889552
+            },
+            {
+                "id": 1210996700,
+                "name": "Albert Stern House",
+                "type": "nan",
+                "latitude": 51.52245702096392,
+                "longitude": -0.04398388455279627
+            },
+            {
+                "id": 1214428298,
+                "name": "Albert Stern Cottages",
+                "type": "nan",
+                "latitude": 51.52271594732623,
+                "longitude": -0.04353763867907979
+            },
+            {
+                "id": 1214530900,
+                "name": "Scape Canalside",
+                "type": "nan",
+                "latitude": 51.52692585899733,
+                "longitude": -0.04116451728389502
+            },
+            {
+                "id": 1225225548,
+                "name": "QMUL Security Office",
+                "type": "nan",
+                "latitude": 51.52427805,
+                "longitude": -0.037439599999999996
+            },
+            {
+                "id": 16340161,
+                "name": "Queens' Building",
+                "type": "nan",
+                "latitude": 51.523631290646605,
+                "longitude": -0.040675061598453494
+            },
+            {
+                "id": 16382293,
+                "name": "Ifor Evans Place",
+                "type": "nan",
+                "latitude": 51.52247092209122,
+                "longitude": -0.0436640456607274
+            },
+            {
+                "id": 16460688,
+                "name": "Frances House",
+                "type": "nan",
+                "latitude": 51.52624847664439,
+                "longitude": -0.03958613637272643
+            },
+            {
+                "id": 16473551,
+                "name": "Arts Two",
+                "type": "nan",
+                "latitude": 51.52379135679468,
+                "longitude": -0.038641099896061
+            }
+        ]
+    }
+}

@@ -1,0 +1,355 @@
+{
+    "id": 7200541828527252958,
+    "name": "复旦大学",
+    "address": "中国上海市杨浦区邯郸路220号 邮政编码: 200437",
+    "rating": 4.5,
+    "popularity": 64,
+    "data_path": "map_data/university_map/Fudan_University",
+    "description": "复旦大学（英語：Fudan University），简称復旦，旧称復旦公學、國立復旦大學，始创于1905年，位于中国上海，是一所综合性研究型大学。复旦大学校名取自《尚书大传》之“日月光华，旦复旦兮”，表示取之不尽，用之不竭的自力更生和勤奋，更含不忘“震旦”之旧和复兴中华的意义。1917年始设大学部，1952年院系调整，苏、浙、皖、沪等地大批文理学科的专家学者调入复旦，复旦大学自此成为人文社会和自然科学的全国重镇。2000年与上海医科大学合并组建新的复旦大学。\n复旦大学是中华人民共和国文理综合排名拔尖的高校之一，現時屬於「QS世界百強大學」、「泰晤士高等教育世界百強大學」及「軟科世界百強大學」，是“双一流A类”和原“985工程”、原“211工程”重点建设大学，拥有邯郸、枫林、张江、江湾四大校区，中山、华山等18家附属医院（含筹）以及复旦附中等若干所附属学校和基礎教育集團。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7f/201704_Gate_of_Fudan_University_Jiangwan_Campus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/69/Chen_Wangdao.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/FuDanUni.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/FuDanZhangjiang.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/87/Fudan-building3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/Fudan-guanghualou.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/Fudan-xianghuitang.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fudan_University_Jiangwan_Campus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Fudanyanstatue.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Li_Denghui.jpg"
+    ],
+    "amenity": {
+        "affiliation": 7200541828527252958,
+        "amenity_list": [
+            {
+                "id": 5311523524,
+                "name": "复旦大学北区学生公寓南门",
+                "type": "school",
+                "latitude": 31.3011735,
+                "longitude": 121.4927119
+            },
+            {
+                "id": 5311531521,
+                "name": "管理学院",
+                "type": "college",
+                "latitude": 31.2984811,
+                "longitude": 121.5016651
+            },
+            {
+                "id": 71461973,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 31.300677085948255,
+                "longitude": 121.49872800521908
+            },
+            {
+                "id": 301674314,
+                "name": "复旦大学理科图书馆",
+                "type": "library",
+                "latitude": 31.29925032644226,
+                "longitude": 121.49835042595329
+            },
+            {
+                "id": 301674317,
+                "name": "本部食堂",
+                "type": "restaurant",
+                "latitude": 31.303044682300715,
+                "longitude": 121.50193668554752
+            },
+            {
+                "id": 302928372,
+                "name": "美国研究中心",
+                "type": "college",
+                "latitude": 31.29750218712975,
+                "longitude": 121.4989998673543
+            },
+            {
+                "id": 302928373,
+                "name": "复旦南区食堂",
+                "type": "restaurant",
+                "latitude": 31.29397355745314,
+                "longitude": 121.49551060532154
+            },
+            {
+                "id": 14884533,
+                "name": "复旦大学附属小学",
+                "type": "school",
+                "latitude": 31.29428236126746,
+                "longitude": 121.50096462053527
+            },
+            {
+                "id": 14884543,
+                "name": "复旦大学附属中学",
+                "type": "school",
+                "latitude": 31.292671698734534,
+                "longitude": 121.50154584304285
+            },
+            {
+                "id": 52519809,
+                "name": "第二教学楼",
+                "type": "nan",
+                "latitude": 31.29964602589001,
+                "longitude": 121.49991945396367
+            },
+            {
+                "id": 52519829,
+                "name": "第三教学楼",
+                "type": "nan",
+                "latitude": 31.300064736923915,
+                "longitude": 121.49993627984065
+            },
+            {
+                "id": 52519858,
+                "name": "一号楼",
+                "type": "nan",
+                "latitude": 31.30055775,
+                "longitude": 121.50291835
+            },
+            {
+                "id": 52519921,
+                "name": "二号楼",
+                "type": "nan",
+                "latitude": 31.300241299999996,
+                "longitude": 121.5019384
+            },
+            {
+                "id": 52519928,
+                "name": "三号楼",
+                "type": "nan",
+                "latitude": 31.30001001202484,
+                "longitude": 121.50110080962827
+            },
+            {
+                "id": 52519929,
+                "name": "七号楼",
+                "type": "nan",
+                "latitude": 31.300373212024713,
+                "longitude": 121.50094425962192
+            },
+            {
+                "id": 52519932,
+                "name": "六号楼",
+                "type": "nan",
+                "latitude": 31.30061456181183,
+                "longitude": 121.50178877853538
+            },
+            {
+                "id": 72250075,
+                "name": "复旦招待所",
+                "type": "nan",
+                "latitude": 31.29687420571888,
+                "longitude": 121.50164839199215
+            },
+            {
+                "id": 72250080,
+                "name": "宿舍0号楼",
+                "type": "nan",
+                "latitude": 31.29662210510506,
+                "longitude": 121.5018012404825
+            },
+            {
+                "id": 72259335,
+                "name": "游泳馆",
+                "type": "nan",
+                "latitude": 31.294297611836278,
+                "longitude": 121.49798398008988
+            },
+            {
+                "id": 100234258,
+                "name": "第二生物楼",
+                "type": "nan",
+                "latitude": 31.30128353310569,
+                "longitude": 121.49960372509773
+            },
+            {
+                "id": 100234317,
+                "name": "计算中心",
+                "type": "nan",
+                "latitude": 31.30177006493023,
+                "longitude": 121.49936140424721
+            },
+            {
+                "id": 193057314,
+                "name": "北区食堂",
+                "type": "nan",
+                "latitude": 31.303299499999998,
+                "longitude": 121.49271265
+            },
+            {
+                "id": 244262924,
+                "name": "第四教学楼",
+                "type": "nan",
+                "latitude": 31.30050337087109,
+                "longitude": 121.49698983169635
+            },
+            {
+                "id": 296012277,
+                "name": "正大集团体育馆",
+                "type": "nan",
+                "latitude": 31.29465755702093,
+                "longitude": 121.49925439704519
+            },
+            {
+                "id": 301674303,
+                "name": "五号楼",
+                "type": "nan",
+                "latitude": 31.300129994063724,
+                "longitude": 121.50298275266677
+            },
+            {
+                "id": 301674304,
+                "name": "光华楼",
+                "type": "nan",
+                "latitude": 31.301966079392866,
+                "longitude": 121.50085543088714
+            },
+            {
+                "id": 301674305,
+                "name": "八号楼",
+                "type": "nan",
+                "latitude": 31.301343305914642,
+                "longitude": 121.50258965438765
+            },
+            {
+                "id": 301674307,
+                "name": "化学楼",
+                "type": "nan",
+                "latitude": 31.300206415502625,
+                "longitude": 121.49795801040484
+            },
+            {
+                "id": 301674308,
+                "name": "十一号楼",
+                "type": "nan",
+                "latitude": 31.301821186479355,
+                "longitude": 121.50240156048422
+            },
+            {
+                "id": 301674309,
+                "name": "十号楼",
+                "type": "nan",
+                "latitude": 31.301735033729383,
+                "longitude": 121.50300366656357
+            },
+            {
+                "id": 301674310,
+                "name": "卿云楼",
+                "type": "nan",
+                "latitude": 31.300463554311612,
+                "longitude": 121.50369687617561
+            },
+            {
+                "id": 301674311,
+                "name": "叶耀珍楼",
+                "type": "nan",
+                "latitude": 31.29942093946874,
+                "longitude": 121.50099058375051
+            },
+            {
+                "id": 301674312,
+                "name": "四号楼",
+                "type": "nan",
+                "latitude": 31.30103653246189,
+                "longitude": 121.50343253552938
+            },
+            {
+                "id": 301674315,
+                "name": "学生服务站",
+                "type": "nan",
+                "latitude": 31.30089578232581,
+                "longitude": 121.5028625772179
+            },
+            {
+                "id": 301674316,
+                "name": "恒隆物理楼",
+                "type": "nan",
+                "latitude": 31.300960817992767,
+                "longitude": 121.49857080757651
+            },
+            {
+                "id": 301674318,
+                "name": "正大发展中心",
+                "type": "nan",
+                "latitude": 31.300130630818074,
+                "longitude": 121.5036993692247
+            },
+            {
+                "id": 301674319,
+                "name": "立人生物楼",
+                "type": "nan",
+                "latitude": 31.300706255263613,
+                "longitude": 121.49959302022673
+            },
+            {
+                "id": 302226353,
+                "name": "Fudan Foreign Student Dormitory, Main Building",
+                "type": "nan",
+                "latitude": 31.304457200556648,
+                "longitude": 121.49122215964634
+            },
+            {
+                "id": 302897772,
+                "name": "光学楼",
+                "type": "nan",
+                "latitude": 31.2998359664603,
+                "longitude": 121.4970373694905
+            },
+            {
+                "id": 302897790,
+                "name": "逸夫楼",
+                "type": "nan",
+                "latitude": 31.30128500734944,
+                "longitude": 121.49723611903592
+            },
+            {
+                "id": 302897793,
+                "name": "逸夫科技楼",
+                "type": "nan",
+                "latitude": 31.300180011224565,
+                "longitude": 121.4962622672912
+            },
+            {
+                "id": 302928370,
+                "name": "青书馆",
+                "type": "nan",
+                "latitude": 31.302810524572248,
+                "longitude": 121.49351111872336
+            },
+            {
+                "id": 302928384,
+                "name": "遗传学楼",
+                "type": "nan",
+                "latitude": 31.301425417916587,
+                "longitude": 121.49646816837571
+            },
+            {
+                "id": 641471721,
+                "name": "泛海楼",
+                "type": "nan",
+                "latitude": 31.29687699158957,
+                "longitude": 121.49925617570184
+            },
+            {
+                "id": 729110439,
+                "name": "第六教学楼",
+                "type": "nan",
+                "latitude": 31.2969854132198,
+                "longitude": 121.49998896218
+            },
+            {
+                "id": 14884526,
+                "name": "文科楼",
+                "type": "nan",
+                "latitude": 31.29776327762556,
+                "longitude": 121.4998175651791
+            },
+            {
+                "id": 14884527,
+                "name": "第五教学楼",
+                "type": "nan",
+                "latitude": 31.29745705059891,
+                "longitude": 121.5000044759873
+            }
+        ]
+    }
+}

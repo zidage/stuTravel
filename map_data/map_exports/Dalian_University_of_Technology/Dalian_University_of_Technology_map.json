@@ -1,0 +1,301 @@
+{
+    "id": -6599258472970635498,
+    "name": "大连理工大学",
+    "address": "中国辽宁省大连市甘井子区凌工路2号 邮政编码: 116024",
+    "rating": 4.7,
+    "popularity": 80,
+    "data_path": "map_data/university_map/Dalian_University_of_Technology",
+    "description": "大连理工大学（英語：Dalian University of Technology，缩写：DUT，曾使用DLUT），简称大工，创立于1949年4月15日，是直隶于中华人民共和国教育部的一所党委书记和校长列入中央管理的重点大学。\n大连理工大学是中华人民共和国重点大学之一，是“双一流A类”和原“985工程”、“211工程”重点建设大学。大连理工大学现有三个校区，分别位于辽宁省大连市（甘井子区、经济技术开发区）和辽宁省盘锦市。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Autumn_foliage_in_Dalian_University_of_Technology.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/DUT_library.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/Dalian_University_of_Technology_-_Science_Park_B_Bldg.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Dalian_University_of_Technology_-_South_Gate.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lingxi_Library.JPG"
+    ],
+    "amenity": {
+        "affiliation": -6599258472970635498,
+        "amenity_list": [
+            {
+                "id": 4571085196,
+                "name": "理工大学",
+                "type": "school",
+                "latitude": 38.8782179,
+                "longitude": 121.5229422
+            },
+            {
+                "id": 5118827622,
+                "name": "可能感兴趣的地点",
+                "type": "restaurant",
+                "latitude": 38.8787866,
+                "longitude": 121.5176799
+            },
+            {
+                "id": 300184006,
+                "name": "大工食府",
+                "type": "restaurant",
+                "latitude": 38.88057115,
+                "longitude": 121.5245502
+            },
+            {
+                "id": 300184007,
+                "name": "教工食堂",
+                "type": "restaurant",
+                "latitude": 38.8806085,
+                "longitude": 121.5253788
+            },
+            {
+                "id": 547582634,
+                "name": "音乐喷泉",
+                "type": "fountain",
+                "latitude": 38.87693123051372,
+                "longitude": 121.52414290469298
+            },
+            {
+                "id": 233806531,
+                "name": "刘长春体育馆",
+                "type": "nan",
+                "latitude": 38.87671982511542,
+                "longitude": 121.52668121137242
+            },
+            {
+                "id": 277568583,
+                "name": "研究生教学楼",
+                "type": "nan",
+                "latitude": 38.88572969842881,
+                "longitude": 121.52672387637337
+            },
+            {
+                "id": 300178449,
+                "name": "土木实验3、4号楼",
+                "type": "nan",
+                "latitude": 38.87956984007004,
+                "longitude": 121.52407686561313
+            },
+            {
+                "id": 300180511,
+                "name": "网络信息中心",
+                "type": "nan",
+                "latitude": 38.878886767781324,
+                "longitude": 121.52441534455771
+            },
+            {
+                "id": 300180512,
+                "name": "主楼西侧楼",
+                "type": "nan",
+                "latitude": 38.87854536245605,
+                "longitude": 121.52213086988336
+            },
+            {
+                "id": 300180514,
+                "name": "主楼东侧楼",
+                "type": "nan",
+                "latitude": 38.87857032491124,
+                "longitude": 121.52373999954887
+            },
+            {
+                "id": 300180515,
+                "name": "管理与经济学部",
+                "type": "nan",
+                "latitude": 38.878094974739845,
+                "longitude": 121.5243962469587
+            },
+            {
+                "id": 300180517,
+                "name": "伯川图书馆",
+                "type": "nan",
+                "latitude": 38.87707025927135,
+                "longitude": 121.52297711032514
+            },
+            {
+                "id": 300180522,
+                "name": "山上礼堂",
+                "type": "nan",
+                "latitude": 38.882180563141674,
+                "longitude": 121.52380662467239
+            },
+            {
+                "id": 300180523,
+                "name": "大工书店",
+                "type": "nan",
+                "latitude": 38.8802685816961,
+                "longitude": 121.52451006465495
+            },
+            {
+                "id": 304475349,
+                "name": "大连理工大学第一教学馆",
+                "type": "nan",
+                "latitude": 38.879586575288286,
+                "longitude": 121.52239845446724
+            },
+            {
+                "id": 477992099,
+                "name": "教工食堂",
+                "type": "restaurant",
+                "latitude": 38.880616025807846,
+                "longitude": 121.52564307354619
+            },
+            {
+                "id": 543818280,
+                "name": "大连理工大学校医院",
+                "type": "nan",
+                "latitude": 38.879382183774084,
+                "longitude": 121.52005185108833
+            },
+            {
+                "id": 543818281,
+                "name": "大工9舍",
+                "type": "nan",
+                "latitude": 38.87872808271751,
+                "longitude": 121.51922612363472
+            },
+            {
+                "id": 543818282,
+                "name": "大工4舍",
+                "type": "nan",
+                "latitude": 38.87969856903721,
+                "longitude": 121.5167595992013
+            },
+            {
+                "id": 543818283,
+                "name": "大工5舍",
+                "type": "nan",
+                "latitude": 38.87974535000001,
+                "longitude": 121.51741235000001
+            },
+            {
+                "id": 543818284,
+                "name": "大工6舍",
+                "type": "nan",
+                "latitude": 38.879795654349905,
+                "longitude": 121.51801601907727
+            },
+            {
+                "id": 543818285,
+                "name": "大工7舍",
+                "type": "nan",
+                "latitude": 38.8798526,
+                "longitude": 121.51860709999998
+            },
+            {
+                "id": 543818286,
+                "name": "大工8舍",
+                "type": "nan",
+                "latitude": 38.879920397748556,
+                "longitude": 121.5191309139052
+            },
+            {
+                "id": 543818287,
+                "name": "大工1舍",
+                "type": "nan",
+                "latitude": 38.880816450000005,
+                "longitude": 121.51665739999997
+            },
+            {
+                "id": 543818288,
+                "name": "大工2舍",
+                "type": "nan",
+                "latitude": 38.88076542947109,
+                "longitude": 121.51726132076095
+            },
+            {
+                "id": 543818289,
+                "name": "大工3舍",
+                "type": "nan",
+                "latitude": 38.88092846974184,
+                "longitude": 121.51780324885375
+            },
+            {
+                "id": 543818290,
+                "name": "大工16舍",
+                "type": "nan",
+                "latitude": 38.88143868958732,
+                "longitude": 121.51690608933802
+            },
+            {
+                "id": 543818292,
+                "name": "文科综合实验楼",
+                "type": "nan",
+                "latitude": 38.8795853020269,
+                "longitude": 121.5210432448533
+            },
+            {
+                "id": 544330656,
+                "name": "五食堂",
+                "type": "nan",
+                "latitude": 38.881927178443824,
+                "longitude": 121.51734246912272
+            },
+            {
+                "id": 544330659,
+                "name": "西部综合楼",
+                "type": "nan",
+                "latitude": 38.882142460360974,
+                "longitude": 121.51335873329181
+            },
+            {
+                "id": 544330661,
+                "name": "令希图书馆",
+                "type": "nan",
+                "latitude": 38.8831879158859,
+                "longitude": 121.5120437963191
+            },
+            {
+                "id": 547580516,
+                "name": "主楼",
+                "type": "nan",
+                "latitude": 38.878760715881356,
+                "longitude": 121.52293835441797
+            },
+            {
+                "id": 547580519,
+                "name": "六角楼",
+                "type": "nan",
+                "latitude": 38.8782511628568,
+                "longitude": 121.5241467620878
+            },
+            {
+                "id": 601992796,
+                "name": "民勇购物中心",
+                "type": "nan",
+                "latitude": 38.87906181869073,
+                "longitude": 121.52032245060043
+            },
+            {
+                "id": 631277944,
+                "name": "第二教学馆",
+                "type": "nan",
+                "latitude": 38.88033009212622,
+                "longitude": 121.5214885793665
+            },
+            {
+                "id": 631277945,
+                "name": "建筑与艺术学院",
+                "type": "nan",
+                "latitude": 38.88102995724356,
+                "longitude": 121.52103766326948
+            },
+            {
+                "id": 631277946,
+                "name": "建管",
+                "type": "nan",
+                "latitude": 38.88126440066706,
+                "longitude": 121.52084698699954
+            },
+            {
+                "id": 631277947,
+                "name": "理科综合教学楼1号",
+                "type": "nan",
+                "latitude": 38.88244073555879,
+                "longitude": 121.5213923477004
+            },
+            {
+                "id": 12166305,
+                "name": "八角楼(化学楼)",
+                "type": "nan",
+                "latitude": 38.88393556217876,
+                "longitude": 121.5230973069265
+            }
+        ]
+    }
+}

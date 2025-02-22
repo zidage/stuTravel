@@ -1,0 +1,404 @@
+{
+    "id": -1990544702664874404,
+    "name": "浅草寺",
+    "address": "2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032日本",
+    "rating": 4.5,
+    "popularity": 100,
+    "data_path": "map_data/university_map/Sensō-ji",
+    "description": "淺草寺（日语：浅草寺／せんそうじ Sensō ji），正式名稱為金龍山淺草寺（日语：金龍山浅草寺／きんりゅうざんせんそうじ Kinryuuzan Sensō ji），位於日本東京都台東區淺草二丁目，是東京都内历史最悠久的寺院。山號為金龍山。供奉的本尊是聖觀音。原屬天台宗，於第二次世界大戰後獨立，成為聖觀音宗的總本山。觀音菩薩本尊通稱為「淺草觀音」。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/Asakusa_-_Senso-ji_35_%2815576702197%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c1/Asakusa_shrine_2012.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Hozomon_012006.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nakamise1411.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Overview_of_Sensoji_temple.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/People_at_the_Asakusa_Sensoji_Kaminarimon_entrance.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/Senso-ji_main_hall_012006.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bd/Senso-ji_pagoda_phone_booths.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sensoji_2012.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/Sensoji_Dragon_Fountain.JPG"
+    ],
+    "amenity": {
+        "affiliation": -1990544702664874404,
+        "amenity_list": [
+            {
+                "id": 1138633139,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 35.7137278,
+                "longitude": 139.7973588
+            },
+            {
+                "id": 1420788062,
+                "name": "浅草警察署観音前交番",
+                "type": "police",
+                "latitude": 35.7140387,
+                "longitude": 139.797313
+            },
+            {
+                "id": 4394732392,
+                "name": "厚生堂",
+                "type": "pharmacy",
+                "latitude": 35.7137701,
+                "longitude": 139.7943038
+            },
+            {
+                "id": 4484927297,
+                "name": "淺草炸肉餅",
+                "type": "fast_food",
+                "latitude": 35.7128926,
+                "longitude": 139.7960905
+            },
+            {
+                "id": 5992480085,
+                "name": "Poulet comme à Taiwan",
+                "type": "fast_food",
+                "latitude": 35.7129073,
+                "longitude": 139.7961848
+            },
+            {
+                "id": 6328333334,
+                "name": "Asakusa Menchi",
+                "type": "fast_food",
+                "latitude": 35.712893,
+                "longitude": 139.7960619
+            },
+            {
+                "id": 6766582689,
+                "name": "舟和",
+                "type": "restaurant",
+                "latitude": 35.7119145,
+                "longitude": 139.7963792
+            },
+            {
+                "id": 7464471785,
+                "name": "舟和 仲見世 3号店",
+                "type": "ice_cream",
+                "latitude": 35.7118805,
+                "longitude": 139.7963763
+            },
+            {
+                "id": 9210612464,
+                "name": "浅草ちょうちんもなか",
+                "type": "ice_cream",
+                "latitude": 35.7130451,
+                "longitude": 139.7966363
+            },
+            {
+                "id": 10314186105,
+                "name": "壱番屋",
+                "type": "fast_food",
+                "latitude": 35.7123385,
+                "longitude": 139.7965638
+            },
+            {
+                "id": 11443276299,
+                "name": "君塚食堂",
+                "type": "restaurant",
+                "latitude": 35.7141934,
+                "longitude": 139.7947549
+            },
+            {
+                "id": 11443276300,
+                "name": "もちにゃん焼き",
+                "type": "fast_food",
+                "latitude": 35.7141588,
+                "longitude": 139.7945809
+            },
+            {
+                "id": 11840959517,
+                "name": "酒場 山加商店",
+                "type": "pub",
+                "latitude": 35.71302,
+                "longitude": 139.7944432
+            },
+            {
+                "id": 11840959518,
+                "name": "とんちゃん",
+                "type": "pub",
+                "latitude": 35.7130783,
+                "longitude": 139.7944332
+            },
+            {
+                "id": 11840959519,
+                "name": "居酒屋高橋",
+                "type": "pub",
+                "latitude": 35.7131278,
+                "longitude": 139.7944238
+            },
+            {
+                "id": 11840959521,
+                "name": "まんげつ",
+                "type": "pub",
+                "latitude": 35.7132068,
+                "longitude": 139.794405
+            },
+            {
+                "id": 11840959522,
+                "name": "赤とんぼ",
+                "type": "pub",
+                "latitude": 35.713258,
+                "longitude": 139.7943983
+            },
+            {
+                "id": 11840959523,
+                "name": "もつくし",
+                "type": "pub",
+                "latitude": 35.7133336,
+                "longitude": 139.7943816
+            },
+            {
+                "id": 11840959528,
+                "name": "どん",
+                "type": "pub",
+                "latitude": 35.7134066,
+                "longitude": 139.7943715
+            },
+            {
+                "id": 11840959529,
+                "name": "とんぺい",
+                "type": "pub",
+                "latitude": 35.7134692,
+                "longitude": 139.7943564
+            },
+            {
+                "id": 11840959530,
+                "name": "居酒屋 めぐみ",
+                "type": "pub",
+                "latitude": 35.7135201,
+                "longitude": 139.794346
+            },
+            {
+                "id": 11840959531,
+                "name": "酒場ひろ",
+                "type": "pub",
+                "latitude": 35.7135569,
+                "longitude": 139.7943403
+            },
+            {
+                "id": 11840959533,
+                "name": "三幸",
+                "type": "pub",
+                "latitude": 35.7136287,
+                "longitude": 139.7943276
+            },
+            {
+                "id": 11840959534,
+                "name": "居酒屋浩司",
+                "type": "pub",
+                "latitude": 35.713693,
+                "longitude": 139.7943158
+            },
+            {
+                "id": 11888240321,
+                "name": "浅草 たこ丸",
+                "type": "pub",
+                "latitude": 35.7141171,
+                "longitude": 139.7945058
+            },
+            {
+                "id": 11888240322,
+                "name": "芋ぴっぴ。浅草店",
+                "type": "fast_food",
+                "latitude": 35.714085,
+                "longitude": 139.7944218
+            },
+            {
+                "id": 11888240325,
+                "name": "大衆酒蔵 あそこ",
+                "type": "pub",
+                "latitude": 35.713957,
+                "longitude": 139.7942702
+            },
+            {
+                "id": 11888240326,
+                "name": "浅草公園町会会館",
+                "type": "townhall",
+                "latitude": 35.7139113,
+                "longitude": 139.794283
+            },
+            {
+                "id": 11888240360,
+                "name": "居酒屋 七十里",
+                "type": "pub",
+                "latitude": 35.7138356,
+                "longitude": 139.7942924
+            },
+            {
+                "id": 92037459,
+                "name": "浅草神社",
+                "type": "place_of_worship",
+                "latitude": 35.71492880455957,
+                "longitude": 139.79750952176514
+            },
+            {
+                "id": 99157054,
+                "name": "淡島堂",
+                "type": "place_of_worship",
+                "latitude": 35.71495993972441,
+                "longitude": 139.79537710494702
+            },
+            {
+                "id": 173154794,
+                "name": "浅草警察署雷門交番",
+                "type": "police",
+                "latitude": 35.71102245,
+                "longitude": 139.79643870000004
+            },
+            {
+                "id": 173154820,
+                "name": "弁天堂(Benten-do)",
+                "type": "place_of_worship",
+                "latitude": 35.713410076723356,
+                "longitude": 139.79753844467803
+            },
+            {
+                "id": 173154847,
+                "name": "金龍山 浅草寺",
+                "type": "place_of_worship",
+                "latitude": 35.71395441083386,
+                "longitude": 139.79607970919852
+            },
+            {
+                "id": 846857509,
+                "name": "三峰神社",
+                "type": "place_of_worship",
+                "latitude": 35.71491094869693,
+                "longitude": 139.79581189855836
+            },
+            {
+                "id": 2313095,
+                "name": "浅草寺幼稚園",
+                "type": "kindergarten",
+                "latitude": 35.713368164211616,
+                "longitude": 139.79608745893958
+            },
+            {
+                "id": 91008673,
+                "name": "本堂",
+                "type": "nan",
+                "latitude": 35.71473552920723,
+                "longitude": 139.79674654882402
+            },
+            {
+                "id": 99153594,
+                "name": "ツルヤ",
+                "type": "nan",
+                "latitude": 35.7134295,
+                "longitude": 139.79667465
+            },
+            {
+                "id": 99175892,
+                "name": "鎮護堂",
+                "type": "nan",
+                "latitude": 35.71298320950017,
+                "longitude": 139.79465495766127
+            },
+            {
+                "id": 173154770,
+                "name": "五重塔",
+                "type": "nan",
+                "latitude": 35.714102406553,
+                "longitude": 139.796035476532
+            },
+            {
+                "id": 173154773,
+                "name": "六角堂",
+                "type": "nan",
+                "latitude": 35.71506279771236,
+                "longitude": 139.7958970293754
+            },
+            {
+                "id": 173154779,
+                "name": "浅草不動尊",
+                "type": "nan",
+                "latitude": 35.71370139897128,
+                "longitude": 139.79637618291426
+            },
+            {
+                "id": 173154781,
+                "name": "お水舎",
+                "type": "nan",
+                "latitude": 35.714353290719934,
+                "longitude": 139.79680700459056
+            },
+            {
+                "id": 173154817,
+                "name": "時の鐘",
+                "type": "nan",
+                "latitude": 35.71337187308205,
+                "longitude": 139.79738845582494
+            },
+            {
+                "id": 173154821,
+                "name": "影向堂",
+                "type": "nan",
+                "latitude": 35.715065487828504,
+                "longitude": 139.79610999244198
+            },
+            {
+                "id": 173154822,
+                "name": "橋本薬師堂",
+                "type": "nan",
+                "latitude": 35.71482752098054,
+                "longitude": 139.7958422564377
+            },
+            {
+                "id": 173154823,
+                "name": "石橋",
+                "type": "nan",
+                "latitude": 35.714820901311,
+                "longitude": 139.7962837472623
+            },
+            {
+                "id": 173154849,
+                "name": "雷門",
+                "type": "nan",
+                "latitude": 35.71113329543802,
+                "longitude": 139.79636829964008
+            },
+            {
+                "id": 573271561,
+                "name": "宝蔵門",
+                "type": "nan",
+                "latitude": 35.7139342714681,
+                "longitude": 139.79665722831507
+            },
+            {
+                "id": 675582866,
+                "name": "写経供養塔",
+                "type": "nan",
+                "latitude": 35.71476674886889,
+                "longitude": 139.79559404980242
+            },
+            {
+                "id": 846857508,
+                "name": "二天門",
+                "type": "nan",
+                "latitude": 35.71440552106791,
+                "longitude": 139.79756421046855
+            },
+            {
+                "id": 1095575311,
+                "name": "六地蔵石燈籠",
+                "type": "nan",
+                "latitude": 35.71484345955876,
+                "longitude": 139.79596876186324
+            },
+            {
+                "id": 1131941906,
+                "name": "銭塚弁財天",
+                "type": "nan",
+                "latitude": 35.71471595834894,
+                "longitude": 139.79619663886683
+            },
+            {
+                "id": 2313094,
+                "name": "伝法院",
+                "type": "nan",
+                "latitude": 35.71327928577858,
+                "longitude": 139.7953559662932
+            }
+        ]
+    }
+}

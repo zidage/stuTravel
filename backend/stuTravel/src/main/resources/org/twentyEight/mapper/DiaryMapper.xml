@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.twentyEight.mapper.DiaryMapper">
+    <select id="list" resultType="org.twentyEight.pojo.Diary">
+        select * from diary
+        <where>
+            <if test="placeId!=null">
+                and place_id = #{placeId}
+            </if>
+            <if test="state!=null">
+                and state=#{state}
+            </if>
+            <if test="title!=null and title!=''">
+                and title like concat('%', #{title}, '%')
+            </if>
+            and create_user=#{userId}
+        </where>
+    </select>
+    <select id="listCommunity" resultType="org.twentyEight.pojo.Diary">
+        select * from diary
+        <where>
+            <if test="placeId!=null">
+                and place_id = #{placeId}
+            </if>
+            and state != '草稿'
+            and state != '私密'
+        </where>
+    </select>
+    <select id="getByDiaryId" resultType="org.twentyEight.pojo.Diary">
+        select * from diary
+        <where>
+            id = #{id}
+            and state != '草稿'
+            and state != '私密'
+        </where>
+    </select>
+</mapper>

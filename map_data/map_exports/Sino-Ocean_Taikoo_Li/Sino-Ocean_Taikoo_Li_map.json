@@ -1,0 +1,145 @@
+{
+    "id": 5066613448701266394,
+    "name": "成都远洋太古里地下停车场出入口",
+    "address": "中国四川省成都市锦江区 81, 笔帖式街81号 邮政编码: 610023",
+    "rating": 0,
+    "popularity": 0,
+    "data_path": "map_data/university_map/Sino-Ocean_Taikoo_Li",
+    "description": "成都太古里，原指成都遠洋太古里（英語：Sino-Ocean Taikoo Li Chengdu），位於中国四川省成都市锦江区商业零售核心地段，并与春熙路购物商圈接壤，是一個总楼面面积逾12万平方米（逾131万平方英尺）的开放式、低密度的街区形态购物中心，由太古地產联合远洋地产發展。此項目於2015年4月下旬開幕，有約300間零售及餐飲商舖，及約800個車位。該項目毗邻千年古刹大慈寺、六座古建築及都会风尚酒店博舍与42间客房的服务式公寓。寫字樓部分與酒店皆為英國MAKE Architects設計作品，寫字樓命名為睿東中心。而此寫字樓則於2013年8月7日由發展商宣佈以約人民幣21億元售出。整个商业综合体楼面面积约26.9万平方米（逾290万平方英尺）。综合体与成都地铁2号线及3号线的换乘站春熙路站直接连通。2023年8月23日，太古地産宣佈將旗下位於成都的零售主導綜合發展項目正式更名爲「成都太古里」，取代項目原有名稱成都遠洋太古里。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/Apple_Tai_Koo_Li_Chengdu.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Chengdu_Xinlu.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/0/01/Historical_Residence_on_Bitieshi_Street.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c9/Sino-Ocean_Taikoo_Li_Chengdu.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C-%E6%88%90%E9%83%BD%E4%B8%9C%E5%A4%A7%E8%A1%97%E8%A1%97%E6%99%AF1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5d/%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C-%E6%88%90%E9%83%BD%E5%A4%A7%E6%85%88%E5%AF%BA%E8%A1%97%E6%99%AF1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%97%A5%E9%97%B4%E5%85%A8%E6%99%AF1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/55/%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E8%A1%97%E6%99%AF1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bc/%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E8%A1%97%E6%99%AF4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/94/%E6%96%B9%E6%89%80%E6%88%90%E9%83%BD%E5%BA%97%E4%B8%80%E5%B1%82.jpg"
+    ],
+    "amenity": {
+        "affiliation": 5066613448701266394,
+        "amenity_list": [
+            {
+                "id": 4384857029,
+                "name": "可能感兴趣的地点",
+                "type": "restaurant",
+                "latitude": 30.6559772,
+                "longitude": 104.0812236
+            },
+            {
+                "id": 4807025021,
+                "name": "鼎太丰",
+                "type": "restaurant",
+                "latitude": 30.6542329,
+                "longitude": 104.0822163
+            },
+            {
+                "id": 6127624880,
+                "name": "太平洋咖啡",
+                "type": "cafe",
+                "latitude": 30.6544664,
+                "longitude": 104.0818228
+            },
+            {
+                "id": 6127624881,
+                "name": "Baker & Spice",
+                "type": "cafe",
+                "latitude": 30.6541238,
+                "longitude": 104.0813682
+            },
+            {
+                "id": 6127624886,
+                "name": "The Abbaye",
+                "type": "restaurant",
+                "latitude": 30.6553634,
+                "longitude": 104.0817658
+            },
+            {
+                "id": 6127624888,
+                "name": "Blue Frog",
+                "type": "restaurant",
+                "latitude": 30.6566509,
+                "longitude": 104.0821762
+            },
+            {
+                "id": 6127624902,
+                "name": "Joybox",
+                "type": "restaurant",
+                "latitude": 30.6564721,
+                "longitude": 104.0803027
+            },
+            {
+                "id": 6127624903,
+                "name": "Let's Seafood",
+                "type": "restaurant",
+                "latitude": 30.656742,
+                "longitude": 104.0805521
+            },
+            {
+                "id": 6127624906,
+                "name": "KABB",
+                "type": "restaurant",
+                "latitude": 30.657252,
+                "longitude": 104.0809115
+            },
+            {
+                "id": 6830610781,
+                "name": "Grappa's",
+                "type": "restaurant",
+                "latitude": 30.6553496,
+                "longitude": 104.0803684
+            },
+            {
+                "id": 1252255142,
+                "name": "大雄宝殿",
+                "type": "place_of_worship",
+                "latitude": 30.656957935699964,
+                "longitude": 104.08139584605877
+            },
+            {
+                "id": 1252255147,
+                "name": "藏经楼",
+                "type": "place_of_worship",
+                "latitude": 30.65727184147753,
+                "longitude": 104.08160530858186
+            },
+            {
+                "id": 653814061,
+                "name": "The Temple House",
+                "type": "nan",
+                "latitude": 30.65422611521442,
+                "longitude": 104.08168678379087
+            },
+            {
+                "id": 653814091,
+                "name": "观音殿",
+                "type": "nan",
+                "latitude": 30.656550749999997,
+                "longitude": 104.081149
+            },
+            {
+                "id": 653814092,
+                "name": "药师殿",
+                "type": "nan",
+                "latitude": 30.656249349999996,
+                "longitude": 104.08096315000002
+            },
+            {
+                "id": 653870400,
+                "name": "弥勒殿",
+                "type": "nan",
+                "latitude": 30.656058840991154,
+                "longitude": 104.0808410571339
+            },
+            {
+                "id": 653870403,
+                "name": "祈福殿",
+                "type": "nan",
+                "latitude": 30.657158050000003,
+                "longitude": 104.08108605
+            }
+        ]
+    }
+}

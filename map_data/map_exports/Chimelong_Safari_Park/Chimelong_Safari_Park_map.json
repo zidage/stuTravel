@@ -1,0 +1,54 @@
+{
+    "id": -7212231104968024770,
+    "name": "广州长隆野生动物世界（正门）",
+    "address": "中国广东省广州市番禺区105国道 邮政编码: 511445",
+    "rating": 4.5,
+    "popularity": 72,
+    "data_path": "map_data/university_map/Chimelong_Safari_Park",
+    "description": "上海野生动物园是由中國上海市人民政府和国家林业局合作建设的中国首座国家级野生动物园，位于上海市浦东新区宣桥镇南六公路178号，占地153公顷（2,300亩），距上海市中心约35公里。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/cf/Shanghai_Wild_Animal_Park.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7f/Shanghai_Wild_Animal_Park_Car_Park.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b0/Shanghai_Wild_Animal_Park_Main_Entrance.jpg"
+    ],
+    "amenity": {
+        "affiliation": -7212231104968024770,
+        "amenity_list": [
+            {
+                "id": 2708228432,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 23.0015453,
+                "longitude": 113.3149783
+            },
+            {
+                "id": 5334328193,
+                "name": "熊猫餐厅",
+                "type": "restaurant",
+                "latitude": 23.0020561,
+                "longitude": 113.3112836
+            },
+            {
+                "id": 5409070328,
+                "name": "考拉食街",
+                "type": "restaurant",
+                "latitude": 23.0025607,
+                "longitude": 113.3096645
+            },
+            {
+                "id": 5409070345,
+                "name": "飞禽餐厅",
+                "type": "restaurant",
+                "latitude": 23.0020738,
+                "longitude": 113.3125544
+            },
+            {
+                "id": 717928264,
+                "name": "小火车停车场",
+                "type": "parking",
+                "latitude": 23.009260250521777,
+                "longitude": 113.30859218393013
+            }
+        ]
+    }
+}

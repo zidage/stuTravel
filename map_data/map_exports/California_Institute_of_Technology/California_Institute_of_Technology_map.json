@@ -1,0 +1,734 @@
+{
+    "id": -838473767456653064,
+    "name": "加州理工学院",
+    "address": "1200 E California Blvd, Pasadena, CA 91125美国",
+    "rating": 4.7,
+    "popularity": 100,
+    "data_path": "map_data/university_map/California_Institute_of_Technology",
+    "description": "加州理工學院（英語：California Institute of Technology，縮寫：Caltech）是一所位於美國加利福尼亚州帕萨迪纳的私立研究型大學，創建於1891年，以自然科学及工程学著称，常被评为世界前十的大学之一，並與麻省理工學院、倫敦帝國理工學院、蘇黎世聯邦理工學院並稱世界四大理工學院。\n加州理工學院的規模不大，現有1204名研究生和977名本科生，約有300名教授以及超過600名研究學者。截止2020年10月，加州理工學院的校友、教授及研究人员中，共有40位校友或教授獲得41次諾貝爾獎（包括其他研究人员总人数达76人）、4位獲得菲爾茲獎、6位获得图灵奖，70位校友獲得美國國家科學獎章或國家技術與創新獎章，112位教授獲選為美國國家學院院士。另外，美國國家航空暨太空總署的噴射推進實驗室也是由加州理工學院管理。\n英國的《泰晤士高等教育》在2011-2012學年和2012-2013學年的評鑑中，都評加州理工學院為世界第一的大學。加州理工在《美國新聞與世界報道》的全美大學排名中，也常居前十名。而在物理學、行星科學、地球科學領域，加州理工学院被公認為全美领先。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/Annenberg_center.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Beckman_Institute_Reflection.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/Throop_Hall_at_Caltech%2C_in_Pasadena_%2800035486%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9d/Throop_Polytechnic_Institute%2C_Pasadena%2C_Calif.jpg"
+    ],
+    "amenity": {
+        "affiliation": -838473767456653064,
+        "amenity_list": [
+            {
+                "id": 566600648,
+                "name": "可能感兴趣的地点",
+                "type": "parking_entrance",
+                "latitude": 34.1340671,
+                "longitude": -118.126374
+            },
+            {
+                "id": 2030772619,
+                "name": "United States Post Office",
+                "type": "post_office",
+                "latitude": 34.1356057,
+                "longitude": -118.127028
+            },
+            {
+                "id": 9740631685,
+                "name": "Red Door Café",
+                "type": "restaurant",
+                "latitude": 34.1373494,
+                "longitude": -118.123925
+            },
+            {
+                "id": 30794560,
+                "name": "Parking Structure 2",
+                "type": "parking",
+                "latitude": 34.13859306265063,
+                "longitude": -118.12838434122507
+            },
+            {
+                "id": 30794564,
+                "name": "Parking Structure 1",
+                "type": "parking",
+                "latitude": 34.13988804677521,
+                "longitude": -118.12840498223689
+            },
+            {
+                "id": 44634948,
+                "name": "Lot 6",
+                "type": "parking",
+                "latitude": 34.13380207191046,
+                "longitude": -118.12550185888311
+            },
+            {
+                "id": 44634965,
+                "name": "Young Student Health Center",
+                "type": "doctors",
+                "latitude": 34.135292314791606,
+                "longitude": -118.12497546649683
+            },
+            {
+                "id": 44635080,
+                "name": "Fairchild Library",
+                "type": "library",
+                "latitude": 34.137347900917725,
+                "longitude": -118.1247971725388
+            },
+            {
+                "id": 44635188,
+                "name": "Athenaeum Parking Lot",
+                "type": "parking",
+                "latitude": 34.136264537219425,
+                "longitude": -118.12175243136295
+            },
+            {
+                "id": 44635204,
+                "name": "Lot 11",
+                "type": "parking",
+                "latitude": 34.13983652731944,
+                "longitude": -118.1255869417399
+            },
+            {
+                "id": 45094662,
+                "name": "Browne Café",
+                "type": "restaurant",
+                "latitude": 34.1376113853926,
+                "longitude": -118.12325213321529
+            },
+            {
+                "id": 45094949,
+                "name": "Gene Pool",
+                "type": "fountain",
+                "latitude": 34.139198624625614,
+                "longitude": -118.12616880658639
+            },
+            {
+                "id": 45095035,
+                "name": "Broad Cafe",
+                "type": "restaurant",
+                "latitude": 34.139716643536865,
+                "longitude": -118.12683740487546
+            },
+            {
+                "id": 192368807,
+                "name": "Caltech Employees Federal Credit Union",
+                "type": "bank",
+                "latitude": 34.137024828220895,
+                "longitude": -118.12831383405327
+            },
+            {
+                "id": 324978262,
+                "name": "Parking Structure 3",
+                "type": "parking",
+                "latitude": 34.13469141081293,
+                "longitude": -118.12632135283172
+            },
+            {
+                "id": 366446718,
+                "name": "Lot 7",
+                "type": "parking",
+                "latitude": 34.138462217380265,
+                "longitude": -118.1221242062363
+            },
+            {
+                "id": 468518105,
+                "name": "Tournament Park parking lot",
+                "type": "parking",
+                "latitude": 34.13255680835574,
+                "longitude": -118.12672967315707
+            },
+            {
+                "id": 1224939074,
+                "name": "Pasadena Fire Station 34",
+                "type": "fire_station",
+                "latitude": 34.14121499182765,
+                "longitude": -118.12241535289454
+            },
+            {
+                "id": 2761778927,
+                "name": "Caltech Childcare Center",
+                "type": "nan",
+                "latitude": 34.1346407,
+                "longitude": -118.1248551
+            },
+            {
+                "id": 30086690,
+                "name": "Broad Center",
+                "type": "nan",
+                "latitude": 34.139774012459135,
+                "longitude": -118.12738225802445
+            },
+            {
+                "id": 30086723,
+                "name": "Noyes Laboratory",
+                "type": "nan",
+                "latitude": 34.13845844512298,
+                "longitude": -118.12682655490846
+            },
+            {
+                "id": 30086726,
+                "name": "Beckman Laboratories",
+                "type": "nan",
+                "latitude": 34.13842620495752,
+                "longitude": -118.12589297849111
+            },
+            {
+                "id": 30086730,
+                "name": "Baxter Lecture Hall & Ramo Auditorium",
+                "type": "nan",
+                "latitude": 34.1384272019566,
+                "longitude": -118.12517128221255
+            },
+            {
+                "id": 30086742,
+                "name": "Beckman Auditorium",
+                "type": "nan",
+                "latitude": 34.1391905720413,
+                "longitude": -118.12554104266647
+            },
+            {
+                "id": 30086749,
+                "name": "Moore Laboratory",
+                "type": "nan",
+                "latitude": 34.139760331932784,
+                "longitude": -118.12469397916183
+            },
+            {
+                "id": 30086758,
+                "name": "Keck Laboratories",
+                "type": "nan",
+                "latitude": 34.138339502665104,
+                "longitude": -118.12475356405449
+            },
+            {
+                "id": 30086767,
+                "name": "Steele Laboratories",
+                "type": "nan",
+                "latitude": 34.13865198975658,
+                "longitude": -118.12416702673448
+            },
+            {
+                "id": 30086769,
+                "name": "Powell-Booth Laboratory for Computational Science",
+                "type": "nan",
+                "latitude": 34.13817615831805,
+                "longitude": -118.12418727880956
+            },
+            {
+                "id": 30086775,
+                "name": "Jorgensen Laboratory",
+                "type": "nan",
+                "latitude": 34.138233986634674,
+                "longitude": -118.12386774230521
+            },
+            {
+                "id": 32735305,
+                "name": "Venerable House",
+                "type": "nan",
+                "latitude": 34.13739805719077,
+                "longitude": -118.12256021249681
+            },
+            {
+                "id": 32735342,
+                "name": "Lloyd House",
+                "type": "nan",
+                "latitude": 34.13715809996249,
+                "longitude": -118.1228409940924
+            },
+            {
+                "id": 32735362,
+                "name": "Page House",
+                "type": "nan",
+                "latitude": 34.13724359094166,
+                "longitude": -118.12332568781127
+            },
+            {
+                "id": 32735459,
+                "name": "Dabney House",
+                "type": "nan",
+                "latitude": 34.136242316562,
+                "longitude": -118.12325849201638
+            },
+            {
+                "id": 32735471,
+                "name": "Blacker House",
+                "type": "nan",
+                "latitude": 34.13622324432469,
+                "longitude": -118.12263383046636
+            },
+            {
+                "id": 44634949,
+                "name": "Brown Gym",
+                "type": "nan",
+                "latitude": 34.13380063568636,
+                "longitude": -118.12612879923874
+            },
+            {
+                "id": 44634950,
+                "name": "Braun Athletic Center",
+                "type": "nan",
+                "latitude": 34.13387917147532,
+                "longitude": -118.12750758556477
+            },
+            {
+                "id": 44634962,
+                "name": "Marks House",
+                "type": "nan",
+                "latitude": 34.13807418582432,
+                "longitude": -118.12191672361891
+            },
+            {
+                "id": 44634969,
+                "name": "Keith Spalding",
+                "type": "nan",
+                "latitude": 34.13562871037727,
+                "longitude": -118.12731256465095
+            },
+            {
+                "id": 44634973,
+                "name": "Cahill Center",
+                "type": "nan",
+                "latitude": 34.1355607900729,
+                "longitude": -118.12627180676812
+            },
+            {
+                "id": 44634983,
+                "name": "Central Engineering",
+                "type": "nan",
+                "latitude": 34.139304985183955,
+                "longitude": -118.12344442701355
+            },
+            {
+                "id": 44634987,
+                "name": "HR",
+                "type": "nan",
+                "latitude": 34.13840612354638,
+                "longitude": -118.12328642475072
+            },
+            {
+                "id": 44634991,
+                "name": "Center for Student Services",
+                "type": "nan",
+                "latitude": 34.1385125691564,
+                "longitude": -118.12249356024893
+            },
+            {
+                "id": 44634995,
+                "name": "Braun House",
+                "type": "nan",
+                "latitude": 34.13805950945941,
+                "longitude": -118.12237107330296
+            },
+            {
+                "id": 44634999,
+                "name": "Gates Annex",
+                "type": "nan",
+                "latitude": 34.1372491314329,
+                "longitude": -118.12613261108667
+            },
+            {
+                "id": 44635003,
+                "name": "Braun Labs",
+                "type": "nan",
+                "latitude": 34.13808737962387,
+                "longitude": -118.12743974792625
+            },
+            {
+                "id": 44635008,
+                "name": "Schlinger",
+                "type": "nan",
+                "latitude": 34.13814308401542,
+                "longitude": -118.12638922696493
+            },
+            {
+                "id": 44635014,
+                "name": "Annenberg Center for Information Science and Technology",
+                "type": "nan",
+                "latitude": 34.13977488106714,
+                "longitude": -118.12384779054757
+            },
+            {
+                "id": 44635015,
+                "name": "Kerckhoff",
+                "type": "nan",
+                "latitude": 34.13712127087036,
+                "longitude": -118.12700705034919
+            },
+            {
+                "id": 44635017,
+                "name": "Church",
+                "type": "nan",
+                "latitude": 34.13751852001575,
+                "longitude": -118.12709718977705
+            },
+            {
+                "id": 44635022,
+                "name": "Alles",
+                "type": "nan",
+                "latitude": 34.13732070532738,
+                "longitude": -118.12720370665447
+            },
+            {
+                "id": 44635025,
+                "name": "Crellin",
+                "type": "nan",
+                "latitude": 34.13738345953395,
+                "longitude": -118.12638281380548
+            },
+            {
+                "id": 44635027,
+                "name": "Parsons-Gates",
+                "type": "nan",
+                "latitude": 34.13736612444347,
+                "longitude": -118.1259022801894
+            },
+            {
+                "id": 44635032,
+                "name": "South Mudd",
+                "type": "nan",
+                "latitude": 34.136221090379586,
+                "longitude": -118.12746409371825
+            },
+            {
+                "id": 44635046,
+                "name": "Arms Laboratory of the Geological Sciences",
+                "type": "nan",
+                "latitude": 34.13660246930735,
+                "longitude": -118.12664759045923
+            },
+            {
+                "id": 44635050,
+                "name": "Linde Laboratory for Global Environmental Science",
+                "type": "nan",
+                "latitude": 34.13636864012082,
+                "longitude": -118.1269899550278
+            },
+            {
+                "id": 44635051,
+                "name": "North Mudd",
+                "type": "nan",
+                "latitude": 34.13662422076496,
+                "longitude": -118.12733015635568
+            },
+            {
+                "id": 44635054,
+                "name": "Synchrotron Building",
+                "type": "nan",
+                "latitude": 34.136351931941114,
+                "longitude": -118.12390974516707
+            },
+            {
+                "id": 44635056,
+                "name": "Firestone Flight Sciences Laboratory",
+                "type": "nan",
+                "latitude": 34.136653356816204,
+                "longitude": -118.12392384915535
+            },
+            {
+                "id": 44635057,
+                "name": "Linde Hall of Mathematics and Physics",
+                "type": "nan",
+                "latitude": 34.13637398876175,
+                "longitude": -118.12538033829807
+            },
+            {
+                "id": 44635058,
+                "name": "Kellogg Radiation Laboratory",
+                "type": "nan",
+                "latitude": 34.13647430594639,
+                "longitude": -118.12514713939764
+            },
+            {
+                "id": 44635060,
+                "name": "Dabney Hall",
+                "type": "nan",
+                "latitude": 34.13732675659952,
+                "longitude": -118.12532872341129
+            },
+            {
+                "id": 44635061,
+                "name": "Guggenheim Aeronautical Laboratory",
+                "type": "nan",
+                "latitude": 34.136606816817405,
+                "longitude": -118.124509043504
+            },
+            {
+                "id": 44635062,
+                "name": "Kármán Laboratory of Fluid Mechanics and Jet Propulsion",
+                "type": "nan",
+                "latitude": 34.13645198519195,
+                "longitude": -118.124779904931
+            },
+            {
+                "id": 44635063,
+                "name": "Downs Laboratory of Physics",
+                "type": "nan",
+                "latitude": 34.136172758059956,
+                "longitude": -118.12467151618569
+            },
+            {
+                "id": 44635065,
+                "name": "Lauritsen Laboratory of High Energy Physics",
+                "type": "nan",
+                "latitude": 34.136171716308326,
+                "longitude": -118.12429479672676
+            },
+            {
+                "id": 44635068,
+                "name": "Caltech Hall",
+                "type": "nan",
+                "latitude": 34.136873233704314,
+                "longitude": -118.12608108201738
+            },
+            {
+                "id": 44635071,
+                "name": "Thomas",
+                "type": "nan",
+                "latitude": 34.13708194251912,
+                "longitude": -118.12454492617178
+            },
+            {
+                "id": 44635077,
+                "name": "Spalding",
+                "type": "nan",
+                "latitude": 34.13760948546956,
+                "longitude": -118.12453227219675
+            },
+            {
+                "id": 45420596,
+                "name": "Morrisroe",
+                "type": "nan",
+                "latitude": 34.133234154347576,
+                "longitude": -118.1276597293878
+            },
+            {
+                "id": 70859870,
+                "name": "Financial Services",
+                "type": "nan",
+                "latitude": 34.141159249999994,
+                "longitude": -118.12492115
+            },
+            {
+                "id": 70859874,
+                "name": "IMSS",
+                "type": "nan",
+                "latitude": 34.14148854248907,
+                "longitude": -118.12483642471524
+            },
+            {
+                "id": 70872433,
+                "name": "Tolman-Bacher House",
+                "type": "nan",
+                "latitude": 34.13974787076419,
+                "longitude": -118.12622952515629
+            },
+            {
+                "id": 123323785,
+                "name": "Bridge Laboratory of Physics East",
+                "type": "nan",
+                "latitude": 34.1363747530935,
+                "longitude": -118.12590980600717
+            },
+            {
+                "id": 123323786,
+                "name": "Bridge Laboratory of Physics West",
+                "type": "nan",
+                "latitude": 34.136375974413255,
+                "longitude": -118.12636477890125
+            },
+            {
+                "id": 123323788,
+                "name": "Bridge Laboratory of Physics Annex",
+                "type": "nan",
+                "latitude": 34.13644894850007,
+                "longitude": -118.1261375914812
+            },
+            {
+                "id": 160068426,
+                "name": "South Kitchens",
+                "type": "nan",
+                "latitude": 34.13643721189595,
+                "longitude": -118.1229438419767
+            },
+            {
+                "id": 160068428,
+                "name": "Munth",
+                "type": "nan",
+                "latitude": 34.14150934252048,
+                "longitude": -118.12171096921038
+            },
+            {
+                "id": 178860008,
+                "name": "Avery House",
+                "type": "nan",
+                "latitude": 34.139682973447584,
+                "longitude": -118.12323907682325
+            },
+            {
+                "id": 192368808,
+                "name": "Caltech Y (Tyson House)",
+                "type": "nan",
+                "latitude": 34.13721603424023,
+                "longitude": -118.12858385060278
+            },
+            {
+                "id": 192368814,
+                "name": "Audit Services and Institute Compliance Office",
+                "type": "nan",
+                "latitude": 34.13610934412403,
+                "longitude": -118.12831137483838
+            },
+            {
+                "id": 192368816,
+                "name": "Treasurer's Office",
+                "type": "nan",
+                "latitude": 34.13636176881488,
+                "longitude": -118.12831821379103
+            },
+            {
+                "id": 192368817,
+                "name": "US Geological Survey",
+                "type": "nan",
+                "latitude": 34.136780604179386,
+                "longitude": -118.12834967541832
+            },
+            {
+                "id": 192368822,
+                "name": "Fitzhugh House",
+                "type": "nan",
+                "latitude": 34.13658086665623,
+                "longitude": -118.12832273638854
+            },
+            {
+                "id": 192526724,
+                "name": "Parking and Security Office",
+                "type": "nan",
+                "latitude": 34.13704778818861,
+                "longitude": -118.12842405028249
+            },
+            {
+                "id": 326476342,
+                "name": "Watchtower",
+                "type": "nan",
+                "latitude": 34.13942400598053,
+                "longitude": -118.12835801510943
+            },
+            {
+                "id": 366446709,
+                "name": "Keck Center",
+                "type": "nan",
+                "latitude": 34.13983706087122,
+                "longitude": -118.12651527803366
+            },
+            {
+                "id": 366446713,
+                "name": "Caltech Children's Center",
+                "type": "nan",
+                "latitude": 34.134252392459885,
+                "longitude": -118.12523207014733
+            },
+            {
+                "id": 726013375,
+                "name": "Hameetman Center",
+                "type": "nan",
+                "latitude": 34.13725668840813,
+                "longitude": -118.12391330364875
+            },
+            {
+                "id": 857648974,
+                "name": "Central Catalina Common Room",
+                "type": "nan",
+                "latitude": 34.13970781800662,
+                "longitude": -118.12895438489791
+            },
+            {
+                "id": 1047787606,
+                "name": "Chen Neuroscience Research Building",
+                "type": "nan",
+                "latitude": 34.140426417407866,
+                "longitude": -118.12729115758204
+            },
+            {
+                "id": 1053224839,
+                "name": "North Catalina Recreation Room",
+                "type": "nan",
+                "latitude": 34.14024997479469,
+                "longitude": -118.12899430933892
+            },
+            {
+                "id": 1053224840,
+                "name": "South Catalina Common Room",
+                "type": "nan",
+                "latitude": 34.13858635661971,
+                "longitude": -118.12896692502869
+            },
+            {
+                "id": 1058026917,
+                "name": "AWS Center for Quantum Computing",
+                "type": "nan",
+                "latitude": 34.14066933191932,
+                "longitude": -118.12245286486447
+            },
+            {
+                "id": 1224939262,
+                "name": "The Barn",
+                "type": "nan",
+                "latitude": 34.1334974,
+                "longitude": -118.12545364999998
+            },
+            {
+                "id": 333928,
+                "name": "Beckman Institute",
+                "type": "nan",
+                "latitude": 34.139200371219765,
+                "longitude": -118.12672259564712
+            },
+            {
+                "id": 364262,
+                "name": "Avery House",
+                "type": "nan",
+                "latitude": 34.14050003360048,
+                "longitude": -118.12349569305567
+            },
+            {
+                "id": 364267,
+                "name": "The Athenaeum",
+                "type": "nan",
+                "latitude": 34.13683301005116,
+                "longitude": -118.12175581030725
+            },
+            {
+                "id": 7014245,
+                "name": "Del Mar Apartments",
+                "type": "nan",
+                "latitude": 34.14068419193312,
+                "longitude": -118.12627173407134
+            },
+            {
+                "id": 9162392,
+                "name": "Bechtel Residence",
+                "type": "nan",
+                "latitude": 34.1404794536231,
+                "longitude": -118.12455117665166
+            },
+            {
+                "id": 10129302,
+                "name": "Fleming House",
+                "type": "nan",
+                "latitude": 34.13656861606799,
+                "longitude": -118.12331533006106
+            },
+            {
+                "id": 10130305,
+                "name": "Ricketts House",
+                "type": "nan",
+                "latitude": 34.13654929490139,
+                "longitude": -118.12257597781027
+            },
+            {
+                "id": 10138079,
+                "name": "Watson Laboratories",
+                "type": "nan",
+                "latitude": 34.139201456272914,
+                "longitude": -118.12431276913641
+            }
+        ]
+    }
+}

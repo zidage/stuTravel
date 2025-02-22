@@ -1,0 +1,642 @@
+{
+    "id": -2482056510237430452,
+    "name": "霍普金斯大学",
+    "address": "Baltimore, MD 21218美国",
+    "rating": 4.3,
+    "popularity": 76,
+    "data_path": "map_data/university_map/Johns_Hopkins_University",
+    "description": "約翰斯·霍普金斯大學（英語：The Johns Hopkins University），简称霍普金斯（英語：Johns Hopkins、Hopkins或JHU），是一所主校区位於美國馬里蘭州巴爾的摩的研究型私立大學，1876年依據慈善家约翰斯·霍普金斯的遗嘱用其遗产建立。約翰斯·霍普金斯大學附設10個學院及主要分支機構，並在美国马里兰州、華府、義大利和中国设有校区或國際中心。\n约翰斯·霍普金斯大学采用德国古老的海德堡大学研究所的概念，被认为是美国第一所研究型大学，是美洲大学协会的12个创始会员之一。它的成功引发了美国其它大学向研究型大学转型。美国国家科学基金会连续31年将该校列为全美科研经费开支最高的大学。约翰斯·霍普金斯大学在醫學、公共衛生、生物學、統計學、歷史學與國際關係等相關學術領域闻名世界，也是哈勃空间望远镜和詹姆斯·韦伯空间望远镜的地面控制中心所在地。\n截至2020年4月，共有39名校友、教职工及研究人员获诺贝尔奖。\n在2019年末，约翰斯·霍普金斯大学的冠状病毒資源中心（Coronavirus Resource Center）开始透過收集来自全球数百个来源的数据来追蹤2020年的嚴重特殊傳染性肺炎疫情全球病例，成为有关各國疫情引用最多的来源之一。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d3/1625_Massachusetts_Avenue%2C_NW.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ed/Cohen-Davison_Family_Theatre%2C_Peabody_Institute%2C_Baltimore.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2b/Garden_near_Johns_Hopkins.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/George_Peabody_Library%2C_Peabody_Institute_-_view_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/55/George_Peabody_Library%2C_Peabody_Institute_-_view_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ed/Homewood_Museum%2C_Johns_Hopkins_University%2C_Baltimore%2C_MD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fa/JHU-V.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1f/JHU_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/JHU_Gilman_Hall.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cd/JHU_Homewood_sign.jpg"
+    ],
+    "amenity": {
+        "affiliation": -2482056510237430452,
+        "amenity_list": [
+            {
+                "id": 1808834399,
+                "name": "可能感兴趣的地点",
+                "type": "parking_entrance",
+                "latitude": 39.3303234,
+                "longitude": -76.6245759
+            },
+            {
+                "id": 3624042852,
+                "name": "Alkimia",
+                "type": "cafe",
+                "latitude": 39.3290268,
+                "longitude": -76.621647
+            },
+            {
+                "id": 5429326901,
+                "name": "Daily Grind",
+                "type": "cafe",
+                "latitude": 39.3305905,
+                "longitude": -76.620691
+            },
+            {
+                "id": 5991849844,
+                "name": "Johns Hopkins Federal Credit Union",
+                "type": "bank",
+                "latitude": 39.3283086,
+                "longitude": -76.6169638
+            },
+            {
+                "id": 5991899719,
+                "name": "The LaB",
+                "type": "community_centre",
+                "latitude": 39.3252934,
+                "longitude": -76.6171592
+            },
+            {
+                "id": 9173517742,
+                "name": "Student Health & Wellness Center",
+                "type": "clinic",
+                "latitude": 39.3256547,
+                "longitude": -76.6168761
+            },
+            {
+                "id": 9822844092,
+                "name": "Good Part & Company",
+                "type": "cafe",
+                "latitude": 39.3321976,
+                "longitude": -76.6209726
+            },
+            {
+                "id": 9921621161,
+                "name": "Barnes & Noble Café",
+                "type": "cafe",
+                "latitude": 39.3283247,
+                "longitude": -76.6165669
+            },
+            {
+                "id": 10055008572,
+                "name": "Citibank",
+                "type": "atm",
+                "latitude": 39.3254526,
+                "longitude": -76.6169859
+            },
+            {
+                "id": 10082317911,
+                "name": "Levering Kitchens",
+                "type": "food_court",
+                "latitude": 39.3281281,
+                "longitude": -76.6216097
+            },
+            {
+                "id": 10082317912,
+                "name": "Great Hall",
+                "type": "events_venue",
+                "latitude": 39.3281578,
+                "longitude": -76.6215889
+            },
+            {
+                "id": 10082317913,
+                "name": "Levering Cafe",
+                "type": "cafe",
+                "latitude": 39.32812,
+                "longitude": -76.6217293
+            },
+            {
+                "id": 10082317914,
+                "name": "Glass Pavilion",
+                "type": "events_venue",
+                "latitude": 39.3279808,
+                "longitude": -76.6216347
+            },
+            {
+                "id": 10761697615,
+                "name": "Homewood Apartments",
+                "type": "apartments",
+                "latitude": 39.3252782,
+                "longitude": -76.6168751
+            },
+            {
+                "id": 11098503333,
+                "name": "Tesla Destination Charger",
+                "type": "charging_station",
+                "latitude": 39.3261701,
+                "longitude": -76.6220512
+            },
+            {
+                "id": 180508454,
+                "name": "Milton S. Eisenhower Library",
+                "type": "library",
+                "latitude": 39.32905844077842,
+                "longitude": -76.61940886738934
+            },
+            {
+                "id": 180508482,
+                "name": "West Garage",
+                "type": "parking",
+                "latitude": 39.33046156429057,
+                "longitude": -76.6219416750386
+            },
+            {
+                "id": 336375527,
+                "name": "Homewood Friends Meeting House",
+                "type": "place_of_worship",
+                "latitude": 39.32635702174619,
+                "longitude": -76.61700713727225
+            },
+            {
+                "id": 336375643,
+                "name": "A W Wilson Memorial United Methodist Church",
+                "type": "place_of_worship",
+                "latitude": 39.331845043944305,
+                "longitude": -76.61745492887006
+            },
+            {
+                "id": 442592150,
+                "name": "Homewood Early Learning Center",
+                "type": "childcare",
+                "latitude": 39.32633751978305,
+                "longitude": -76.62457062089766
+            },
+            {
+                "id": 51724390,
+                "name": "Schelle Pavilion",
+                "type": "nan",
+                "latitude": 39.33383935,
+                "longitude": -76.62053770000001
+            },
+            {
+                "id": 51724694,
+                "name": "Bloomberg Center",
+                "type": "nan",
+                "latitude": 39.3317068172459,
+                "longitude": -76.6233239367259
+            },
+            {
+                "id": 51724697,
+                "name": "Maxine F. Singer Building",
+                "type": "nan",
+                "latitude": 39.330972603300296,
+                "longitude": -76.62500187315648
+            },
+            {
+                "id": 51724698,
+                "name": "San Martin Center",
+                "type": "nan",
+                "latitude": 39.33050909495764,
+                "longitude": -76.6242823598849
+            },
+            {
+                "id": 51724699,
+                "name": "O'Connor Recreation Center",
+                "type": "nan",
+                "latitude": 39.332115763549844,
+                "longitude": -76.62128288509834
+            },
+            {
+                "id": 51724700,
+                "name": "ROTC Building",
+                "type": "nan",
+                "latitude": 39.33325902672845,
+                "longitude": -76.62188890497401
+            },
+            {
+                "id": 134680371,
+                "name": "Shriver Hall",
+                "type": "nan",
+                "latitude": 39.3265518286989,
+                "longitude": -76.62027210734026
+            },
+            {
+                "id": 134680644,
+                "name": "Barton Hall",
+                "type": "nan",
+                "latitude": 39.3271299022297,
+                "longitude": -76.62071867009132
+            },
+            {
+                "id": 134681110,
+                "name": "Shaffer Hall",
+                "type": "nan",
+                "latitude": 39.327161404783126,
+                "longitude": -76.61990512373902
+            },
+            {
+                "id": 134681371,
+                "name": "Croft Hall",
+                "type": "nan",
+                "latitude": 39.32713718734643,
+                "longitude": -76.61961852321409
+            },
+            {
+                "id": 134681897,
+                "name": "Hackerman Hall",
+                "type": "nan",
+                "latitude": 39.32683987508248,
+                "longitude": -76.62091335941393
+            },
+            {
+                "id": 134682012,
+                "name": "Garland Hall",
+                "type": "nan",
+                "latitude": 39.32734421319593,
+                "longitude": -76.62161713559979
+            },
+            {
+                "id": 167364633,
+                "name": "Brody Learning Commons",
+                "type": "nan",
+                "latitude": 39.328434786434684,
+                "longitude": -76.61940535699677
+            },
+            {
+                "id": 180508452,
+                "name": "Homewood Museum",
+                "type": "nan",
+                "latitude": 39.329735349184475,
+                "longitude": -76.61894712780047
+            },
+            {
+                "id": 180508453,
+                "name": "Imagine Center for Integrative Learning",
+                "type": "nan",
+                "latitude": 39.33457720427214,
+                "longitude": -76.62186629323371
+            },
+            {
+                "id": 180508455,
+                "name": "Muller Building",
+                "type": "nan",
+                "latitude": 39.332740505172175,
+                "longitude": -76.62331214030125
+            },
+            {
+                "id": 180508457,
+                "name": "Chemistry Building",
+                "type": "nan",
+                "latitude": 39.33041910710929,
+                "longitude": -76.62141561081116
+            },
+            {
+                "id": 180508458,
+                "name": "Levering Hall",
+                "type": "nan",
+                "latitude": 39.32811150210679,
+                "longitude": -76.62168574075399
+            },
+            {
+                "id": 180508459,
+                "name": "Mudd Hall",
+                "type": "nan",
+                "latitude": 39.33073182713485,
+                "longitude": -76.62055119340427
+            },
+            {
+                "id": 180508460,
+                "name": "Mason Hall",
+                "type": "nan",
+                "latitude": 39.32588538432991,
+                "longitude": -76.62151030421032
+            },
+            {
+                "id": 180508461,
+                "name": "AMR II",
+                "type": "nan",
+                "latitude": 39.33139616410341,
+                "longitude": -76.61913073021651
+            },
+            {
+                "id": 180508462,
+                "name": "AMR I",
+                "type": "nan",
+                "latitude": 39.330691553647625,
+                "longitude": -76.61855079953864
+            },
+            {
+                "id": 180508463,
+                "name": "Nichols House",
+                "type": "nan",
+                "latitude": 39.3297844126054,
+                "longitude": -76.62316941315488
+            },
+            {
+                "id": 180508464,
+                "name": "Johns Hopkins Club",
+                "type": "nan",
+                "latitude": 39.330191620443216,
+                "longitude": -76.62225568098437
+            },
+            {
+                "id": 180508465,
+                "name": "Clark Hall",
+                "type": "nan",
+                "latitude": 39.326811768332476,
+                "longitude": -76.62223586689133
+            },
+            {
+                "id": 180508468,
+                "name": "Merrick Barn",
+                "type": "nan",
+                "latitude": 39.32811550653737,
+                "longitude": -76.61901044069953
+            },
+            {
+                "id": 180508471,
+                "name": "AMR III Building A",
+                "type": "nan",
+                "latitude": 39.331507458251615,
+                "longitude": -76.61989762416113
+            },
+            {
+                "id": 180508472,
+                "name": "Dunning Hall",
+                "type": "nan",
+                "latitude": 39.330218364855874,
+                "longitude": -76.62014640083382
+            },
+            {
+                "id": 180508473,
+                "name": "Macaulay Hall",
+                "type": "nan",
+                "latitude": 39.33018983491303,
+                "longitude": -76.62087917124826
+            },
+            {
+                "id": 180508477,
+                "name": "AMR III Building B",
+                "type": "nan",
+                "latitude": 39.33187812796369,
+                "longitude": -76.61978122471831
+            },
+            {
+                "id": 180508479,
+                "name": "Glass Pavilion",
+                "type": "nan",
+                "latitude": 39.3284522664115,
+                "longitude": -76.62174875030507
+            },
+            {
+                "id": 180508485,
+                "name": "Homewood Power Plant",
+                "type": "nan",
+                "latitude": 39.3271968870177,
+                "longitude": -76.618978415225
+            },
+            {
+                "id": 180508489,
+                "name": "Biology East",
+                "type": "nan",
+                "latitude": 39.33087794314053,
+                "longitude": -76.62019077405456
+            },
+            {
+                "id": 180508490,
+                "name": "Levi Hall",
+                "type": "nan",
+                "latitude": 39.33084796833188,
+                "longitude": -76.62092921672328
+            },
+            {
+                "id": 180508492,
+                "name": "Gilman Hall",
+                "type": "nan",
+                "latitude": 39.328974305713054,
+                "longitude": -76.6215800262034
+            },
+            {
+                "id": 180508501,
+                "name": "Ames Hall",
+                "type": "nan",
+                "latitude": 39.32849002297774,
+                "longitude": -76.62079468612475
+            },
+            {
+                "id": 180508503,
+                "name": "Krieger Hall",
+                "type": "nan",
+                "latitude": 39.328426422621185,
+                "longitude": -76.61994218501124
+            },
+            {
+                "id": 180508504,
+                "name": "Remsen Hall",
+                "type": "nan",
+                "latitude": 39.32960636094434,
+                "longitude": -76.62007517403374
+            },
+            {
+                "id": 180508505,
+                "name": "Latrobe Hall",
+                "type": "nan",
+                "latitude": 39.32772125367289,
+                "longitude": -76.6207729331079
+            },
+            {
+                "id": 180508506,
+                "name": "White Athletic Center",
+                "type": "nan",
+                "latitude": 39.332764507250644,
+                "longitude": -76.62123186622094
+            },
+            {
+                "id": 180508507,
+                "name": "Olin Hall",
+                "type": "nan",
+                "latitude": 39.32808763815872,
+                "longitude": -76.6236950199404
+            },
+            {
+                "id": 193901020,
+                "name": "Gatehouse",
+                "type": "nan",
+                "latitude": 39.32652666183827,
+                "longitude": -76.61800059810098
+            },
+            {
+                "id": 271583785,
+                "name": "Undergraduate Teaching Labs",
+                "type": "nan",
+                "latitude": 39.33118369924107,
+                "longitude": -76.62057684268149
+            },
+            {
+                "id": 298618895,
+                "name": "Malone Hall",
+                "type": "nan",
+                "latitude": 39.32620430512141,
+                "longitude": -76.62083845204518
+            },
+            {
+                "id": 336370300,
+                "name": "Bradford Apartments",
+                "type": "nan",
+                "latitude": 39.328455956489314,
+                "longitude": -76.61565439859491
+            },
+            {
+                "id": 336371811,
+                "name": "Hopkins Inn",
+                "type": "nan",
+                "latitude": 39.32969328809501,
+                "longitude": -76.61650410513325
+            },
+            {
+                "id": 336371893,
+                "name": "Rogers House",
+                "type": "nan",
+                "latitude": 39.33115084912812,
+                "longitude": -76.61669207390057
+            },
+            {
+                "id": 336374481,
+                "name": "McCoy Hall",
+                "type": "nan",
+                "latitude": 39.32939557878628,
+                "longitude": -76.61677770623629
+            },
+            {
+                "id": 336374686,
+                "name": "Johns Hopkins University Press",
+                "type": "nan",
+                "latitude": 39.32107568363015,
+                "longitude": -76.61678623164134
+            },
+            {
+                "id": 336375008,
+                "name": "The Charles",
+                "type": "nan",
+                "latitude": 39.32863778990395,
+                "longitude": -76.61716145817752
+            },
+            {
+                "id": 336375238,
+                "name": "Abel Wolman House",
+                "type": "nan",
+                "latitude": 39.32769699286974,
+                "longitude": -76.61718042307203
+            },
+            {
+                "id": 336375537,
+                "name": "The Smokler Center For Jewish Life",
+                "type": "nan",
+                "latitude": 39.32652726090007,
+                "longitude": -76.61703660142659
+            },
+            {
+                "id": 336375710,
+                "name": "Steinwald House",
+                "type": "nan",
+                "latitude": 39.32757792566834,
+                "longitude": -76.61719756049625
+            },
+            {
+                "id": 336375719,
+                "name": "Wolman Hall",
+                "type": "nan",
+                "latitude": 39.32895470747068,
+                "longitude": -76.6168273457052
+            },
+            {
+                "id": 336379456,
+                "name": "Homewood Privy",
+                "type": "nan",
+                "latitude": 39.33033740361889,
+                "longitude": -76.61900305822797
+            },
+            {
+                "id": 336385474,
+                "name": "Campus Security Auto Shop",
+                "type": "nan",
+                "latitude": 39.32510315665882,
+                "longitude": -76.62422635439728
+            },
+            {
+                "id": 337096270,
+                "name": "Cordish Lacrosse Center",
+                "type": "nan",
+                "latitude": 39.333013454462034,
+                "longitude": -76.62015071218222
+            },
+            {
+                "id": 337103759,
+                "name": "Charles Commons",
+                "type": "nan",
+                "latitude": 39.3283641232672,
+                "longitude": -76.61714876396658
+            },
+            {
+                "id": 337103760,
+                "name": "Charles Commons",
+                "type": "nan",
+                "latitude": 39.328515252630936,
+                "longitude": -76.6165550140236
+            },
+            {
+                "id": 337107477,
+                "name": "Greenhouse",
+                "type": "nan",
+                "latitude": 39.329214197932075,
+                "longitude": -76.62246150235573
+            },
+            {
+                "id": 337107478,
+                "name": "Hodson Hall",
+                "type": "nan",
+                "latitude": 39.32754937113235,
+                "longitude": -76.62230608517923
+            },
+            {
+                "id": 348785846,
+                "name": "Center for Government Excellence",
+                "type": "nan",
+                "latitude": 39.32902225451071,
+                "longitude": -76.62250140080423
+            },
+            {
+                "id": 859933672,
+                "name": "AMR III Building C",
+                "type": "nan",
+                "latitude": 39.331617226598695,
+                "longitude": -76.61973246899105
+            },
+            {
+                "id": 965755599,
+                "name": "Jenkins-Merganthaler Hall",
+                "type": "nan",
+                "latitude": 39.329567354413015,
+                "longitude": -76.6208775548622
+            },
+            {
+                "id": 966518375,
+                "name": "The Breezeway",
+                "type": "nan",
+                "latitude": 39.328625818590396,
+                "longitude": -76.62040849724099
+            },
+            {
+                "id": 2408709,
+                "name": "Maryland Hall",
+                "type": "nan",
+                "latitude": 39.3277622747743,
+                "longitude": -76.6197655154752
+            },
+            {
+                "id": 4757410,
+                "name": "Johns Hopkins Education Building",
+                "type": "nan",
+                "latitude": 39.322238106359556,
+                "longitude": -76.61769226153243
+            },
+            {
+                "id": 13354736,
+                "name": "Wyman Park Building",
+                "type": "nan",
+                "latitude": 39.3250708363687,
+                "longitude": -76.62291642074112
+            }
+        ]
+    }
+}

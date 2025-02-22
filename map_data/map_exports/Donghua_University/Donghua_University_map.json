@@ -1,0 +1,29 @@
+{
+    "id": 2849703590500090676,
+    "name": "东华大学",
+    "address": "中国上海市长宁区中山西路849号 邮政编码: 200051",
+    "rating": 4.2,
+    "popularity": 64,
+    "data_path": "map_data/university_map/Donghua_University",
+    "description": "東華大學可以指：\n\n东华大学 (上海)，成立於1951年，位於上海市的大學，前身為中國紡織大學。\n國立東華大學，成立於1994年，座落於台湾花蓮的公立研究型大學。",
+    "images": [],
+    "amenity": {
+        "affiliation": 2849703590500090676,
+        "amenity_list": [
+            {
+                "id": 6552479871,
+                "name": "鹿角弄",
+                "type": "fast_food",
+                "latitude": 31.2091236,
+                "longitude": 121.4108314
+            },
+            {
+                "id": 968395973,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 31.2039811,
+                "longitude": 121.41085120000001
+            }
+        ]
+    }
+}

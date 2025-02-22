@@ -1,0 +1,285 @@
+{
+    "id": 8831419181351695254,
+    "name": "伦敦动物园",
+    "address": "Outer Cir, London NW1 4RY英国",
+    "rating": 4.3,
+    "popularity": 88,
+    "data_path": "map_data/university_map/London_Zoo",
+    "description": "伦敦动物园（英語：London Zoo）为世界上最古老的动物园。该园于公元1828年4月27日開幕。起初，园内动物为科学家的研究对象；后在1847年對公众開放。现它在英國彙集755個动物物種，其中包括16,802個個體。伦敦动物园也是英國动物数量最多的动物园。\n该园由於1826年建立的伦敦动物学会管理，位于摄政公园北部，並被摄政運河穿越，占地36英亩。伦敦动物學會亦將如象和犀牛等的大型的動物由市區的动物园遷往貝德福德郡的惠普斯奈德野生动物园安置。伦敦动物园不但是世界上最古老的动物园之一，亦首先於1849年建成爬蟲館、於1853年開放公眾水族館、於1881年擁有第一個昆蟲館以及於1938年建成世界上第一座兒童動物園。另外，於2007年首家蛙類綜合保護中心館亦向公眾開放。\n伦敦动物学会不接受国家資金，而是依靠院士、支持者和会员，以及入场费和赞助创造收入。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/ac/Guy_the_Gorilla_statue.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d2/Quagga_photo.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/View_of_the_Zoological_Gardens1835.jpg"
+    ],
+    "amenity": {
+        "affiliation": 8831419181351695254,
+        "amenity_list": [
+            {
+                "id": 537861748,
+                "name": "Tim Hunkin Clock",
+                "type": "clock",
+                "latitude": 51.5335595,
+                "longitude": -0.1520167
+            },
+            {
+                "id": 4249500555,
+                "name": "可能感兴趣的地点",
+                "type": "bench",
+                "latitude": 51.5366133,
+                "longitude": -0.1543987
+            },
+            {
+                "id": 40234917,
+                "name": "The Terrace",
+                "type": "restaurant",
+                "latitude": 51.53603048868959,
+                "longitude": -0.15365270803561232
+            },
+            {
+                "id": 40234936,
+                "name": "Institute of Zoology",
+                "type": "research_institute",
+                "latitude": 51.536683749999995,
+                "longitude": -0.1533928
+            },
+            {
+                "id": 186376365,
+                "name": "Amphitheatre",
+                "type": "theatre",
+                "latitude": 51.53540484873756,
+                "longitude": -0.15383894919021537
+            },
+            {
+                "id": 201507847,
+                "name": "The Beach Hut",
+                "type": "fast_food",
+                "latitude": 51.53568587484499,
+                "longitude": -0.15275166031514473
+            },
+            {
+                "id": 201507866,
+                "name": "Amreli Street Food",
+                "type": "restaurant",
+                "latitude": 51.5345757871642,
+                "longitude": -0.1521301909074834
+            },
+            {
+                "id": 1228004754,
+                "name": "Peckish Parrot Café",
+                "type": "cafe",
+                "latitude": 51.53384133040776,
+                "longitude": -0.15346004426582838
+            },
+            {
+                "id": 1228004757,
+                "name": "Zoo Treats",
+                "type": "fast_food",
+                "latitude": 51.53519198246797,
+                "longitude": -0.15595297203106465
+            },
+            {
+                "id": 40234916,
+                "name": "Zoo Shop",
+                "type": "nan",
+                "latitude": 51.53611322484693,
+                "longitude": -0.15296042915777716
+            },
+            {
+                "id": 40234944,
+                "name": "Zoological Society of London, Main Building",
+                "type": "nan",
+                "latitude": 51.536782357457305,
+                "longitude": -0.15282490327214507
+            },
+            {
+                "id": 42937569,
+                "name": "The Gorilla House",
+                "type": "nan",
+                "latitude": 51.53652036677982,
+                "longitude": -0.15454297579192258
+            },
+            {
+                "id": 42980945,
+                "name": "The Giraffe House",
+                "type": "nan",
+                "latitude": 51.535819077196585,
+                "longitude": -0.15788368046303392
+            },
+            {
+                "id": 102143106,
+                "name": "London Zoo Entrance",
+                "type": "nan",
+                "latitude": 51.53567656333388,
+                "longitude": -0.1557771661210394
+            },
+            {
+                "id": 102143112,
+                "name": "Bird Incubation and Rearing Centre",
+                "type": "nan",
+                "latitude": 51.537228434616516,
+                "longitude": -0.15448551080593423
+            },
+            {
+                "id": 102143113,
+                "name": "North Pheasantry",
+                "type": "nan",
+                "latitude": 51.53682539494302,
+                "longitude": -0.15654483619142953
+            },
+            {
+                "id": 186376368,
+                "name": "Keeper's House",
+                "type": "nan",
+                "latitude": 51.53598442951475,
+                "longitude": -0.15445310791691927
+            },
+            {
+                "id": 186376369,
+                "name": "Mappin Pavilion",
+                "type": "nan",
+                "latitude": 51.53460307269143,
+                "longitude": -0.1564905727107789
+            },
+            {
+                "id": 201507850,
+                "name": "Institute of Zoology",
+                "type": "nan",
+                "latitude": 51.53518955929704,
+                "longitude": -0.15750806042979418
+            },
+            {
+                "id": 201507865,
+                "name": "Blackburn Pavilion",
+                "type": "nan",
+                "latitude": 51.533691684442104,
+                "longitude": -0.15196832833485271
+            },
+            {
+                "id": 372602474,
+                "name": "The Stork and Ostrich House",
+                "type": "nan",
+                "latitude": 51.53488278386093,
+                "longitude": -0.15529654858874703
+            },
+            {
+                "id": 683524015,
+                "name": "Community and Learning Hub",
+                "type": "nan",
+                "latitude": 51.536218450188834,
+                "longitude": -0.15891485962461072
+            },
+            {
+                "id": 683579190,
+                "name": "Clock Tower",
+                "type": "nan",
+                "latitude": 51.5355271,
+                "longitude": -0.15424725
+            },
+            {
+                "id": 843180312,
+                "name": "Zoological Society of London",
+                "type": "nan",
+                "latitude": 51.53695510790444,
+                "longitude": -0.15296211957388126
+            },
+            {
+                "id": 1185719623,
+                "name": "Raven Cage",
+                "type": "nan",
+                "latitude": 51.535706129792906,
+                "longitude": -0.1541751440461165
+            },
+            {
+                "id": 1227475970,
+                "name": "Casson Pavilion",
+                "type": "nan",
+                "latitude": 51.53455690521495,
+                "longitude": -0.15457937001345426
+            },
+            {
+                "id": 1227769544,
+                "name": "Peacock lodge",
+                "type": "nan",
+                "latitude": 51.53445824567686,
+                "longitude": -0.15293332475272853
+            },
+            {
+                "id": 1227769545,
+                "name": "Leopard lodge",
+                "type": "nan",
+                "latitude": 51.5345709820682,
+                "longitude": -0.15290961012101223
+            },
+            {
+                "id": 1228411462,
+                "name": "Clock Tower",
+                "type": "nan",
+                "latitude": 51.53552639875958,
+                "longitude": -0.15424790197913546
+            },
+            {
+                "id": 1228443367,
+                "name": "Activity Den",
+                "type": "nan",
+                "latitude": 51.53439770405663,
+                "longitude": -0.1517946718816877
+            },
+            {
+                "id": 1230097260,
+                "name": "Chital lodge",
+                "type": "nan",
+                "latitude": 51.53461129812278,
+                "longitude": -0.15297668215364832
+            },
+            {
+                "id": 1230097261,
+                "name": "Kingfisher lodge",
+                "type": "nan",
+                "latitude": 51.53444998266586,
+                "longitude": -0.1530446082403883
+            },
+            {
+                "id": 1230097262,
+                "name": "Parkaeet lodge",
+                "type": "nan",
+                "latitude": 51.53448425000001,
+                "longitude": -0.1531310500000006
+            },
+            {
+                "id": 1230097263,
+                "name": "Kingfisher lodge",
+                "type": "nan",
+                "latitude": 51.534604172355145,
+                "longitude": -0.15318756249818574
+            },
+            {
+                "id": 1230097264,
+                "name": "Flamingo lodge",
+                "type": "nan",
+                "latitude": 51.53465924999998,
+                "longitude": -0.15314055
+            },
+            {
+                "id": 1230097265,
+                "name": "Oriole lodge",
+                "type": "nan",
+                "latitude": 51.53453152330035,
+                "longitude": -0.15321841354297777
+            },
+            {
+                "id": 1230097266,
+                "name": "Langur lodge",
+                "type": "nan",
+                "latitude": 51.53463748215982,
+                "longitude": -0.15305200976281141
+            },
+            {
+                "id": 2707204,
+                "name": "Lubetkin Pool",
+                "type": "nan",
+                "latitude": 51.53401713465328,
+                "longitude": -0.15343454052750016
+            }
+        ]
+    }
+}

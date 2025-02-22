@@ -1,0 +1,831 @@
+{
+    "id": 2389849288839396436,
+    "name": "华中农业大学",
+    "address": "中国湖北省武汉市洪山区南湖路",
+    "rating": 4.7,
+    "popularity": 68,
+    "data_path": "map_data/university_map/Huazhong_Agricultural_University",
+    "description": "华中农业大学（英語：Huazhong Agricultural University或Central China Agricultural University，缩写：HZAU、HAU或CCAU），簡稱“华中农大”或“华农”，是一所位於中国湖北省武汉市洪山区，以农科为特色的全科性综合大学。為中华人民共和国教育部直属国家211工程重点建设高校之一，为一流学科建设高校之一。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/Baojik_Yuan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/HZAU-Fukxiao.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/HZAU-Gaoshi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/HZAU-Huahui_Jidi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/HZAU-Niaokan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/HZAU-Sanjiao.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2b/HZAU-Zhulou.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Jingyuan_Lou.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jiu_Tushuguan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/Jiu_Xiaomen.jpg"
+    ],
+    "amenity": {
+        "affiliation": 2389849288839396436,
+        "amenity_list": [
+            {
+                "id": 1124414152,
+                "name": "校医院",
+                "type": "clinic",
+                "latitude": 30.4762599,
+                "longitude": 114.3483112
+            },
+            {
+                "id": 1124414160,
+                "name": "华中农业大学附属学校",
+                "type": "school",
+                "latitude": 30.4749971,
+                "longitude": 114.3460115
+            },
+            {
+                "id": 1124470894,
+                "name": "教工食堂",
+                "type": "restaurant",
+                "latitude": 30.4795902,
+                "longitude": 114.3483956
+            },
+            {
+                "id": 1124470898,
+                "name": "可能感兴趣的地点",
+                "type": "post_box",
+                "latitude": 30.4771777,
+                "longitude": 114.3448153
+            },
+            {
+                "id": 1124470900,
+                "name": "火锅城",
+                "type": "restaurant",
+                "latitude": 30.4770231,
+                "longitude": 114.3446071
+            },
+            {
+                "id": 1124470902,
+                "name": "华农幼儿园",
+                "type": "kindergarten",
+                "latitude": 30.4787519,
+                "longitude": 114.3467706
+            },
+            {
+                "id": 1143402206,
+                "name": "中国银行",
+                "type": "bank",
+                "latitude": 30.4780447,
+                "longitude": 114.3439967
+            },
+            {
+                "id": 1143420923,
+                "name": "狮子山派出所",
+                "type": "police",
+                "latitude": 30.4761492,
+                "longitude": 114.3495113
+            },
+            {
+                "id": 1145387992,
+                "name": "附中食堂",
+                "type": "restaurant",
+                "latitude": 30.4788216,
+                "longitude": 114.3438467
+            },
+            {
+                "id": 1221088126,
+                "name": "邮政储蓄",
+                "type": "bank",
+                "latitude": 30.4774619,
+                "longitude": 114.3449199
+            },
+            {
+                "id": 1221088133,
+                "name": "工商银行",
+                "type": "bank",
+                "latitude": 30.4773764,
+                "longitude": 114.3449012
+            },
+            {
+                "id": 1221088139,
+                "name": "汉口银行",
+                "type": "bank",
+                "latitude": 30.4772701,
+                "longitude": 114.344877
+            },
+            {
+                "id": 7925663897,
+                "name": "零鸭鲜卤",
+                "type": "fast_food",
+                "latitude": 30.4734224,
+                "longitude": 114.3586066
+            },
+            {
+                "id": 7925663899,
+                "name": "菜鸟驿站",
+                "type": "post_office",
+                "latitude": 30.475078,
+                "longitude": 114.3572618
+            },
+            {
+                "id": 7966695530,
+                "name": "呷哺呷哺",
+                "type": "restaurant",
+                "latitude": 30.478857,
+                "longitude": 114.355626
+            },
+            {
+                "id": 7966695531,
+                "name": "肯德基",
+                "type": "fast_food",
+                "latitude": 30.4788029,
+                "longitude": 114.3556258
+            },
+            {
+                "id": 7966695533,
+                "name": "氧气层",
+                "type": "restaurant",
+                "latitude": 30.4788564,
+                "longitude": 114.3555188
+            },
+            {
+                "id": 9255390813,
+                "name": "邮政快递",
+                "type": "post_office",
+                "latitude": 30.4753486,
+                "longitude": 114.3572769
+            },
+            {
+                "id": 9255390814,
+                "name": "德邦快递",
+                "type": "post_office",
+                "latitude": 30.4753862,
+                "longitude": 114.3572782
+            },
+            {
+                "id": 9255390815,
+                "name": "京东",
+                "type": "post_office",
+                "latitude": 30.4752695,
+                "longitude": 114.3572655
+            },
+            {
+                "id": 9255390816,
+                "name": "顺丰",
+                "type": "post_office",
+                "latitude": 30.4752302,
+                "longitude": 114.3572655
+            },
+            {
+                "id": 98842746,
+                "name": "图书馆",
+                "type": "library",
+                "latitude": 30.473630043553968,
+                "longitude": 114.35137829203347
+            },
+            {
+                "id": 98842800,
+                "name": "逸夫楼",
+                "type": "public_building",
+                "latitude": 30.477786006424356,
+                "longitude": 114.3531137254349
+            },
+            {
+                "id": 99002208,
+                "name": "一招",
+                "type": "public_building",
+                "latitude": 30.47798714435691,
+                "longitude": 114.34742987952329
+            },
+            {
+                "id": 106032839,
+                "name": "食科",
+                "type": "public_building",
+                "latitude": 30.47552504869587,
+                "longitude": 114.3516419126035
+            },
+            {
+                "id": 106032842,
+                "name": "园艺林学学院北楼",
+                "type": "school",
+                "latitude": 30.475348282326056,
+                "longitude": 114.35080829592597
+            },
+            {
+                "id": 106034958,
+                "name": "棉花楼",
+                "type": "public_building",
+                "latitude": 30.474998422963687,
+                "longitude": 114.34868375552469
+            },
+            {
+                "id": 112320589,
+                "name": "华中农业大学动物医院",
+                "type": "public_building",
+                "latitude": 30.480224849999992,
+                "longitude": 114.33473024999999
+            },
+            {
+                "id": 114364905,
+                "name": "昆虫楼",
+                "type": "public_building",
+                "latitude": 30.474640603155883,
+                "longitude": 114.34825672500136
+            },
+            {
+                "id": 114365637,
+                "name": "新门诊部",
+                "type": "public_building",
+                "latitude": 30.476356167942313,
+                "longitude": 114.34824958677194
+            },
+            {
+                "id": 114365638,
+                "name": "门诊部",
+                "type": "public_building",
+                "latitude": 30.476334671387114,
+                "longitude": 114.34791399036452
+            },
+            {
+                "id": 114365643,
+                "name": "住院部",
+                "type": "public_building",
+                "latitude": 30.47661085258014,
+                "longitude": 114.34818821879698
+            },
+            {
+                "id": 114365645,
+                "name": "急诊室",
+                "type": "public_building",
+                "latitude": 30.47661047859382,
+                "longitude": 114.34845217389312
+            },
+            {
+                "id": 114367114,
+                "name": "一招食堂",
+                "type": "public_building",
+                "latitude": 30.477637049999995,
+                "longitude": 114.34722850000001
+            },
+            {
+                "id": 126183279,
+                "name": "水产",
+                "type": "public_building",
+                "latitude": 30.475025075368865,
+                "longitude": 114.35155921558484
+            },
+            {
+                "id": 126184001,
+                "name": "水电科",
+                "type": "public_building",
+                "latitude": 30.479682234495506,
+                "longitude": 114.3491015527402
+            },
+            {
+                "id": 126185809,
+                "name": "华中农大城乡规划设计院",
+                "type": "public_building",
+                "latitude": 30.47895595,
+                "longitude": 114.34300594999999
+            },
+            {
+                "id": 126462448,
+                "name": "博园食堂",
+                "type": "restaurant",
+                "latitude": 30.47834912514209,
+                "longitude": 114.3560572568583
+            },
+            {
+                "id": 126462758,
+                "name": "清真食堂",
+                "type": "restaurant",
+                "latitude": 30.478749648042815,
+                "longitude": 114.35788798866494
+            },
+            {
+                "id": 126468184,
+                "name": "荟园食堂",
+                "type": "restaurant",
+                "latitude": 30.475368876343687,
+                "longitude": 114.35649793225234
+            },
+            {
+                "id": 849511859,
+                "name": "桃园食堂",
+                "type": "restaurant",
+                "latitude": 30.473359975181644,
+                "longitude": 114.35622928387762
+            },
+            {
+                "id": 854259593,
+                "name": "梦泽园",
+                "type": "restaurant",
+                "latitude": 30.47741247246333,
+                "longitude": 114.35612672919753
+            },
+            {
+                "id": 913470205,
+                "name": "人文社科楼",
+                "type": "public_building",
+                "latitude": 30.473407365538684,
+                "longitude": 114.35299712436027
+            },
+            {
+                "id": 924853591,
+                "name": "国家家畜工程技术研究中心",
+                "type": "research_institute",
+                "latitude": 30.475113620769033,
+                "longitude": 114.336894382236
+            },
+            {
+                "id": 924853613,
+                "name": "华农驾校",
+                "type": "driver_training",
+                "latitude": 30.474983695550605,
+                "longitude": 114.34308653224022
+            },
+            {
+                "id": 98842742,
+                "name": "博物馆",
+                "type": "nan",
+                "latitude": 30.47790951460215,
+                "longitude": 114.35175871691656
+            },
+            {
+                "id": 98842759,
+                "name": "大学生活动中心",
+                "type": "nan",
+                "latitude": 30.475352706725495,
+                "longitude": 114.36043161553768
+            },
+            {
+                "id": 98842761,
+                "name": "华农校办",
+                "type": "nan",
+                "latitude": 30.478881275161807,
+                "longitude": 114.35084128491611
+            },
+            {
+                "id": 98842765,
+                "name": "华农主楼",
+                "type": "nan",
+                "latitude": 30.479201488018756,
+                "longitude": 114.35249185922261
+            },
+            {
+                "id": 98842769,
+                "name": "作物遗传改良国家重点实验室",
+                "type": "nan",
+                "latitude": 30.474017345336634,
+                "longitude": 114.34960421358308
+            },
+            {
+                "id": 98842773,
+                "name": "基因楼",
+                "type": "nan",
+                "latitude": 30.47478955444362,
+                "longitude": 114.34956339496755
+            },
+            {
+                "id": 98842779,
+                "name": "农业微生物学国家重点实验室B栋",
+                "type": "nan",
+                "latitude": 30.476327987193716,
+                "longitude": 114.35176547923733
+            },
+            {
+                "id": 98842785,
+                "name": "农业微生物学国家重点实验室A栋",
+                "type": "nan",
+                "latitude": 30.476904660343937,
+                "longitude": 114.35137192279178
+            },
+            {
+                "id": 99001176,
+                "name": "空调机房",
+                "type": "nan",
+                "latitude": 30.476893,
+                "longitude": 114.34882915
+            },
+            {
+                "id": 106032844,
+                "name": "分子楼",
+                "type": "nan",
+                "latitude": 30.47550177738736,
+                "longitude": 114.34954632938174
+            },
+            {
+                "id": 106033891,
+                "name": "第一综合楼",
+                "type": "nan",
+                "latitude": 30.47540571026085,
+                "longitude": 114.34818383582403
+            },
+            {
+                "id": 106041964,
+                "name": "第二教学楼",
+                "type": "nan",
+                "latitude": 30.476315832961454,
+                "longitude": 114.3531110166852
+            },
+            {
+                "id": 106041973,
+                "name": "第一教学楼",
+                "type": "nan",
+                "latitude": 30.476913440876498,
+                "longitude": 114.35309876535561
+            },
+            {
+                "id": 106362332,
+                "name": "北苑11栋",
+                "type": "nan",
+                "latitude": 30.481101650000003,
+                "longitude": 114.35016934999999
+            },
+            {
+                "id": 112320593,
+                "name": "华中农业大学动物医院",
+                "type": "veterinary",
+                "latitude": 30.479860399999996,
+                "longitude": 114.33504429999999
+            },
+            {
+                "id": 126186980,
+                "name": "35栋",
+                "type": "nan",
+                "latitude": 30.478666395863787,
+                "longitude": 114.33885331031746
+            },
+            {
+                "id": 126186983,
+                "name": "36栋",
+                "type": "nan",
+                "latitude": 30.47887309749395,
+                "longitude": 114.33919287473402
+            },
+            {
+                "id": 126187138,
+                "name": "34栋",
+                "type": "nan",
+                "latitude": 30.477446272259023,
+                "longitude": 114.33924810021442
+            },
+            {
+                "id": 126187140,
+                "name": "32栋",
+                "type": "nan",
+                "latitude": 30.478191802277582,
+                "longitude": 114.33922927469048
+            },
+            {
+                "id": 126187141,
+                "name": "33栋",
+                "type": "nan",
+                "latitude": 30.4777792,
+                "longitude": 114.33926305
+            },
+            {
+                "id": 126458801,
+                "name": "46栋",
+                "type": "nan",
+                "latitude": 30.4791771,
+                "longitude": 114.33703824999999
+            },
+            {
+                "id": 126458803,
+                "name": "52栋",
+                "type": "nan",
+                "latitude": 30.480329475616855,
+                "longitude": 114.33707540585038
+            },
+            {
+                "id": 126458804,
+                "name": "43栋",
+                "type": "nan",
+                "latitude": 30.478573276152197,
+                "longitude": 114.33790664659149
+            },
+            {
+                "id": 126458806,
+                "name": "45栋",
+                "type": "nan",
+                "latitude": 30.478896198801053,
+                "longitude": 114.3370995129304
+            },
+            {
+                "id": 126458809,
+                "name": "44栋",
+                "type": "nan",
+                "latitude": 30.478598720345445,
+                "longitude": 114.337116155795
+            },
+            {
+                "id": 126458814,
+                "name": "41栋",
+                "type": "nan",
+                "latitude": 30.4788962,
+                "longitude": 114.33791794999999
+            },
+            {
+                "id": 126462056,
+                "name": "艺术馆",
+                "type": "nan",
+                "latitude": 30.47734477029011,
+                "longitude": 114.35528055758633
+            },
+            {
+                "id": 126462450,
+                "name": "博园教超",
+                "type": "nan",
+                "latitude": 30.477962424829627,
+                "longitude": 114.35600160748064
+            },
+            {
+                "id": 126468185,
+                "name": "狮子山泉",
+                "type": "nan",
+                "latitude": 30.474353744976582,
+                "longitude": 114.35653260254844
+            },
+            {
+                "id": 126468571,
+                "name": "荟园14栋",
+                "type": "nan",
+                "latitude": 30.471908980028086,
+                "longitude": 114.35620579839657
+            },
+            {
+                "id": 126468826,
+                "name": "荟园12栋",
+                "type": "nan",
+                "latitude": 30.471743619270352,
+                "longitude": 114.35712808331445
+            },
+            {
+                "id": 126468827,
+                "name": "荟园11栋",
+                "type": "nan",
+                "latitude": 30.47140447903593,
+                "longitude": 114.3582508699426
+            },
+            {
+                "id": 126468828,
+                "name": "荟园10栋",
+                "type": "nan",
+                "latitude": 30.472132757330417,
+                "longitude": 114.35844695092602
+            },
+            {
+                "id": 126469134,
+                "name": "荟园6栋",
+                "type": "nan",
+                "latitude": 30.474184370190322,
+                "longitude": 114.35917510102325
+            },
+            {
+                "id": 126469135,
+                "name": "荟园7栋",
+                "type": "nan",
+                "latitude": 30.47367904817547,
+                "longitude": 114.35919976035673
+            },
+            {
+                "id": 126469734,
+                "name": "荟园3栋",
+                "type": "nan",
+                "latitude": 30.4748119094322,
+                "longitude": 114.35808675677946
+            },
+            {
+                "id": 126469736,
+                "name": "荟园5栋",
+                "type": "nan",
+                "latitude": 30.474874072668577,
+                "longitude": 114.35919775264
+            },
+            {
+                "id": 126469738,
+                "name": "荟园2栋",
+                "type": "nan",
+                "latitude": 30.47528883098464,
+                "longitude": 114.35788560980436
+            },
+            {
+                "id": 126469739,
+                "name": "荟园4栋",
+                "type": "nan",
+                "latitude": 30.475567659004337,
+                "longitude": 114.35920960198763
+            },
+            {
+                "id": 126469740,
+                "name": "荟园1栋",
+                "type": "nan",
+                "latitude": 30.47571937536722,
+                "longitude": 114.35808418996017
+            },
+            {
+                "id": 126469816,
+                "name": "荟园9栋",
+                "type": "nan",
+                "latitude": 30.473004479832955,
+                "longitude": 114.35905199251533
+            },
+            {
+                "id": 126469817,
+                "name": "荟园8栋",
+                "type": "nan",
+                "latitude": 30.474106105017306,
+                "longitude": 114.35808989545617
+            },
+            {
+                "id": 849511840,
+                "name": "荟园13栋",
+                "type": "nan",
+                "latitude": 30.472511319270353,
+                "longitude": 114.35712548331442
+            },
+            {
+                "id": 849511841,
+                "name": "荟园15栋",
+                "type": "nan",
+                "latitude": 30.472532964276603,
+                "longitude": 114.3562162785023
+            },
+            {
+                "id": 849511851,
+                "name": "荟园18栋",
+                "type": "nan",
+                "latitude": 30.473978160741776,
+                "longitude": 114.35721077415116
+            },
+            {
+                "id": 849511852,
+                "name": "荟园19栋",
+                "type": "nan",
+                "latitude": 30.474443646372386,
+                "longitude": 114.35721064470191
+            },
+            {
+                "id": 849511853,
+                "name": "荟园20栋",
+                "type": "nan",
+                "latitude": 30.474912945457096,
+                "longitude": 114.35719239143577
+            },
+            {
+                "id": 865572500,
+                "name": "园艺植物生物学教育部重点实验室",
+                "type": "nan",
+                "latitude": 30.474796418300244,
+                "longitude": 114.35057926103363
+            },
+            {
+                "id": 913470224,
+                "name": "食品工程训练中心",
+                "type": "nan",
+                "latitude": 30.47082615374886,
+                "longitude": 114.35566655788227
+            },
+            {
+                "id": 920121518,
+                "name": "国家生物产业基地实验动物中心",
+                "type": "nan",
+                "latitude": 30.47899125746695,
+                "longitude": 114.33465755722874
+            },
+            {
+                "id": 920121528,
+                "name": "63栋",
+                "type": "nan",
+                "latitude": 30.478218760298656,
+                "longitude": 114.33610950058757
+            },
+            {
+                "id": 920121537,
+                "name": "微生物农药国家工程研究中心",
+                "type": "nan",
+                "latitude": 30.477909350624138,
+                "longitude": 114.33824675312852
+            },
+            {
+                "id": 920121538,
+                "name": "创业楼",
+                "type": "nan",
+                "latitude": 30.47788418483461,
+                "longitude": 114.33592359248432
+            },
+            {
+                "id": 924853584,
+                "name": "生猪健康养殖协同创新中心",
+                "type": "nan",
+                "latitude": 30.469885213913276,
+                "longitude": 114.34280472909491
+            },
+            {
+                "id": 924853631,
+                "name": "天惠楼",
+                "type": "nan",
+                "latitude": 30.476483333281674,
+                "longitude": 114.33877756734
+            },
+            {
+                "id": 924853633,
+                "name": "40栋",
+                "type": "nan",
+                "latitude": 30.479505709643362,
+                "longitude": 114.3380300880777
+            },
+            {
+                "id": 924853634,
+                "name": "38栋",
+                "type": "nan",
+                "latitude": 30.479770449999997,
+                "longitude": 114.33830325000001
+            },
+            {
+                "id": 924853635,
+                "name": "39栋",
+                "type": "nan",
+                "latitude": 30.480046514105123,
+                "longitude": 114.33771911963105
+            },
+            {
+                "id": 924853636,
+                "name": "42栋",
+                "type": "nan",
+                "latitude": 30.4791811,
+                "longitude": 114.33792285000001
+            },
+            {
+                "id": 924853637,
+                "name": "48栋",
+                "type": "nan",
+                "latitude": 30.4798741,
+                "longitude": 114.33704264999999
+            },
+            {
+                "id": 924853638,
+                "name": "47栋",
+                "type": "nan",
+                "latitude": 30.4795475,
+                "longitude": 114.33705744999999
+            },
+            {
+                "id": 924853639,
+                "name": "动物房",
+                "type": "nan",
+                "latitude": 30.47928725,
+                "longitude": 114.33514145000001
+            },
+            {
+                "id": 924853640,
+                "name": "动物房",
+                "type": "nan",
+                "latitude": 30.479420249999997,
+                "longitude": 114.33514590000001
+            },
+            {
+                "id": 924853641,
+                "name": "动物房",
+                "type": "nan",
+                "latitude": 30.479150444738895,
+                "longitude": 114.33512130058635
+            },
+            {
+                "id": 1002898290,
+                "name": "荟园21B",
+                "type": "nan",
+                "latitude": 30.476398675852998,
+                "longitude": 114.35885746665339
+            },
+            {
+                "id": 1002898291,
+                "name": "荟园21A",
+                "type": "nan",
+                "latitude": 30.476815283177977,
+                "longitude": 114.35894446893657
+            },
+            {
+                "id": 11648358,
+                "name": "荟园16栋",
+                "type": "nan",
+                "latitude": 30.473105146625098,
+                "longitude": 114.3571589157948
+            },
+            {
+                "id": 11648359,
+                "name": "荟园17栋",
+                "type": "nan",
+                "latitude": 30.473483865621127,
+                "longitude": 114.3571679120933
+            },
+            {
+                "id": 12594080,
+                "name": "第三教学楼",
+                "type": "nan",
+                "latitude": 30.474381682788742,
+                "longitude": 114.35340738214519
+            },
+            {
+                "id": 12594081,
+                "name": "第四教学楼",
+                "type": "nan",
+                "latitude": 30.473279893416997,
+                "longitude": 114.35503295188892
+            }
+        ]
+    }
+}

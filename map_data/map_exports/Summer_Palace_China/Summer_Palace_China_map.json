@@ -1,0 +1,488 @@
+{
+    "id": 4678001351768587248,
+    "name": "颐和园",
+    "address": "中国北京市海淀区新建宫门路19号 邮政编码: 100091",
+    "rating": 4.6,
+    "popularity": 44,
+    "data_path": "map_data/university_map/Summer_Palace_China",
+    "description": "颐和园是清朝的皇家行宮和大型皇家園林，位于中国北京市海淀区西北，占地297公顷。颐和园修建于清朝乾隆年间（原名清漪园）、重建于光绪年间，曾属于清朝北京西郊三山五园之一。颐和园素以人工建筑与自然山水巧妙结合的造园手法著称于世，是中国园林艺术顶峰时期的代表。1998年，颐和园被评为世界文化遺產。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e5/Binfeng_Bridge_in_Summer_Palace_2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Emperor%27s_Summer_Palace%2C_Peking_LACMA_M.83.302.39.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/76/Hall_of_Embracing_the_Universe_%2820201222154651%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/Imperial_Summer_Palace2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/83/Jade_belt_bridge_-_Summer_Palace%2C_Beijing.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b2/Le_Palais_d%E2%80%99%C3%89t%C3%A9_vu_du_bord_du_Lac.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/64/Longevity_Hill_1.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/4/46/Longevity_Hill_Buddhist_Fragrance_Pavilion_%26_Cruise_Ships.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Longevity_Hill_of_Summer_Palace.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Marble_Boat_4017.jpg"
+    ],
+    "amenity": {
+        "affiliation": 4678001351768587248,
+        "amenity_list": [
+            {
+                "id": 269492188,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 39.9808692,
+                "longitude": 116.267504
+            },
+            {
+                "id": 6019834317,
+                "name": "荟亭",
+                "type": "shelter",
+                "latitude": 39.9986267,
+                "longitude": 116.2726387
+            },
+            {
+                "id": 6019834318,
+                "name": "含新亭",
+                "type": "shelter",
+                "latitude": 39.9981008,
+                "longitude": 116.2721083
+            },
+            {
+                "id": 6420561939,
+                "name": "餐厅",
+                "type": "restaurant",
+                "latitude": 39.9968835,
+                "longitude": 116.2690743
+            },
+            {
+                "id": 11659670458,
+                "name": "稻香村",
+                "type": "restaurant",
+                "latitude": 39.9973708,
+                "longitude": 116.2767645
+            },
+            {
+                "id": 11659685447,
+                "name": "颐和园微型消防站",
+                "type": "fire_station",
+                "latitude": 39.9968944,
+                "longitude": 116.2638282
+            },
+            {
+                "id": 11659717584,
+                "name": "秋水亭",
+                "type": "shelter",
+                "latitude": 39.99667,
+                "longitude": 116.2663913
+            },
+            {
+                "id": 43977740,
+                "name": "听鹂馆",
+                "type": "restaurant",
+                "latitude": 39.99680440417321,
+                "longitude": 116.26496987306183
+            },
+            {
+                "id": 43977790,
+                "name": "香岩宗印之阁",
+                "type": "place_of_worship",
+                "latitude": 39.99900205000001,
+                "longitude": 116.268336
+            },
+            {
+                "id": 1249466266,
+                "name": "敷华亭",
+                "type": "shelter",
+                "latitude": 39.997903719246075,
+                "longitude": 116.26828234852103
+            },
+            {
+                "id": 1249466267,
+                "name": "转轮亭",
+                "type": "shelter",
+                "latitude": 39.99788841726635,
+                "longitude": 116.2686723900676
+            },
+            {
+                "id": 43977742,
+                "name": "善现寺",
+                "type": "nan",
+                "latitude": 39.9988564,
+                "longitude": 116.2690168
+            },
+            {
+                "id": 43977746,
+                "name": "芳辉殿",
+                "type": "nan",
+                "latitude": 39.99698409999999,
+                "longitude": 116.26773775
+            },
+            {
+                "id": 43977747,
+                "name": "耳殿",
+                "type": "nan",
+                "latitude": 39.99719670466902,
+                "longitude": 116.26779482372747
+            },
+            {
+                "id": 43977752,
+                "name": "铜亭",
+                "type": "nan",
+                "latitude": 39.997712126994166,
+                "longitude": 116.2672075111992
+            },
+            {
+                "id": 43977753,
+                "name": "转轮藏殿",
+                "type": "nan",
+                "latitude": 39.99796036735863,
+                "longitude": 116.26852790154095
+            },
+            {
+                "id": 43977775,
+                "name": "龙王庙",
+                "type": "nan",
+                "latitude": 39.990179049999995,
+                "longitude": 116.27024194999998
+            },
+            {
+                "id": 43977778,
+                "name": "藻鉴堂",
+                "type": "nan",
+                "latitude": 39.98480470605406,
+                "longitude": 116.26504139924431
+            },
+            {
+                "id": 43977780,
+                "name": "畅观堂",
+                "type": "nan",
+                "latitude": 39.9855932316626,
+                "longitude": 116.25966646229348
+            },
+            {
+                "id": 43977786,
+                "name": "Guangrun Lingyu Ci",
+                "type": "nan",
+                "latitude": 39.990079949999995,
+                "longitude": 116.27027825
+            },
+            {
+                "id": 43977787,
+                "name": "鉴远堂",
+                "type": "nan",
+                "latitude": 39.9899463,
+                "longitude": 116.26986509999999
+            },
+            {
+                "id": 43977788,
+                "name": "廓如亭",
+                "type": "nan",
+                "latitude": 39.989091140403666,
+                "longitude": 116.27256983822333
+            },
+            {
+                "id": 43977792,
+                "name": "耳殿",
+                "type": "nan",
+                "latitude": 39.997237295330976,
+                "longitude": 116.26829917627252
+            },
+            {
+                "id": 43977804,
+                "name": "船坞",
+                "type": "nan",
+                "latitude": 39.998740398299894,
+                "longitude": 116.26289678622078
+            },
+            {
+                "id": 43977805,
+                "name": "迎旭楼",
+                "type": "nan",
+                "latitude": 39.99712847637251,
+                "longitude": 116.26283410875847
+            },
+            {
+                "id": 43977808,
+                "name": "澄怀阁",
+                "type": "nan",
+                "latitude": 39.99783745,
+                "longitude": 116.26266539999999
+            },
+            {
+                "id": 43977810,
+                "name": "水村居",
+                "type": "nan",
+                "latitude": 39.99626225,
+                "longitude": 116.26002380000003
+            },
+            {
+                "id": 43977816,
+                "name": "德兴殿",
+                "type": "nan",
+                "latitude": 40.00027577747612,
+                "longitude": 116.26271250690299
+            },
+            {
+                "id": 43977817,
+                "name": "西宫门",
+                "type": "nan",
+                "latitude": 40.00023175,
+                "longitude": 116.26232669999999
+            },
+            {
+                "id": 43977820,
+                "name": "排云殿",
+                "type": "nan",
+                "latitude": 39.99718482637751,
+                "longitude": 116.26804536459386
+            },
+            {
+                "id": 43977822,
+                "name": "五圣祠",
+                "type": "nan",
+                "latitude": 39.99683427405277,
+                "longitude": 116.26292023608492
+            },
+            {
+                "id": 43977839,
+                "name": "画中游",
+                "type": "nan",
+                "latitude": 39.99739805127957,
+                "longitude": 116.264920021525
+            },
+            {
+                "id": 43977844,
+                "name": "二宫门",
+                "type": "nan",
+                "latitude": 39.996871,
+                "longitude": 116.26808425000002
+            },
+            {
+                "id": 43977845,
+                "name": "排云门",
+                "type": "nan",
+                "latitude": 39.9965221,
+                "longitude": 116.26812269999999
+            },
+            {
+                "id": 43977851,
+                "name": "佛香阁",
+                "type": "nan",
+                "latitude": 39.997826877949706,
+                "longitude": 116.26798247032089
+            },
+            {
+                "id": 43977852,
+                "name": "智慧海",
+                "type": "nan",
+                "latitude": 39.99823647790331,
+                "longitude": 116.26797787213592
+            },
+            {
+                "id": 43977853,
+                "name": "德晖殿",
+                "type": "nan",
+                "latitude": 39.997479523264886,
+                "longitude": 116.26798147820007
+            },
+            {
+                "id": 43977861,
+                "name": "北宫门",
+                "type": "nan",
+                "latitude": 40.00104201198275,
+                "longitude": 116.2680075962472
+            },
+            {
+                "id": 43977862,
+                "name": "知春亭",
+                "type": "nan",
+                "latitude": 39.99544131815988,
+                "longitude": 116.27331261416685
+            },
+            {
+                "id": 43977871,
+                "name": "紫霄殿",
+                "type": "nan",
+                "latitude": 39.99704337372581,
+                "longitude": 116.2683961434842
+            },
+            {
+                "id": 43977872,
+                "name": "水木自亲",
+                "type": "nan",
+                "latitude": 39.99707928099617,
+                "longitude": 116.27244869304485
+            },
+            {
+                "id": 43977880,
+                "name": "写秋轩",
+                "type": "nan",
+                "latitude": 39.99780379322703,
+                "longitude": 116.26939837604299
+            },
+            {
+                "id": 43977888,
+                "name": "霞芬室",
+                "type": "nan",
+                "latitude": 39.9964584,
+                "longitude": 116.27351220000003
+            },
+            {
+                "id": 43977889,
+                "name": "藕香榭",
+                "type": "nan",
+                "latitude": 39.996426522640526,
+                "longitude": 116.27311739429375
+            },
+            {
+                "id": 43977891,
+                "name": "近西轩",
+                "type": "nan",
+                "latitude": 39.99699705,
+                "longitude": 116.27304300000003
+            },
+            {
+                "id": 43977893,
+                "name": "乐寿堂",
+                "type": "nan",
+                "latitude": 39.99742135300351,
+                "longitude": 116.27240422262169
+            },
+            {
+                "id": 43977895,
+                "name": "永寿斋",
+                "type": "nan",
+                "latitude": 39.997605050000004,
+                "longitude": 116.27296625000001
+            },
+            {
+                "id": 43977896,
+                "name": "舒华布实",
+                "type": "nan",
+                "latitude": 39.9972834607317,
+                "longitude": 116.27270572260983
+            },
+            {
+                "id": 43977900,
+                "name": "船坞",
+                "type": "nan",
+                "latitude": 40.00099599478518,
+                "longitude": 116.26910872564054
+            },
+            {
+                "id": 43977902,
+                "name": "景福阁",
+                "type": "nan",
+                "latitude": 39.99864700664791,
+                "longitude": 116.27357592095036
+            },
+            {
+                "id": 43977911,
+                "name": "仁寿殿",
+                "type": "nan",
+                "latitude": 39.996511127146256,
+                "longitude": 116.2739954569036
+            },
+            {
+                "id": 43977921,
+                "name": "益寿堂",
+                "type": "nan",
+                "latitude": 39.99895080167967,
+                "longitude": 116.27409499955483
+            },
+            {
+                "id": 43978817,
+                "name": "宿云檐城关",
+                "type": "nan",
+                "latitude": 39.99848423050101,
+                "longitude": 116.26341840503491
+            },
+            {
+                "id": 43978819,
+                "name": "大戏台",
+                "type": "nan",
+                "latitude": 39.99721033791306,
+                "longitude": 116.27375424464579
+            },
+            {
+                "id": 43978820,
+                "name": "德和园",
+                "type": "nan",
+                "latitude": 39.9975076279373,
+                "longitude": 116.27373462367552
+            },
+            {
+                "id": 412745920,
+                "name": "涵远堂",
+                "type": "nan",
+                "latitude": 39.99943802248988,
+                "longitude": 116.27575373665375
+            },
+            {
+                "id": 412745922,
+                "name": "乐农轩",
+                "type": "nan",
+                "latitude": 39.9989206,
+                "longitude": 116.27449105
+            },
+            {
+                "id": 412745923,
+                "name": "Jiqing Xuan",
+                "type": "nan",
+                "latitude": 39.99983405000001,
+                "longitude": 116.2757102
+            },
+            {
+                "id": 579104635,
+                "name": "玉澜堂",
+                "type": "nan",
+                "latitude": 39.99659700579893,
+                "longitude": 116.2732619991213
+            },
+            {
+                "id": 579104636,
+                "name": "宜芸馆",
+                "type": "nan",
+                "latitude": 39.99714377705719,
+                "longitude": 116.27316056775786
+            },
+            {
+                "id": 579104637,
+                "name": "文昌阁",
+                "type": "nan",
+                "latitude": 39.99521927708788,
+                "longitude": 116.27395066477054
+            },
+            {
+                "id": 627822201,
+                "name": "涵虚堂",
+                "type": "nan",
+                "latitude": 39.99050606436534,
+                "longitude": 116.27008513105851
+            },
+            {
+                "id": 727038441,
+                "name": "千峰彩翠",
+                "type": "nan",
+                "latitude": 39.99836815053105,
+                "longitude": 116.27032821745749
+            },
+            {
+                "id": 727040825,
+                "name": "紫气东来城关",
+                "type": "nan",
+                "latitude": 39.99819539043301,
+                "longitude": 116.27480750099649
+            },
+            {
+                "id": 1009869483,
+                "name": "治镜阁",
+                "type": "nan",
+                "latitude": 39.9903248290292,
+                "longitude": 116.25826167668839
+            },
+            {
+                "id": 1249466268,
+                "name": "道存斋",
+                "type": "nan",
+                "latitude": 39.99703966871019,
+                "longitude": 116.27338135407012
+            }
+        ]
+    }
+}

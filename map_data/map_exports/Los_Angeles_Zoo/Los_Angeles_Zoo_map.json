@@ -1,0 +1,143 @@
+{
+    "id": 1332092754330857475,
+    "name": "洛杉矶动物园",
+    "address": "5333 Zoo Dr, Los Angeles, CA 90027美国",
+    "rating": 4.4,
+    "popularity": 60,
+    "data_path": "map_data/university_map/Los_Angeles_Zoo",
+    "description": "洛杉矶动物园（Los Angeles Zoo）是位于美国加利福尼亚州洛杉矶的一座动物园，由洛杉矶市运营，2002年改名为洛杉矶动物园和植物园（Los Angeles Zoo and Botanical Gardens）。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c9/LAzoo.jpg"
+    ],
+    "amenity": {
+        "affiliation": 1332092754330857475,
+        "amenity_list": [
+            {
+                "id": 10004510,
+                "name": "Zoo Parking",
+                "type": "parking",
+                "latitude": 34.14934860176453,
+                "longitude": -118.28350441638258
+            },
+            {
+                "id": 422131244,
+                "name": "可能感兴趣的地点",
+                "type": "shelter",
+                "latitude": 34.14959647466885,
+                "longitude": -118.29220469606072
+            },
+            {
+                "id": 422130708,
+                "name": "Los Angeles Zoo Ticket Sales and Entrance Plaza",
+                "type": "nan",
+                "latitude": 34.14839686051866,
+                "longitude": -118.28410982202652
+            },
+            {
+                "id": 422130754,
+                "name": "Treetops Terrace",
+                "type": "nan",
+                "latitude": 34.147279034267264,
+                "longitude": -118.2892223100446
+            },
+            {
+                "id": 422130771,
+                "name": "Children's Discovery Center",
+                "type": "nan",
+                "latitude": 34.14912939963959,
+                "longitude": -118.28409410909885
+            },
+            {
+                "id": 422130778,
+                "name": "Thai Viewing Pavillion",
+                "type": "nan",
+                "latitude": 34.14761669560828,
+                "longitude": -118.29028436733712
+            },
+            {
+                "id": 422130807,
+                "name": "Dragons of Komodo",
+                "type": "nan",
+                "latitude": 34.146040599684504,
+                "longitude": -118.28883821902097
+            },
+            {
+                "id": 422130817,
+                "name": "Gottlieb Animal Health and Conservation Center",
+                "type": "nan",
+                "latitude": 34.14712952369725,
+                "longitude": -118.29462283465288
+            },
+            {
+                "id": 422130829,
+                "name": "Angela Collier World of Birds Theater",
+                "type": "nan",
+                "latitude": 34.15012416241274,
+                "longitude": -118.2895894121038
+            },
+            {
+                "id": 422131032,
+                "name": "Stilt House",
+                "type": "nan",
+                "latitude": 34.1483637,
+                "longitude": -118.28896214999999
+            },
+            {
+                "id": 422131165,
+                "name": "Australia House",
+                "type": "nan",
+                "latitude": 34.146092107685824,
+                "longitude": -118.28829656660726
+            },
+            {
+                "id": 422131225,
+                "name": "Zoo Grill",
+                "type": "nan",
+                "latitude": 34.14854707562652,
+                "longitude": -118.28640690472884
+            },
+            {
+                "id": 422131242,
+                "name": "Zoo Security and First Aid",
+                "type": "nan",
+                "latitude": 34.14810035,
+                "longitude": -118.285245
+            },
+            {
+                "id": 422131378,
+                "name": "Glaza Administration",
+                "type": "nan",
+                "latitude": 34.14797683471121,
+                "longitude": -118.286297005689
+            },
+            {
+                "id": 422131689,
+                "name": "Tom Mankiewicz Conservation Carousel",
+                "type": "nan",
+                "latitude": 34.147283281263114,
+                "longitude": -118.28878398213857
+            },
+            {
+                "id": 893139915,
+                "name": "Zoo Administration",
+                "type": "nan",
+                "latitude": 34.148121616558804,
+                "longitude": -118.2858537774978
+            },
+            {
+                "id": 893139916,
+                "name": "The L.A.I.R.",
+                "type": "nan",
+                "latitude": 34.14710685338096,
+                "longitude": -118.28817739834629
+            },
+            {
+                "id": 893139933,
+                "name": "Main Shuttle Station",
+                "type": "nan",
+                "latitude": 34.14742459137343,
+                "longitude": -118.28814653717147
+            }
+        ]
+    }
+}

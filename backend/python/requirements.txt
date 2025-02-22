@@ -1,0 +1,4 @@
+geopandas==0.14.3
+networkx==3.2.1
+osmnx==1.9.3
+Shapely==2.0.4

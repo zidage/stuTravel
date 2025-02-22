@@ -1,0 +1,241 @@
+{
+    "id": 3887100158745726437,
+    "name": "塔龙加动物园",
+    "address": "Bradleys Head Rd, Mosman NSW 2088澳大利亚",
+    "rating": 4.5,
+    "popularity": 68,
+    "data_path": "map_data/university_map/Taronga_Zoo",
+    "description": "塔朗加動物園（英語：Taronga Zoo）是位於澳洲新南威爾士州城市雪梨的一座動物園。塔朗加動物園開園於1916年10月7日，分為八個區域，面積約28 ha（69 acre）。塔朗加動物園飼養有250種超過2,600隻動物，為澳大利亞最大的動物園。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/73/Taronga_Zoo%2C_New_South_Wales_Australia.jpg"
+    ],
+    "amenity": {
+        "affiliation": 3887100158745726437,
+        "amenity_list": [
+            {
+                "id": 458712797,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": -33.8445765,
+                "longitude": 151.240967
+            },
+            {
+                "id": 1388145679,
+                "name": "Taronga Zoo Cafe",
+                "type": "cafe",
+                "latitude": -33.8426314,
+                "longitude": 151.2426691
+            },
+            {
+                "id": 4755031823,
+                "name": "Taronga Zoo",
+                "type": "bus_station",
+                "latitude": -33.8421613,
+                "longitude": 151.2434878
+            },
+            {
+                "id": 4937785883,
+                "name": "The Fish Stop",
+                "type": "restaurant",
+                "latitude": -33.8446849,
+                "longitude": 151.243268
+            },
+            {
+                "id": 4937785884,
+                "name": "The View",
+                "type": "restaurant",
+                "latitude": -33.8447044,
+                "longitude": 151.2431668
+            },
+            {
+                "id": 7024681895,
+                "name": "Terence Connealy memorial",
+                "type": "bench",
+                "latitude": -33.8438756,
+                "longitude": 151.242559
+            },
+            {
+                "id": 7024705258,
+                "name": "Connoiseur",
+                "type": "ice_cream",
+                "latitude": -33.8444682,
+                "longitude": 151.2410922
+            },
+            {
+                "id": 9611865603,
+                "name": "Taronga Zoo Wildlife Hospital",
+                "type": "veterinary",
+                "latitude": -33.8418455,
+                "longitude": 151.2394564
+            },
+            {
+                "id": 11834824698,
+                "name": "Taronga Zoo Car Park",
+                "type": "parking",
+                "latitude": -33.8414561,
+                "longitude": 151.2426039
+            },
+            {
+                "id": 751435612,
+                "name": "Centenary Theatre",
+                "type": "theatre",
+                "latitude": -33.84316927205106,
+                "longitude": 151.2407494525917
+            },
+            {
+                "id": 985131158,
+                "name": "Taronga Food Market",
+                "type": "food_court",
+                "latitude": -33.84408742257166,
+                "longitude": 151.24063440183195
+            },
+            {
+                "id": 985684604,
+                "name": "The Bush Theatre",
+                "type": "theatre",
+                "latitude": -33.84553993901124,
+                "longitude": 151.24338248546235
+            },
+            {
+                "id": 39513656,
+                "name": "Function Centre",
+                "type": "nan",
+                "latitude": -33.84357461284607,
+                "longitude": 151.24400194960393
+            },
+            {
+                "id": 39513793,
+                "name": "Reptile World (Serpentaria)",
+                "type": "nan",
+                "latitude": -33.84244663506664,
+                "longitude": 151.24041433468852
+            },
+            {
+                "id": 47476071,
+                "name": "Taronga Zoo - Food Preperation",
+                "type": "nan",
+                "latitude": -33.842195418765336,
+                "longitude": 151.24079711658806
+            },
+            {
+                "id": 124826551,
+                "name": "Taronga Zoo Entrance Plaza",
+                "type": "nan",
+                "latitude": -33.84248008505815,
+                "longitude": 151.2432924041041
+            },
+            {
+                "id": 143672767,
+                "name": "ANZ Lecture Theatre",
+                "type": "nan",
+                "latitude": -33.84233607824401,
+                "longitude": 151.24185403353914
+            },
+            {
+                "id": 171752878,
+                "name": "Sky Safari",
+                "type": "nan",
+                "latitude": -33.84237086448737,
+                "longitude": 151.24228236658877
+            },
+            {
+                "id": 171752879,
+                "name": "Sky Safari",
+                "type": "nan",
+                "latitude": -33.84556480512108,
+                "longitude": 151.2393800063299
+            },
+            {
+                "id": 172088686,
+                "name": "Taronga Zoo - Deliveries",
+                "type": "nan",
+                "latitude": -33.84198846059855,
+                "longitude": 151.2399138150373
+            },
+            {
+                "id": 172088758,
+                "name": "Taronga Zoo Administration",
+                "type": "nan",
+                "latitude": -33.84364252980525,
+                "longitude": 151.24427199014565
+            },
+            {
+                "id": 582218945,
+                "name": "Zoo Shop",
+                "type": "nan",
+                "latitude": -33.84259875530887,
+                "longitude": 151.24248717672114
+            },
+            {
+                "id": 583098302,
+                "name": "Elephant Temple",
+                "type": "nan",
+                "latitude": -33.84421224315882,
+                "longitude": 151.24311288805507
+            },
+            {
+                "id": 751455255,
+                "name": "Backyard to Bush",
+                "type": "nan",
+                "latitude": -33.84487146165405,
+                "longitude": 151.24372929540726
+            },
+            {
+                "id": 985131154,
+                "name": "Elephant Tower",
+                "type": "nan",
+                "latitude": -33.84436721807554,
+                "longitude": 151.24059453842563
+            },
+            {
+                "id": 985131155,
+                "name": "Mid Shop",
+                "type": "nan",
+                "latitude": -33.84462638435241,
+                "longitude": 151.24097886062586
+            },
+            {
+                "id": 985373030,
+                "name": "Taronga Zoo - Lower Entrance",
+                "type": "nan",
+                "latitude": -33.8450782408295,
+                "longitude": 151.24195493524206
+            },
+            {
+                "id": 985373033,
+                "name": "Koala",
+                "type": "nan",
+                "latitude": -33.84270799226895,
+                "longitude": 151.24131992471692
+            },
+            {
+                "id": 985373040,
+                "name": "Zoo Friends",
+                "type": "nan",
+                "latitude": -33.84213776991912,
+                "longitude": 151.24336928312422
+            },
+            {
+                "id": 985668247,
+                "name": "Giraffe Barn",
+                "type": "nan",
+                "latitude": -33.84303661254956,
+                "longitude": 151.2400799476747
+            },
+            {
+                "id": 985668251,
+                "name": "Zebra Barn",
+                "type": "nan",
+                "latitude": -33.84292127217857,
+                "longitude": 151.2399456140134
+            },
+            {
+                "id": 985684613,
+                "name": "Wild Ropes Course",
+                "type": "nan",
+                "latitude": -33.84306103108115,
+                "longitude": 151.24317601323378
+            }
+        ]
+    }
+}

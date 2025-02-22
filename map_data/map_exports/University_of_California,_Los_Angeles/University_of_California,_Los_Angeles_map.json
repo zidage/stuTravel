@@ -1,0 +1,1829 @@
+{
+    "id": 1186202654989570943,
+    "name": "加利福尼亚大学洛杉矶分校",
+    "address": "美国 California, Los Angeles, 邮政编码: 90095",
+    "rating": 4.6,
+    "popularity": 60,
+    "data_path": "map_data/university_map/University_of_California,_Los_Angeles",
+    "description": "加州大学洛杉矶分校（英語：University of California, Los Angeles），簡稱UCLA，是一所位于美国加利福尼亚州洛杉矶的公立研究型大学，创办于1919年，是加州大学系统中的第三所大学，目前擁有约31,600名本科生与14,300名研究生，提供包括学士、硕士与博士在内331种不同的学位课程（其中学士学位124个；硕士学位98个；博士以及专业学位共109个）。加州大学洛杉矶分校是全美国大學申请人数最多的学校，2020年有139,490人申请入学加州大学洛杉矶分校，是全美入學競爭最激烈的公立大学之一。 2023年在U.S. News世界大學排名全美公立大學第一名。\n截止2020年10月，加州大学洛杉矶分校的校友、教授及研究人员中，共有25位诺贝尔奖得主、3位菲尔兹奖得主、5位图灵奖得主。洛加大同时也因其学生在奥林匹克运动会中取得的优异成绩而闻名于世，截止2021年，该校的校友、学生、教练和其他人员等共获得了270枚奥运奖牌（包括136枚金牌）。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c8/California_Nanosystems_Institute%2C_interior_walkways%2C_UCLA.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Drake_Stadium_2008.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hughandhazeldarlinglawlibrary.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Royce_Hall%2C_University_of_California%2C_Los_Angeles_%2823-09-2003%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Royce_Hall%2C_University_of_California%2C_Los_Angeles_%2823-09-2003%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/UCLA-old-statenormal-campus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/85/UCLA-vermontcampus-1922.jpg"
+    ],
+    "amenity": {
+        "affiliation": 1186202654989570943,
+        "amenity_list": [
+            {
+                "id": 358851306,
+                "name": "University of California Los Angeles Post Office",
+                "type": "post_office",
+                "latitude": 34.070532,
+                "longitude": -118.44397
+            },
+            {
+                "id": 566556395,
+                "name": "Parking 7",
+                "type": "parking",
+                "latitude": 34.0724018,
+                "longitude": -118.4469176
+            },
+            {
+                "id": 566568562,
+                "name": "可能感兴趣的地点",
+                "type": "parking_entrance",
+                "latitude": 34.0677854,
+                "longitude": -118.443771
+            },
+            {
+                "id": 566762873,
+                "name": "Kerckhoff Coffee House",
+                "type": "cafe",
+                "latitude": 34.0705686,
+                "longitude": -118.4433778
+            },
+            {
+                "id": 1233313350,
+                "name": "Covel Dining Hall",
+                "type": "restaurant",
+                "latitude": 34.0729383,
+                "longitude": -118.4500968
+            },
+            {
+                "id": 1233313354,
+                "name": "Cafe 1919",
+                "type": "restaurant",
+                "latitude": 34.0726539,
+                "longitude": -118.4507834
+            },
+            {
+                "id": 1233313355,
+                "name": "Rendezvous Restaurant",
+                "type": "restaurant",
+                "latitude": 34.0725866,
+                "longitude": -118.4518668
+            },
+            {
+                "id": 1233313357,
+                "name": "Bruin Cafe",
+                "type": "cafe",
+                "latitude": 34.072565,
+                "longitude": -118.4503114
+            },
+            {
+                "id": 1233313368,
+                "name": "The Study at Hedrick",
+                "type": "restaurant",
+                "latitude": 34.0731693,
+                "longitude": -118.4523069
+            },
+            {
+                "id": 1233313371,
+                "name": "De Neve Dining Hall",
+                "type": "restaurant",
+                "latitude": 34.0704841,
+                "longitude": -118.4502655
+            },
+            {
+                "id": 1233313372,
+                "name": "Seasnet Cafe",
+                "type": "cafe",
+                "latitude": 34.0692289,
+                "longitude": -118.4430217
+            },
+            {
+                "id": 1564024398,
+                "name": "Northern Lights",
+                "type": "cafe",
+                "latitude": 34.0744303,
+                "longitude": -118.4423483
+            },
+            {
+                "id": 1564031080,
+                "name": "Untitled Café",
+                "type": "cafe",
+                "latitude": 34.0759625,
+                "longitude": -118.440938
+            },
+            {
+                "id": 1564041926,
+                "name": "Cafe 451",
+                "type": "cafe",
+                "latitude": 34.0748497,
+                "longitude": -118.441283
+            },
+            {
+                "id": 1564058356,
+                "name": "Jimmy's Coffee House",
+                "type": "cafe",
+                "latitude": 34.0737093,
+                "longitude": -118.4394346
+            },
+            {
+                "id": 1564072178,
+                "name": "Arts Library",
+                "type": "library",
+                "latitude": 34.0741881,
+                "longitude": -118.439347
+            },
+            {
+                "id": 1564094000,
+                "name": "Bruin Buzz",
+                "type": "cafe",
+                "latitude": 34.0701867,
+                "longitude": -118.4439673
+            },
+            {
+                "id": 1890835141,
+                "name": "Parking 4",
+                "type": "parking",
+                "latitude": 34.0722916,
+                "longitude": -118.444721
+            },
+            {
+                "id": 1890835142,
+                "name": "Parking SV",
+                "type": "parking",
+                "latitude": 34.0736763,
+                "longitude": -118.4498285
+            },
+            {
+                "id": 1894113018,
+                "name": "Parking MB/MF",
+                "type": "parking",
+                "latitude": 34.0648931,
+                "longitude": -118.446076
+            },
+            {
+                "id": 1894122905,
+                "name": "Campus Pharmacy & Home Health Center",
+                "type": "clinic",
+                "latitude": 34.0657631,
+                "longitude": -118.445724
+            },
+            {
+                "id": 1894122907,
+                "name": "Mattel Children's Hospital",
+                "type": "hospital",
+                "latitude": 34.0663274,
+                "longitude": -118.4471116
+            },
+            {
+                "id": 1894122910,
+                "name": "Resnick Neuropsychiatric Hospital",
+                "type": "hospital",
+                "latitude": 34.0661034,
+                "longitude": -118.4465012
+            },
+            {
+                "id": 1949785430,
+                "name": "Bank of America",
+                "type": "atm",
+                "latitude": 34.0706257,
+                "longitude": -118.444423
+            },
+            {
+                "id": 1949785450,
+                "name": "University Credit Union",
+                "type": "bank",
+                "latitude": 34.0707218,
+                "longitude": -118.4441906
+            },
+            {
+                "id": 1949785590,
+                "name": "Chase",
+                "type": "atm",
+                "latitude": 34.0707018,
+                "longitude": -118.444362
+            },
+            {
+                "id": 1951264203,
+                "name": "Science and Engineering Library – Engineering and Mathematical Sciences",
+                "type": "library",
+                "latitude": 34.0690663,
+                "longitude": -118.4426067
+            },
+            {
+                "id": 1951264206,
+                "name": "UCLA Music Library",
+                "type": "library",
+                "latitude": 34.0710002,
+                "longitude": -118.440394
+            },
+            {
+                "id": 1951264211,
+                "name": "Science & Engineering Library",
+                "type": "library",
+                "latitude": 34.0692678,
+                "longitude": -118.440779
+            },
+            {
+                "id": 1951264212,
+                "name": "UCLA Louise M. Darling Biomedical Library",
+                "type": "library",
+                "latitude": 34.0663256,
+                "longitude": -118.442138
+            },
+            {
+                "id": 1952112120,
+                "name": "North Campus Shop",
+                "type": "cafe",
+                "latitude": 34.0739067,
+                "longitude": -118.4437391
+            },
+            {
+                "id": 1956603876,
+                "name": "Hugh & Hazel Darling Law Library",
+                "type": "library",
+                "latitude": 34.072651,
+                "longitude": -118.43826
+            },
+            {
+                "id": 2139218663,
+                "name": "UCLA Planetarium",
+                "type": "planetarium",
+                "latitude": 34.0693799,
+                "longitude": -118.4426883
+            },
+            {
+                "id": 2392101217,
+                "name": "Neurological Rehabilitation & Research Unit",
+                "type": "hospital",
+                "latitude": 34.065767,
+                "longitude": -118.4442777
+            },
+            {
+                "id": 2393204806,
+                "name": "Blaze Pizza",
+                "type": "restaurant",
+                "latitude": 34.0680368,
+                "longitude": -118.442103
+            },
+            {
+                "id": 2393204807,
+                "name": "Fusion",
+                "type": "fast_food",
+                "latitude": 34.0681058,
+                "longitude": -118.442104
+            },
+            {
+                "id": 2393204808,
+                "name": "Subway",
+                "type": "fast_food",
+                "latitude": 34.068205,
+                "longitude": -118.4421057
+            },
+            {
+                "id": 2393204809,
+                "name": "Yoshinoya",
+                "type": "fast_food",
+                "latitude": 34.0683002,
+                "longitude": -118.4421084
+            },
+            {
+                "id": 2393204881,
+                "name": "Wells Fargo",
+                "type": "atm",
+                "latitude": 34.0706246,
+                "longitude": -118.444373
+            },
+            {
+                "id": 2399881189,
+                "name": "Carl's Jr.",
+                "type": "fast_food",
+                "latitude": 34.0700736,
+                "longitude": -118.4439683
+            },
+            {
+                "id": 2399881191,
+                "name": "Panda Express",
+                "type": "fast_food",
+                "latitude": 34.0706235,
+                "longitude": -118.4441988
+            },
+            {
+                "id": 2399881192,
+                "name": "Lollicup",
+                "type": "cafe",
+                "latitude": 34.0705113,
+                "longitude": -118.444093
+            },
+            {
+                "id": 2399881193,
+                "name": "Rubio's",
+                "type": "fast_food",
+                "latitude": 34.0701785,
+                "longitude": -118.4442131
+            },
+            {
+                "id": 2399881195,
+                "name": "Taco Bell",
+                "type": "fast_food",
+                "latitude": 34.0702829,
+                "longitude": -118.4439659
+            },
+            {
+                "id": 2399881196,
+                "name": "Kikka Sushi",
+                "type": "fast_food",
+                "latitude": 34.0703402,
+                "longitude": -118.444094
+            },
+            {
+                "id": 2399881197,
+                "name": "Wetzel's Pretzels",
+                "type": "fast_food",
+                "latitude": 34.0705094,
+                "longitude": -118.444031
+            },
+            {
+                "id": 3115703798,
+                "name": "Bruin Plate",
+                "type": "restaurant",
+                "latitude": 34.0717871,
+                "longitude": -118.449814
+            },
+            {
+                "id": 4160888490,
+                "name": "Lu Valle Eateries",
+                "type": "cafe",
+                "latitude": 34.07356,
+                "longitude": -118.4392304
+            },
+            {
+                "id": 4160920792,
+                "name": "James Bridges Theater",
+                "type": "cinema",
+                "latitude": 34.0760913,
+                "longitude": -118.440265
+            },
+            {
+                "id": 4243330946,
+                "name": "Cafe Synapse",
+                "type": "cafe",
+                "latitude": 34.0671845,
+                "longitude": -118.4446638
+            },
+            {
+                "id": 5084473749,
+                "name": "Evelyn & Mo Ostin Music Cafe",
+                "type": "cafe",
+                "latitude": 34.0702776,
+                "longitude": -118.4405486
+            },
+            {
+                "id": 5084652623,
+                "name": "Southern Lights",
+                "type": "cafe",
+                "latitude": 34.0683889,
+                "longitude": -118.442346
+            },
+            {
+                "id": 5565062633,
+                "name": "Starbucks",
+                "type": "cafe",
+                "latitude": 34.0659131,
+                "longitude": -118.4433221
+            },
+            {
+                "id": 5565062634,
+                "name": "Cafe Med",
+                "type": "cafe",
+                "latitude": 34.0659137,
+                "longitude": -118.4432987
+            },
+            {
+                "id": 5565062635,
+                "name": "Au Bon Pain",
+                "type": "fast_food",
+                "latitude": 34.0659136,
+                "longitude": -118.4432782
+            },
+            {
+                "id": 7053182041,
+                "name": "Veggie Grill",
+                "type": "fast_food",
+                "latitude": 34.0701722,
+                "longitude": -118.4440852
+            },
+            {
+                "id": 7638792404,
+                "name": "Campus Pharmacy",
+                "type": "pharmacy",
+                "latitude": 34.0656416,
+                "longitude": -118.4459123
+            },
+            {
+                "id": 7638792411,
+                "name": "Dining Commons",
+                "type": "fast_food",
+                "latitude": 34.066064,
+                "longitude": -118.446567
+            },
+            {
+                "id": 8932273841,
+                "name": "HSSEAS Shipping & Receiving",
+                "type": "loading_dock",
+                "latitude": 34.0688769,
+                "longitude": -118.4438375
+            },
+            {
+                "id": 9138951618,
+                "name": "Wescom",
+                "type": "bank",
+                "latitude": 34.07057,
+                "longitude": -118.4443773
+            },
+            {
+                "id": 9164028822,
+                "name": "Bruin Health Pharmacy",
+                "type": "pharmacy",
+                "latitude": 34.0706239,
+                "longitude": -118.444539
+            },
+            {
+                "id": 9189145243,
+                "name": "Plateia",
+                "type": "restaurant",
+                "latitude": 34.0695878,
+                "longitude": -118.4455404
+            },
+            {
+                "id": 9456308408,
+                "name": "Revive Cafe",
+                "type": "cafe",
+                "latitude": 34.0647074,
+                "longitude": -118.4424893
+            },
+            {
+                "id": 10648195321,
+                "name": "Amazon Hub Locker",
+                "type": "parcel_locker",
+                "latitude": 34.0702971,
+                "longitude": -118.4502104
+            },
+            {
+                "id": 30724960,
+                "name": "Parking 5",
+                "type": "parking",
+                "latitude": 34.07416709162318,
+                "longitude": -118.442900204839
+            },
+            {
+                "id": 44631346,
+                "name": "Parking 11",
+                "type": "parking",
+                "latitude": 34.07487462569602,
+                "longitude": -118.45397529903143
+            },
+            {
+                "id": 44653986,
+                "name": "Shapiro Fountain",
+                "type": "fountain",
+                "latitude": 34.07219717374539,
+                "longitude": -118.44256050409462
+            },
+            {
+                "id": 44669492,
+                "name": "Marion Davies Children's Health Center",
+                "type": "clinic",
+                "latitude": 34.06517297342393,
+                "longitude": -118.442436320582
+            },
+            {
+                "id": 44669498,
+                "name": "Reed Neurological Research Center",
+                "type": "research_institute",
+                "latitude": 34.06622212191013,
+                "longitude": -118.44480487987718
+            },
+            {
+                "id": 44669501,
+                "name": "Semel Institute for Neuroscience and Human Behavior",
+                "type": "research_institute",
+                "latitude": 34.06578420379455,
+                "longitude": -118.44456302925059
+            },
+            {
+                "id": 53334202,
+                "name": "Parking A",
+                "type": "parking",
+                "latitude": 34.07115503924569,
+                "longitude": -118.43893664385136
+            },
+            {
+                "id": 179088301,
+                "name": "Brain Research Institute",
+                "type": "research_institute",
+                "latitude": 34.06634236662472,
+                "longitude": -118.444372140437
+            },
+            {
+                "id": 184712204,
+                "name": "Ackerman Food Court",
+                "type": "food_court",
+                "latitude": 34.0703582953665,
+                "longitude": -118.4441844999948
+            },
+            {
+                "id": 229441461,
+                "name": "Parking 33",
+                "type": "parking",
+                "latitude": 34.06064258047779,
+                "longitude": -118.449537896823
+            },
+            {
+                "id": 230758446,
+                "name": "Jules Stein Parking",
+                "type": "parking",
+                "latitude": 34.06418922907473,
+                "longitude": -118.44460045262625
+            },
+            {
+                "id": 422876521,
+                "name": "Ahmanson-Lovelace Brain Mapping Center",
+                "type": "clinic",
+                "latitude": 34.06670093861319,
+                "longitude": -118.44438203330157
+            },
+            {
+                "id": 422876522,
+                "name": "Ashe Student Health Center",
+                "type": "clinic",
+                "latitude": 34.07155459310803,
+                "longitude": -118.44482081233038
+            },
+            {
+                "id": 422876535,
+                "name": "Charles E. Young Research Library",
+                "type": "library",
+                "latitude": 34.074954355710155,
+                "longitude": -118.44147562172556
+            },
+            {
+                "id": 422876543,
+                "name": "Doris Stein Eye Research Center",
+                "type": "research_institute",
+                "latitude": 34.064517312724114,
+                "longitude": -118.44455836637489
+            },
+            {
+                "id": 422876545,
+                "name": "Wasserman Building",
+                "type": "clinic",
+                "latitude": 34.06525724251725,
+                "longitude": -118.44462884892268
+            },
+            {
+                "id": 422876579,
+                "name": "Jules Stein Eye Institute",
+                "type": "hospital",
+                "latitude": 34.065004240383736,
+                "longitude": -118.44385851478822
+            },
+            {
+                "id": 422876595,
+                "name": "Manoukian Medical Building",
+                "type": "clinic",
+                "latitude": 34.06554591104982,
+                "longitude": -118.44577684022107
+            },
+            {
+                "id": 422876596,
+                "name": "Goldberg Medical Building",
+                "type": "clinic",
+                "latitude": 34.064356290712134,
+                "longitude": -118.44611431793678
+            },
+            {
+                "id": 422876614,
+                "name": "Parking 1",
+                "type": "parking",
+                "latitude": 34.0651368053515,
+                "longitude": -118.44725625324071
+            },
+            {
+                "id": 422876615,
+                "name": "Parking 2",
+                "type": "parking",
+                "latitude": 34.068603498626366,
+                "longitude": -118.4398126052902
+            },
+            {
+                "id": 422876616,
+                "name": "Parking 3",
+                "type": "parking",
+                "latitude": 34.077187696516695,
+                "longitude": -118.44001868826973
+            },
+            {
+                "id": 422876617,
+                "name": "Parking 8",
+                "type": "parking",
+                "latitude": 34.06824196722539,
+                "longitude": -118.44674314600935
+            },
+            {
+                "id": 422876618,
+                "name": "Parking 9",
+                "type": "parking",
+                "latitude": 34.06803709691822,
+                "longitude": -118.44381936421907
+            },
+            {
+                "id": 422876619,
+                "name": "Parking DD",
+                "type": "parking",
+                "latitude": 34.06974506124925,
+                "longitude": -118.4501566532569
+            },
+            {
+                "id": 422876620,
+                "name": "Parking E",
+                "type": "parking",
+                "latitude": 34.06504159226602,
+                "longitude": -118.44205773840055
+            },
+            {
+                "id": 422876621,
+                "name": "Parking RC",
+                "type": "parking",
+                "latitude": 34.07524435734255,
+                "longitude": -118.45107633275985
+            },
+            {
+                "id": 422876623,
+                "name": "Morton Medical Building (MP200)",
+                "type": "clinic",
+                "latitude": 34.06522537147543,
+                "longitude": -118.44656113276879
+            },
+            {
+                "id": 422876626,
+                "name": "Powell Library",
+                "type": "library",
+                "latitude": 34.071605534633655,
+                "longitude": -118.44217512789841
+            },
+            {
+                "id": 422876641,
+                "name": "Southern Regional Library Facility",
+                "type": "library",
+                "latitude": 34.07096364850199,
+                "longitude": -118.45417727736772
+            },
+            {
+                "id": 422876645,
+                "name": "Student Activities Center (SAC)",
+                "type": "community_centre",
+                "latitude": 34.07155538154028,
+                "longitude": -118.44413466852626
+            },
+            {
+                "id": 422876646,
+                "name": "Sunset Amphitheater",
+                "type": "theatre",
+                "latitude": 34.07532501925222,
+                "longitude": -118.45311544358228
+            },
+            {
+                "id": 422876652,
+                "name": "UCLA Police Department",
+                "type": "police",
+                "latitude": 34.06732736047872,
+                "longitude": -118.44542607959819
+            },
+            {
+                "id": 425246942,
+                "name": "Fire Station 37",
+                "type": "fire_station",
+                "latitude": 34.05981279423649,
+                "longitude": -118.44895194002261
+            },
+            {
+                "id": 425246943,
+                "name": "Parking 32",
+                "type": "parking",
+                "latitude": 34.05996156865707,
+                "longitude": -118.44777048370153
+            },
+            {
+                "id": 521857915,
+                "name": "Inverted Fountain",
+                "type": "fountain",
+                "latitude": 34.07007572126486,
+                "longitude": -118.44077936664303
+            },
+            {
+                "id": 810618013,
+                "name": "UCLA Lab School",
+                "type": "school",
+                "latitude": 34.07555753776895,
+                "longitude": -118.44370455818613
+            },
+            {
+                "id": 819656037,
+                "name": "UCLA Art Council Amphitheater",
+                "type": "theatre",
+                "latitude": 34.072738327371894,
+                "longitude": -118.44348583629875
+            },
+            {
+                "id": 854806689,
+                "name": "Rosenfeld Library",
+                "type": "library",
+                "latitude": 34.07436519113721,
+                "longitude": -118.44344621356647
+            },
+            {
+                "id": 1108611647,
+                "name": "Parking 36",
+                "type": "parking",
+                "latitude": 34.05884359854983,
+                "longitude": -118.44754679981052
+            },
+            {
+                "id": 2389785,
+                "name": "Ronald Reagan UCLA Medical Center",
+                "type": "hospital",
+                "latitude": 34.06645928145889,
+                "longitude": -118.44634083241235
+            },
+            {
+                "id": 6287588,
+                "name": "LuValle Commons",
+                "type": "food_court",
+                "latitude": 34.07365388028025,
+                "longitude": -118.43925255238703
+            },
+            {
+                "id": 44631681,
+                "name": "Jacaranda Court",
+                "type": "nan",
+                "latitude": 34.06279463309886,
+                "longitude": -118.45147313356192
+            },
+            {
+                "id": 44631685,
+                "name": "Magnolia Court",
+                "type": "nan",
+                "latitude": 34.06370177505198,
+                "longitude": -118.45057243237599
+            },
+            {
+                "id": 44631687,
+                "name": "Sycamore Court",
+                "type": "nan",
+                "latitude": 34.06210910680365,
+                "longitude": -118.44919575428533
+            },
+            {
+                "id": 44631689,
+                "name": "Olive Court",
+                "type": "nan",
+                "latitude": 34.06202559394843,
+                "longitude": -118.45075124534418
+            },
+            {
+                "id": 46364638,
+                "name": "Rehabilitation Building",
+                "type": "nan",
+                "latitude": 34.06074771681154,
+                "longitude": -118.44923313359854
+            },
+            {
+                "id": 49832949,
+                "name": "West Medical Building",
+                "type": "nan",
+                "latitude": 34.06053692991923,
+                "longitude": -118.4478552667262
+            },
+            {
+                "id": 53334145,
+                "name": "Science and Technology Research Building",
+                "type": "nan",
+                "latitude": 34.06078876681498,
+                "longitude": -118.44845828754475
+            },
+            {
+                "id": 53334151,
+                "name": "Capital Programs Building",
+                "type": "nan",
+                "latitude": 34.06021218613117,
+                "longitude": -118.44848025335347
+            },
+            {
+                "id": 184444681,
+                "name": "Engineering VI",
+                "type": "nan",
+                "latitude": 34.06946156753709,
+                "longitude": -118.44434681769744
+            },
+            {
+                "id": 184446757,
+                "name": "Gold Hall",
+                "type": "nan",
+                "latitude": 34.07363144461872,
+                "longitude": -118.44390139166313
+            },
+            {
+                "id": 184480980,
+                "name": "Factor Health Sciences Building",
+                "type": "nan",
+                "latitude": 34.06675175735539,
+                "longitude": -118.44201103879705
+            },
+            {
+                "id": 184484863,
+                "name": "Geffen Academy",
+                "type": "nan",
+                "latitude": 34.0593521175712,
+                "longitude": -118.44685051358387
+            },
+            {
+                "id": 184488678,
+                "name": "Cornell Hall",
+                "type": "nan",
+                "latitude": 34.074000337857996,
+                "longitude": -118.44340290740122
+            },
+            {
+                "id": 184488681,
+                "name": "Mullin Management Commons",
+                "type": "nan",
+                "latitude": 34.07402480550586,
+                "longitude": -118.44384113075176
+            },
+            {
+                "id": 185081403,
+                "name": "Entrepreneurs Hall",
+                "type": "nan",
+                "latitude": 34.07362342730215,
+                "longitude": -118.44334916791907
+            },
+            {
+                "id": 185084330,
+                "name": "Court of Sciences Student Center",
+                "type": "nan",
+                "latitude": 34.06822771844747,
+                "longitude": -118.44218985887638
+            },
+            {
+                "id": 188532291,
+                "name": "Straus Stadium",
+                "type": "nan",
+                "latitude": 34.07031987303496,
+                "longitude": -118.44849742336133
+            },
+            {
+                "id": 199954903,
+                "name": "Weyburn Commons",
+                "type": "nan",
+                "latitude": 34.061507824078845,
+                "longitude": -118.44890760743948
+            },
+            {
+                "id": 199954904,
+                "name": "The Paseo",
+                "type": "nan",
+                "latitude": 34.06135540356355,
+                "longitude": -118.44904073923422
+            },
+            {
+                "id": 225372406,
+                "name": "Kinross South",
+                "type": "nan",
+                "latitude": 34.05875088691946,
+                "longitude": -118.44641496693737
+            },
+            {
+                "id": 225447385,
+                "name": "Transit Operations Maintenance Yard",
+                "type": "nan",
+                "latitude": 34.059475803943386,
+                "longitude": -118.4484230386014
+            },
+            {
+                "id": 230758451,
+                "name": "School of Public Health",
+                "type": "nan",
+                "latitude": 34.0667401549404,
+                "longitude": -118.44363478836273
+            },
+            {
+                "id": 230758455,
+                "name": "UCLA School of Dentistry",
+                "type": "nan",
+                "latitude": 34.06640216226595,
+                "longitude": -118.44204154351061
+            },
+            {
+                "id": 232480959,
+                "name": "Drake Stadium Seating/Bleachers",
+                "type": "nan",
+                "latitude": 34.071981078664315,
+                "longitude": -118.4491132351765
+            },
+            {
+                "id": 407528998,
+                "name": "Luskin Conference Center",
+                "type": "nan",
+                "latitude": 34.069309040747086,
+                "longitude": -118.44581092353422
+            },
+            {
+                "id": 422260003,
+                "name": "Engineering IV",
+                "type": "nan",
+                "latitude": 34.068801190516645,
+                "longitude": -118.44394153209588
+            },
+            {
+                "id": 422876517,
+                "name": "Acacia Residential Building",
+                "type": "nan",
+                "latitude": 34.07042636785069,
+                "longitude": -118.44979897495897
+            },
+            {
+                "id": 422876518,
+                "name": "Ackerman Union",
+                "type": "nan",
+                "latitude": 34.07041161035371,
+                "longitude": -118.4442841587526
+            },
+            {
+                "id": 422876520,
+                "name": "Acosta Center",
+                "type": "nan",
+                "latitude": 34.0704824559233,
+                "longitude": -118.44771295748808
+            },
+            {
+                "id": 422876523,
+                "name": "Birch Residential Building",
+                "type": "nan",
+                "latitude": 34.070424398487695,
+                "longitude": -118.45056412552475
+            },
+            {
+                "id": 422876524,
+                "name": "La Kretz Botany Building",
+                "type": "nan",
+                "latitude": 34.06680800507721,
+                "longitude": -118.4411438461088
+            },
+            {
+                "id": 422876525,
+                "name": "Boyer Hall",
+                "type": "nan",
+                "latitude": 34.06810869601679,
+                "longitude": -118.44176457213517
+            },
+            {
+                "id": 422876526,
+                "name": "Bradley International Hall",
+                "type": "nan",
+                "latitude": 34.069529776781465,
+                "longitude": -118.44929815875493
+            },
+            {
+                "id": 422876531,
+                "name": "Campbell Hall",
+                "type": "nan",
+                "latitude": 34.07379576641415,
+                "longitude": -118.4413148952151
+            },
+            {
+                "id": 422876532,
+                "name": "Campus Services Building 1",
+                "type": "nan",
+                "latitude": 34.06745912217398,
+                "longitude": -118.44727753809238
+            },
+            {
+                "id": 422876533,
+                "name": "Campus Services Building 1",
+                "type": "nan",
+                "latitude": 34.067591211128864,
+                "longitude": -118.4475576115658
+            },
+            {
+                "id": 422876534,
+                "name": "Cedar Residential Building",
+                "type": "nan",
+                "latitude": 34.0709477274625,
+                "longitude": -118.4498861664983
+            },
+            {
+                "id": 422876536,
+                "name": "Collins Executive Education Center",
+                "type": "nan",
+                "latitude": 34.073524241267116,
+                "longitude": -118.44444799540551
+            },
+            {
+                "id": 422876537,
+                "name": "Covel Commons (Sunset Village)",
+                "type": "nan",
+                "latitude": 34.07300852876274,
+                "longitude": -118.44998856991887
+            },
+            {
+                "id": 422876538,
+                "name": "De Neve Commons Building",
+                "type": "nan",
+                "latitude": 34.0703426471317,
+                "longitude": -118.45018178922038
+            },
+            {
+                "id": 422876539,
+                "name": "Delta Terrace",
+                "type": "nan",
+                "latitude": 34.0732347404961,
+                "longitude": -118.4511078183348
+            },
+            {
+                "id": 422876540,
+                "name": "Delta Terrace",
+                "type": "nan",
+                "latitude": 34.07288272578977,
+                "longitude": -118.4511664111938
+            },
+            {
+                "id": 422876541,
+                "name": "Dodd Hall",
+                "type": "nan",
+                "latitude": 34.072778685896395,
+                "longitude": -118.43928280524784
+            },
+            {
+                "id": 422876542,
+                "name": "Dogwood Residential Building",
+                "type": "nan",
+                "latitude": 34.070948688873855,
+                "longitude": -118.45047777580899
+            },
+            {
+                "id": 422876544,
+                "name": "Dykstra Hall",
+                "type": "nan",
+                "latitude": 34.07003133820368,
+                "longitude": -118.45007078885484
+            },
+            {
+                "id": 422876549,
+                "name": "Environment, Health & Safety",
+                "type": "nan",
+                "latitude": 34.06829811249745,
+                "longitude": -118.44824480418164
+            },
+            {
+                "id": 422876552,
+                "name": "Evergreen Residential Building",
+                "type": "nan",
+                "latitude": 34.07066276559697,
+                "longitude": -118.4512426704564
+            },
+            {
+                "id": 422876557,
+                "name": "UCLA South Campus Cogen Project",
+                "type": "nan",
+                "latitude": 34.067377725906184,
+                "longitude": -118.44632645147257
+            },
+            {
+                "id": 422876563,
+                "name": "Firgrove Residential Building",
+                "type": "nan",
+                "latitude": 34.070196933105265,
+                "longitude": -118.45097898879777
+            },
+            {
+                "id": 422876565,
+                "name": "Pritzker Hall",
+                "type": "nan",
+                "latitude": 34.06963707235893,
+                "longitude": -118.44076038725943
+            },
+            {
+                "id": 422876566,
+                "name": "Franz Hall",
+                "type": "nan",
+                "latitude": 34.06964293594742,
+                "longitude": -118.44146736813602
+            },
+            {
+                "id": 422876567,
+                "name": "GSEIS",
+                "type": "nan",
+                "latitude": 34.07507588135386,
+                "longitude": -118.44216534891183
+            },
+            {
+                "id": 422876568,
+                "name": "Gardenia Residential Building",
+                "type": "nan",
+                "latitude": 34.07077965329085,
+                "longitude": -118.45238120958919
+            },
+            {
+                "id": 422876569,
+                "name": "Gonda (Goldschmeid) Center",
+                "type": "nan",
+                "latitude": 34.067361681277426,
+                "longitude": -118.44474126011562
+            },
+            {
+                "id": 422876570,
+                "name": "Haines Hall",
+                "type": "nan",
+                "latitude": 34.07289687522362,
+                "longitude": -118.44123800229161
+            },
+            {
+                "id": 422876571,
+                "name": "Hedrick Hall",
+                "type": "nan",
+                "latitude": 34.07330072850134,
+                "longitude": -118.45235764101962
+            },
+            {
+                "id": 422876572,
+                "name": "Hedrick Summit",
+                "type": "nan",
+                "latitude": 34.073972064215184,
+                "longitude": -118.45268560478131
+            },
+            {
+                "id": 422876573,
+                "name": "Hitch Residential Suites",
+                "type": "nan",
+                "latitude": 34.07361773382537,
+                "longitude": -118.45385961508926
+            },
+            {
+                "id": 422876574,
+                "name": "Holly Residential Building",
+                "type": "nan",
+                "latitude": 34.070954268970084,
+                "longitude": -118.45180811956469
+            },
+            {
+                "id": 422876575,
+                "name": "Kaplan Hall",
+                "type": "nan",
+                "latitude": 34.0714812814616,
+                "longitude": -118.44123595412236
+            },
+            {
+                "id": 422876576,
+                "name": "Institute for Pure and Applied Mathematics",
+                "type": "nan",
+                "latitude": 34.070249226720385,
+                "longitude": -118.44188607220576
+            },
+            {
+                "id": 422876577,
+                "name": "JD Morgan Center",
+                "type": "nan",
+                "latitude": 34.07076248030888,
+                "longitude": -118.44550600966222
+            },
+            {
+                "id": 422876578,
+                "name": "John Wooden Center",
+                "type": "nan",
+                "latitude": 34.071578190392266,
+                "longitude": -118.4453998765414
+            },
+            {
+                "id": 422876580,
+                "name": "Kaufman Hall",
+                "type": "nan",
+                "latitude": 34.07277390609324,
+                "longitude": -118.4440968209367
+            },
+            {
+                "id": 422876581,
+                "name": "Kerckhoff Hall",
+                "type": "nan",
+                "latitude": 34.0704348553324,
+                "longitude": -118.44357018512976
+            },
+            {
+                "id": 422876582,
+                "name": "Kinsey Teaching Pavilion",
+                "type": "nan",
+                "latitude": 34.0701527733784,
+                "longitude": -118.44130225134334
+            },
+            {
+                "id": 422876583,
+                "name": "Knudsen Hall",
+                "type": "nan",
+                "latitude": 34.070496373990714,
+                "longitude": -118.44121576140637
+            },
+            {
+                "id": 422876584,
+                "name": "Krieger A",
+                "type": "nan",
+                "latitude": 34.075121946154844,
+                "longitude": -118.45507600333262
+            },
+            {
+                "id": 422876586,
+                "name": "Krieger C",
+                "type": "nan",
+                "latitude": 34.07564302436567,
+                "longitude": -118.4548809312888
+            },
+            {
+                "id": 422876587,
+                "name": "Krieger D",
+                "type": "nan",
+                "latitude": 34.075740710890436,
+                "longitude": -118.45514514937764
+            },
+            {
+                "id": 422876588,
+                "name": "La Kretz Hall",
+                "type": "nan",
+                "latitude": 34.067569740759446,
+                "longitude": -118.44269186587665
+            },
+            {
+                "id": 422876589,
+                "name": "Rosenfeld Hall",
+                "type": "nan",
+                "latitude": 34.0666458292775,
+                "longitude": -118.44475604753165
+            },
+            {
+                "id": 422876590,
+                "name": "Life Sciences Building",
+                "type": "nan",
+                "latitude": 34.06721505710662,
+                "longitude": -118.44251288175315
+            },
+            {
+                "id": 422876593,
+                "name": "MacDonald Medical Research Laboratory",
+                "type": "nan",
+                "latitude": 34.06738959490063,
+                "longitude": -118.44411847593966
+            },
+            {
+                "id": 422876594,
+                "name": "Math Sciences",
+                "type": "nan",
+                "latitude": 34.06954963182158,
+                "longitude": -118.44289717444566
+            },
+            {
+                "id": 422876597,
+                "name": "Melnitz East",
+                "type": "nan",
+                "latitude": 34.07642078052819,
+                "longitude": -118.43937435079192
+            },
+            {
+                "id": 422876598,
+                "name": "Melnitz Hall",
+                "type": "nan",
+                "latitude": 34.07639276043442,
+                "longitude": -118.44004424909478
+            },
+            {
+                "id": 422876599,
+                "name": "Moore Hall",
+                "type": "nan",
+                "latitude": 34.07042242476638,
+                "longitude": -118.44268326962342
+            },
+            {
+                "id": 422876600,
+                "name": "Murphy Hall",
+                "type": "nan",
+                "latitude": 34.07160945180997,
+                "longitude": -118.43878191679094
+            },
+            {
+                "id": 422876601,
+                "name": "Neuroscience Research Building",
+                "type": "nan",
+                "latitude": 34.06744905653694,
+                "longitude": -118.44344455296645
+            },
+            {
+                "id": 422876602,
+                "name": "North Campus Student Center",
+                "type": "nan",
+                "latitude": 34.07444530436574,
+                "longitude": -118.44209664678273
+            },
+            {
+                "id": 422876603,
+                "name": "Northwest Campus Auditorium",
+                "type": "nan",
+                "latitude": 34.071888048511155,
+                "longitude": -118.45044537226671
+            },
+            {
+                "id": 422876610,
+                "name": "Orthopaedic Hospital Research Center",
+                "type": "nan",
+                "latitude": 34.0673628669577,
+                "longitude": -118.44129698345287
+            },
+            {
+                "id": 422876613,
+                "name": "Park Pool Locker Rooms",
+                "type": "nan",
+                "latitude": 34.07416043372914,
+                "longitude": -118.45185456443856
+            },
+            {
+                "id": 422876622,
+                "name": "Pauley Pavilion",
+                "type": "nan",
+                "latitude": 34.070377860179875,
+                "longitude": -118.44676691277616
+            },
+            {
+                "id": 422876624,
+                "name": "Ueberroth Building",
+                "type": "nan",
+                "latitude": 34.0640025482128,
+                "longitude": -118.44697649377659
+            },
+            {
+                "id": 422876625,
+                "name": "Physics & Astronomy Building",
+                "type": "nan",
+                "latitude": 34.07069675511622,
+                "longitude": -118.44158570343366
+            },
+            {
+                "id": 422876627,
+                "name": "Public Affairs Building",
+                "type": "nan",
+                "latitude": 34.07438095477927,
+                "longitude": -118.43918479258134
+            },
+            {
+                "id": 422876628,
+                "name": "Rieber Hall",
+                "type": "nan",
+                "latitude": 34.07184560812143,
+                "longitude": -118.45154503891023
+            },
+            {
+                "id": 422876629,
+                "name": "Rieber Terrace",
+                "type": "nan",
+                "latitude": 34.072552749134665,
+                "longitude": -118.45222440675556
+            },
+            {
+                "id": 422876630,
+                "name": "Rieber Vista",
+                "type": "nan",
+                "latitude": 34.07206548038383,
+                "longitude": -118.45221800437112
+            },
+            {
+                "id": 422876631,
+                "name": "Rolfe Hall",
+                "type": "nan",
+                "latitude": 34.07382412268727,
+                "longitude": -118.44209975117316
+            },
+            {
+                "id": 422876632,
+                "name": "Royce Hall",
+                "type": "nan",
+                "latitude": 34.072852887051226,
+                "longitude": -118.44220840738939
+            },
+            {
+                "id": 422876633,
+                "name": "Saxon Residential Suites",
+                "type": "nan",
+                "latitude": 34.0711758714092,
+                "longitude": -118.45290410196391
+            },
+            {
+                "id": 422876634,
+                "name": "Hitch Residential Suites",
+                "type": "nan",
+                "latitude": 34.07342900023739,
+                "longitude": -118.45340710985586
+            },
+            {
+                "id": 422876635,
+                "name": "Saxon Residential Suites",
+                "type": "nan",
+                "latitude": 34.07138952940602,
+                "longitude": -118.45332453939055
+            },
+            {
+                "id": 422876636,
+                "name": "Hitch Residential Suites",
+                "type": "nan",
+                "latitude": 34.07397894390587,
+                "longitude": -118.45389414691978
+            },
+            {
+                "id": 422876637,
+                "name": "Hitch Residential Suites",
+                "type": "nan",
+                "latitude": 34.07332472232285,
+                "longitude": -118.45413404294425
+            },
+            {
+                "id": 422876638,
+                "name": "Saxon Residential Suites",
+                "type": "nan",
+                "latitude": 34.071775144093515,
+                "longitude": -118.4530020668803
+            },
+            {
+                "id": 422876640,
+                "name": "School of Law",
+                "type": "nan",
+                "latitude": 34.073011733405615,
+                "longitude": -118.43847761023387
+            },
+            {
+                "id": 422876642,
+                "name": "Sproul Cove",
+                "type": "nan",
+                "latitude": 34.07170373588709,
+                "longitude": -118.4508979486315
+            },
+            {
+                "id": 422876643,
+                "name": "Sproul Landing",
+                "type": "nan",
+                "latitude": 34.07152896710707,
+                "longitude": -118.45015695942759
+            },
+            {
+                "id": 422876644,
+                "name": "Strathmore Building",
+                "type": "nan",
+                "latitude": 34.06832674504911,
+                "longitude": -118.44523457500016
+            },
+            {
+                "id": 422876647,
+                "name": "Terasaki Life Sciences Building",
+                "type": "nan",
+                "latitude": 34.06724554847903,
+                "longitude": -118.44015190147853
+            },
+            {
+                "id": 422876648,
+                "name": "UCLA Guest House",
+                "type": "nan",
+                "latitude": 34.074576798944015,
+                "longitude": -118.43849402946061
+            },
+            {
+                "id": 422876653,
+                "name": "University Residence",
+                "type": "nan",
+                "latitude": 34.07638092798318,
+                "longitude": -118.44214570531733
+            },
+            {
+                "id": 422876654,
+                "name": "Upper Picnic Area Modular Units",
+                "type": "nan",
+                "latitude": 34.07552011519054,
+                "longitude": -118.4522661943739
+            },
+            {
+                "id": 422876655,
+                "name": "West Alumni Center",
+                "type": "nan",
+                "latitude": 34.070214458780775,
+                "longitude": -118.44535102146885
+            },
+            {
+                "id": 422876656,
+                "name": "Wooden West",
+                "type": "nan",
+                "latitude": 34.07152119903101,
+                "longitude": -118.44595791240155
+            },
+            {
+                "id": 422876660,
+                "name": "Engineering V",
+                "type": "nan",
+                "latitude": 34.0695015685922,
+                "longitude": -118.44377523783614
+            },
+            {
+                "id": 422876661,
+                "name": "Sproul Hall",
+                "type": "nan",
+                "latitude": 34.07209177290258,
+                "longitude": -118.44998230241309
+            },
+            {
+                "id": 422876664,
+                "name": "Sunset Canyon Recreation Center",
+                "type": "nan",
+                "latitude": 34.074681500901335,
+                "longitude": -118.45175169865276
+            },
+            {
+                "id": 422876680,
+                "name": "Plant Growth Center",
+                "type": "nan",
+                "latitude": 34.06629369293157,
+                "longitude": -118.44029107823359
+            },
+            {
+                "id": 422876715,
+                "name": "Krieger C;Krieger B",
+                "type": "nan",
+                "latitude": 34.07554670754213,
+                "longitude": -118.4551098978577
+            },
+            {
+                "id": 422876727,
+                "name": "Macgowan East",
+                "type": "nan",
+                "latitude": 34.07611821431401,
+                "longitude": -118.43932862523263
+            },
+            {
+                "id": 425246956,
+                "name": "West Medical Steam Plant",
+                "type": "nan",
+                "latitude": 34.0610053,
+                "longitude": -118.44822740000001
+            },
+            {
+                "id": 546510989,
+                "name": "Kinross Recreation Center",
+                "type": "nan",
+                "latitude": 34.058902112850134,
+                "longitude": -118.44816065071467
+            },
+            {
+                "id": 590011366,
+                "name": "Mo Ostin Basketball Center",
+                "type": "nan",
+                "latitude": 34.06940236349963,
+                "longitude": -118.44820227408567
+            },
+            {
+                "id": 590016591,
+                "name": "Saxon Commons",
+                "type": "nan",
+                "latitude": 34.071426897258725,
+                "longitude": -118.45278917444466
+            },
+            {
+                "id": 590016847,
+                "name": "Wasserman Football Center",
+                "type": "nan",
+                "latitude": 34.0693694963266,
+                "longitude": -118.4475448281067
+            },
+            {
+                "id": 792359253,
+                "name": "UCLA Parking Information Kiosk Westwood Plaza",
+                "type": "nan",
+                "latitude": 34.06813894324528,
+                "longitude": -118.44498297226106
+            },
+            {
+                "id": 964822668,
+                "name": "Clinical Research",
+                "type": "nan",
+                "latitude": 34.06606082359178,
+                "longitude": -118.44202038998897
+            },
+            {
+                "id": 964842613,
+                "name": "Centennial Hall",
+                "type": "nan",
+                "latitude": 34.0729251955087,
+                "longitude": -118.45385876334659
+            },
+            {
+                "id": 964842615,
+                "name": "Olympic Hall",
+                "type": "nan",
+                "latitude": 34.07237040486396,
+                "longitude": -118.45356896860577
+            },
+            {
+                "id": 965850072,
+                "name": "Southwest Campus Apartments",
+                "type": "nan",
+                "latitude": 34.063032813693226,
+                "longitude": -118.45011174030383
+            },
+            {
+                "id": 965850073,
+                "name": "Southwest Campus Apartments",
+                "type": "nan",
+                "latitude": 34.062740909317874,
+                "longitude": -118.45057671231652
+            },
+            {
+                "id": 965850074,
+                "name": "Southwest Campus Apartments",
+                "type": "nan",
+                "latitude": 34.06235274876745,
+                "longitude": -118.44985811712056
+            },
+            {
+                "id": 1081958233,
+                "name": "UCLA Botanical Garden Shadehouse North",
+                "type": "nan",
+                "latitude": 34.066005806397825,
+                "longitude": -118.4404045993676
+            },
+            {
+                "id": 1081958234,
+                "name": "UCLA Botanical Garden Shadehouse South",
+                "type": "nan",
+                "latitude": 34.06595308044157,
+                "longitude": -118.44046392882977
+            },
+            {
+                "id": 1081958241,
+                "name": "La Kretz Garden Pavillion",
+                "type": "nan",
+                "latitude": 34.066759234156244,
+                "longitude": -118.44154847451694
+            },
+            {
+                "id": 1083630084,
+                "name": "Sproul Hall",
+                "type": "nan",
+                "latitude": 34.072526579075564,
+                "longitude": -118.45019335960868
+            },
+            {
+                "id": 1100753653,
+                "name": "Gayley Heights",
+                "type": "nan",
+                "latitude": 34.06395458804772,
+                "longitude": -118.4488424836381
+            },
+            {
+                "id": 1137977964,
+                "name": "UCLA MakerSpace",
+                "type": "nan",
+                "latitude": 34.07259572332751,
+                "longitude": -118.45356767358835
+            },
+            {
+                "id": 331542,
+                "name": "Center for Health Sciences",
+                "type": "nan",
+                "latitude": 34.06624912570163,
+                "longitude": -118.44304278989664
+            },
+            {
+                "id": 6287582,
+                "name": "Boelter Hall",
+                "type": "nan",
+                "latitude": 34.068875029499424,
+                "longitude": -118.44299962174132
+            },
+            {
+                "id": 6287583,
+                "name": "Canyon Point",
+                "type": "nan",
+                "latitude": 34.07364824542471,
+                "longitude": -118.45079332114739
+            },
+            {
+                "id": 6287584,
+                "name": "Courtside",
+                "type": "nan",
+                "latitude": 34.0736626281874,
+                "longitude": -118.44985268765006
+            },
+            {
+                "id": 6287585,
+                "name": "Faculty Center",
+                "type": "nan",
+                "latitude": 34.070351269253514,
+                "longitude": -118.43924693269564
+            },
+            {
+                "id": 6287586,
+                "name": "Fowler Museum",
+                "type": "nan",
+                "latitude": 34.07295239861071,
+                "longitude": -118.4431936204431
+            },
+            {
+                "id": 6287587,
+                "name": "Hershey Hall",
+                "type": "nan",
+                "latitude": 34.066905750625715,
+                "longitude": -118.43991354977851
+            },
+            {
+                "id": 6287589,
+                "name": "MacGowan Hall",
+                "type": "nan",
+                "latitude": 34.07585265173527,
+                "longitude": -118.43983918260898
+            },
+            {
+                "id": 6287590,
+                "name": "Perloff Hall",
+                "type": "nan",
+                "latitude": 34.07336290466421,
+                "longitude": -118.4402193605498
+            },
+            {
+                "id": 6318832,
+                "name": "Aloe Court",
+                "type": "nan",
+                "latitude": 34.063516328941816,
+                "longitude": -118.45124565771869
+            },
+            {
+                "id": 6318834,
+                "name": "Cypress Court",
+                "type": "nan",
+                "latitude": 34.063324289586944,
+                "longitude": -118.45199403808131
+            },
+            {
+                "id": 6318836,
+                "name": "Palm Court",
+                "type": "nan",
+                "latitude": 34.061312218897406,
+                "longitude": -118.45006050824198
+            },
+            {
+                "id": 12967372,
+                "name": "Broad Art Center",
+                "type": "nan",
+                "latitude": 34.07588979698963,
+                "longitude": -118.4410046530665
+            },
+            {
+                "id": 12967374,
+                "name": "Bunche Hall",
+                "type": "nan",
+                "latitude": 34.07434710413581,
+                "longitude": -118.440272044475
+            },
+            {
+                "id": 12978307,
+                "name": "Geffen Hall",
+                "type": "nan",
+                "latitude": 34.06451421211918,
+                "longitude": -118.44225749241491
+            },
+            {
+                "id": 12996854,
+                "name": "Fernald Center",
+                "type": "nan",
+                "latitude": 34.07639587363062,
+                "longitude": -118.4437904437826
+            },
+            {
+                "id": 13007994,
+                "name": "California Nanosystems Institute",
+                "type": "nan",
+                "latitude": 34.068046488442,
+                "longitude": -118.44295906324882
+            },
+            {
+                "id": 13744791,
+                "name": "Schoenberg Music Building",
+                "type": "nan",
+                "latitude": 34.0707301936064,
+                "longitude": -118.44013738706101
+            },
+            {
+                "id": 13744792,
+                "name": "Ostin Music Center",
+                "type": "nan",
+                "latitude": 34.070389012132225,
+                "longitude": -118.44053624496406
+            }
+        ]
+    }
+}

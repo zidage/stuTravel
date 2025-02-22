@@ -1,0 +1,206 @@
+{
+    "id": -7906055818085053812,
+    "name": "休斯顿动物园",
+    "address": "6200 Hermann Park Dr, Houston, TX 77030美国",
+    "rating": 4.6,
+    "popularity": 48,
+    "data_path": "map_data/university_map/Houston_Zoo",
+    "description": "赫尔曼公园（Hermann Park）是美国得克萨斯州休斯敦的一个占地445-英畝（180-公頃）的城市公园，位于博物馆区南端。公园位于得克萨斯医疗中心以北、莱斯大学以东。赫尔曼公园是许多文化机构的所在地，包括休斯敦动物园、米勒户外剧院、休斯顿自然科学博物馆和赫尔曼公园高尔夫球场，它于1954年成为美国第一个取消隔离的公共高尔夫球场之一。公园内还有玛丽·吉布斯和杰西·琼斯倒影池、许多花园，野餐区，和占地8-英畝（32,000-平方米）的麦戈文湖。\n赫尔曼公园是休斯顿最古老的公园之一，最初是1910年代初整体城市规划的一部分。 1914年，房地产投资者和企业家乔治·赫尔曼拥有该地区大部分土地，并担任该市的公园委员会成员，1916年将他的地产遗赠给休斯顿市，用作公共绿地。 1916年，著名的景观设计师乔治·凯斯勒完成了公园的总体规划，该计划在此后几十年中逐步实施。 最终，赫尔曼公园和莱斯大学是休斯顿城市美化运动的两个明确表达。\n1922年休斯顿动物园的开业 和1943年，德克萨斯医疗中心的建立，从根本上改变了空间的范围和配置，尽管凯斯勒规划的重要元素—如从蒙特罗斯大道延伸的南北轴线依然存在， 由于缺乏资金和维修，赫尔曼公园在20世纪后半叶经历了一段被忽视的时期，促使在1992年成立非营利的赫尔曼公园保护协会。此后，协会已利用超过1.2亿美元的政府和社会资本合作，对公园进行翻新和改造。 如今，赫尔曼公园每年接待超过600万游客；休斯顿动物园是2016年美国参观人数最多的付费动物园（仅次于圣迭戈动物园），游客超过250万人次。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/HermannParkGolfCourse.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/HermannParkJapaneseGardenHoustonTX.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/Hermann_Park_Texas.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/86/Hermannpark2.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/HoustonGardenCenterHosutonTX.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/4/47/Mecom_fountain_at_night.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/df/Pioneer_Memorial_Hermann_Park.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sam_Houston_monument%2C_Hermann_Park.jpg"
+    ],
+    "amenity": {
+        "affiliation": -7906055818085053812,
+        "amenity_list": [
+            {
+                "id": 4288928860,
+                "name": "Houston Zoo",
+                "type": "bicycle_parking",
+                "latitude": 29.7162274,
+                "longitude": -95.3906722
+            },
+            {
+                "id": 6204461289,
+                "name": "Twiga Café",
+                "type": "cafe",
+                "latitude": 29.7123409,
+                "longitude": -95.3925345
+            },
+            {
+                "id": 6204461382,
+                "name": "Albert and Hazel Herzstein Trading Post",
+                "type": "cafe",
+                "latitude": 29.7116711,
+                "longitude": -95.3919725
+            },
+            {
+                "id": 6204461383,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 29.7116434,
+                "longitude": -95.391872
+            },
+            {
+                "id": 106294946,
+                "name": "H-E-B Lone Star Pavillion",
+                "type": "shelter",
+                "latitude": 29.713461623172435,
+                "longitude": -95.39243675369126
+            },
+            {
+                "id": 429768160,
+                "name": "Masihara Pavilion",
+                "type": "shelter",
+                "latitude": 29.712148020909225,
+                "longitude": -95.39163446541527
+            },
+            {
+                "id": 662760173,
+                "name": "Karamu Outpost",
+                "type": "shelter",
+                "latitude": 29.711974100000003,
+                "longitude": -95.39191869999999
+            },
+            {
+                "id": 1105018498,
+                "name": "Giraffe Feeding Platform",
+                "type": "feeding_place",
+                "latitude": 29.712439770995548,
+                "longitude": -95.39241281471605
+            },
+            {
+                "id": 1518177,
+                "name": "Cypress Circle Café",
+                "type": "cafe",
+                "latitude": 29.713588371360355,
+                "longitude": -95.39185187822812
+            },
+            {
+                "id": 45186715,
+                "name": "George R. Brown Conservation Education Center",
+                "type": "nan",
+                "latitude": 29.71517106792625,
+                "longitude": -95.38981283659263
+            },
+            {
+                "id": 45192119,
+                "name": "Carruth Natural Encounters",
+                "type": "nan",
+                "latitude": 29.71551430834705,
+                "longitude": -95.39032737627656
+            },
+            {
+                "id": 106294884,
+                "name": "Medical Center Entrance",
+                "type": "nan",
+                "latitude": 29.712427805063115,
+                "longitude": -95.39318309485829
+            },
+            {
+                "id": 106294901,
+                "name": "Reptiles and Amphibians Building",
+                "type": "nan",
+                "latitude": 29.71465223072871,
+                "longitude": -95.39037038418238
+            },
+            {
+                "id": 106294958,
+                "name": "Wildlife Carousel",
+                "type": "nan",
+                "latitude": 29.71293184212708,
+                "longitude": -95.39279604006457
+            },
+            {
+                "id": 301736914,
+                "name": "Giraffe Barn",
+                "type": "nan",
+                "latitude": 29.712845493520017,
+                "longitude": -95.39221102316728
+            },
+            {
+                "id": 429768169,
+                "name": "Shani Market",
+                "type": "nan",
+                "latitude": 29.712354320443954,
+                "longitude": -95.3928549296569
+            },
+            {
+                "id": 429789662,
+                "name": "Elephant Barn",
+                "type": "nan",
+                "latitude": 29.71404988612339,
+                "longitude": -95.38957501052292
+            },
+            {
+                "id": 429790794,
+                "name": "Wortham World of Primates Building",
+                "type": "nan",
+                "latitude": 29.71398706613544,
+                "longitude": -95.3908147893314
+            },
+            {
+                "id": 662760151,
+                "name": "Yellow Pavilion",
+                "type": "nan",
+                "latitude": 29.71413852039074,
+                "longitude": -95.39387619136446
+            },
+            {
+                "id": 662760152,
+                "name": "Naturally Wild Swap Shop",
+                "type": "nan",
+                "latitude": 29.71368012235846,
+                "longitude": -95.39294032770135
+            },
+            {
+                "id": 662760153,
+                "name": "Bug House",
+                "type": "nan",
+                "latitude": 29.71370084924303,
+                "longitude": -95.39273586687983
+            },
+            {
+                "id": 662760167,
+                "name": "Small Cats House",
+                "type": "nan",
+                "latitude": 29.71309995538615,
+                "longitude": -95.39085706017656
+            },
+            {
+                "id": 662760182,
+                "name": "Great Ape Gallery",
+                "type": "nan",
+                "latitude": 29.710988164480053,
+                "longitude": -95.39192633109049
+            },
+            {
+                "id": 662760194,
+                "name": "Red Pavilion",
+                "type": "nan",
+                "latitude": 29.713528400000005,
+                "longitude": -95.39341594999999
+            },
+            {
+                "id": 809447473,
+                "name": "Giraffee Feeding",
+                "type": "nan",
+                "latitude": 29.712797299999995,
+                "longitude": -95.392545
+            },
+            {
+                "id": 1105049944,
+                "name": "Flamingo Terrace",
+                "type": "nan",
+                "latitude": 29.714657000000003,
+                "longitude": -95.3915464
+            }
+        ]
+    }
+}

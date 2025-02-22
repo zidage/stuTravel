@@ -1,0 +1,420 @@
+{
+    "id": 4601198496494252130,
+    "name": "南京理工大学",
+    "address": "中国江苏省南京市玄武区中山门外大街",
+    "rating": 4.4,
+    "popularity": 64,
+    "data_path": "map_data/university_map/Nanjing_University_of_Science_and_Technology",
+    "description": "南京理工大学是直属于中华人民共和国工业和信息化部的全国重点大学。学校前身为中国人民解放军军事工程学院（简称哈军工）炮兵工程系，先后经历炮兵工程学院、华东工程学院、华东工学院等历史时期，1993年更名为南京理工大学。教育部“211工程”建设高校。兵器科学与技术一级学科评估排名全国第一（2012年）。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/98/School_of_Chemical_Engineering_in_Nanjing_University_of_Science_and_Technology_2012-05.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/School_of_Mechanical_Engineering_in_Nanjing_University_of_Science_and_Technology_2012-05.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/The_Basic_Teaching_and_Lab_Building_in_Nanjing_University_of_Science_and_Technology_01_2012-05.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Comprehensive_Lab_Building_in_Nanjing_University_of_Science_and_Technology_2012-05.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Time_Square_in_Nanjing_University_of_Science_and_Technology_2012-05.JPG"
+    ],
+    "amenity": {
+        "affiliation": 4601198496494252130,
+        "amenity_list": [
+            {
+                "id": 1470664904,
+                "name": "南京理工大学 附属幼儿园",
+                "type": "kindergarten",
+                "latitude": 32.0382542,
+                "longitude": 118.8469157
+            },
+            {
+                "id": 1475681484,
+                "name": "可能感兴趣的地点",
+                "type": "atm",
+                "latitude": 32.0271038,
+                "longitude": 118.8480788
+            },
+            {
+                "id": 1764670899,
+                "name": "交通银行",
+                "type": "atm",
+                "latitude": 32.0316209,
+                "longitude": 118.8503553
+            },
+            {
+                "id": 137388563,
+                "name": "南京理工大学医院",
+                "type": "hospital",
+                "latitude": 32.032995299999996,
+                "longitude": 118.846399
+            },
+            {
+                "id": 137775972,
+                "name": "中国工商银行",
+                "type": "bank",
+                "latitude": 32.03449868212794,
+                "longitude": 118.84798892571467
+            },
+            {
+                "id": 138883122,
+                "name": "南京理工大学图书馆",
+                "type": "library",
+                "latitude": 32.03002322357017,
+                "longitude": 118.85020206846086
+            },
+            {
+                "id": 161844779,
+                "name": "教工研究生食堂",
+                "type": "restaurant",
+                "latitude": 32.03546671266102,
+                "longitude": 118.84816841538185
+            },
+            {
+                "id": 164083826,
+                "name": "明苑美食广场",
+                "type": "food_court",
+                "latitude": 32.02626814309191,
+                "longitude": 118.84924200795126
+            },
+            {
+                "id": 164083827,
+                "name": "二三食堂",
+                "type": "restaurant",
+                "latitude": 32.02861476176806,
+                "longitude": 118.84827607419108
+            },
+            {
+                "id": 656141740,
+                "name": "星苑美食广场",
+                "type": "restaurant",
+                "latitude": 32.024687525705325,
+                "longitude": 118.85335500221372
+            },
+            {
+                "id": 656141770,
+                "name": "设计艺术与传媒学院",
+                "type": "college",
+                "latitude": 32.03076022508473,
+                "longitude": 118.8532863744339
+            },
+            {
+                "id": 656192328,
+                "name": "钱学森学院与中法工程师学院",
+                "type": "college",
+                "latitude": 32.0307394606646,
+                "longitude": 118.84968379913701
+            },
+            {
+                "id": 656192330,
+                "name": "学生浴室",
+                "type": "public_bath",
+                "latitude": 32.02354104392012,
+                "longitude": 118.85324627463045
+            },
+            {
+                "id": 2137424,
+                "name": "南京农业大学 牌楼教学科研基地",
+                "type": "school",
+                "latitude": 32.021898199432755,
+                "longitude": 118.85186062085425
+            },
+            {
+                "id": 3611901738,
+                "name": "求真园",
+                "type": "nan",
+                "latitude": 32.0271653,
+                "longitude": 118.846934
+            },
+            {
+                "id": 133049460,
+                "name": "马克思主义学院与人文学院",
+                "type": "nan",
+                "latitude": 32.03379432723208,
+                "longitude": 118.84949492046754
+            },
+            {
+                "id": 136415982,
+                "name": "109栋",
+                "type": "nan",
+                "latitude": 32.03424482732736,
+                "longitude": 118.84859594829892
+            },
+            {
+                "id": 136415984,
+                "name": "110栋",
+                "type": "nan",
+                "latitude": 32.0344949,
+                "longitude": 118.8485881
+            },
+            {
+                "id": 136415986,
+                "name": "南京理工大学111栋",
+                "type": "nan",
+                "latitude": 32.034756581500844,
+                "longitude": 118.84860602436157
+            },
+            {
+                "id": 136693013,
+                "name": "南京理工大学 艺文馆",
+                "type": "nan",
+                "latitude": 32.032195964923304,
+                "longitude": 118.84963091800894
+            },
+            {
+                "id": 139850960,
+                "name": "学生浴室",
+                "type": "nan",
+                "latitude": 32.03068189619659,
+                "longitude": 118.84629973074014
+            },
+            {
+                "id": 140265535,
+                "name": "南京理工大学第二教学楼",
+                "type": "nan",
+                "latitude": 32.030018463521436,
+                "longitude": 118.85259365028412
+            },
+            {
+                "id": 140265576,
+                "name": "综合实验楼",
+                "type": "nan",
+                "latitude": 32.029741751919126,
+                "longitude": 118.85141902317885
+            },
+            {
+                "id": 158894738,
+                "name": "学术交流中心",
+                "type": "nan",
+                "latitude": 32.03175133984392,
+                "longitude": 118.85208826423548
+            },
+            {
+                "id": 158894755,
+                "name": "紫鹿宾馆",
+                "type": "nan",
+                "latitude": 32.03216762534509,
+                "longitude": 118.85345683732447
+            },
+            {
+                "id": 161844780,
+                "name": "教工研究生食堂",
+                "type": "restaurant",
+                "latitude": 32.0353242,
+                "longitude": 118.84860155000001
+            },
+            {
+                "id": 164057244,
+                "name": "南京理工大学第一教学楼",
+                "type": "nan",
+                "latitude": 32.02795265954303,
+                "longitude": 118.85360842614763
+            },
+            {
+                "id": 164057245,
+                "name": "南京理工大学第四教学楼",
+                "type": "nan",
+                "latitude": 32.02661824408705,
+                "longitude": 118.85052258532698
+            },
+            {
+                "id": 164057246,
+                "name": "兵器博物馆",
+                "type": "nan",
+                "latitude": 32.02633789154634,
+                "longitude": 118.85263595739941
+            },
+            {
+                "id": 164057551,
+                "name": "南京理工大学第三教学楼",
+                "type": "nan",
+                "latitude": 32.02709390137627,
+                "longitude": 118.85268312010491
+            },
+            {
+                "id": 164059553,
+                "name": "18舍",
+                "type": "nan",
+                "latitude": 32.02997422837442,
+                "longitude": 118.84748555515385
+            },
+            {
+                "id": 164059555,
+                "name": "18舍",
+                "type": "nan",
+                "latitude": 32.02967555,
+                "longitude": 118.847492
+            },
+            {
+                "id": 164084346,
+                "name": "30舍",
+                "type": "nan",
+                "latitude": 32.02458790000001,
+                "longitude": 118.85188775000003
+            },
+            {
+                "id": 164084347,
+                "name": "31舍",
+                "type": "nan",
+                "latitude": 32.02458420000001,
+                "longitude": 118.85258444999998
+            },
+            {
+                "id": 164084348,
+                "name": "29舍",
+                "type": "nan",
+                "latitude": 32.02458882480028,
+                "longitude": 118.8511806901407
+            },
+            {
+                "id": 164084586,
+                "name": "27舍",
+                "type": "nan",
+                "latitude": 32.02383033765008,
+                "longitude": 118.85342950681957
+            },
+            {
+                "id": 164090799,
+                "name": "82舍",
+                "type": "nan",
+                "latitude": 32.03255222145525,
+                "longitude": 118.85772583325385
+            },
+            {
+                "id": 164753002,
+                "name": "南京理工大学创业孵化园",
+                "type": "nan",
+                "latitude": 32.024554976396225,
+                "longitude": 118.8515360724018
+            },
+            {
+                "id": 164836749,
+                "name": "逸夫教学楼",
+                "type": "nan",
+                "latitude": 32.02686739039512,
+                "longitude": 118.85150505443357
+            },
+            {
+                "id": 474202731,
+                "name": "南京理工大学图书馆",
+                "type": "library",
+                "latitude": 32.02773038878142,
+                "longitude": 118.85144195127384
+            },
+            {
+                "id": 656141755,
+                "name": "能源与动力工程学院",
+                "type": "nan",
+                "latitude": 32.02689934226853,
+                "longitude": 118.85351523775964
+            },
+            {
+                "id": 656141756,
+                "name": "机械工程学院",
+                "type": "nan",
+                "latitude": 32.0271773027902,
+                "longitude": 118.85459824875524
+            },
+            {
+                "id": 656141761,
+                "name": "材料科学与工程学院",
+                "type": "nan",
+                "latitude": 32.02768708708577,
+                "longitude": 118.85260922189588
+            },
+            {
+                "id": 656141766,
+                "name": "基础实验楼",
+                "type": "nan",
+                "latitude": 32.0285704826237,
+                "longitude": 118.85450145769964
+            },
+            {
+                "id": 656141767,
+                "name": "工程训练中心",
+                "type": "nan",
+                "latitude": 32.02827070103736,
+                "longitude": 118.85549116840994
+            },
+            {
+                "id": 656141768,
+                "name": "格莱特纳米研究所",
+                "type": "nan",
+                "latitude": 32.02820204138562,
+                "longitude": 118.8526422814751
+            },
+            {
+                "id": 656141769,
+                "name": "化工学院与环生学院",
+                "type": "nan",
+                "latitude": 32.029657279679526,
+                "longitude": 118.85456234689204
+            },
+            {
+                "id": 656141771,
+                "name": "民爆楼",
+                "type": "nan",
+                "latitude": 32.0308508,
+                "longitude": 118.85434210000003
+            },
+            {
+                "id": 656141773,
+                "name": "弹药楼",
+                "type": "nan",
+                "latitude": 32.026648402032535,
+                "longitude": 118.85434172567027
+            },
+            {
+                "id": 656141775,
+                "name": "智能楼",
+                "type": "nan",
+                "latitude": 32.02663338134595,
+                "longitude": 118.8549108650152
+            },
+            {
+                "id": 656192312,
+                "name": "28舍",
+                "type": "nan",
+                "latitude": 32.02345256921348,
+                "longitude": 118.85399377919502
+            },
+            {
+                "id": 656192313,
+                "name": "26舍",
+                "type": "nan",
+                "latitude": 32.024445637603925,
+                "longitude": 118.853521246568
+            },
+            {
+                "id": 656192332,
+                "name": "南理工教育超市",
+                "type": "nan",
+                "latitude": 32.030693366887036,
+                "longitude": 118.84845605746418
+            },
+            {
+                "id": 656192347,
+                "name": "明理居",
+                "type": "nan",
+                "latitude": 32.027923493760184,
+                "longitude": 118.84885499325792
+            },
+            {
+                "id": 656192348,
+                "name": "慧质阁",
+                "type": "nan",
+                "latitude": 32.027184277249575,
+                "longitude": 118.84887613779313
+            },
+            {
+                "id": 2188988,
+                "name": "院系综合楼一期",
+                "type": "nan",
+                "latitude": 32.02729381417782,
+                "longitude": 118.85742143120885
+            },
+            {
+                "id": 9124362,
+                "name": "电光学院与自动化学院",
+                "type": "nan",
+                "latitude": 32.02653221417783,
+                "longitude": 118.85747973120887
+            }
+        ]
+    }
+}

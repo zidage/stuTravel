@@ -1,0 +1,2056 @@
+{
+    "id": 9140237181664775775,
+    "name": "华中科技大学",
+    "address": "中国湖北省武汉市洪山区珞喻路1037号 邮政编码: 430074",
+    "rating": 4.3,
+    "popularity": 52,
+    "data_path": "map_data/university_map/Huazhong_University_of_Science_and_Technology",
+    "description": "华中科技大学，简称华中大、华科大（英語：Huazhong University of Science and Technology，縮寫：HUST），坐落于中国湖北省武汉市喻家山麓，东湖之畔，为中华人民共和国教育部直属的综合性重点大学，其历史追溯于1952年中国大陆院系调整中在武汉设立的原华中工学院、1907年德国医师埃里希·宝隆博士创立的上海德文医学堂（今上海同济大学前身）、1950年代在江西庐山设立的原中南建筑工程学校，三校于2000年5月26日合并成立华中科技大学。\n华中科技大学是中华人民共和国顶尖高校之一，現時屬於「軟科世界百強大學」、高端人才通行证计划首批内地九所高校之一(H9)，是“双一流A类”和原“985工程”、原“211工程”重点建设大学，是涵盖理、工、医、文、法、经、管等多学科的综合性大学。2003年，中央政治局常委、时任全国人大常委会委员长吴邦国在有关材料上批示：华中科大是新中国凭借自己力量建起来的重点大学，是中国高等教育发展的缩影。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/04/HUST-Main-building-4112.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/03/HUST_East_Campus.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/HUST_tripod_monument_4121.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/Huazhong_University_of_Science_and_Technology_-_a_lake_and_a_pavilion_on_a_snow_day_-_P1050013.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Platopainting.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6c/Stadium_of_HUST.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%90%AF%E6%98%8E%E6%A5%BC_-_panoramio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/%E5%8D%8E%E7%A7%91%E6%A0%A1%E9%97%A8.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/7/78/%E6%A0%A1%E5%86%85%E8%B7%AF.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/%E6%A0%A1%E9%97%A8%E5%90%8E%E5%B9%BF%E5%9C%BA.JPG"
+    ],
+    "amenity": {
+        "affiliation": 9140237181664775775,
+        "amenity_list": [
+            {
+                "id": 1124474705,
+                "name": "可能感兴趣的地点",
+                "type": "bus_station",
+                "latitude": 30.5176573,
+                "longitude": 114.4156158
+            },
+            {
+                "id": 1124764142,
+                "name": "韵苑食堂",
+                "type": "restaurant",
+                "latitude": 30.5168646,
+                "longitude": 114.426258
+            },
+            {
+                "id": 1143295800,
+                "name": "东篱",
+                "type": "cafe",
+                "latitude": 30.5172528,
+                "longitude": 114.4290367
+            },
+            {
+                "id": 1143295801,
+                "name": "东园",
+                "type": "restaurant",
+                "latitude": 30.5157811,
+                "longitude": 114.430396
+            },
+            {
+                "id": 1143295802,
+                "name": "学生食堂",
+                "type": "restaurant",
+                "latitude": 30.5139695,
+                "longitude": 114.4261473
+            },
+            {
+                "id": 1143792798,
+                "name": "中国工商银行",
+                "type": "bank",
+                "latitude": 30.5176341,
+                "longitude": 114.4171249
+            },
+            {
+                "id": 1186768355,
+                "name": "中国建设银行",
+                "type": "atm",
+                "latitude": 30.5183268,
+                "longitude": 114.409703
+            },
+            {
+                "id": 1186768359,
+                "name": "中国农业银行",
+                "type": "bank",
+                "latitude": 30.5184435,
+                "longitude": 114.4084832
+            },
+            {
+                "id": 1194992420,
+                "name": "百品屋",
+                "type": "restaurant",
+                "latitude": 30.5167653,
+                "longitude": 114.4011283
+            },
+            {
+                "id": 1194992425,
+                "name": "西一食堂",
+                "type": "restaurant",
+                "latitude": 30.5164509,
+                "longitude": 114.4004015
+            },
+            {
+                "id": 1197937984,
+                "name": "百盛园",
+                "type": "restaurant",
+                "latitude": 30.5131005,
+                "longitude": 114.426147
+            },
+            {
+                "id": 1201494703,
+                "name": "港饮之港",
+                "type": "bar",
+                "latitude": 30.5175971,
+                "longitude": 114.4175486
+            },
+            {
+                "id": 1212919497,
+                "name": "同味堂",
+                "type": "restaurant",
+                "latitude": 30.5171626,
+                "longitude": 114.4190615
+            },
+            {
+                "id": 1212919498,
+                "name": "同福堂",
+                "type": "restaurant",
+                "latitude": 30.5172481,
+                "longitude": 114.4180934
+            },
+            {
+                "id": 1212919502,
+                "name": "同畅堂",
+                "type": "restaurant",
+                "latitude": 30.5168171,
+                "longitude": 114.4199175
+            },
+            {
+                "id": 1263396127,
+                "name": "中国银行",
+                "type": "bank",
+                "latitude": 30.5171486,
+                "longitude": 114.4087156
+            },
+            {
+                "id": 9340898226,
+                "name": "露天电影院遗址",
+                "type": "cinema",
+                "latitude": 30.5154797,
+                "longitude": 114.4126872
+            },
+            {
+                "id": 9401762974,
+                "name": "不鸣不飞亭",
+                "type": "shelter",
+                "latitude": 30.5225772,
+                "longitude": 114.4079757
+            },
+            {
+                "id": 9401762975,
+                "name": "薰风亭",
+                "type": "shelter",
+                "latitude": 30.5217989,
+                "longitude": 114.4082544
+            },
+            {
+                "id": 9452603087,
+                "name": "思源亭",
+                "type": "shelter",
+                "latitude": 30.5131915,
+                "longitude": 114.4091898
+            },
+            {
+                "id": 11395851428,
+                "name": "汉堡王",
+                "type": "fast_food",
+                "latitude": 30.512957,
+                "longitude": 114.4261898
+            },
+            {
+                "id": 11395851429,
+                "name": "呷哺呷哺",
+                "type": "restaurant",
+                "latitude": 30.5130067,
+                "longitude": 114.4260932
+            },
+            {
+                "id": 11395851430,
+                "name": "排档江湖",
+                "type": "restaurant",
+                "latitude": 30.5131064,
+                "longitude": 114.4258943
+            },
+            {
+                "id": 11395851431,
+                "name": "周麻婆",
+                "type": "restaurant",
+                "latitude": 30.5131007,
+                "longitude": 114.4259985
+            },
+            {
+                "id": 11395851433,
+                "name": "吉野家",
+                "type": "fast_food",
+                "latitude": 30.5129024,
+                "longitude": 114.4259475
+            },
+            {
+                "id": 11395851434,
+                "name": "氧气层",
+                "type": "restaurant",
+                "latitude": 30.5129138,
+                "longitude": 114.4259121
+            },
+            {
+                "id": 98865824,
+                "name": "工程实训中心",
+                "type": "public_building",
+                "latitude": 30.515246915725005,
+                "longitude": 114.43158391811474
+            },
+            {
+                "id": 98865829,
+                "name": "环境学院",
+                "type": "public_building",
+                "latitude": 30.51489687111446,
+                "longitude": 114.43051138981538
+            },
+            {
+                "id": 98867852,
+                "name": "集贸市场",
+                "type": "marketplace",
+                "latitude": 30.518809271087527,
+                "longitude": 114.40865468602621
+            },
+            {
+                "id": 98867853,
+                "name": "东校区图书馆",
+                "type": "library",
+                "latitude": 30.512812849467043,
+                "longitude": 114.42687360483406
+            },
+            {
+                "id": 98867881,
+                "name": "生命科学学院",
+                "type": "public_building",
+                "latitude": 30.513101921218272,
+                "longitude": 114.42779125221865
+            },
+            {
+                "id": 98868572,
+                "name": "科技楼",
+                "type": "public_building",
+                "latitude": 30.516075706882376,
+                "longitude": 114.40660292223488
+            },
+            {
+                "id": 98869684,
+                "name": "华科附小",
+                "type": "school",
+                "latitude": 30.517748543295628,
+                "longitude": 114.40883647328903
+            },
+            {
+                "id": 98869850,
+                "name": "船池",
+                "type": "research_institute",
+                "latitude": 30.51812806218845,
+                "longitude": 114.41436084233808
+            },
+            {
+                "id": 102751878,
+                "name": "华科幼儿园",
+                "type": "kindergarten",
+                "latitude": 30.51783234288105,
+                "longitude": 114.40789778087832
+            },
+            {
+                "id": 103488178,
+                "name": "东校区教工活动中心",
+                "type": "public_building",
+                "latitude": 30.51137262442367,
+                "longitude": 114.4264733106637
+            },
+            {
+                "id": 103495733,
+                "name": "西二楼",
+                "type": "public_building",
+                "latitude": 30.512746760447833,
+                "longitude": 114.40212001276828
+            },
+            {
+                "id": 103495734,
+                "name": "西八楼",
+                "type": "public_building",
+                "latitude": 30.515794872047596,
+                "longitude": 114.39974597279887
+            },
+            {
+                "id": 103495735,
+                "name": "学生澡堂",
+                "type": "public_building",
+                "latitude": 30.516612749297785,
+                "longitude": 114.40116390357996
+            },
+            {
+                "id": 103495738,
+                "name": "西二食堂",
+                "type": "restaurant",
+                "latitude": 30.51627720146583,
+                "longitude": 114.39956079888913
+            },
+            {
+                "id": 103495740,
+                "name": "化学楼",
+                "type": "public_building",
+                "latitude": 30.51358967082423,
+                "longitude": 114.40210217177079
+            },
+            {
+                "id": 103495743,
+                "name": "醉晚亭",
+                "type": "shelter",
+                "latitude": 30.512563801792,
+                "longitude": 114.41192978805448
+            },
+            {
+                "id": 103495754,
+                "name": "西一楼",
+                "type": "public_building",
+                "latitude": 30.51351149480919,
+                "longitude": 114.40120932347642
+            },
+            {
+                "id": 103495763,
+                "name": "百景园餐厅",
+                "type": "restaurant",
+                "latitude": 30.518327371239675,
+                "longitude": 114.40214530070365
+            },
+            {
+                "id": 103757019,
+                "name": "东校区医院",
+                "type": "hospital",
+                "latitude": 30.510889278391044,
+                "longitude": 114.42662060415627
+            },
+            {
+                "id": 103757331,
+                "name": "医学图像信息中心",
+                "type": "public_building",
+                "latitude": 30.51600325,
+                "longitude": 114.43142750000004
+            },
+            {
+                "id": 103757333,
+                "name": "东教工食堂",
+                "type": "restaurant",
+                "latitude": 30.509172931942672,
+                "longitude": 114.42648402670987
+            },
+            {
+                "id": 103757340,
+                "name": "印刷厂",
+                "type": "public_building",
+                "latitude": 30.51453912477654,
+                "longitude": 114.4312894471647
+            },
+            {
+                "id": 103757490,
+                "name": "华科主校区医院",
+                "type": "hospital",
+                "latitude": 30.51971954269163,
+                "longitude": 114.4089742014019
+            },
+            {
+                "id": 103757491,
+                "name": "老年活动中心",
+                "type": "public_building",
+                "latitude": 30.5196486526057,
+                "longitude": 114.40986151841874
+            },
+            {
+                "id": 103797819,
+                "name": "华科附中",
+                "type": "school",
+                "latitude": 30.51605171628211,
+                "longitude": 114.41429767421334
+            },
+            {
+                "id": 103797829,
+                "name": "国际交流学院",
+                "type": "college",
+                "latitude": 30.517211376605772,
+                "longitude": 114.41722928858027
+            },
+            {
+                "id": 103798076,
+                "name": "东三食堂",
+                "type": "restaurant",
+                "latitude": 30.5132188,
+                "longitude": 114.41473230000001
+            },
+            {
+                "id": 103801721,
+                "name": "集贤楼",
+                "type": "restaurant",
+                "latitude": 30.516796127709714,
+                "longitude": 114.41138327569846
+            },
+            {
+                "id": 103802597,
+                "name": "明德报告厅",
+                "type": "conference_center",
+                "latitude": 30.5167277,
+                "longitude": 114.41001065000002
+            },
+            {
+                "id": 103806950,
+                "name": "南二楼",
+                "type": "public_building",
+                "latitude": 30.51197945254403,
+                "longitude": 114.40589465198434
+            },
+            {
+                "id": 103812462,
+                "name": "集锦园",
+                "type": "restaurant",
+                "latitude": 30.519022999999997,
+                "longitude": 114.4092914
+            },
+            {
+                "id": 103813873,
+                "name": "西三食堂",
+                "type": "restaurant",
+                "latitude": 30.51688238959783,
+                "longitude": 114.39942184718092
+            },
+            {
+                "id": 104350701,
+                "name": "东区幼儿园",
+                "type": "kindergarten",
+                "latitude": 30.50978317840383,
+                "longitude": 114.42492742365548
+            },
+            {
+                "id": 104350958,
+                "name": "东区附小",
+                "type": "school",
+                "latitude": 30.509627480031973,
+                "longitude": 114.4269853757323
+            },
+            {
+                "id": 104634491,
+                "name": "西十一楼",
+                "type": "public_building",
+                "latitude": 30.5136963864229,
+                "longitude": 114.40292232662249
+            },
+            {
+                "id": 104634494,
+                "name": "水电学院",
+                "type": "public_building",
+                "latitude": 30.51323025,
+                "longitude": 114.40318695
+            },
+            {
+                "id": 104634498,
+                "name": "西四楼",
+                "type": "public_building",
+                "latitude": 30.51377580445657,
+                "longitude": 114.40360306435157
+            },
+            {
+                "id": 104635018,
+                "name": "水利机械楼",
+                "type": "public_building",
+                "latitude": 30.513417189014827,
+                "longitude": 114.4039673794052
+            },
+            {
+                "id": 104635023,
+                "name": "主校区图书馆老馆",
+                "type": "library",
+                "latitude": 30.51430850188823,
+                "longitude": 114.40602331802495
+            },
+            {
+                "id": 104635024,
+                "name": "主校区图书馆新馆 逸夫图书馆",
+                "type": "library",
+                "latitude": 30.515017456779972,
+                "longitude": 114.40617451170701
+            },
+            {
+                "id": 104635472,
+                "name": "中国邮政",
+                "type": "post_office",
+                "latitude": 30.516588004600944,
+                "longitude": 114.40749558929647
+            },
+            {
+                "id": 105248531,
+                "name": "西六楼",
+                "type": "public_building",
+                "latitude": 30.51223846927648,
+                "longitude": 114.4043151604066
+            },
+            {
+                "id": 105248630,
+                "name": "结构楼",
+                "type": "public_building",
+                "latitude": 30.511927600000007,
+                "longitude": 114.4043328
+            },
+            {
+                "id": 105249137,
+                "name": "西七楼",
+                "type": "public_building",
+                "latitude": 30.513381943803832,
+                "longitude": 114.40042653508293
+            },
+            {
+                "id": 105249142,
+                "name": "西十楼",
+                "type": "public_building",
+                "latitude": 30.513785756167294,
+                "longitude": 114.39936963564762
+            },
+            {
+                "id": 110398521,
+                "name": "电工实训基地(新楼)",
+                "type": "public_building",
+                "latitude": 30.51589816387902,
+                "longitude": 114.43214092689928
+            },
+            {
+                "id": 110400074,
+                "name": "大电机实验室",
+                "type": "public_building",
+                "latitude": 30.51187454902449,
+                "longitude": 114.40224188052038
+            },
+            {
+                "id": 110400076,
+                "name": "电机楼",
+                "type": "public_building",
+                "latitude": 30.512024500000006,
+                "longitude": 114.40234974999998
+            },
+            {
+                "id": 110400089,
+                "name": "西九楼",
+                "type": "public_building",
+                "latitude": 30.512288036087977,
+                "longitude": 114.40154794500019
+            },
+            {
+                "id": 110400345,
+                "name": "水果保鲜",
+                "type": "public_building",
+                "latitude": 30.512119424882524,
+                "longitude": 114.40090750350879
+            },
+            {
+                "id": 110400797,
+                "name": "勤工助学服务中心",
+                "type": "public_building",
+                "latitude": 30.512676350000003,
+                "longitude": 114.39984274999999
+            },
+            {
+                "id": 110401139,
+                "name": "百惠园食堂",
+                "type": "restaurant",
+                "latitude": 30.51446476267937,
+                "longitude": 114.3990165222445
+            },
+            {
+                "id": 110403418,
+                "name": "体育部仓库",
+                "type": "public_building",
+                "latitude": 30.51398725,
+                "longitude": 114.40115404999999
+            },
+            {
+                "id": 110403420,
+                "name": "环境学院用房",
+                "type": "public_building",
+                "latitude": 30.513839005993088,
+                "longitude": 114.40037306406548
+            },
+            {
+                "id": 110404332,
+                "name": "友谊餐厅",
+                "type": "restaurant",
+                "latitude": 30.51706884570124,
+                "longitude": 114.4063382037321
+            },
+            {
+                "id": 110404333,
+                "name": "出国留学培训服务中心(友谊公寓附楼)",
+                "type": "public_building",
+                "latitude": 30.516729126926084,
+                "longitude": 114.40709359672098
+            },
+            {
+                "id": 693222247,
+                "name": "国网电力科学研究院",
+                "type": "research_institute",
+                "latitude": 30.51119632186379,
+                "longitude": 114.39777481040544
+            },
+            {
+                "id": 988817194,
+                "name": "东一食堂",
+                "type": "restaurant",
+                "latitude": 30.513531900000004,
+                "longitude": 114.41377720000001
+            },
+            {
+                "id": 988851821,
+                "name": "消防",
+                "type": "fire_station",
+                "latitude": 30.51700700229128,
+                "longitude": 114.40797132819574
+            },
+            {
+                "id": 1012078987,
+                "name": "校医院北区",
+                "type": "hospital",
+                "latitude": 30.52062922682156,
+                "longitude": 114.40921228794032
+            },
+            {
+                "id": 1023153414,
+                "name": "主校区图书馆新馆",
+                "type": "library",
+                "latitude": 30.514743998944542,
+                "longitude": 114.40576365217142
+            },
+            {
+                "id": 1023153567,
+                "name": "喻园餐厅",
+                "type": "restaurant",
+                "latitude": 30.518486979611858,
+                "longitude": 114.40917997370593
+            },
+            {
+                "id": 1023929898,
+                "name": "华科大驾校",
+                "type": "driver_training",
+                "latitude": 30.517444107555082,
+                "longitude": 114.42413305099834
+            },
+            {
+                "id": 1023929904,
+                "name": "华中科技大学附属中学",
+                "type": "school",
+                "latitude": 30.519662925769474,
+                "longitude": 114.4236414852613
+            },
+            {
+                "id": 13699933,
+                "name": "西十二楼",
+                "type": "public_building",
+                "latitude": 30.51119392497675,
+                "longitude": 114.40157981020964
+            },
+            {
+                "id": 9366842959,
+                "name": "瑜伽草堂",
+                "type": "nan",
+                "latitude": 30.5217169,
+                "longitude": 114.4075897
+            },
+            {
+                "id": 9366842960,
+                "name": "喻家山微波站看护点",
+                "type": "nan",
+                "latitude": 30.521424,
+                "longitude": 114.4131835
+            },
+            {
+                "id": 98865822,
+                "name": "脉冲强磁场实验室",
+                "type": "nan",
+                "latitude": 30.51420339497461,
+                "longitude": 114.42953657326328
+            },
+            {
+                "id": 98867867,
+                "name": "武汉光电国家研究中心",
+                "type": "nan",
+                "latitude": 30.513257917251032,
+                "longitude": 114.42035286769382
+            },
+            {
+                "id": 98868030,
+                "name": "管理学院",
+                "type": "nan",
+                "latitude": 30.517840510230254,
+                "longitude": 114.41072628042073
+            },
+            {
+                "id": 98868568,
+                "name": "大学生活动中心",
+                "type": "nan",
+                "latitude": 30.516758613229772,
+                "longitude": 114.40856248897627
+            },
+            {
+                "id": 98869006,
+                "name": "南一楼",
+                "type": "nan",
+                "latitude": 30.51200803979461,
+                "longitude": 114.40807775662918
+            },
+            {
+                "id": 98869012,
+                "name": "南四楼",
+                "type": "nan",
+                "latitude": 30.51125151794032,
+                "longitude": 114.40532834955312
+            },
+            {
+                "id": 98869014,
+                "name": "西五楼",
+                "type": "nan",
+                "latitude": 30.512954010563792,
+                "longitude": 114.4042815689167
+            },
+            {
+                "id": 98869695,
+                "name": "湖改江泵房水池",
+                "type": "nan",
+                "latitude": 30.517608950000007,
+                "longitude": 114.41354874999998
+            },
+            {
+                "id": 98869696,
+                "name": "档案馆",
+                "type": "nan",
+                "latitude": 30.516019449521693,
+                "longitude": 114.40562139337366
+            },
+            {
+                "id": 102751873,
+                "name": "出版社印刷厂",
+                "type": "nan",
+                "latitude": 30.51595560462015,
+                "longitude": 114.40772432625758
+            },
+            {
+                "id": 102751875,
+                "name": "财务处",
+                "type": "nan",
+                "latitude": 30.516975873145864,
+                "longitude": 114.4091497670251
+            },
+            {
+                "id": 103487619,
+                "name": "韵苑三栋",
+                "type": "nan",
+                "latitude": 30.514525789842338,
+                "longitude": 114.42718653370842
+            },
+            {
+                "id": 103487623,
+                "name": "韵苑四栋",
+                "type": "nan",
+                "latitude": 30.51497947849847,
+                "longitude": 114.42724464265741
+            },
+            {
+                "id": 103495014,
+                "name": "远程教育与继续教育学院",
+                "type": "nan",
+                "latitude": 30.512349865630753,
+                "longitude": 114.42683278415825
+            },
+            {
+                "id": 103495732,
+                "name": "东三楼",
+                "type": "nan",
+                "latitude": 30.51375020352671,
+                "longitude": 114.41100378381725
+            },
+            {
+                "id": 103495739,
+                "name": "西六舍",
+                "type": "nan",
+                "latitude": 30.516055441775702,
+                "longitude": 114.400703118046
+            },
+            {
+                "id": 103495744,
+                "name": "东九舍",
+                "type": "nan",
+                "latitude": 30.512552169932338,
+                "longitude": 114.41602924964077
+            },
+            {
+                "id": 103495756,
+                "name": "东六楼",
+                "type": "nan",
+                "latitude": 30.513374014942936,
+                "longitude": 114.41186854044888
+            },
+            {
+                "id": 103757337,
+                "name": "成教楼",
+                "type": "nan",
+                "latitude": 30.51628651885449,
+                "longitude": 114.43197790353173
+            },
+            {
+                "id": 103791871,
+                "name": "东七楼",
+                "type": "nan",
+                "latitude": 30.513287804261594,
+                "longitude": 114.41297518043383
+            },
+            {
+                "id": 103791873,
+                "name": "教育科学研究院",
+                "type": "nan",
+                "latitude": 30.513251147779634,
+                "longitude": 114.41237927201414
+            },
+            {
+                "id": 103793033,
+                "name": "东四楼",
+                "type": "nan",
+                "latitude": 30.513609455888925,
+                "longitude": 114.41247029627466
+            },
+            {
+                "id": 103793034,
+                "name": "东五楼",
+                "type": "nan",
+                "latitude": 30.514214359353353,
+                "longitude": 114.41255000158995
+            },
+            {
+                "id": 103797832,
+                "name": "虹景办公楼",
+                "type": "nan",
+                "latitude": 30.517126728450656,
+                "longitude": 114.41963106267077
+            },
+            {
+                "id": 103799779,
+                "name": "东区学生澡堂",
+                "type": "nan",
+                "latitude": 30.513762092810385,
+                "longitude": 114.414347873253
+            },
+            {
+                "id": 103800562,
+                "name": "东四舍",
+                "type": "nan",
+                "latitude": 30.514600799999993,
+                "longitude": 114.41403745
+            },
+            {
+                "id": 103800566,
+                "name": "东八舍",
+                "type": "nan",
+                "latitude": 30.514090831291583,
+                "longitude": 114.41484781660822
+            },
+            {
+                "id": 103800569,
+                "name": "东三舍",
+                "type": "nan",
+                "latitude": 30.514153493921924,
+                "longitude": 114.41397140762395
+            },
+            {
+                "id": 103800571,
+                "name": "东二舍",
+                "type": "nan",
+                "latitude": 30.51452135,
+                "longitude": 114.41490299999997
+            },
+            {
+                "id": 103801155,
+                "name": "东五舍",
+                "type": "nan",
+                "latitude": 30.514832970596444,
+                "longitude": 114.41219899422319
+            },
+            {
+                "id": 103801156,
+                "name": "教三舍",
+                "type": "nan",
+                "latitude": 30.51469045,
+                "longitude": 114.41309449999999
+            },
+            {
+                "id": 103801507,
+                "name": "先进制造大楼西楼",
+                "type": "nan",
+                "latitude": 30.51566957239748,
+                "longitude": 114.41120550420236
+            },
+            {
+                "id": 103801508,
+                "name": "教七舍",
+                "type": "nan",
+                "latitude": 30.51587897188955,
+                "longitude": 114.41050374406187
+            },
+            {
+                "id": 103801509,
+                "name": "教一舍",
+                "type": "nan",
+                "latitude": 30.515794594873668,
+                "longitude": 114.40981714689859
+            },
+            {
+                "id": 103801511,
+                "name": "教八舍",
+                "type": "nan",
+                "latitude": 30.51550314856365,
+                "longitude": 114.41047487183049
+            },
+            {
+                "id": 103802937,
+                "name": "东八楼",
+                "type": "nan",
+                "latitude": 30.51491435,
+                "longitude": 114.41039990000003
+            },
+            {
+                "id": 103802938,
+                "name": "东一楼",
+                "type": "nan",
+                "latitude": 30.514722443861608,
+                "longitude": 114.41042495044054
+            },
+            {
+                "id": 103803531,
+                "name": "东二楼",
+                "type": "nan",
+                "latitude": 30.513875392873732,
+                "longitude": 114.40953540218239
+            },
+            {
+                "id": 103804153,
+                "name": "防伪工程研究中心/材料系/燃料电池研究中心",
+                "type": "nan",
+                "latitude": 30.511153142301104,
+                "longitude": 114.41083112343559
+            },
+            {
+                "id": 103804904,
+                "name": "南一舍",
+                "type": "nan",
+                "latitude": 30.5122894814236,
+                "longitude": 114.41059680036996
+            },
+            {
+                "id": 103804909,
+                "name": "南二舍",
+                "type": "nan",
+                "latitude": 30.511852708617933,
+                "longitude": 114.41049063451243
+            },
+            {
+                "id": 103806199,
+                "name": "南六楼 计算中心",
+                "type": "nan",
+                "latitude": 30.51232142585846,
+                "longitude": 114.40813898848728
+            },
+            {
+                "id": 103806948,
+                "name": "南三楼",
+                "type": "nan",
+                "latitude": 30.5125152861328,
+                "longitude": 114.40597626533196
+            },
+            {
+                "id": 103815856,
+                "name": "韵苑十二栋",
+                "type": "nan",
+                "latitude": 30.518253548051625,
+                "longitude": 114.42698042135397
+            },
+            {
+                "id": 103815859,
+                "name": "韵苑五栋",
+                "type": "nan",
+                "latitude": 30.51661908892683,
+                "longitude": 114.42739506260129
+            },
+            {
+                "id": 103815863,
+                "name": "韵苑八栋",
+                "type": "nan",
+                "latitude": 30.517587474752645,
+                "longitude": 114.4266137501453
+            },
+            {
+                "id": 103815864,
+                "name": "韵苑六栋",
+                "type": "nan",
+                "latitude": 30.51725297612578,
+                "longitude": 114.42651429416775
+            },
+            {
+                "id": 104126942,
+                "name": "喻园27/28/29单元",
+                "type": "nan",
+                "latitude": 30.518391548657306,
+                "longitude": 114.41795742674668
+            },
+            {
+                "id": 104126945,
+                "name": "喻园1/2单元",
+                "type": "nan",
+                "latitude": 30.51781885,
+                "longitude": 114.41635985
+            },
+            {
+                "id": 104126946,
+                "name": "喻园5/6单元",
+                "type": "nan",
+                "latitude": 30.518898535712875,
+                "longitude": 114.4174485794287
+            },
+            {
+                "id": 104126948,
+                "name": "喻园17/18/19/20单元",
+                "type": "nan",
+                "latitude": 30.518001579586542,
+                "longitude": 114.41780012275349
+            },
+            {
+                "id": 104126949,
+                "name": "喻园3/4单元",
+                "type": "nan",
+                "latitude": 30.518333673566147,
+                "longitude": 114.41690158891599
+            },
+            {
+                "id": 104126950,
+                "name": "喻园8/9单元",
+                "type": "nan",
+                "latitude": 30.5176751,
+                "longitude": 114.41715115
+            },
+            {
+                "id": 104126953,
+                "name": "喻园7单元",
+                "type": "nan",
+                "latitude": 30.519273699393544,
+                "longitude": 114.41819565210791
+            },
+            {
+                "id": 104126954,
+                "name": "喻园10/11单元",
+                "type": "nan",
+                "latitude": 30.517617248683106,
+                "longitude": 114.41780042149588
+            },
+            {
+                "id": 104126970,
+                "name": "喻园12/13单元",
+                "type": "nan",
+                "latitude": 30.517578627911753,
+                "longitude": 114.41849691379518
+            },
+            {
+                "id": 104126971,
+                "name": "喻园14/15/16单元",
+                "type": "nan",
+                "latitude": 30.517478049999998,
+                "longitude": 114.419636
+            },
+            {
+                "id": 104463934,
+                "name": "韵苑七栋",
+                "type": "nan",
+                "latitude": 30.5171629,
+                "longitude": 114.42740095
+            },
+            {
+                "id": 104464198,
+                "name": "喻园21/22单元",
+                "type": "nan",
+                "latitude": 30.518031804618317,
+                "longitude": 114.4187082157129
+            },
+            {
+                "id": 104464202,
+                "name": "东区警务室",
+                "type": "nan",
+                "latitude": 30.508348021999566,
+                "longitude": 114.42776509176299
+            },
+            {
+                "id": 104464523,
+                "name": "喻园23/24单元",
+                "type": "nan",
+                "latitude": 30.517966390445388,
+                "longitude": 114.41938392527673
+            },
+            {
+                "id": 104464758,
+                "name": "喻园30/31单元",
+                "type": "nan",
+                "latitude": 30.518412002831518,
+                "longitude": 114.41879029486884
+            },
+            {
+                "id": 104464759,
+                "name": "喻园32/33单元",
+                "type": "nan",
+                "latitude": 30.518370468718924,
+                "longitude": 114.41941583165757
+            },
+            {
+                "id": 104464760,
+                "name": "喻园25/26单元",
+                "type": "nan",
+                "latitude": 30.51801541705276,
+                "longitude": 114.42003306240889
+            },
+            {
+                "id": 104465094,
+                "name": "喻园36/37单元",
+                "type": "nan",
+                "latitude": 30.519141302410997,
+                "longitude": 114.41887024201078
+            },
+            {
+                "id": 104465095,
+                "name": "喻园34/35单元",
+                "type": "nan",
+                "latitude": 30.518380490558503,
+                "longitude": 114.42010033486068
+            },
+            {
+                "id": 104465096,
+                "name": "喻园38/39单元",
+                "type": "nan",
+                "latitude": 30.519076455676018,
+                "longitude": 114.41948422738629
+            },
+            {
+                "id": 104465247,
+                "name": "喻园40/41单元",
+                "type": "nan",
+                "latitude": 30.51878269722961,
+                "longitude": 114.42014575479078
+            },
+            {
+                "id": 104465577,
+                "name": "喻园42/43单元",
+                "type": "nan",
+                "latitude": 30.519555209228734,
+                "longitude": 114.41886827434688
+            },
+            {
+                "id": 104465580,
+                "name": "喻园44/45单元",
+                "type": "nan",
+                "latitude": 30.51948744396881,
+                "longitude": 114.41956772430098
+            },
+            {
+                "id": 104465636,
+                "name": "喻园46/47单元",
+                "type": "nan",
+                "latitude": 30.51916229819056,
+                "longitude": 114.42019138077573
+            },
+            {
+                "id": 104465953,
+                "name": "喻园54/55单元",
+                "type": "nan",
+                "latitude": 30.520344924339796,
+                "longitude": 114.41892664852385
+            },
+            {
+                "id": 104465954,
+                "name": "喻园56/57单元",
+                "type": "nan",
+                "latitude": 30.520314954163254,
+                "longitude": 114.41976064185725
+            },
+            {
+                "id": 104465955,
+                "name": "喻园50/51单元",
+                "type": "nan",
+                "latitude": 30.5198927802294,
+                "longitude": 114.41963646489614
+            },
+            {
+                "id": 104465956,
+                "name": "喻园48/49单元",
+                "type": "nan",
+                "latitude": 30.51997488392669,
+                "longitude": 114.41890027128701
+            },
+            {
+                "id": 104465957,
+                "name": "喻园52/53单元",
+                "type": "nan",
+                "latitude": 30.519526635747045,
+                "longitude": 114.42024726228554
+            },
+            {
+                "id": 104466209,
+                "name": "喻园71单元",
+                "type": "nan",
+                "latitude": 30.52035297887126,
+                "longitude": 114.4206061328186
+            },
+            {
+                "id": 104466210,
+                "name": "喻园66/67单元",
+                "type": "nan",
+                "latitude": 30.519685195073812,
+                "longitude": 114.42109073086318
+            },
+            {
+                "id": 104466213,
+                "name": "喻园64/65单元",
+                "type": "nan",
+                "latitude": 30.519387323306105,
+                "longitude": 114.4209557887712
+            },
+            {
+                "id": 104466214,
+                "name": "喻园68/69/70单元",
+                "type": "nan",
+                "latitude": 30.51998468610113,
+                "longitude": 114.42109560225707
+            },
+            {
+                "id": 104466215,
+                "name": "喻园58/59单元",
+                "type": "nan",
+                "latitude": 30.519894464489422,
+                "longitude": 114.42031535012504
+            },
+            {
+                "id": 104466216,
+                "name": "喻园62/63单元",
+                "type": "nan",
+                "latitude": 30.519095194188942,
+                "longitude": 114.420871069611
+            },
+            {
+                "id": 104466218,
+                "name": "喻园60/61单元",
+                "type": "nan",
+                "latitude": 30.518813793767876,
+                "longitude": 114.42077700159888
+            },
+            {
+                "id": 104466220,
+                "name": "喻园72单元",
+                "type": "nan",
+                "latitude": 30.520472688988292,
+                "longitude": 114.42120300992362
+            },
+            {
+                "id": 104466829,
+                "name": "喻园1#",
+                "type": "nan",
+                "latitude": 30.520491919317788,
+                "longitude": 114.41628750828502
+            },
+            {
+                "id": 104466832,
+                "name": "喻园2#",
+                "type": "nan",
+                "latitude": 30.520595743308792,
+                "longitude": 114.41729526127587
+            },
+            {
+                "id": 104466833,
+                "name": "喻园3#",
+                "type": "nan",
+                "latitude": 30.520638555752768,
+                "longitude": 114.41812776206041
+            },
+            {
+                "id": 104467134,
+                "name": "喻园4#",
+                "type": "nan",
+                "latitude": 30.520057402954958,
+                "longitude": 114.41628835189235
+            },
+            {
+                "id": 104467135,
+                "name": "喻园5#",
+                "type": "nan",
+                "latitude": 30.5200700173306,
+                "longitude": 114.4173014135945
+            },
+            {
+                "id": 104467137,
+                "name": "喻园8#",
+                "type": "nan",
+                "latitude": 30.51976040454633,
+                "longitude": 114.41630669968875
+            },
+            {
+                "id": 104467138,
+                "name": "喻园6#",
+                "type": "nan",
+                "latitude": 30.520075882316775,
+                "longitude": 114.41809399012521
+            },
+            {
+                "id": 104467141,
+                "name": "喻园7#",
+                "type": "nan",
+                "latitude": 30.519579009154842,
+                "longitude": 114.41727576427523
+            },
+            {
+                "id": 104634492,
+                "name": "压缩机实验室",
+                "type": "nan",
+                "latitude": 30.513899120035894,
+                "longitude": 114.4028140840736
+            },
+            {
+                "id": 104634497,
+                "name": "西三楼",
+                "type": "nan",
+                "latitude": 30.51261006554559,
+                "longitude": 114.40323576929772
+            },
+            {
+                "id": 104635261,
+                "name": "师生服务中心",
+                "type": "nan",
+                "latitude": 30.514181298338766,
+                "longitude": 114.40838992185269
+            },
+            {
+                "id": 104635265,
+                "name": "校史馆",
+                "type": "nan",
+                "latitude": 30.513803297768476,
+                "longitude": 114.4078023218251
+            },
+            {
+                "id": 104778735,
+                "name": "材料学院",
+                "type": "nan",
+                "latitude": 30.514919436772573,
+                "longitude": 114.4161848460052
+            },
+            {
+                "id": 104778738,
+                "name": "动力机械与内燃机实验室",
+                "type": "nan",
+                "latitude": 30.514577246094724,
+                "longitude": 114.41610220719832
+            },
+            {
+                "id": 105245999,
+                "name": "西七舍",
+                "type": "nan",
+                "latitude": 30.516500097688294,
+                "longitude": 114.40417475721736
+            },
+            {
+                "id": 105246000,
+                "name": "西一舍",
+                "type": "nan",
+                "latitude": 30.517062050769585,
+                "longitude": 114.40104966889909
+            },
+            {
+                "id": 105246001,
+                "name": "西三舍",
+                "type": "nan",
+                "latitude": 30.51694928184087,
+                "longitude": 114.40029385772668
+            },
+            {
+                "id": 105246710,
+                "name": "厨工宿舍",
+                "type": "nan",
+                "latitude": 30.517339850000003,
+                "longitude": 114.39922769999998
+            },
+            {
+                "id": 105246712,
+                "name": "西二舍",
+                "type": "nan",
+                "latitude": 30.517495949999997,
+                "longitude": 114.40094884999999
+            },
+            {
+                "id": 105246714,
+                "name": "锅炉房",
+                "type": "nan",
+                "latitude": 30.516396384103842,
+                "longitude": 114.40166134270659
+            },
+            {
+                "id": 105246720,
+                "name": "西四舍",
+                "type": "nan",
+                "latitude": 30.517403438310716,
+                "longitude": 114.40006763138707
+            },
+            {
+                "id": 105248631,
+                "name": "动模实验室",
+                "type": "nan",
+                "latitude": 30.51192997384027,
+                "longitude": 114.40340813658864
+            },
+            {
+                "id": 105249136,
+                "name": "压缩机实验室",
+                "type": "nan",
+                "latitude": 30.513621672541984,
+                "longitude": 114.40041536348772
+            },
+            {
+                "id": 105249245,
+                "name": "热态实验室",
+                "type": "nan",
+                "latitude": 30.513253526714085,
+                "longitude": 114.39964295743101
+            },
+            {
+                "id": 105249246,
+                "name": "西十七舍",
+                "type": "nan",
+                "latitude": 30.516678888825528,
+                "longitude": 114.40309244974196
+            },
+            {
+                "id": 105249247,
+                "name": "西十二舍",
+                "type": "nan",
+                "latitude": 30.516743,
+                "longitude": 114.40241585
+            },
+            {
+                "id": 105249309,
+                "name": "西十五舍",
+                "type": "nan",
+                "latitude": 30.516130896210434,
+                "longitude": 114.403025268759
+            },
+            {
+                "id": 105249310,
+                "name": "西十三舍",
+                "type": "nan",
+                "latitude": 30.516439699999996,
+                "longitude": 114.40242445000001
+            },
+            {
+                "id": 105249311,
+                "name": "西十六舍",
+                "type": "nan",
+                "latitude": 30.516375979808593,
+                "longitude": 114.40306019323853
+            },
+            {
+                "id": 105249312,
+                "name": "西十四舍",
+                "type": "nan",
+                "latitude": 30.516159997351487,
+                "longitude": 114.40242428714943
+            },
+            {
+                "id": 105249523,
+                "name": "西八舍",
+                "type": "nan",
+                "latitude": 30.51707942464426,
+                "longitude": 114.40297574795365
+            },
+            {
+                "id": 105249524,
+                "name": "西十一舍",
+                "type": "nan",
+                "latitude": 30.517600697838326,
+                "longitude": 114.40216090454922
+            },
+            {
+                "id": 105249527,
+                "name": "西十舍",
+                "type": "nan",
+                "latitude": 30.517127052422207,
+                "longitude": 114.40217712757583
+            },
+            {
+                "id": 105249713,
+                "name": "留学生宿舍",
+                "type": "nan",
+                "latitude": 30.517025213611046,
+                "longitude": 114.40687726296898
+            },
+            {
+                "id": 105249928,
+                "name": "中国电信营业厅",
+                "type": "nan",
+                "latitude": 30.517190900000003,
+                "longitude": 114.4187093
+            },
+            {
+                "id": 105249930,
+                "name": "中国联通营业厅",
+                "type": "nan",
+                "latitude": 30.51729287698225,
+                "longitude": 114.41755168388583
+            },
+            {
+                "id": 105250095,
+                "name": "虹景接待部",
+                "type": "nan",
+                "latitude": 30.517266823204594,
+                "longitude": 114.41781997040299
+            },
+            {
+                "id": 110398517,
+                "name": "韵苑二十栋",
+                "type": "nan",
+                "latitude": 30.517040701776256,
+                "longitude": 114.42851222839606
+            },
+            {
+                "id": 110398519,
+                "name": "韵苑十八栋",
+                "type": "nan",
+                "latitude": 30.51656845,
+                "longitude": 114.43066354999999
+            },
+            {
+                "id": 110398522,
+                "name": "韵苑十七栋",
+                "type": "nan",
+                "latitude": 30.516673249999997,
+                "longitude": 114.42942175
+            },
+            {
+                "id": 110398524,
+                "name": "韵苑十九栋",
+                "type": "nan",
+                "latitude": 30.516508672322985,
+                "longitude": 114.43132827953471
+            },
+            {
+                "id": 110398525,
+                "name": "韵苑十四栋",
+                "type": "nan",
+                "latitude": 30.516283270386857,
+                "longitude": 114.42934949428405
+            },
+            {
+                "id": 110398526,
+                "name": "韵苑十五栋",
+                "type": "nan",
+                "latitude": 30.516164629790943,
+                "longitude": 114.43076490414802
+            },
+            {
+                "id": 110398529,
+                "name": "韵苑二十七栋",
+                "type": "nan",
+                "latitude": 30.518628302562025,
+                "longitude": 114.42706282785308
+            },
+            {
+                "id": 110398530,
+                "name": "韵苑十六栋",
+                "type": "nan",
+                "latitude": 30.516714250000003,
+                "longitude": 114.42838570000002
+            },
+            {
+                "id": 110398533,
+                "name": "韵苑二十六栋",
+                "type": "nan",
+                "latitude": 30.518552720256967,
+                "longitude": 114.42777373969771
+            },
+            {
+                "id": 110398534,
+                "name": "韵苑二十五栋",
+                "type": "nan",
+                "latitude": 30.518378622702677,
+                "longitude": 114.42859288587984
+            },
+            {
+                "id": 110398536,
+                "name": "韵苑二十二栋",
+                "type": "nan",
+                "latitude": 30.517698602276184,
+                "longitude": 114.42883557634804
+            },
+            {
+                "id": 110398538,
+                "name": "韵苑十三栋",
+                "type": "nan",
+                "latitude": 30.516382022090657,
+                "longitude": 114.42831072147615
+            },
+            {
+                "id": 110398539,
+                "name": "韵苑二十四栋",
+                "type": "nan",
+                "latitude": 30.518197750000002,
+                "longitude": 114.42778560000002
+            },
+            {
+                "id": 110398543,
+                "name": "韵苑二十三栋",
+                "type": "nan",
+                "latitude": 30.518016323585513,
+                "longitude": 114.42872422270959
+            },
+            {
+                "id": 110401906,
+                "name": "紫菘公寓13栋",
+                "type": "nan",
+                "latitude": 30.51397889911488,
+                "longitude": 114.39583598357873
+            },
+            {
+                "id": 110402947,
+                "name": "低温实验室",
+                "type": "nan",
+                "latitude": 30.514167360027823,
+                "longitude": 114.39938095977222
+            },
+            {
+                "id": 110403137,
+                "name": "制冷低温实验室",
+                "type": "nan",
+                "latitude": 30.514491239492315,
+                "longitude": 114.39946698707539
+            },
+            {
+                "id": 110403788,
+                "name": "高层小区3栋",
+                "type": "nan",
+                "latitude": 30.52041786858888,
+                "longitude": 114.40234876221297
+            },
+            {
+                "id": 111976002,
+                "name": "先进制造大楼东楼",
+                "type": "nan",
+                "latitude": 30.51548881785223,
+                "longitude": 114.41288979945138
+            },
+            {
+                "id": 200387857,
+                "name": "公共管理学院",
+                "type": "nan",
+                "latitude": 30.517373876879887,
+                "longitude": 114.41151197217563
+            },
+            {
+                "id": 221156586,
+                "name": "亮胜楼",
+                "type": "nan",
+                "latitude": 30.5112248565372,
+                "longitude": 114.42524817272377
+            },
+            {
+                "id": 390176356,
+                "name": "经济学院",
+                "type": "nan",
+                "latitude": 30.517515906189153,
+                "longitude": 114.40988633765959
+            },
+            {
+                "id": 478034181,
+                "name": "东十二教学楼",
+                "type": "nan",
+                "latitude": 30.514102419209674,
+                "longitude": 114.42850445453857
+            },
+            {
+                "id": 772916027,
+                "name": "高层小区6栋",
+                "type": "nan",
+                "latitude": 30.521052008682403,
+                "longitude": 114.40352257770695
+            },
+            {
+                "id": 772916028,
+                "name": "高层小区5栋",
+                "type": "nan",
+                "latitude": 30.521720983608443,
+                "longitude": 114.40226358122604
+            },
+            {
+                "id": 772916029,
+                "name": "高层小区4栋",
+                "type": "nan",
+                "latitude": 30.52107401457325,
+                "longitude": 114.40227163801298
+            },
+            {
+                "id": 772916030,
+                "name": "高层小区1栋",
+                "type": "nan",
+                "latitude": 30.51910076810174,
+                "longitude": 114.4024674518998
+            },
+            {
+                "id": 772916031,
+                "name": "高层小区2栋",
+                "type": "nan",
+                "latitude": 30.51977316726766,
+                "longitude": 114.40241646317767
+            },
+            {
+                "id": 988851819,
+                "name": "保卫处",
+                "type": "nan",
+                "latitude": 30.516519462637305,
+                "longitude": 114.40778905639942
+            },
+            {
+                "id": 988851820,
+                "name": "中国邮政",
+                "type": "post_office",
+                "latitude": 30.5169191,
+                "longitude": 114.4077914
+            },
+            {
+                "id": 1007360978,
+                "name": "工会",
+                "type": "nan",
+                "latitude": 30.51579472356367,
+                "longitude": 114.40788301541481
+            },
+            {
+                "id": 1012485922,
+                "name": "快速制造中心",
+                "type": "nan",
+                "latitude": 30.51506475,
+                "longitude": 114.41116270000002
+            },
+            {
+                "id": 1012485923,
+                "name": "老保卫处",
+                "type": "nan",
+                "latitude": 30.51582612464384,
+                "longitude": 114.40871175873293
+            },
+            {
+                "id": 1015415257,
+                "name": "精密重力测量一期",
+                "type": "nan",
+                "latitude": 30.52042601749334,
+                "longitude": 114.41121291409405
+            },
+            {
+                "id": 1023153334,
+                "name": "精密重力测量二期",
+                "type": "nan",
+                "latitude": 30.52070518442438,
+                "longitude": 114.40793893107309
+            },
+            {
+                "id": 1023153335,
+                "name": "精密重力测量二期",
+                "type": "nan",
+                "latitude": 30.520771502156812,
+                "longitude": 114.40693610313589
+            },
+            {
+                "id": 1023153339,
+                "name": "居委会",
+                "type": "nan",
+                "latitude": 30.518268180128747,
+                "longitude": 114.41084723977441
+            },
+            {
+                "id": 1023153361,
+                "name": "现代教育技术中心",
+                "type": "nan",
+                "latitude": 30.516110531175475,
+                "longitude": 114.41249164557266
+            },
+            {
+                "id": 1023153367,
+                "name": "明仁楼",
+                "type": "nan",
+                "latitude": 30.51694349391093,
+                "longitude": 114.40966810100296
+            },
+            {
+                "id": 1023153368,
+                "name": "明义楼",
+                "type": "nan",
+                "latitude": 30.516669708929932,
+                "longitude": 114.4096346195266
+            },
+            {
+                "id": 1023153369,
+                "name": "修身楼",
+                "type": "nan",
+                "latitude": 30.51637948308874,
+                "longitude": 114.41041802324541
+            },
+            {
+                "id": 1023153370,
+                "name": "九思书院",
+                "type": "nan",
+                "latitude": 30.51641471020449,
+                "longitude": 114.40952884288122
+            },
+            {
+                "id": 1023153371,
+                "name": "明礼楼",
+                "type": "nan",
+                "latitude": 30.516375683576957,
+                "longitude": 114.40994311540933
+            },
+            {
+                "id": 1023153372,
+                "name": "明智楼",
+                "type": "nan",
+                "latitude": 30.516280875423515,
+                "longitude": 114.41110612862632
+            },
+            {
+                "id": 1023153373,
+                "name": "明信楼",
+                "type": "nan",
+                "latitude": 30.516236203996755,
+                "longitude": 114.41158544852532
+            },
+            {
+                "id": 1023153374,
+                "name": "贤达楼",
+                "type": "nan",
+                "latitude": 30.516478982056352,
+                "longitude": 114.41163343506923
+            },
+            {
+                "id": 1023153375,
+                "name": "东华园",
+                "type": "nan",
+                "latitude": 30.5165175447913,
+                "longitude": 114.41114249189425
+            },
+            {
+                "id": 1023153376,
+                "name": "明道楼",
+                "type": "nan",
+                "latitude": 30.516563292918057,
+                "longitude": 114.41081208654266
+            },
+            {
+                "id": 1023153377,
+                "name": "明诚楼",
+                "type": "nan",
+                "latitude": 30.516867318253706,
+                "longitude": 114.41085251285706
+            },
+            {
+                "id": 1023153430,
+                "name": "西五舍",
+                "type": "nan",
+                "latitude": 30.515696924321354,
+                "longitude": 114.40297138353172
+            },
+            {
+                "id": 1023153431,
+                "name": "西九舍",
+                "type": "nan",
+                "latitude": 30.517464908210982,
+                "longitude": 114.40302608031597
+            },
+            {
+                "id": 1023153483,
+                "name": "一号楼",
+                "type": "nan",
+                "latitude": 30.51826221935115,
+                "longitude": 114.4058339838155
+            },
+            {
+                "id": 1023153485,
+                "name": "八号楼",
+                "type": "nan",
+                "latitude": 30.517282515134486,
+                "longitude": 114.40575888135407
+            },
+            {
+                "id": 1023153563,
+                "name": "光谷体育馆",
+                "type": "nan",
+                "latitude": 30.51037908503187,
+                "longitude": 114.4126955774078
+            },
+            {
+                "id": 1023153570,
+                "name": "液压实验室",
+                "type": "nan",
+                "latitude": 30.51434935197035,
+                "longitude": 114.41583927213085
+            },
+            {
+                "id": 1023153571,
+                "name": "东七舍",
+                "type": "nan",
+                "latitude": 30.51399480588932,
+                "longitude": 114.4160215410339
+            },
+            {
+                "id": 1023153572,
+                "name": "东六舍",
+                "type": "nan",
+                "latitude": 30.513522396998397,
+                "longitude": 114.41596591210457
+            },
+            {
+                "id": 1023153573,
+                "name": "东一舍",
+                "type": "nan",
+                "latitude": 30.513028998743845,
+                "longitude": 114.41581717082664
+            },
+            {
+                "id": 1023153574,
+                "name": "东十三舍",
+                "type": "nan",
+                "latitude": 30.51119552096459,
+                "longitude": 114.41584082847488
+            },
+            {
+                "id": 1023153575,
+                "name": "东十二舍",
+                "type": "nan",
+                "latitude": 30.511545249999998,
+                "longitude": 114.41589574999999
+            },
+            {
+                "id": 1023153576,
+                "name": "东十一舍",
+                "type": "nan",
+                "latitude": 30.511866330067658,
+                "longitude": 114.4159382503592
+            },
+            {
+                "id": 1023153577,
+                "name": "东十舍",
+                "type": "nan",
+                "latitude": 30.51220875,
+                "longitude": 114.41598369999998
+            },
+            {
+                "id": 1023153586,
+                "name": "快速制造中心",
+                "type": "nan",
+                "latitude": 30.511194880486393,
+                "longitude": 114.41144868681742
+            },
+            {
+                "id": 1023153587,
+                "name": "南五楼",
+                "type": "nan",
+                "latitude": 30.511225013165948,
+                "longitude": 114.41012654175864
+            },
+            {
+                "id": 1023544705,
+                "name": "国网华科110kV变电站",
+                "type": "nan",
+                "latitude": 30.508757399999997,
+                "longitude": 114.42925740000001
+            },
+            {
+                "id": 1023544709,
+                "name": "脉冲强磁场实验室",
+                "type": "nan",
+                "latitude": 30.511795474240316,
+                "longitude": 114.42855048465292
+            },
+            {
+                "id": 1023544711,
+                "name": "亮胜楼",
+                "type": "nan",
+                "latitude": 30.511273068094525,
+                "longitude": 114.42465292062478
+            },
+            {
+                "id": 1023544715,
+                "name": "韵苑一栋",
+                "type": "nan",
+                "latitude": 30.513732115490356,
+                "longitude": 114.42707520289385
+            },
+            {
+                "id": 1023544716,
+                "name": "韵苑二栋",
+                "type": "nan",
+                "latitude": 30.514118843137844,
+                "longitude": 114.42712392651207
+            },
+            {
+                "id": 1023544717,
+                "name": "东九逸夫教学楼",
+                "type": "nan",
+                "latitude": 30.515745211334917,
+                "longitude": 114.42115020611426
+            },
+            {
+                "id": 1023602755,
+                "name": "精密智能车间",
+                "type": "nan",
+                "latitude": 30.51518235,
+                "longitude": 114.4097211
+            },
+            {
+                "id": 1023929905,
+                "name": "南六楼配电房",
+                "type": "nan",
+                "latitude": 30.512205052938707,
+                "longitude": 114.4077781272824
+            },
+            {
+                "id": 1023929907,
+                "name": "紫菘学生活动空间",
+                "type": "nan",
+                "latitude": 30.512849485695625,
+                "longitude": 114.39693327348508
+            },
+            {
+                "id": 1228689191,
+                "name": "人工智能与计算机大楼",
+                "type": "nan",
+                "latitude": 30.512539483738138,
+                "longitude": 114.42437349763848
+            },
+            {
+                "id": 13699932,
+                "name": "会饮咖啡厅",
+                "type": "nan",
+                "latitude": 30.516351906263548,
+                "longitude": 114.41073671997412
+            },
+            {
+                "id": 13705821,
+                "name": "新光电信息大楼",
+                "type": "nan",
+                "latitude": 30.509516892261964,
+                "longitude": 114.42846465079623
+            }
+        ]
+    }
+}

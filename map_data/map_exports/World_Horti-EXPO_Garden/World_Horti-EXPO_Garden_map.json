@@ -1,0 +1,159 @@
+{
+    "id": 1721628593252975257,
+    "name": "昆明世界园艺博览园",
+    "address": "中国云南省昆明市盘龙区世博路10号 邮政编码: 650233",
+    "rating": 3.7,
+    "popularity": 48,
+    "data_path": "map_data/university_map/World_Horti-EXPO_Garden",
+    "description": "世界园艺博览园简称世博园，是1999年昆明世界园艺博览会的主会址，位于云南省昆明市盘龙区青云街道，与金殿公园依山相伴，植被覆盖率约80%，其中有120公顷灌木丛茂密的缓坡，水面占10％～15％。\n世博园占地约220公顷，由5个场馆（国际馆、中国馆、人与自然馆、科技馆、大温室）及３个大室外展区（32个国外展区、34个国内展区、7个专题园区）组成。其中，专题园区有：蔬菜瓜果园，竹园，盆景园，茶园，药草园，树木园和名花异石园。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1e/%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E5%9B%AD-%E4%B8%8A%E6%B5%B7%E6%98%8E%E7%8F%A0%E8%8B%91.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b2/%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E5%9B%AD-%E4%B8%96%E5%8D%9A%E7%8E%89%E5%AE%AB.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E5%9B%AD-%E4%B8%AD%E5%9B%BD%E9%A6%86.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E5%9B%AD-%E4%BA%91%E5%8D%97%E5%BD%A9%E4%BA%91%E5%9B%AD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E5%9B%AD-%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%AD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E5%9B%AD-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%AD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E5%9B%AD-%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E5%9B%AD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E5%9B%AD-%E5%85%A5%E5%8F%A3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E5%9B%AD-%E5%86%85%E8%92%99%E5%8F%A4%E8%8D%89%E5%8E%9F%E4%B9%8B%E5%AE%B6.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b2/%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E5%9B%AD-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9B%AD.jpg"
+    ],
+    "amenity": {
+        "affiliation": 1721628593252975257,
+        "amenity_list": [
+            {
+                "id": 11088454602,
+                "name": "卫生间",
+                "type": "toilets",
+                "latitude": 25.0751279,
+                "longitude": 102.7575885
+            },
+            {
+                "id": 11095362683,
+                "name": "兰泰花园·泰国餐厅",
+                "type": "restaurant",
+                "latitude": 25.0785807,
+                "longitude": 102.7636966
+            },
+            {
+                "id": 11095362687,
+                "name": "可能感兴趣的地点",
+                "type": "vending_machine",
+                "latitude": 25.07912,
+                "longitude": 102.7642921
+            },
+            {
+                "id": 11921535169,
+                "name": "云交咖啡",
+                "type": "cafe",
+                "latitude": 25.074668,
+                "longitude": 102.7560206
+            },
+            {
+                "id": 1194653399,
+                "name": "千寻墨问温泉SPA酒店",
+                "type": "public_bath",
+                "latitude": 25.078796406124095,
+                "longitude": 102.7651165044184
+            },
+            {
+                "id": 1194653543,
+                "name": "云想中心",
+                "type": "exhibition_centre",
+                "latitude": 25.07404077374561,
+                "longitude": 102.75516987982168
+            },
+            {
+                "id": 1195448300,
+                "name": "曾孝濂美术馆",
+                "type": "arts_centre",
+                "latitude": 25.079168153656838,
+                "longitude": 102.76378245077224
+            },
+            {
+                "id": 11095363124,
+                "name": "卫生间",
+                "type": "toilets",
+                "latitude": 25.0808205,
+                "longitude": 102.7598155
+            },
+            {
+                "id": 11095363125,
+                "name": "卫生间",
+                "type": "toilets",
+                "latitude": 25.0802254,
+                "longitude": 102.757777
+            },
+            {
+                "id": 11095363126,
+                "name": "卫生间",
+                "type": "toilets",
+                "latitude": 25.0795427,
+                "longitude": 102.7575235
+            },
+            {
+                "id": 1017338953,
+                "name": "索道下站",
+                "type": "nan",
+                "latitude": 25.080104496856592,
+                "longitude": 102.76940856381361
+            },
+            {
+                "id": 1017749241,
+                "name": "人与自然馆",
+                "type": "nan",
+                "latitude": 25.078332338241246,
+                "longitude": 102.7605744303746
+            },
+            {
+                "id": 1194653401,
+                "name": "卫生间",
+                "type": "toilets",
+                "latitude": 25.080065458146972,
+                "longitude": 102.76443203210736
+            },
+            {
+                "id": 1194653404,
+                "name": "科技馆",
+                "type": "nan",
+                "latitude": 25.07965809936329,
+                "longitude": 102.76510108732127
+            },
+            {
+                "id": 1195448109,
+                "name": "云南省民营企业发展协会",
+                "type": "nan",
+                "latitude": 25.078684817212824,
+                "longitude": 102.76269191135776
+            },
+            {
+                "id": 1195448160,
+                "name": "大温室",
+                "type": "nan",
+                "latitude": 25.076624813071096,
+                "longitude": 102.76077488782697
+            },
+            {
+                "id": 1195448162,
+                "name": "卫生间",
+                "type": "toilets",
+                "latitude": 25.07659123499546,
+                "longitude": 102.75748650584654
+            },
+            {
+                "id": 1195448164,
+                "name": "“世博记忆”文化街区",
+                "type": "nan",
+                "latitude": 25.075801556558858,
+                "longitude": 102.7565675903338
+            },
+            {
+                "id": 1195448187,
+                "name": "白云芳香厅",
+                "type": "nan",
+                "latitude": 25.07979587455814,
+                "longitude": 102.763359313741
+            }
+        ]
+    }
+}

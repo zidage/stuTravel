@@ -1,0 +1,526 @@
+{
+    "id": 7093063110701846422,
+    "name": "香港迪士尼",
+    "address": "Lantau Island, 香港",
+    "rating": 4.4,
+    "popularity": 64,
+    "data_path": "map_data/university_map/Hong_Kong_Disneyland",
+    "description": "香港迪士尼可以指：\n\n香港迪士尼樂園：單指香港迪士尼樂園這一個園區。\n香港迪士尼度假區：包括香港迪士尼樂園、香港迪士尼樂園的酒店群、以及各種交通和基礎設施的度假區總稱。",
+    "images": [],
+    "amenity": {
+        "affiliation": 7093063110701846422,
+        "amenity_list": [
+            {
+                "id": 1272770916,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 22.3125919,
+                "longitude": 114.0437069
+            },
+            {
+                "id": 1279837776,
+                "name": "市集餅店 Market House",
+                "type": "cafe",
+                "latitude": 22.3130169,
+                "longitude": 114.0430155
+            },
+            {
+                "id": 1279837798,
+                "name": "大街餐廳 Main Street Corner Café",
+                "type": "restaurant",
+                "latitude": 22.3129534,
+                "longitude": 114.0424689
+            },
+            {
+                "id": 1696925558,
+                "name": "歷奇噴水池 Liki Tikis",
+                "type": "fountain",
+                "latitude": 22.3112796,
+                "longitude": 114.0408058
+            },
+            {
+                "id": 3078946383,
+                "name": "Disney's Paint the Night Parade",
+                "type": "theatre",
+                "latitude": 22.3129395,
+                "longitude": 114.0431773
+            },
+            {
+                "id": 3595907687,
+                "name": "Fruit Bowls and Banana Dippers",
+                "type": "fast_food",
+                "latitude": 22.3116522,
+                "longitude": 114.0422358
+            },
+            {
+                "id": 3595912526,
+                "name": "Soya Chicken Leg, Corn on the Cob, Frozen Lollipops Cart",
+                "type": "fast_food",
+                "latitude": 22.3121237,
+                "longitude": 114.0400722
+            },
+            {
+                "id": 3595929644,
+                "name": "幸運黃金石小食亭 Lucky Nugget Saloon",
+                "type": "fast_food",
+                "latitude": 22.3099737,
+                "longitude": 114.0416759
+            },
+            {
+                "id": 3595933815,
+                "name": "Sandwiches and Coffee Cart",
+                "type": "fast_food",
+                "latitude": 22.3124541,
+                "longitude": 114.0418588
+            },
+            {
+                "id": 3595933876,
+                "name": "Frozen Lollipops Cart",
+                "type": "fast_food",
+                "latitude": 22.3102738,
+                "longitude": 114.0408549
+            },
+            {
+                "id": 3595936096,
+                "name": "Popcorn, Cotton Candy, Frozen Lollipops Cart at Main Street, U.S.A.",
+                "type": "fast_food",
+                "latitude": 22.3129527,
+                "longitude": 114.0417441
+            },
+            {
+                "id": 3595939404,
+                "name": "Popcorn, Cotton Candy, Frozen Lollipops Cart",
+                "type": "fast_food",
+                "latitude": 22.3138068,
+                "longitude": 114.0418671
+            },
+            {
+                "id": 3595947845,
+                "name": "Safari Snacks",
+                "type": "fast_food",
+                "latitude": 22.311531,
+                "longitude": 114.040248
+            },
+            {
+                "id": 3595949976,
+                "name": "Grizzly Gulch Popcorn Cart",
+                "type": "fast_food",
+                "latitude": 22.3108445,
+                "longitude": 114.0425101
+            },
+            {
+                "id": 3595957428,
+                "name": "Flying Saucer Snacks",
+                "type": "fast_food",
+                "latitude": 22.3140528,
+                "longitude": 114.0416202
+            },
+            {
+                "id": 3596009079,
+                "name": "急救站 First Aid",
+                "type": "clinic",
+                "latitude": 22.3097335,
+                "longitude": 114.0422157
+            },
+            {
+                "id": 3599495438,
+                "name": "嬰兒護理室 Baby Care Center",
+                "type": "yes",
+                "latitude": 22.3130075,
+                "longitude": 114.0423954
+            },
+            {
+                "id": 4587018056,
+                "name": "噴泉山谷 Geyser Gulch",
+                "type": "fountain",
+                "latitude": 22.3102288,
+                "longitude": 114.041649
+            },
+            {
+                "id": 4842098524,
+                "name": "Clopin's Festival of Foods",
+                "type": "fast_food",
+                "latitude": 22.3132362,
+                "longitude": 114.0405252
+            },
+            {
+                "id": 6022888418,
+                "name": "演藝人員餐廳 Team Disney Diner",
+                "type": "restaurant",
+                "latitude": 22.3143501,
+                "longitude": 114.0445088
+            },
+            {
+                "id": 6176043786,
+                "name": "加利布尼市集",
+                "type": "marketplace",
+                "latitude": 22.3116345,
+                "longitude": 114.0424266
+            },
+            {
+                "id": 7436866148,
+                "name": "Meet Disney friends at Karibuni Marketplace",
+                "type": "photo_booth",
+                "latitude": 22.3113567,
+                "longitude": 114.0426034
+            },
+            {
+                "id": 7437242911,
+                "name": "Stroller Parking at Disney's Storybook Theater",
+                "type": "parking_space",
+                "latitude": 22.3136099,
+                "longitude": 114.0403005
+            },
+            {
+                "id": 111785045,
+                "name": "原野劇場 Theater in the Wild",
+                "type": "theatre",
+                "latitude": 22.311823535573367,
+                "longitude": 114.04320658005807
+            },
+            {
+                "id": 112480411,
+                "name": "廣場飯店 Plaza Inn",
+                "type": "restaurant",
+                "latitude": 22.31240884844121,
+                "longitude": 114.04252550463558
+            },
+            {
+                "id": 112658730,
+                "name": "河景餐廳 River View Café",
+                "type": "restaurant",
+                "latitude": 22.311621199745357,
+                "longitude": 114.041076049626
+            },
+            {
+                "id": 157472725,
+                "name": "迪士尼故事劇場 Disney’s Storybook Theater",
+                "type": "theatre",
+                "latitude": 22.31404160448934,
+                "longitude": 114.03969609047891
+            },
+            {
+                "id": 158266252,
+                "name": "彗星餐廳 Comet Café",
+                "type": "fast_food",
+                "latitude": 22.313418563633423,
+                "longitude": 114.04154553338486
+            },
+            {
+                "id": 160185433,
+                "name": "火箭餐廳 Starliner Diner",
+                "type": "fast_food",
+                "latitude": 22.3134062854515,
+                "longitude": 114.04232383863445
+            },
+            {
+                "id": 301329075,
+                "name": "Jessie's Snack Roundup",
+                "type": "fast_food",
+                "latitude": 22.31024113824087,
+                "longitude": 114.0396708368845
+            },
+            {
+                "id": 334054570,
+                "name": "Small World Ice Cream",
+                "type": "ice_cream",
+                "latitude": 22.313375230462388,
+                "longitude": 114.03957393431119
+            },
+            {
+                "id": 353782544,
+                "name": "碧林餐廳 Tahitian Terrace",
+                "type": "fast_food",
+                "latitude": 22.3120454131985,
+                "longitude": 114.04199393694503
+            },
+            {
+                "id": 353783063,
+                "name": "米奇幻想曲 Mickey's PhilharMagic",
+                "type": "cinema",
+                "latitude": 22.312023528449192,
+                "longitude": 114.04059920910291
+            },
+            {
+                "id": 353783304,
+                "name": "皇室宴會廳 Royal Banquet Hall",
+                "type": "food_court",
+                "latitude": 22.31211495867711,
+                "longitude": 114.04095533238585
+            },
+            {
+                "id": 494338967,
+                "name": "大冒險家餐廳 Explorer's Club Restaurant",
+                "type": "restaurant",
+                "latitude": 22.309833224496284,
+                "longitude": 114.04044655424157
+            },
+            {
+                "id": 590040058,
+                "name": "樂韻叢林 Jungle Junction",
+                "type": "theatre",
+                "latitude": 22.31184293759565,
+                "longitude": 114.04163281868556
+            },
+            {
+                "id": 639130555,
+                "name": "Backstage Diner (WDI)",
+                "type": "restaurant",
+                "latitude": 22.314677556886522,
+                "longitude": 114.03974753239059
+            },
+            {
+                "id": 639138162,
+                "name": "Inn Between",
+                "type": "restaurant",
+                "latitude": 22.312487324569634,
+                "longitude": 114.04274738931518
+            },
+            {
+                "id": 111784781,
+                "name": "星戰極速穿梭 Hyperspace Mountain",
+                "type": "nan",
+                "latitude": 22.314047889151855,
+                "longitude": 114.04116299013693
+            },
+            {
+                "id": 111785046,
+                "name": "百貨店 Emporium",
+                "type": "nan",
+                "latitude": 22.312793310778837,
+                "longitude": 114.04324628766325
+            },
+            {
+                "id": 111785053,
+                "name": "市鎮會堂 City Hall",
+                "type": "nan",
+                "latitude": 22.312521369395256,
+                "longitude": 114.04380546709505
+            },
+            {
+                "id": 112658719,
+                "name": "娛樂事務大樓 Entertainment Building",
+                "type": "nan",
+                "latitude": 22.315160950762092,
+                "longitude": 114.0388395825998
+            },
+            {
+                "id": 112658724,
+                "name": "華特迪士尼幻想工程大樓 Walt Disney Imagineering Building",
+                "type": "nan",
+                "latitude": 22.314907190644355,
+                "longitude": 114.04011744156422
+            },
+            {
+                "id": 112659018,
+                "name": "迪士尼 Disneyland Resort",
+                "type": "nan",
+                "latitude": 22.315394747022136,
+                "longitude": 114.04513705248733
+            },
+            {
+                "id": 112659020,
+                "name": "迪士尼行政大樓 Team Disney",
+                "type": "nan",
+                "latitude": 22.314516726840132,
+                "longitude": 114.04437164113985
+            },
+            {
+                "id": 123539047,
+                "name": "中央廚房大樓 Outdoor Vending Building",
+                "type": "nan",
+                "latitude": 22.314325809557506,
+                "longitude": 114.03871497257987
+            },
+            {
+                "id": 123539048,
+                "name": "火車維修大樓 Train Maintenance Building",
+                "type": "nan",
+                "latitude": 22.315506425323665,
+                "longitude": 114.04010573193456
+            },
+            {
+                "id": 157472722,
+                "name": "小小世界 it’s a small world",
+                "type": "nan",
+                "latitude": 22.31367688557823,
+                "longitude": 114.03891245632492
+            },
+            {
+                "id": 158266299,
+                "name": "蟻俠與黃蜂女：擊戰特攻！Ant-Man and The Wasp: Nano Battle",
+                "type": "nan",
+                "latitude": 22.3138923688873,
+                "longitude": 114.04267964284453
+            },
+            {
+                "id": 160185421,
+                "name": "動畫藝術廊 Art of Animation",
+                "type": "nan",
+                "latitude": 22.313428827375215,
+                "longitude": 114.04358471555021
+            },
+            {
+                "id": 194672867,
+                "name": "製冷機房 Chiller Plant Building",
+                "type": "nan",
+                "latitude": 22.312689028376013,
+                "longitude": 114.03812033065019
+            },
+            {
+                "id": 353782545,
+                "name": "布教授商店 Professor Porter's Trading Post",
+                "type": "nan",
+                "latitude": 22.311911456425882,
+                "longitude": 114.04223186556582
+            },
+            {
+                "id": 353783064,
+                "name": "梅林法寶店 Merlin’s Treasures",
+                "type": "nan",
+                "latitude": 22.311816762588837,
+                "longitude": 114.04037719198874
+            },
+            {
+                "id": 353783305,
+                "name": "童話藝坊 Storybook Shoppe",
+                "type": "nan",
+                "latitude": 22.31242046130563,
+                "longitude": 114.0410098567605
+            },
+            {
+                "id": 353784762,
+                "name": "Main Street Market",
+                "type": "nan",
+                "latitude": 22.31302267513771,
+                "longitude": 114.04294012646707
+            },
+            {
+                "id": 484134890,
+                "name": "Mystic Point Freight Depot",
+                "type": "nan",
+                "latitude": 22.310339240146714,
+                "longitude": 114.04101738449444
+            },
+            {
+                "id": 484135451,
+                "name": "迪士尼行政大樓二期 Team Disney Two",
+                "type": "nan",
+                "latitude": 22.314527609553892,
+                "longitude": 114.0435164096534
+            },
+            {
+                "id": 484136264,
+                "name": "樂園園藝部 Horticulture Support",
+                "type": "nan",
+                "latitude": 22.314943482334222,
+                "longitude": 114.03800639434778
+            },
+            {
+                "id": 484136484,
+                "name": "中央維修大樓 Central Maintenance Base",
+                "type": "nan",
+                "latitude": 22.313953089197675,
+                "longitude": 114.03790728902733
+            },
+            {
+                "id": 492164531,
+                "name": "灰姑娘旋轉木馬 Cinderella Carousel",
+                "type": "nan",
+                "latitude": 22.312528602077485,
+                "longitude": 114.04052361224029
+            },
+            {
+                "id": 492164537,
+                "name": "小熊維尼歷險之旅 The Many Adventures of Winnie the Pooh",
+                "type": "nan",
+                "latitude": 22.31299519630142,
+                "longitude": 114.04068697076335
+            },
+            {
+                "id": 494338968,
+                "name": "迷離大宅 Mystic Manor",
+                "type": "nan",
+                "latitude": 22.30968758418695,
+                "longitude": 114.0410251935411
+            },
+            {
+                "id": 494339244,
+                "name": "鐵甲奇俠飛行之旅 Iron Man Experience",
+                "type": "nan",
+                "latitude": 22.314493280556064,
+                "longitude": 114.04264762229111
+            },
+            {
+                "id": 795104686,
+                "name": "Photo Sales Location at Merlin's Magic Portraits",
+                "type": "nan",
+                "latitude": 22.31291979267643,
+                "longitude": 114.04022388305508
+            },
+            {
+                "id": 795128125,
+                "name": "Grizzly Gulch Assay Office",
+                "type": "nan",
+                "latitude": 22.310236924220607,
+                "longitude": 114.0417688578869
+            },
+            {
+                "id": 795128134,
+                "name": "Grizzly Gulch Jail",
+                "type": "nan",
+                "latitude": 22.310221300000006,
+                "longitude": 114.04190310000001
+            },
+            {
+                "id": 795128135,
+                "name": "小灰熊禮品車 Bear Necessities",
+                "type": "nan",
+                "latitude": 22.310148641104544,
+                "longitude": 114.04190689087608
+            },
+            {
+                "id": 798801004,
+                "name": "魔雪奇幻之旅 Frozen Ever After",
+                "type": "nan",
+                "latitude": 22.31203319273023,
+                "longitude": 114.03845089057269
+            },
+            {
+                "id": 904373921,
+                "name": "雪嶺滑雪橇 Wandering Oaken's Sliding Sleighs",
+                "type": "nan",
+                "latitude": 22.313037456748784,
+                "longitude": 114.03868042289386
+            },
+            {
+                "id": 961420486,
+                "name": "Arendelle Castle",
+                "type": "nan",
+                "latitude": 22.312566616024288,
+                "longitude": 114.0385989460921
+            },
+            {
+                "id": 961420487,
+                "name": "Arendelle Lighthouse",
+                "type": "nan",
+                "latitude": 22.31262438834096,
+                "longitude": 114.03923886346257
+            },
+            {
+                "id": 961420492,
+                "name": "Snow White's Wishing Well",
+                "type": "nan",
+                "latitude": 22.312828600000007,
+                "longitude": 114.04109855
+            },
+            {
+                "id": 12672844,
+                "name": "奇妙夢想城堡 Castle of Magical Dreams",
+                "type": "nan",
+                "latitude": 22.3126248961417,
+                "longitude": 114.04108473700828
+            }
+        ]
+    }
+}

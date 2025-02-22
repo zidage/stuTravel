@@ -1,0 +1,55 @@
+{
+    "id": -8577012505578135475,
+    "name": "花城广场",
+    "address": "中国广东省广州市天河区 邮政编码: 510620",
+    "rating": 4.5,
+    "popularity": 72,
+    "data_path": "map_data/university_map/Huacheng_Square",
+    "description": "花城广场是中國廣東省广州市中轴线上的大型广场，由廣州市政府牽頭的廣州城投斥資開發營運，被當局称为广州的新城市客厅。它位于珠江新城西侧，北接黄埔大道，南邻海心沙，占地面积56公顷。广州大剧院、广东省博物馆和广州图书馆均在广场附近。广场于2010年10月亚运会前夕正式向公众开放，自2011年起，广州国际灯光节每年11月都会在这里举办。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/Huacheng_Square_and_Canton_Tower_at_night_5.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/95/Huacheng_Square_at_night_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/View_from_Huacheng_Square_at_night.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Yuexiu_Park_3.jpg"
+    ],
+    "amenity": {
+        "affiliation": -8577012505578135475,
+        "amenity_list": [
+            {
+                "id": 5596657472,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 23.1208832,
+                "longitude": 113.3198197
+            },
+            {
+                "id": 8625800757,
+                "name": "星巴克",
+                "type": "cafe",
+                "latitude": 23.1197246,
+                "longitude": 113.3189672
+            },
+            {
+                "id": 9372207903,
+                "name": "奈雪的茶",
+                "type": "cafe",
+                "latitude": 23.1199288,
+                "longitude": 113.3190477
+            },
+            {
+                "id": 9760077796,
+                "name": "Coffeeology",
+                "type": "cafe",
+                "latitude": 23.1193108,
+                "longitude": 113.3187894
+            },
+            {
+                "id": 11661745752,
+                "name": "汉堡王",
+                "type": "fast_food",
+                "latitude": 23.1228055,
+                "longitude": 113.3194682
+            }
+        ]
+    }
+}

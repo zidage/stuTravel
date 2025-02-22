@@ -1,0 +1,115 @@
+{
+    "id": 7433635992658738642,
+    "name": "大明宫国家遗址公园",
+    "address": "中国陕西省西安市新城区自强东路585号 邮政编码: 710015",
+    "rating": 3.9,
+    "popularity": 33,
+    "data_path": "map_data/university_map/Daming_Palace_National_Heritage_Park",
+    "description": "大明宫国家遗址公园是一个位于西安的国家考古遗址公园。其范围位于唐朝大明宫内，於2010年10月1日正式开园。从拆迁到建设，大明宫遗址公园耗资120亿元人民幣。\n遺址公園有三分之二區域免費開放，遊客進入遺址密集區需要購票。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b9/Relics_of_Hanyuan_Dian.jpg"
+    ],
+    "amenity": {
+        "affiliation": 7433635992658738642,
+        "amenity_list": [
+            {
+                "id": 246278229,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 34.288633703140526,
+                "longitude": 108.96498790336601
+            },
+            {
+                "id": 280412703,
+                "name": "大明宫IMAX多媒体中心",
+                "type": "cinema",
+                "latitude": 34.28462775707142,
+                "longitude": 108.96204100109476
+            },
+            {
+                "id": 1208419221,
+                "name": "西安市大明宫中学",
+                "type": "school",
+                "latitude": 34.29281408624747,
+                "longitude": 108.95312600657998
+            },
+            {
+                "id": 280412702,
+                "name": "丹凤门",
+                "type": "nan",
+                "latitude": 34.28283649610519,
+                "longitude": 108.95950983930001
+            },
+            {
+                "id": 280412706,
+                "name": "含元殿遗址",
+                "type": "nan",
+                "latitude": 34.289150704849,
+                "longitude": 108.95946477697693
+            },
+            {
+                "id": 280412710,
+                "name": "游客服务中心",
+                "type": "nan",
+                "latitude": 34.283722600874306,
+                "longitude": 108.96205191871994
+            },
+            {
+                "id": 292406143,
+                "name": "宣政殿遗址",
+                "type": "nan",
+                "latitude": 34.29212785,
+                "longitude": 108.9594222
+            },
+            {
+                "id": 292406144,
+                "name": "望仙台遗址",
+                "type": "nan",
+                "latitude": 34.292974020371354,
+                "longitude": 108.96064930937207
+            },
+            {
+                "id": 821515135,
+                "name": "紫宸殿遗址",
+                "type": "nan",
+                "latitude": 34.29373465,
+                "longitude": 108.95941035000001
+            },
+            {
+                "id": 899099874,
+                "name": "麟德殿",
+                "type": "nan",
+                "latitude": 34.296899319304394,
+                "longitude": 108.95342967759348
+            },
+            {
+                "id": 1208419215,
+                "name": "延英殿遗址",
+                "type": "nan",
+                "latitude": 34.293265099125534,
+                "longitude": 108.95822164201951
+            },
+            {
+                "id": 1208419217,
+                "name": "望仙台遗址",
+                "type": "nan",
+                "latitude": 34.28889342650659,
+                "longitude": 108.9629100959601
+            },
+            {
+                "id": 1208419219,
+                "name": "崇明门遗址",
+                "type": "nan",
+                "latitude": 34.2920882175988,
+                "longitude": 108.96297529378056
+            },
+            {
+                "id": 1208419220,
+                "name": "光顺门遗址",
+                "type": "nan",
+                "latitude": 34.29203312498695,
+                "longitude": 108.9557700440068
+            }
+        ]
+    }
+}

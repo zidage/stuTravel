@@ -1,0 +1,530 @@
+{
+    "id": 5722465718837035562,
+    "name": "丽江古城",
+    "address": "中国云南省丽江市古城区 邮政编码: 674100",
+    "rating": 4.5,
+    "popularity": 60,
+    "data_path": "map_data/university_map/Lijiang_Old_City",
+    "description": "丽江古城（或称丽江古镇），位於中国云南省麗江市古城區，1997年12月4日被联合国教科文组织列為世界文化遗产，並於2007年获亞太區文物古蹟保護獎。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e2/1_lijiang_old_town_2012a.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cf/A_bar_operated_by_Yang_Erche_Namu.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/Lijiang-canales-l02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lijiang-canales-l03.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/81/LijiangTown.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/Mu_Mansion_entrance.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/Old_Town_of_Lijiang_%2821201716141%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/53/River_along_the_Square_street.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/%E4%B8%BD%E6%B1%9F%E4%B8%9C%E5%B7%B4%E7%BA%B8%E5%9D%8A.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6b/%E4%B8%BD%E6%B1%9F%E5%8F%A4%E5%9F%8E%E8%8C%B6%E9%A9%AC%E5%8F%A4%E9%81%93.JPG"
+    ],
+    "amenity": {
+        "affiliation": 5722465718837035562,
+        "amenity_list": [
+            {
+                "id": 550876411,
+                "name": "可能感兴趣的地点",
+                "type": "theatre",
+                "latitude": 26.8773543,
+                "longitude": 100.2329278
+            },
+            {
+                "id": 1519351401,
+                "name": "N's kitchen & Travel Advice",
+                "type": "restaurant",
+                "latitude": 26.8774675,
+                "longitude": 100.2336887
+            },
+            {
+                "id": 4142593689,
+                "name": "夜猫",
+                "type": "bar",
+                "latitude": 26.869903,
+                "longitude": 100.2404165
+            },
+            {
+                "id": 4143920789,
+                "name": "Old Sichuan Home Restaurant",
+                "type": "restaurant",
+                "latitude": 26.8694943,
+                "longitude": 100.2398792
+            },
+            {
+                "id": 4146349446,
+                "name": "Mira Manyao Bar",
+                "type": "nightclub",
+                "latitude": 26.8757973,
+                "longitude": 100.2323472
+            },
+            {
+                "id": 4146364010,
+                "name": "Reggae Bar",
+                "type": "nightclub",
+                "latitude": 26.8760091,
+                "longitude": 100.232354
+            },
+            {
+                "id": 4146368701,
+                "name": "Le Petit Paris Bar",
+                "type": "bar",
+                "latitude": 26.8762934,
+                "longitude": 100.2326015
+            },
+            {
+                "id": 4146368703,
+                "name": "Half a Dozen Pub",
+                "type": "bar",
+                "latitude": 26.8772686,
+                "longitude": 100.2324588
+            },
+            {
+                "id": 4146374196,
+                "name": "Neighbour of the Sun",
+                "type": "nightclub",
+                "latitude": 26.8755915,
+                "longitude": 100.2323279
+            },
+            {
+                "id": 4146376398,
+                "name": "Rock Music Bar",
+                "type": "bar",
+                "latitude": 26.8711553,
+                "longitude": 100.2387338
+            },
+            {
+                "id": 4146399191,
+                "name": "Sakura Kim",
+                "type": "nightclub",
+                "latitude": 26.8758442,
+                "longitude": 100.2325588
+            },
+            {
+                "id": 4146399193,
+                "name": "在水一方酒吧",
+                "type": "nightclub",
+                "latitude": 26.8764712,
+                "longitude": 100.2323592
+            },
+            {
+                "id": 4349313291,
+                "name": "Stone Crows",
+                "type": "bar",
+                "latitude": 26.8761813,
+                "longitude": 100.2375046
+            },
+            {
+                "id": 5260850123,
+                "name": "阿妈意纳西饮食院",
+                "type": "restaurant",
+                "latitude": 26.8760761,
+                "longitude": 100.2342241
+            },
+            {
+                "id": 5636879921,
+                "name": "小锅巴纳西美食",
+                "type": "restaurant",
+                "latitude": 26.8756247,
+                "longitude": 100.2363656
+            },
+            {
+                "id": 5739272824,
+                "name": "隔壁老王",
+                "type": "restaurant",
+                "latitude": 26.8750657,
+                "longitude": 100.2362897
+            },
+            {
+                "id": 5739272825,
+                "name": "大妈水",
+                "type": "restaurant",
+                "latitude": 26.8744415,
+                "longitude": 100.2371208
+            },
+            {
+                "id": 5907504485,
+                "name": "700CC",
+                "type": "cafe",
+                "latitude": 26.8770118,
+                "longitude": 100.2328947
+            },
+            {
+                "id": 6369873489,
+                "name": "Wish you were here",
+                "type": "pub",
+                "latitude": 26.8746282,
+                "longitude": 100.2369467
+            },
+            {
+                "id": 6369903185,
+                "name": "Blue Papaya",
+                "type": "restaurant",
+                "latitude": 26.8743454,
+                "longitude": 100.234695
+            },
+            {
+                "id": 6499060086,
+                "name": "Niu De Hen Mi Xian",
+                "type": "restaurant",
+                "latitude": 26.872903,
+                "longitude": 100.2348979
+            },
+            {
+                "id": 6536624686,
+                "name": "古城派出所",
+                "type": "police",
+                "latitude": 26.87179,
+                "longitude": 100.2347594
+            },
+            {
+                "id": 6590696686,
+                "name": "V.Sherry Restautant",
+                "type": "restaurant",
+                "latitude": 26.8721135,
+                "longitude": 100.2337362
+            },
+            {
+                "id": 6698387426,
+                "name": "V Sherry Restaurant",
+                "type": "restaurant",
+                "latitude": 26.8713338,
+                "longitude": 100.2370013
+            },
+            {
+                "id": 6698395248,
+                "name": "Chulei snack bar",
+                "type": "bar",
+                "latitude": 26.8717113,
+                "longitude": 100.2368603
+            },
+            {
+                "id": 6863997491,
+                "name": "Buffy 2739 Livehouse",
+                "type": "bar",
+                "latitude": 26.8756965,
+                "longitude": 100.2363371
+            },
+            {
+                "id": 6863999374,
+                "name": "滇西王子餐厅",
+                "type": "restaurant",
+                "latitude": 26.8709384,
+                "longitude": 100.2320111
+            },
+            {
+                "id": 6864030679,
+                "name": "猫的天空之城概念书店",
+                "type": "cafe",
+                "latitude": 26.8751013,
+                "longitude": 100.236449
+            },
+            {
+                "id": 6864037450,
+                "name": "Buffy 2739 Club",
+                "type": "nightclub",
+                "latitude": 26.8757571,
+                "longitude": 100.2363192
+            },
+            {
+                "id": 6864043091,
+                "name": "美食广场",
+                "type": "food_court",
+                "latitude": 26.8756755,
+                "longitude": 100.2333438
+            },
+            {
+                "id": 6864043743,
+                "name": "Sakurakim",
+                "type": "restaurant",
+                "latitude": 26.8758944,
+                "longitude": 100.2337236
+            },
+            {
+                "id": 6864047681,
+                "name": "Tibet Café",
+                "type": "cafe",
+                "latitude": 26.8755127,
+                "longitude": 100.2338506
+            },
+            {
+                "id": 8392982099,
+                "name": "滇厨餐厅",
+                "type": "restaurant",
+                "latitude": 26.8754896,
+                "longitude": 100.236974
+            },
+            {
+                "id": 8408647866,
+                "name": "心圆小吃",
+                "type": "restaurant",
+                "latitude": 26.8709779,
+                "longitude": 100.2351843
+            },
+            {
+                "id": 9188746129,
+                "name": "滇藏石锅宴",
+                "type": "restaurant",
+                "latitude": 26.8773372,
+                "longitude": 100.2391505
+            },
+            {
+                "id": 9188757757,
+                "name": "云肴石锅餐厅",
+                "type": "restaurant",
+                "latitude": 26.8723423,
+                "longitude": 100.233935
+            },
+            {
+                "id": 9188757763,
+                "name": "必胜客(丽江古城店)",
+                "type": "fast_food",
+                "latitude": 26.8790861,
+                "longitude": 100.233074
+            },
+            {
+                "id": 9188757764,
+                "name": "肯德基(玉河广场餐厅)",
+                "type": "fast_food",
+                "latitude": 26.8791322,
+                "longitude": 100.2331839
+            },
+            {
+                "id": 9188757765,
+                "name": "麦当劳",
+                "type": "fast_food",
+                "latitude": 26.8791782,
+                "longitude": 100.233304
+            },
+            {
+                "id": 9188799424,
+                "name": "天天鲜",
+                "type": "restaurant",
+                "latitude": 26.8746511,
+                "longitude": 100.2381735
+            },
+            {
+                "id": 9188809851,
+                "name": "中国农业银行丽江古城支行",
+                "type": "bank",
+                "latitude": 26.8791124,
+                "longitude": 100.2324262
+            },
+            {
+                "id": 9189088130,
+                "name": "88酒吧",
+                "type": "bar",
+                "latitude": 26.8759113,
+                "longitude": 100.232333
+            },
+            {
+                "id": 9201547302,
+                "name": "丽江市古城图书馆",
+                "type": "library",
+                "latitude": 26.8734925,
+                "longitude": 100.2322666
+            },
+            {
+                "id": 984792928,
+                "name": "兴文小学",
+                "type": "school",
+                "latitude": 26.870933593322253,
+                "longitude": 100.23726276208592
+            },
+            {
+                "id": 995071774,
+                "name": "古城区大研中心校新华小学",
+                "type": "school",
+                "latitude": 26.875944327108243,
+                "longitude": 100.23095812669187
+            },
+            {
+                "id": 995071791,
+                "name": "忠义市场",
+                "type": "marketplace",
+                "latitude": 26.87018180970192,
+                "longitude": 100.23441379633957
+            },
+            {
+                "id": 995075966,
+                "name": "丽江市古城区幼儿园",
+                "type": "kindergarten",
+                "latitude": 26.872265988865827,
+                "longitude": 100.23198063859057
+            },
+            {
+                "id": 995075967,
+                "name": "现文小学",
+                "type": "school",
+                "latitude": 26.873643869717103,
+                "longitude": 100.23282054830246
+            },
+            {
+                "id": 995078375,
+                "name": "王家庄基督教堂",
+                "type": "place_of_worship",
+                "latitude": 26.875367026296004,
+                "longitude": 100.23839986072679
+            },
+            {
+                "id": 995079457,
+                "name": "中国工商银行四方街支行",
+                "type": "bank",
+                "latitude": 26.875834115148194,
+                "longitude": 100.23280762777486
+            },
+            {
+                "id": 995083938,
+                "name": "文昌宫",
+                "type": "place_of_worship",
+                "latitude": 26.87791578638053,
+                "longitude": 100.23105137995884
+            },
+            {
+                "id": 995086106,
+                "name": "丽江市第一高级中学",
+                "type": "school",
+                "latitude": 26.874308528188095,
+                "longitude": 100.24267357456121
+            },
+            {
+                "id": 995090229,
+                "name": "古城区公安消防大队古城中队",
+                "type": "fire_station",
+                "latitude": 26.871926246944533,
+                "longitude": 100.2315482684425
+            },
+            {
+                "id": 995091875,
+                "name": "古城区汝吉小学",
+                "type": "school",
+                "latitude": 26.87791432617023,
+                "longitude": 100.24096938761137
+            },
+            {
+                "id": 995095344,
+                "name": "古城区大研中心小学",
+                "type": "school",
+                "latitude": 26.8736391507708,
+                "longitude": 100.23931379214034
+            },
+            {
+                "id": 995095373,
+                "name": "古城区南门停车场",
+                "type": "parking",
+                "latitude": 26.869348034695317,
+                "longitude": 100.24022122750037
+            },
+            {
+                "id": 995095998,
+                "name": "古城派出所消防中队",
+                "type": "fire_station",
+                "latitude": 26.877519844640766,
+                "longitude": 100.2357392673774
+            },
+            {
+                "id": 995096013,
+                "name": "丽江兴仁方国瑜小学",
+                "type": "school",
+                "latitude": 26.877702650869395,
+                "longitude": 100.23534195395814
+            },
+            {
+                "id": 995070436,
+                "name": "廊桥",
+                "type": "nan",
+                "latitude": 26.87271972042314,
+                "longitude": 100.23193270660228
+            },
+            {
+                "id": 995071729,
+                "name": "忠义牌坊",
+                "type": "nan",
+                "latitude": 26.872494154520826,
+                "longitude": 100.23376719526208
+            },
+            {
+                "id": 995071745,
+                "name": "天雨流芳牌坊",
+                "type": "nan",
+                "latitude": 26.87293408217788,
+                "longitude": 100.23396196515148
+            },
+            {
+                "id": 995079459,
+                "name": "科贡坊",
+                "type": "nan",
+                "latitude": 26.87563705,
+                "longitude": 100.23242045
+            },
+            {
+                "id": 995079667,
+                "name": "福音堂",
+                "type": "nan",
+                "latitude": 26.875360950000005,
+                "longitude": 100.2383559
+            },
+            {
+                "id": 995086029,
+                "name": "万卷楼",
+                "type": "nan",
+                "latitude": 26.87276175625918,
+                "longitude": 100.23248787885532
+            },
+            {
+                "id": 995086030,
+                "name": "议事厅",
+                "type": "nan",
+                "latitude": 26.872674250000003,
+                "longitude": 100.23292110000001
+            },
+            {
+                "id": 995086031,
+                "name": "护法殿",
+                "type": "nan",
+                "latitude": 26.872844699999995,
+                "longitude": 100.2321446
+            },
+            {
+                "id": 995086032,
+                "name": "三清殿",
+                "type": "nan",
+                "latitude": 26.873163200000004,
+                "longitude": 100.23084135
+            },
+            {
+                "id": 995086038,
+                "name": "玉音楼",
+                "type": "nan",
+                "latitude": 26.872994538322896,
+                "longitude": 100.23150343864549
+            },
+            {
+                "id": 995086039,
+                "name": "光碧楼",
+                "type": "nan",
+                "latitude": 26.872918900000002,
+                "longitude": 100.2318726
+            },
+            {
+                "id": 995096008,
+                "name": "综合楼",
+                "type": "nan",
+                "latitude": 26.877543250000002,
+                "longitude": 100.23553354999999
+            },
+            {
+                "id": 995096011,
+                "name": "教学楼",
+                "type": "nan",
+                "latitude": 26.87800138163201,
+                "longitude": 100.2356184750829
+            },
+            {
+                "id": 995096012,
+                "name": "综合楼",
+                "type": "nan",
+                "latitude": 26.877859421057586,
+                "longitude": 100.23521682535682
+            }
+        ]
+    }
+}

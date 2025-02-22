@@ -1,0 +1,144 @@
+{
+    "id": 8717233166363875100,
+    "name": "长隆海洋王国",
+    "address": "中国广东省珠海市香洲区",
+    "rating": 3.3,
+    "popularity": 51,
+    "data_path": "map_data/university_map/Chimelong_Ocean_Kingdom",
+    "description": "长隆海洋王国（Chimelong Ocean Kingdom）位于中華人民共和國廣東省珠海市橫琴粵澳深度合作區富祥灣，是珠海長隆國際海洋度假區旗下的其中一个以海洋為主題的主题公园，该主题公园采用世界顶尖公司设计，整合珍稀的海洋动物、顶级的游乐设备和新奇的大型演艺，全力建设、打造中国人自主研发和拥有自主知识产权的世界主题公园。长隆海洋王国于2010年11月28日动工，至2013年11月完工，於2014年1月28日试营，至3月29日正式开放。至2019年11月20日长隆站通车。\n根据世界主题娱乐协会（TEA）数据，2015年，长隆海洋王国入场人数超过550万，于2016年，长隆海洋王国入场人数保持强劲增长，达847.4万，是2015、2016年度中国游客人数最多的主题公园，也是目前全球入场人数最高的水上主题乐园。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/70/11255-Ocean-Kingdom.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b9/Beluga_Theatre_at_Chimelong_Ocean_Kingdom.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/aa/Chime-Long_Ocean_Kingdom_11589-Ocean-Kingdom_%2849014439502%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c7/ChimelongOceanKingdom_WhaleSharkAquarium1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/Chimelong_Ocean_Kingdom_Avenue.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/69/Glacier_Adventure_view_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/Parrot_roller_coaster.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Walrus_Splash.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/40/Whale_Shark_Aquarium.jpg"
+    ],
+    "amenity": {
+        "affiliation": 8717233166363875100,
+        "amenity_list": [
+            {
+                "id": 3265327573,
+                "name": "港澳餐厅",
+                "type": "restaurant",
+                "latitude": 22.1011802,
+                "longitude": 113.5322561
+            },
+            {
+                "id": 3265327575,
+                "name": "王国饼店",
+                "type": "restaurant",
+                "latitude": 22.1011494,
+                "longitude": 113.5321482
+            },
+            {
+                "id": 320028436,
+                "name": "横琴湾畔餐厅",
+                "type": "restaurant",
+                "latitude": 22.09890911159557,
+                "longitude": 113.52934700742695
+            },
+            {
+                "id": 320028445,
+                "name": "海象餐厅",
+                "type": "restaurant",
+                "latitude": 22.099447738919157,
+                "longitude": 113.53274773851612
+            },
+            {
+                "id": 616417855,
+                "name": "可能感兴趣的地点",
+                "type": "shelter",
+                "latitude": 22.101621593185236,
+                "longitude": 113.53327535126147
+            },
+            {
+                "id": 320028200,
+                "name": "5D 城堡影院",
+                "type": "nan",
+                "latitude": 22.102121264008467,
+                "longitude": 113.53266933230859
+            },
+            {
+                "id": 320028201,
+                "name": "企鹅馆",
+                "type": "nan",
+                "latitude": 22.098798975271897,
+                "longitude": 113.53085113190215
+            },
+            {
+                "id": 320028392,
+                "name": "北极熊馆",
+                "type": "nan",
+                "latitude": 22.09754657378977,
+                "longitude": 113.53050754405618
+            },
+            {
+                "id": 320028441,
+                "name": "海狮剧场",
+                "type": "nan",
+                "latitude": 22.099221996331917,
+                "longitude": 113.53382090645853
+            },
+            {
+                "id": 320028442,
+                "name": "海豚保育中心",
+                "type": "nan",
+                "latitude": 22.10146661863246,
+                "longitude": 113.53108126341978
+            },
+            {
+                "id": 320028443,
+                "name": "海豚剧场",
+                "type": "nan",
+                "latitude": 22.10266744303604,
+                "longitude": 113.53073147624126
+            },
+            {
+                "id": 320028463,
+                "name": "白鲸剧场",
+                "type": "nan",
+                "latitude": 22.098106346330372,
+                "longitude": 113.52881134646978
+            },
+            {
+                "id": 320028467,
+                "name": "美食天地",
+                "type": "nan",
+                "latitude": 22.099454376727753,
+                "longitude": 113.53157276663184
+            },
+            {
+                "id": 320028479,
+                "name": "雨林餐厅",
+                "type": "nan",
+                "latitude": 22.101109726781786,
+                "longitude": 113.5293160611928
+            },
+            {
+                "id": 320028482,
+                "name": "鲸鲨馆",
+                "type": "nan",
+                "latitude": 22.099609144012994,
+                "longitude": 113.52770340032887
+            },
+            {
+                "id": 616414563,
+                "name": "海牛馆",
+                "type": "nan",
+                "latitude": 22.102032526780256,
+                "longitude": 113.52914580338117
+            },
+            {
+                "id": 616414569,
+                "name": "白鲸馆",
+                "type": "nan",
+                "latitude": 22.098669765037116,
+                "longitude": 113.5285696378441
+            }
+        ]
+    }
+}

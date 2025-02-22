@@ -1,0 +1,398 @@
+{
+    "id": 7428365813599995525,
+    "name": "北京化工大学",
+    "address": "中国北京市朝阳区 邮政编码: 100013",
+    "rating": 4.2,
+    "popularity": 60,
+    "data_path": "map_data/university_map/Beijing_University_of_Chemical_Technology",
+    "description": "北京化工大学（英語：Beijing University of Chemical Technology，縮寫：BUCT），创办于1958年，原名北京化工学院，是中华人民共和国为“培养尖端科学技术所需求的高级化工人才”而创建的一所大学，为教育部直属的全国重点大学，国家“211工程”和“985优势学科创新平台”重点建设院校。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Beijing_University_of_Chemical_Technology_%2820240125140308%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Buct_houdebang.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/53/Buct_statue.jpg",
+        "https://upload.wikimedia.org/wikipedia/zh/7/77/Beijing_University_of_Chemical_Technology_logo.jpg"
+    ],
+    "amenity": {
+        "affiliation": 7428365813599995525,
+        "amenity_list": [
+            {
+                "id": 6305137176,
+                "name": "1958咖啡馆",
+                "type": "cafe",
+                "latitude": 40.2494124,
+                "longitude": 116.1399569
+            },
+            {
+                "id": 6305137177,
+                "name": "北京化工大学校医院",
+                "type": "hospital",
+                "latitude": 40.2510493,
+                "longitude": 116.1391264
+            },
+            {
+                "id": 6843804583,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 40.2565352,
+                "longitude": 116.1407675
+            },
+            {
+                "id": 7759502677,
+                "name": "菜鸟驿站",
+                "type": "post_office",
+                "latitude": 40.2492115,
+                "longitude": 116.1449235
+            },
+            {
+                "id": 7759803237,
+                "name": "水果店",
+                "type": "restaurant",
+                "latitude": 40.2503192,
+                "longitude": 116.139869
+            },
+            {
+                "id": 8302136956,
+                "name": "北京银行",
+                "type": "atm",
+                "latitude": 40.2506535,
+                "longitude": 116.1395215
+            },
+            {
+                "id": 8302136957,
+                "name": "中国银行",
+                "type": "atm",
+                "latitude": 40.251847,
+                "longitude": 116.1401866
+            },
+            {
+                "id": 8735253517,
+                "name": "沪上阿姨",
+                "type": "cafe",
+                "latitude": 40.2482739,
+                "longitude": 116.1453147
+            },
+            {
+                "id": 9138080256,
+                "name": "挂号信收发室",
+                "type": "post_office",
+                "latitude": 40.2510747,
+                "longitude": 116.1395335
+            },
+            {
+                "id": 9138080274,
+                "name": "自助补卡机",
+                "type": "vending_machine",
+                "latitude": 40.250733,
+                "longitude": 116.1398541
+            },
+            {
+                "id": 9138080277,
+                "name": "教师储物柜",
+                "type": "parcel_locker",
+                "latitude": 40.2486833,
+                "longitude": 116.1445831
+            },
+            {
+                "id": 9138080279,
+                "name": "友咖",
+                "type": "vending_machine",
+                "latitude": 40.2511939,
+                "longitude": 116.1414616
+            },
+            {
+                "id": 10702498384,
+                "name": "北化早餐车",
+                "type": "fast_food",
+                "latitude": 40.2486664,
+                "longitude": 116.1429333
+            },
+            {
+                "id": 10702498385,
+                "name": "北化早餐车-奶茶",
+                "type": "cafe",
+                "latitude": 40.2486441,
+                "longitude": 116.1429559
+            },
+            {
+                "id": 11147454606,
+                "name": "美团共享单车",
+                "type": "bicycle_rental",
+                "latitude": 40.2515884,
+                "longitude": 116.1402558
+            },
+            {
+                "id": 11300164850,
+                "name": "师贤亭",
+                "type": "shelter",
+                "latitude": 40.2500882,
+                "longitude": 116.1430214
+            },
+            {
+                "id": 11370089772,
+                "name": "蜜雪冰城",
+                "type": "cafe",
+                "latitude": 40.2519308,
+                "longitude": 116.1399498
+            },
+            {
+                "id": 11370089773,
+                "name": "德克士",
+                "type": "fast_food",
+                "latitude": 40.2518878,
+                "longitude": 116.1400866
+            },
+            {
+                "id": 833425797,
+                "name": "红色候车亭",
+                "type": "shelter",
+                "latitude": 40.25336395,
+                "longitude": 116.14648320000002
+            },
+            {
+                "id": 838013200,
+                "name": "保卫处",
+                "type": "police",
+                "latitude": 40.251569575193,
+                "longitude": 116.13875445317069
+            },
+            {
+                "id": 838082021,
+                "name": "燕贸亭",
+                "type": "shelter",
+                "latitude": 40.25908516774115,
+                "longitude": 116.14373423608339
+            },
+            {
+                "id": 921001721,
+                "name": "玉兰食堂",
+                "type": "restaurant",
+                "latitude": 40.25391932055239,
+                "longitude": 116.14123629210773
+            },
+            {
+                "id": 673279464,
+                "name": "工程实习中心",
+                "type": "nan",
+                "latitude": 40.255205915496276,
+                "longitude": 116.14606953829497
+            },
+            {
+                "id": 673279468,
+                "name": "紫竹餐厅",
+                "type": "nan",
+                "latitude": 40.25215971063805,
+                "longitude": 116.14010947633507
+            },
+            {
+                "id": 673279470,
+                "name": "樱花苑3号楼",
+                "type": "nan",
+                "latitude": 40.251237203339805,
+                "longitude": 116.14011064855649
+            },
+            {
+                "id": 673279471,
+                "name": "樱花苑4号楼",
+                "type": "nan",
+                "latitude": 40.250512278793984,
+                "longitude": 116.14017546833759
+            },
+            {
+                "id": 673279472,
+                "name": "樱花苑5号楼",
+                "type": "nan",
+                "latitude": 40.249634414298356,
+                "longitude": 116.14033106359794
+            },
+            {
+                "id": 673279473,
+                "name": "樱花苑2号楼",
+                "type": "nan",
+                "latitude": 40.249638269989426,
+                "longitude": 116.13921082329034
+            },
+            {
+                "id": 673279474,
+                "name": "樱花苑1号楼",
+                "type": "nan",
+                "latitude": 40.25050624182396,
+                "longitude": 116.13916214196635
+            },
+            {
+                "id": 673279475,
+                "name": "樱花苑6号楼",
+                "type": "nan",
+                "latitude": 40.25122045941625,
+                "longitude": 116.14120751732939
+            },
+            {
+                "id": 673279476,
+                "name": "樱花苑7号楼",
+                "type": "nan",
+                "latitude": 40.25046390031495,
+                "longitude": 116.1414156020611
+            },
+            {
+                "id": 673279481,
+                "name": "北京化工大学体育馆",
+                "type": "nan",
+                "latitude": 40.246861087209055,
+                "longitude": 116.14268945875352
+            },
+            {
+                "id": 673281550,
+                "name": "杏坛苑青年教师公寓",
+                "type": "nan",
+                "latitude": 40.257340496187204,
+                "longitude": 116.13914418482906
+            },
+            {
+                "id": 673283211,
+                "name": "北京化工大学图书馆",
+                "type": "nan",
+                "latitude": 40.25253863031934,
+                "longitude": 116.14475836521666
+            },
+            {
+                "id": 674073567,
+                "name": "锅炉房",
+                "type": "nan",
+                "latitude": 40.24711635484913,
+                "longitude": 116.14065268383523
+            },
+            {
+                "id": 690216457,
+                "name": "新校区建设指挥部",
+                "type": "nan",
+                "latitude": 40.256980760575935,
+                "longitude": 116.14262873523639
+            },
+            {
+                "id": 730658897,
+                "name": "杏坛苑青年教师公寓",
+                "type": "nan",
+                "latitude": 40.25734407309026,
+                "longitude": 116.14003994242839
+            },
+            {
+                "id": 730658898,
+                "name": "杏坛苑青年教师公寓",
+                "type": "nan",
+                "latitude": 40.25697577310127,
+                "longitude": 116.13917384242917
+            },
+            {
+                "id": 730658899,
+                "name": "留学生公寓",
+                "type": "nan",
+                "latitude": 40.25697037576212,
+                "longitude": 116.14012277896873
+            },
+            {
+                "id": 832499652,
+                "name": "煤气站",
+                "type": "nan",
+                "latitude": 40.24737655097007,
+                "longitude": 116.14037645778012
+            },
+            {
+                "id": 921001719,
+                "name": "第二教学楼",
+                "type": "nan",
+                "latitude": 40.25342879308839,
+                "longitude": 116.14359065900983
+            },
+            {
+                "id": 921001720,
+                "name": "大学生活动中心",
+                "type": "nan",
+                "latitude": 40.25311055029182,
+                "longitude": 116.14156793495484
+            },
+            {
+                "id": 944919550,
+                "name": "校史博物馆",
+                "type": "nan",
+                "latitude": 40.25225260010118,
+                "longitude": 116.1415565096924
+            },
+            {
+                "id": 961218118,
+                "name": "紫竹苑11号楼",
+                "type": "nan",
+                "latitude": 40.25305899445162,
+                "longitude": 116.13911637066816
+            },
+            {
+                "id": 961218119,
+                "name": "紫竹苑宿舍楼",
+                "type": "nan",
+                "latitude": 40.25387420433025,
+                "longitude": 116.13917681400216
+            },
+            {
+                "id": 961218120,
+                "name": "紫竹苑宿舍楼",
+                "type": "nan",
+                "latitude": 40.25410467486053,
+                "longitude": 116.14009714677708
+            },
+            {
+                "id": 961218121,
+                "name": "紫竹苑12号楼",
+                "type": "nan",
+                "latitude": 40.25300697584229,
+                "longitude": 116.14004749319918
+            },
+            {
+                "id": 1056196999,
+                "name": "温室",
+                "type": "nan",
+                "latitude": 40.24911803386099,
+                "longitude": 116.14049858532184
+            },
+            {
+                "id": 1062593230,
+                "name": "文科楼",
+                "type": "nan",
+                "latitude": 40.251908251973795,
+                "longitude": 116.14656371196578
+            },
+            {
+                "id": 1086669094,
+                "name": "研究生宿舍",
+                "type": "nan",
+                "latitude": 40.25471626211213,
+                "longitude": 116.13904082250585
+            },
+            {
+                "id": 1120280873,
+                "name": "研究生宿舍",
+                "type": "nan",
+                "latitude": 40.25470518543926,
+                "longitude": 116.14010923585074
+            },
+            {
+                "id": 12527583,
+                "name": "后勤服务楼F座",
+                "type": "nan",
+                "latitude": 40.2511647254821,
+                "longitude": 116.1391742651345
+            },
+            {
+                "id": 12527584,
+                "name": "第一教学楼",
+                "type": "nan",
+                "latitude": 40.248484618403694,
+                "longitude": 116.1442850572418
+            },
+            {
+                "id": 12527585,
+                "name": "实验楼",
+                "type": "nan",
+                "latitude": 40.250134087241605,
+                "longitude": 116.1457436044459
+            }
+        ]
+    }
+}

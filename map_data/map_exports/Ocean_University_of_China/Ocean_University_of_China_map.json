@@ -1,0 +1,551 @@
+{
+    "id": 8230941482818199849,
+    "name": "中国海洋大学",
+    "address": "中国山东省青岛市市南区鱼山路5号 邮政编码: 266005",
+    "rating": 4.7,
+    "popularity": 76,
+    "data_path": "map_data/university_map/Ocean_University_of_China",
+    "description": "中国海洋大学（英語：Ocean University of China，缩写：OUC），简称中国海大、海大，位于山东省青岛市，始建于1924年，是中国一所以海洋和水产学科为特色，包括理学、工学、农学、医（药）学、经济学、管理学、文学、法学、教育学、历史学等学科门类较为齐全的教育部直属重点综合性大学。\n中国海洋大学是中华人民共和国顶尖高校之一，是“双一流A类”和原“985工程”、原“211工程”重点建设大学，同时入选国家111计划，为北极大学联盟、IAMRI联盟、海洋大学联盟成员校，是国务院学位委员会首批批准的具有博士学位授予权的单位，国家首批“卓越农林人才教育培养计划”、“卓越工程师教育培养计划”改革试点高校，以及青岛海洋科学与技术国家实验室牵头高校，现辖崂山、鱼山、浮山、西海岸4个校区。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cai_Yuanpei_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gao_Enhong.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wang_Ganchang_early_1950s.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/Yushan_Campus_of_the_Ocean_University_of_China_01_2007-04.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/34/Zang_Kejia_1933.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6%E5%B4%82%E5%B1%B1%E6%A0%A1%E5%8C%BA%E9%97%A8%E5%8F%A3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/70/%E5%9B%BD%E7%AB%8B%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E5%A4%8D%E6%A0%A1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/57/%E5%B1%B1%E4%B8%9C%E6%B5%B7%E6%B4%8B%E5%AD%A6%E9%99%A2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/69/%E7%A7%81%E7%AB%8B%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/06/%E9%97%BB%E4%B8%80%E5%A4%9A02.jpg"
+    ],
+    "amenity": {
+        "affiliation": 8230941482818199849,
+        "amenity_list": [
+            {
+                "id": 2024738707,
+                "name": "校医院",
+                "type": "hospital",
+                "latitude": 36.1665598,
+                "longitude": 120.4977705
+            },
+            {
+                "id": 2253316306,
+                "name": "中国建设银行",
+                "type": "bank",
+                "latitude": 36.164498,
+                "longitude": 120.496937
+            },
+            {
+                "id": 2253316323,
+                "name": "中国银行",
+                "type": "bank",
+                "latitude": 36.1645204,
+                "longitude": 120.4968697
+            },
+            {
+                "id": 4707664440,
+                "name": "海洋地球科学学院",
+                "type": "research_institute",
+                "latitude": 36.1600365,
+                "longitude": 120.4906379
+            },
+            {
+                "id": 5331468593,
+                "name": "中国农业银行",
+                "type": "bank",
+                "latitude": 36.1656255,
+                "longitude": 120.4964263
+            },
+            {
+                "id": 5331468594,
+                "name": "开水房",
+                "type": "drinking_water",
+                "latitude": 36.1656752,
+                "longitude": 120.4962245
+            },
+            {
+                "id": 5334637290,
+                "name": "菜鸟驿站",
+                "type": "parcel_locker",
+                "latitude": 36.1642436,
+                "longitude": 120.4968284
+            },
+            {
+                "id": 5334637291,
+                "name": "浴室",
+                "type": "shower",
+                "latitude": 36.163957,
+                "longitude": 120.4968069
+            },
+            {
+                "id": 5334656425,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 36.1611743,
+                "longitude": 120.4915578
+            },
+            {
+                "id": 9776632942,
+                "name": "第五食堂",
+                "type": "restaurant",
+                "latitude": 36.1612678,
+                "longitude": 120.5017072
+            },
+            {
+                "id": 552537876,
+                "name": "第二食堂",
+                "type": "restaurant",
+                "latitude": 36.164701592848424,
+                "longitude": 120.49517927081851
+            },
+            {
+                "id": 554286853,
+                "name": "中国海洋大学崂山校区图书馆",
+                "type": "library",
+                "latitude": 36.1581626591715,
+                "longitude": 120.49246972534158
+            },
+            {
+                "id": 7894335,
+                "name": "第一食堂",
+                "type": "restaurant",
+                "latitude": 36.164162491951885,
+                "longitude": 120.49642706538711
+            },
+            {
+                "id": 552274447,
+                "name": "行远楼",
+                "type": "nan",
+                "latitude": 36.15955129539686,
+                "longitude": 120.48954014060911
+            },
+            {
+                "id": 552274450,
+                "name": "行知楼",
+                "type": "nan",
+                "latitude": 36.1591395411098,
+                "longitude": 120.4882544149406
+            },
+            {
+                "id": 552274460,
+                "name": "综合体育馆",
+                "type": "nan",
+                "latitude": 36.16484062171373,
+                "longitude": 120.49258221727032
+            },
+            {
+                "id": 552537864,
+                "name": "北海苑4号学生公寓",
+                "type": "nan",
+                "latitude": 36.166066682379125,
+                "longitude": 120.4962021976142
+            },
+            {
+                "id": 552537865,
+                "name": "北海苑2号学生公寓",
+                "type": "nan",
+                "latitude": 36.16647999818265,
+                "longitude": 120.49547864823167
+            },
+            {
+                "id": 552537866,
+                "name": "北海苑1号学生公寓",
+                "type": "nan",
+                "latitude": 36.16574507755095,
+                "longitude": 120.49512519492647
+            },
+            {
+                "id": 552537868,
+                "name": "北海苑3号学生公寓",
+                "type": "nan",
+                "latitude": 36.16533690234356,
+                "longitude": 120.49584230419651
+            },
+            {
+                "id": 552537869,
+                "name": "北海苑5号学生公寓",
+                "type": "nan",
+                "latitude": 36.16478291730346,
+                "longitude": 120.4968199345918
+            },
+            {
+                "id": 552537870,
+                "name": "北海苑6号学生公寓",
+                "type": "nan",
+                "latitude": 36.16541909208894,
+                "longitude": 120.49689022970107
+            },
+            {
+                "id": 552537871,
+                "name": "北海苑7号学生公寓",
+                "type": "nan",
+                "latitude": 36.16581605154891,
+                "longitude": 120.4975534604873
+            },
+            {
+                "id": 552537872,
+                "name": "北海苑9号学生公寓",
+                "type": "nan",
+                "latitude": 36.16521758498931,
+                "longitude": 120.49788567772954
+            },
+            {
+                "id": 552537873,
+                "name": "北海苑8号学生公寓",
+                "type": "nan",
+                "latitude": 36.1646098578429,
+                "longitude": 120.4978057901965
+            },
+            {
+                "id": 552542985,
+                "name": "教育超市",
+                "type": "nan",
+                "latitude": 36.16433483760277,
+                "longitude": 120.49553991013224
+            },
+            {
+                "id": 552542986,
+                "name": "大学生活动中心",
+                "type": "nan",
+                "latitude": 36.16489516254032,
+                "longitude": 120.49347134145333
+            },
+            {
+                "id": 552542988,
+                "name": "中国海洋大学校医院",
+                "type": "nan",
+                "latitude": 36.16646651248636,
+                "longitude": 120.49808617619156
+            },
+            {
+                "id": 552542989,
+                "name": "留学生公寓楼",
+                "type": "nan",
+                "latitude": 36.16634794709365,
+                "longitude": 120.49745087328779
+            },
+            {
+                "id": 552732586,
+                "name": "第四教学区",
+                "type": "nan",
+                "latitude": 36.16343044695619,
+                "longitude": 120.49399063442378
+            },
+            {
+                "id": 552732587,
+                "name": "第三教学区",
+                "type": "nan",
+                "latitude": 36.163891988436625,
+                "longitude": 120.49376513077414
+            },
+            {
+                "id": 552732588,
+                "name": "第二教学区",
+                "type": "nan",
+                "latitude": 36.163798145012876,
+                "longitude": 120.49313250043382
+            },
+            {
+                "id": 552732590,
+                "name": "第五教学区",
+                "type": "nan",
+                "latitude": 36.163093029989994,
+                "longitude": 120.49241163826248
+            },
+            {
+                "id": 552732591,
+                "name": "第六教学区",
+                "type": "nan",
+                "latitude": 36.162601355505274,
+                "longitude": 120.49266226121391
+            },
+            {
+                "id": 552732592,
+                "name": "第七教学区",
+                "type": "nan",
+                "latitude": 36.16213099829362,
+                "longitude": 120.49281816832517
+            },
+            {
+                "id": 552732593,
+                "name": "第八教学区",
+                "type": "nan",
+                "latitude": 36.161731456017066,
+                "longitude": 120.4928926136419
+            },
+            {
+                "id": 554286827,
+                "name": "工程学院",
+                "type": "nan",
+                "latitude": 36.162588231928396,
+                "longitude": 120.48974485875763
+            },
+            {
+                "id": 554286828,
+                "name": "工程学院",
+                "type": "nan",
+                "latitude": 36.162062970672906,
+                "longitude": 120.48967522648508
+            },
+            {
+                "id": 554286847,
+                "name": "环科楼",
+                "type": "nan",
+                "latitude": 36.16068498885403,
+                "longitude": 120.49113212834168
+            },
+            {
+                "id": 554286848,
+                "name": "地质楼",
+                "type": "nan",
+                "latitude": 36.160045122855664,
+                "longitude": 120.49086824434185
+            },
+            {
+                "id": 554286860,
+                "name": "信息南楼",
+                "type": "nan",
+                "latitude": 36.15974891865532,
+                "longitude": 120.49232492856163
+            },
+            {
+                "id": 554286861,
+                "name": "信息科学与工程学部",
+                "type": "nan",
+                "latitude": 36.16079489302378,
+                "longitude": 120.49265252568944
+            },
+            {
+                "id": 554286862,
+                "name": "国际事务与公共管理学院",
+                "type": "nan",
+                "latitude": 36.1568999078905,
+                "longitude": 120.49454003802646
+            },
+            {
+                "id": 1024206840,
+                "name": "9号楼",
+                "type": "nan",
+                "latitude": 36.16144345802147,
+                "longitude": 120.50165589270273
+            },
+            {
+                "id": 1024206841,
+                "name": "8号楼",
+                "type": "nan",
+                "latitude": 36.161073050596876,
+                "longitude": 120.50166738103682
+            },
+            {
+                "id": 1024206842,
+                "name": "7号楼",
+                "type": "nan",
+                "latitude": 36.16070273768553,
+                "longitude": 120.50180010243425
+            },
+            {
+                "id": 1024206843,
+                "name": "12号楼",
+                "type": "nan",
+                "latitude": 36.16144513614257,
+                "longitude": 120.5028962647814
+            },
+            {
+                "id": 1024206844,
+                "name": "11号楼",
+                "type": "nan",
+                "latitude": 36.161068109175204,
+                "longitude": 120.50287036125225
+            },
+            {
+                "id": 1024206845,
+                "name": "10号楼",
+                "type": "nan",
+                "latitude": 36.160678106928934,
+                "longitude": 120.50285902713645
+            },
+            {
+                "id": 1024212429,
+                "name": "5号楼",
+                "type": "nan",
+                "latitude": 36.160254083526404,
+                "longitude": 120.5021226247218
+            },
+            {
+                "id": 1024212430,
+                "name": "6号楼",
+                "type": "nan",
+                "latitude": 36.16020259598702,
+                "longitude": 120.50308120157419
+            },
+            {
+                "id": 1024212431,
+                "name": "4号楼",
+                "type": "nan",
+                "latitude": 36.159774793706596,
+                "longitude": 120.50311634577945
+            },
+            {
+                "id": 1024212432,
+                "name": "3号楼",
+                "type": "nan",
+                "latitude": 36.159821645372666,
+                "longitude": 120.50224017705578
+            },
+            {
+                "id": 1024212433,
+                "name": "2号楼",
+                "type": "nan",
+                "latitude": 36.159384552244425,
+                "longitude": 120.50317063318676
+            },
+            {
+                "id": 1024212434,
+                "name": "1号楼",
+                "type": "nan",
+                "latitude": 36.15939935651454,
+                "longitude": 120.50240046396436
+            },
+            {
+                "id": 1064524702,
+                "name": "外国语学院",
+                "type": "nan",
+                "latitude": 36.15570282419402,
+                "longitude": 120.49431049196467
+            },
+            {
+                "id": 1064524710,
+                "name": "1号楼",
+                "type": "nan",
+                "latitude": 36.15651028461204,
+                "longitude": 120.48836872178434
+            },
+            {
+                "id": 1064524711,
+                "name": "2号楼",
+                "type": "nan",
+                "latitude": 36.15671321302133,
+                "longitude": 120.48939555766572
+            },
+            {
+                "id": 1064524712,
+                "name": "3号楼",
+                "type": "nan",
+                "latitude": 36.156341357306786,
+                "longitude": 120.49027779786815
+            },
+            {
+                "id": 1064524713,
+                "name": "4号楼",
+                "type": "nan",
+                "latitude": 36.15601358177122,
+                "longitude": 120.49097619356353
+            },
+            {
+                "id": 1064524714,
+                "name": "4号楼",
+                "type": "nan",
+                "latitude": 36.15570907898297,
+                "longitude": 120.49102863886479
+            },
+            {
+                "id": 1064524716,
+                "name": "5号楼",
+                "type": "nan",
+                "latitude": 36.155467963987704,
+                "longitude": 120.4905635147317
+            },
+            {
+                "id": 1064524717,
+                "name": "6号楼",
+                "type": "nan",
+                "latitude": 36.15602306182502,
+                "longitude": 120.4900469218566
+            },
+            {
+                "id": 1064524718,
+                "name": "7号楼",
+                "type": "nan",
+                "latitude": 36.156150123713076,
+                "longitude": 120.4894154183008
+            },
+            {
+                "id": 1064524719,
+                "name": "8号楼",
+                "type": "nan",
+                "latitude": 36.1559588229077,
+                "longitude": 120.48867409704123
+            },
+            {
+                "id": 1064524720,
+                "name": "9号楼",
+                "type": "nan",
+                "latitude": 36.15565869573461,
+                "longitude": 120.48812225807131
+            },
+            {
+                "id": 1064524721,
+                "name": "9号楼",
+                "type": "nan",
+                "latitude": 36.15537468659231,
+                "longitude": 120.48753430466958
+            },
+            {
+                "id": 1064524722,
+                "name": "10号楼",
+                "type": "nan",
+                "latitude": 36.15577264250138,
+                "longitude": 120.48758519889779
+            },
+            {
+                "id": 1064524723,
+                "name": "10号楼",
+                "type": "nan",
+                "latitude": 36.15599268126583,
+                "longitude": 120.48789316502328
+            },
+            {
+                "id": 1209003998,
+                "name": "中海苑1号学生公寓",
+                "type": "nan",
+                "latitude": 36.16188829926608,
+                "longitude": 120.49909531978808
+            },
+            {
+                "id": 1209003999,
+                "name": "中海苑2号学生公寓",
+                "type": "nan",
+                "latitude": 36.161098559968636,
+                "longitude": 120.4992430895568
+            },
+            {
+                "id": 1209004000,
+                "name": "中海苑3号学生公寓",
+                "type": "nan",
+                "latitude": 36.16006510760964,
+                "longitude": 120.49920584528395
+            },
+            {
+                "id": 1209004001,
+                "name": "中海苑4号学生公寓",
+                "type": "nan",
+                "latitude": 36.160308308114004,
+                "longitude": 120.49973205292204
+            },
+            {
+                "id": 1209004002,
+                "name": "中海苑5号学生公寓",
+                "type": "nan",
+                "latitude": 36.159784350463596,
+                "longitude": 120.4997074933467
+            },
+            {
+                "id": 7916416,
+                "name": "海洋楼",
+                "type": "nan",
+                "latitude": 36.1615409590672,
+                "longitude": 120.49116833407173
+            }
+        ]
+    }
+}

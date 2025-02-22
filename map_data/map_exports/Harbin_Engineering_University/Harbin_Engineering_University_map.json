@@ -1,0 +1,129 @@
+{
+    "id": 3094979284551202042,
+    "name": "哈尔滨工程大学",
+    "address": "中国黑龙江省哈尔滨市南岗区一曼街 邮政编码: 150009",
+    "rating": 4.9,
+    "popularity": 84,
+    "data_path": "map_data/university_map/Harbin_Engineering_University",
+    "description": "哈尔滨工程大学（英語：Harbin Engineering University；缩写：HEU），简称哈工程，建于1953年，位于中華人民共和國黑龍江省哈爾濱市。学校现隶属于工业和信息化部，由工业和信息化部、教育部、黑龙江省及哈尔滨市共建，為双一流世界一流学科建设、211工程、985工程优势学科创新平台建设高校，入选高等学校学科创新引智计划、卓越工程师教育培养计划、国家大学生创新性实验计划、国家建设高水平大学公派研究生项目、新工科研究与实践项目、中国政府奖学金来华留学生接收院校、全国首批深化创新创业教育改革示范高校、国家大学生文化素质教育基地、国家创新人才培养示范基地、全国高校实践育人创新创业基地，工业和信息化部高校联盟、CDIO工程教育联盟成员单位，被教育部、总政治部列入“21世纪人才强军计划”，是中国人民解放军海军在东北地区唯一选拔培养后备军官的依托学校。\n学校源自1953年创办的中国人民解放军军事工程学院（哈军工）；1970年，在哈军工原址以海军工程系为主体组建哈尔滨船舶工程学院；1981年成为首批具有博士、硕士学位授予权单位；1994年，更名为哈尔滨工程大学。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Harbin_Engineering_University_-_Monument_of_School_Name_at_East_2_Gate.jpg"
+    ],
+    "amenity": {
+        "affiliation": 3094979284551202042,
+        "amenity_list": [
+            {
+                "id": 6327905508,
+                "name": "可能感兴趣的地点",
+                "type": "shelter",
+                "latitude": 45.771365,
+                "longitude": 126.6750352
+            },
+            {
+                "id": 6327905517,
+                "name": "大学生美食城",
+                "type": "food_court",
+                "latitude": 45.7709469,
+                "longitude": 126.6785098
+            },
+            {
+                "id": 6327905542,
+                "name": "中国银行(工程大学支行)",
+                "type": "bank",
+                "latitude": 45.7752172,
+                "longitude": 126.6752818
+            },
+            {
+                "id": 6327905543,
+                "name": "Campus Post",
+                "type": "post_office",
+                "latitude": 45.7740002,
+                "longitude": 126.676177
+            },
+            {
+                "id": 6327905544,
+                "name": "Internet Service Center",
+                "type": "internet_cafe",
+                "latitude": 45.7720529,
+                "longitude": 126.6745687
+            },
+            {
+                "id": 10007049211,
+                "name": "21B",
+                "type": "college",
+                "latitude": 45.7741016,
+                "longitude": 126.6762339
+            },
+            {
+                "id": 590372302,
+                "name": "水声船海",
+                "type": "college",
+                "latitude": 45.7781183,
+                "longitude": 126.6799336
+            },
+            {
+                "id": 675690959,
+                "name": "图书馆",
+                "type": "library",
+                "latitude": 45.774040646821376,
+                "longitude": 126.6814662379406
+            },
+            {
+                "id": 675690976,
+                "name": "启航活动中心",
+                "type": "theatre",
+                "latitude": 45.77193250381546,
+                "longitude": 126.6787223738116
+            },
+            {
+                "id": 366228531,
+                "name": "学生第六公寓",
+                "type": "nan",
+                "latitude": 45.77521593469139,
+                "longitude": 126.67761855285929
+            },
+            {
+                "id": 560023987,
+                "name": "Building 31",
+                "type": "nan",
+                "latitude": 45.778098610293576,
+                "longitude": 126.671592066763
+            },
+            {
+                "id": 675691007,
+                "name": "Main Building",
+                "type": "nan",
+                "latitude": 45.771427641288355,
+                "longitude": 126.6818513831554
+            },
+            {
+                "id": 675708937,
+                "name": "大学生美食城",
+                "type": "nan",
+                "latitude": 45.77437975,
+                "longitude": 126.67805879999997
+            },
+            {
+                "id": 9384167,
+                "name": "61#",
+                "type": "nan",
+                "latitude": 45.77556773297837,
+                "longitude": 126.68086417933768
+            },
+            {
+                "id": 9384168,
+                "name": "Building 11",
+                "type": "nan",
+                "latitude": 45.77177383027308,
+                "longitude": 126.67639650341403
+            },
+            {
+                "id": 9384170,
+                "name": "21号教学楼",
+                "type": "nan",
+                "latitude": 45.77360818047495,
+                "longitude": 126.67622605332856
+            }
+        ]
+    }
+}

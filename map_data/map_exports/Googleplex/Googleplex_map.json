@@ -1,0 +1,355 @@
+{
+    "id": 7799012679059768035,
+    "name": "谷歌公司",
+    "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043美国",
+    "rating": 4.2,
+    "popularity": 72,
+    "data_path": "map_data/university_map/Googleplex",
+    "description": "Google（中文譯名：谷歌）是总部位于美国加州山景城的跨國科技公司，為Alphabet（字母控股）的子公司，业务范围涵盖互联网广告、互联网搜索、云计算等领域，开发并提供大量基于互联网的产品与服务，其主要利润来自Ads和AdSense等广告服务。Google由在斯坦福大学攻读理工博士的拉里·佩奇和谢尔盖·布林共同创建，因此两人也被称为“Google Guys”。\n1998年9月4日，Google以私营公司的形式创立，目的是设计并管理互联网搜索引擎“Google搜索”。2004年8月19日，Google公司在纳斯达克上市，后来被称为“三驾马车”的公司两位共同创始人与出任首席执行官的埃里克·施密特在此时承诺：共同在Google工作至少二十年，即至2024年止。Google的宗旨是“整合全球信息，供大众使用，使人人受益”（To organize the world's information and make it universally accessible and useful）；而非正式的口号则为“不作恶”（Don't be evil），由工程师阿米特·帕特尔（Amit Patel）所创，并得到了保罗·布赫海特的支持。Google公司的总部称为“Googleplex”，位于美国加州圣克拉拉县的山景城。2011年4月，佩奇接替施密特擔任首席执行官。在2015年8月，Google宣布進行资产重组。重组後，Google划归新成立的Alphabet底下。同时，此舉把Google旗下的核心搜索和廣告業務與Google無人車等新兴业务分離開來。\nGoogle自创立起开始的快速成长同时也带动了一系列的产品研发、并购事项与合作关系，而不仅仅是公司核心的网络搜索业务。Google公司提供丰富的线上软件服务，如雲端硬碟、Gmail电子邮件，包括Orkut、Google Buzz以及Google+在内的社交网络服务。Google的产品同时也以应用软件的形式进入用户桌面，例如Google Chrome网页浏览器、Picasa图片整理与编辑软件、Google Hangouts即时通讯工具等。另外，Google还进行了移动设备的Android操作系统以及Google Chrome OS操作系统的开发。其安卓系统至今为止仍是移动端的主要操作系统之一。硬件系列方面，則有Google Pixel手機及平板電腦，穿戴裝置如Google Pixel Watch及Google Pixel Buds等。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/Android.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3c/EMachinesM5405Laptop.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Google_1998.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/69/Google_Appliance.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ad/Google_China_headquarter_in_Beijing.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bc/Google_add.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_toilet_control.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/Googleplex_HQ_%28cropped%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ef/Googleplexsouthsidesecondangle.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/Google%E2%80%99s_First_Production_Server.jpg"
+    ],
+    "amenity": {
+        "affiliation": 7799012679059768035,
+        "amenity_list": [
+            {
+                "id": 1326826968,
+                "name": "可能感兴趣的地点",
+                "type": "drinking_water",
+                "latitude": 37.422185,
+                "longitude": -122.081333
+            },
+            {
+                "id": 2570895128,
+                "name": "The Country Deli",
+                "type": "fast_food",
+                "latitude": 37.4173746,
+                "longitude": -122.0784421
+            },
+            {
+                "id": 3195103136,
+                "name": "Yoshka’s",
+                "type": "fast_food",
+                "latitude": 37.4217102,
+                "longitude": -122.084268
+            },
+            {
+                "id": 3195103137,
+                "name": "Charlie’s Cafe",
+                "type": "fast_food",
+                "latitude": 37.4222832,
+                "longitude": -122.083944
+            },
+            {
+                "id": 4583807295,
+                "name": "Bridget’s Market",
+                "type": "cafe",
+                "latitude": 37.4217643,
+                "longitude": -122.090486
+            },
+            {
+                "id": 4583807296,
+                "name": "Heritage",
+                "type": "cafe",
+                "latitude": 37.4220412,
+                "longitude": -122.087502
+            },
+            {
+                "id": 4583807297,
+                "name": "Cloud Cafe",
+                "type": "cafe",
+                "latitude": 37.4230104,
+                "longitude": -122.087395
+            },
+            {
+                "id": 4583807298,
+                "name": "Big Table",
+                "type": "cafe",
+                "latitude": 37.4227271,
+                "longitude": -122.08751
+            },
+            {
+                "id": 4583807299,
+                "name": "WAN",
+                "type": "cafe",
+                "latitude": 37.4226334,
+                "longitude": -122.088524
+            },
+            {
+                "id": 4583807300,
+                "name": "Costa",
+                "type": "cafe",
+                "latitude": 37.4200095,
+                "longitude": -122.0835102
+            },
+            {
+                "id": 4583807301,
+                "name": "Threads",
+                "type": "cafe",
+                "latitude": 37.4193385,
+                "longitude": -122.081052
+            },
+            {
+                "id": 4583807308,
+                "name": "Masa",
+                "type": "cafe",
+                "latitude": 37.4178186,
+                "longitude": -122.079882
+            },
+            {
+                "id": 4592082342,
+                "name": "ChargePoint",
+                "type": "charging_station",
+                "latitude": 37.4229227,
+                "longitude": -122.090482
+            },
+            {
+                "id": 4885266589,
+                "name": "Galvan Family Dental Care",
+                "type": "dentist",
+                "latitude": 37.4174187,
+                "longitude": -122.078733
+            },
+            {
+                "id": 4885266590,
+                "name": "Penrose Productions",
+                "type": "studio",
+                "latitude": 37.4174219,
+                "longitude": -122.0788577
+            },
+            {
+                "id": 4885266591,
+                "name": "Zenith Tutoring",
+                "type": "training",
+                "latitude": 37.4174304,
+                "longitude": -122.0789636
+            },
+            {
+                "id": 546720706,
+                "name": "Phauxbrook",
+                "type": "fountain",
+                "latitude": 37.422372694900055,
+                "longitude": -122.08222908084574
+            },
+            {
+                "id": 23630767,
+                "name": "Google Building 1965",
+                "type": "nan",
+                "latitude": 37.421832585140166,
+                "longitude": -122.09028717446823
+            },
+            {
+                "id": 23630768,
+                "name": "Google Building 1945",
+                "type": "nan",
+                "latitude": 37.42254672078088,
+                "longitude": -122.09050138586616
+            },
+            {
+                "id": 23733636,
+                "name": "Google 2000",
+                "type": "nan",
+                "latitude": 37.42278804726679,
+                "longitude": -122.0885796454166
+            },
+            {
+                "id": 23733659,
+                "name": "Google Building 41",
+                "type": "nan",
+                "latitude": 37.42246118651399,
+                "longitude": -122.08558414356678
+            },
+            {
+                "id": 23733661,
+                "name": "Google Building 42",
+                "type": "nan",
+                "latitude": 37.42168135674612,
+                "longitude": -122.0856404404101
+            },
+            {
+                "id": 23733663,
+                "name": "Google Building 40",
+                "type": "nan",
+                "latitude": 37.42236645888956,
+                "longitude": -122.08407391011359
+            },
+            {
+                "id": 23733664,
+                "name": "Google Building 43",
+                "type": "nan",
+                "latitude": 37.4215592902193,
+                "longitude": -122.08399690382984
+            },
+            {
+                "id": 24443390,
+                "name": "Google Building 45",
+                "type": "nan",
+                "latitude": 37.42006744296778,
+                "longitude": -122.08214854557286
+            },
+            {
+                "id": 24443394,
+                "name": "American Century Investments",
+                "type": "nan",
+                "latitude": 37.420145892189495,
+                "longitude": -122.0846360373841
+            },
+            {
+                "id": 24443399,
+                "name": "Google Building 44",
+                "type": "nan",
+                "latitude": 37.420121797463764,
+                "longitude": -122.08365419075405
+            },
+            {
+                "id": 24482055,
+                "name": "Google 1098",
+                "type": "nan",
+                "latitude": 37.42011794558735,
+                "longitude": -122.08612539229613
+            },
+            {
+                "id": 24482067,
+                "name": "Google 900",
+                "type": "nan",
+                "latitude": 37.41795833165289,
+                "longitude": -122.08611123757149
+            },
+            {
+                "id": 24482069,
+                "name": "Google 1600",
+                "type": "nan",
+                "latitude": 37.41741675789316,
+                "longitude": -122.08413358739358
+            },
+            {
+                "id": 24482073,
+                "name": "Google Building 46",
+                "type": "nan",
+                "latitude": 37.41907452583641,
+                "longitude": -122.08222388629063
+            },
+            {
+                "id": 24482078,
+                "name": "Google Building 47",
+                "type": "nan",
+                "latitude": 37.419177971456975,
+                "longitude": -122.08117199890364
+            },
+            {
+                "id": 24482080,
+                "name": "Google Building 48",
+                "type": "nan",
+                "latitude": 37.41829408929903,
+                "longitude": -122.08131376146483
+            },
+            {
+                "id": 26184539,
+                "name": "Google PLY2",
+                "type": "nan",
+                "latitude": 37.417328033342386,
+                "longitude": -122.08213624669939
+            },
+            {
+                "id": 26184547,
+                "name": "Google PLY1",
+                "type": "nan",
+                "latitude": 37.41727693352242,
+                "longitude": -122.08127514892355
+            },
+            {
+                "id": 26184597,
+                "name": "Google 1055 Joaquin",
+                "type": "nan",
+                "latitude": 37.41889883739685,
+                "longitude": -122.07975415262158
+            },
+            {
+                "id": 26184606,
+                "name": "Google 1667",
+                "type": "nan",
+                "latitude": 37.41601083852255,
+                "longitude": -122.08417186584015
+            },
+            {
+                "id": 34171965,
+                "name": "Wave Business",
+                "type": "nan",
+                "latitude": 37.415573929986934,
+                "longitude": -122.08195999419716
+            },
+            {
+                "id": 124968324,
+                "name": "Google 1900",
+                "type": "nan",
+                "latitude": 37.42280382875564,
+                "longitude": -122.0875361038727
+            },
+            {
+                "id": 124968325,
+                "name": "Google 1950",
+                "type": "nan",
+                "latitude": 37.421972973688035,
+                "longitude": -122.08759709021798
+            },
+            {
+                "id": 125372590,
+                "name": "Google 1842",
+                "type": "nan",
+                "latitude": 37.4198533949059,
+                "longitude": -122.07884749883047
+            },
+            {
+                "id": 125372592,
+                "name": "Devcon",
+                "type": "nan",
+                "latitude": 37.42029053184485,
+                "longitude": -122.07846252097468
+            },
+            {
+                "id": 125375891,
+                "name": "Google 1808",
+                "type": "nan",
+                "latitude": 37.419264125517294,
+                "longitude": -122.07867586599396
+            },
+            {
+                "id": 125522046,
+                "name": "Google Workshop",
+                "type": "nan",
+                "latitude": 37.41739287482103,
+                "longitude": -122.07582002711527
+            },
+            {
+                "id": 176608423,
+                "name": "Google 1489",
+                "type": "nan",
+                "latitude": 37.420181959760995,
+                "longitude": -122.07996133057982
+            },
+            {
+                "id": 706547167,
+                "name": "Google 1625",
+                "type": "nan",
+                "latitude": 37.416208915561775,
+                "longitude": -122.08285086692821
+            },
+            {
+                "id": 16198221,
+                "name": "Shashi Hotel",
+                "type": "nan",
+                "latitude": 37.41686474785792,
+                "longitude": -122.07731689099214
+            }
+        ]
+    }
+}

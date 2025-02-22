@@ -1,0 +1,47 @@
+{
+    "id": -5254326356793250202,
+    "name": "上海野生动物园",
+    "address": "中国上海市浦东新区南六公路178号",
+    "rating": 4.3,
+    "popularity": 96,
+    "data_path": "map_data/university_map/Shanghai_Wild_Animal_Park",
+    "description": "上海野生动物园是由中國上海市人民政府和国家林业局合作建设的中国首座国家级野生动物园，位于上海市浦东新区宣桥镇南六公路178号，占地153公顷（2,300亩），距上海市中心约35公里。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/cf/Shanghai_Wild_Animal_Park.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7f/Shanghai_Wild_Animal_Park_Car_Park.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b0/Shanghai_Wild_Animal_Park_Main_Entrance.jpg"
+    ],
+    "amenity": {
+        "affiliation": -5254326356793250202,
+        "amenity_list": [
+            {
+                "id": 6856416785,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 31.0532781,
+                "longitude": 121.7142666
+            },
+            {
+                "id": 375877243,
+                "name": "P1",
+                "type": "parking",
+                "latitude": 31.05551711696081,
+                "longitude": 121.71084504874302
+            },
+            {
+                "id": 375877244,
+                "name": "P2",
+                "type": "parking",
+                "latitude": 31.05695015001329,
+                "longitude": 121.71081045319526
+            },
+            {
+                "id": 375877245,
+                "name": "P3",
+                "type": "parking",
+                "latitude": 31.05807292490714,
+                "longitude": 121.71097445016265
+            }
+        ]
+    }
+}

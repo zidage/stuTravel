@@ -1,0 +1,70 @@
+{
+    "id": 5550041000598062383,
+    "name": "北京理工大学",
+    "address": "中国北京市海淀区魏公村中关村大街5号 邮政编码: 100811",
+    "rating": 4.5,
+    "popularity": 40,
+    "data_path": "map_data/university_map/Beijing_Institute_of_Technology",
+    "description": "北京理工大学（英語：Beijing Institute of Technology，縮寫：BIT），简称北理工，是一所位于中國北京市的公立大学，隶属于工业和信息化部。学校前身为1940年中国共产党所创建的第一所理工类高校——延安自然科学院，后历经华北大学工学院等阶段发展成为北京工业学院，于1988年更为现名。\n北京理工大学的三个校区均位于北京市：校本部中关村校区位于海淀区，校舍建筑面积约111.31万平方米；良乡校区位于良乡高教园区，建筑面积约95.01万平方米；另有西山科研实验区位于海淀区西山。怀来校区和雄安校区两个新校区正在北京周边规划建设中。北理工在广东省珠海市设有独立学院——北理珠海学院，并与俄罗斯莫斯科大学在深圳市合办深圳北理莫斯科大学。\n北京理工大学是中华人民共和国顶尖高校之一，是双一流A类和原985工程和原211工程重点建设大学。北理工擁有19个学院，近200个科研机构，两家校办产业和一个产业園區北理工科技園，更拥有5个国家级重点实验室，是历史上曾为首批副部级高校，也是中国首批设立研究生院的高校之一。學校基础设施完善，校足球俱乐部在中国大学生足球联赛中曾十次夺冠。\n在2022年《QS世界大學排名》中，北京理工大学综合排名位列中国大陆高校第18位。北京理工大学在2021年WURI世界大学真实影响力创新大学排名榜中名列第201-300名。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c5/BIT_Liangxiang_campus_gate.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/21/Main_gate_of_Beijing_Institute_of_Technology_main_campus_%2820210523072112%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Stadium_of_Beijing_Institute_of_Technology.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/68/Yan%27an_Academy_of_Natural_Sciences.jpg",
+        "https://upload.wikimedia.org/wikipedia/zh/2/2b/BIT_Name.jpg"
+    ],
+    "amenity": {
+        "affiliation": 5550041000598062383,
+        "amenity_list": [
+            {
+                "id": 1721722891,
+                "name": "中国石油",
+                "type": "fuel",
+                "latitude": 39.9568875,
+                "longitude": 116.3160532
+            },
+            {
+                "id": 4231834989,
+                "name": "招商银行双榆树支行",
+                "type": "bank",
+                "latitude": 39.9565468,
+                "longitude": 116.3162933
+            },
+            {
+                "id": 8922701124,
+                "name": "浙商银行",
+                "type": "bank",
+                "latitude": 39.9575932,
+                "longitude": 116.3164673
+            },
+            {
+                "id": 8922701125,
+                "name": "北京银行",
+                "type": "bank",
+                "latitude": 39.9598222,
+                "longitude": 116.3161726
+            },
+            {
+                "id": 107039558,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 39.95943704138501,
+                "longitude": 116.3154031328381
+            },
+            {
+                "id": 352009352,
+                "name": "快递服务中心",
+                "type": "parcel_locker",
+                "latitude": 39.95952744384067,
+                "longitude": 116.3057089249634
+            },
+            {
+                "id": 941402173,
+                "name": "北京理工大学附属小学",
+                "type": "school",
+                "latitude": 39.96048623342116,
+                "longitude": 116.3031096029342
+            }
+        ]
+    }
+}

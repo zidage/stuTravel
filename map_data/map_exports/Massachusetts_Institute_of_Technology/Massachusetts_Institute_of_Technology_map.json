@@ -1,0 +1,1300 @@
+{
+    "id": -4103013157370713090,
+    "name": "麻省理工大学",
+    "address": "77 Massachusetts Ave, Cambridge, MA 02139美国",
+    "rating": 4.7,
+    "popularity": 88,
+    "data_path": "map_data/university_map/Massachusetts_Institute_of_Technology",
+    "description": "麻省理工學院（英語：Massachusetts Institute of Technology，縮寫為MIT）是位於美國麻薩諸塞州劍橋市的私立研究型大學，成立於1861年。主校区沿查尔斯河而建，當時目的是為了響應美國與日俱增的工業化需求。学校採用了歐洲理工大學的模式辦學，早期著力於應用科學與工程學的實驗教學。學校的研究人員在第二次世界大战及冷戰期間，致力於開發電腦、雷達及慣性導航系統技術；戰後的防禦性科技研究使學校得以進一步發展，教職員人數及校園面積在占士·賴恩基利安的帶領下有所上升。大學於1916年遷往現在位於查爾斯河北岸的校址，沿岸伸延逾1英里（1.6公里），佔地168英畝（68公頃）。\n麻省理工学院擁有6間學術學院、32個學系部門，常獲納入全球最佳學府之列。學校一直聞名於物理科學與工程學的教研，但在近代亦大力發展諸如生命科學、經濟學、管理學、語言學等其他學術範疇。別名「工程師」的麻省理工體育校隊合計31支，涵蓋不同項目，學生因此可參與不同類型的跨校體育聯賽。\n麻省理工學院在2021年QS世界大學排名中位列全球第一，並與加州理工學院、倫敦帝國理工學院、蘇黎世聯邦理工學院並稱世界四大理工學院。截至2020年10月，麻省理工学院的校友、教授及研究人員涵蓋97位諾貝爾獎得主、8名菲爾茲獎獲獎者、26位图灵奖得主，以及52位國家科學獎章獲獎者、45位羅德學者、38名麥克阿瑟獎得主。該校同時具很強的創業文化，由其校友所創辦的公司利潤總值相當於全球第十一大經濟體（截至2014年）。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Buzz_Aldrin_%28S69-31743%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/72/Ford-MIT_Nobel_Laureate_Lecture_Series_2000-09-18.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Huntbeginsinlobby7.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Infinitecorridor.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/01/Kismet_robot_20051016.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kofi_Annan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c9/MIT_Boston_19th_c_byEdward_L_Allen_BPL_2351553844.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/05/MIT_Building_10_and_the_Great_Dome%2C_Cambridge_MA.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ac/MIT_Dome_night1_Edit.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/MIT_Lobby_7.jpg"
+    ],
+    "amenity": {
+        "affiliation": -4103013157370713090,
+        "amenity_list": [
+            {
+                "id": 313409064,
+                "name": "可能感兴趣的地点",
+                "type": "atm",
+                "latitude": 42.3596925,
+                "longitude": -71.0917204
+            },
+            {
+                "id": 367777760,
+                "name": "List Visual Arts Center",
+                "type": "arts_centre",
+                "latitude": 42.3610207,
+                "longitude": -71.0877409
+            },
+            {
+                "id": 441287631,
+                "name": "LiveableStreets",
+                "type": "bicycle_parking",
+                "latitude": 42.359887,
+                "longitude": -71.1029331
+            },
+            {
+                "id": 441291604,
+                "name": "Pacific Street Cafe",
+                "type": "cafe",
+                "latitude": 42.3602168,
+                "longitude": -71.102461
+            },
+            {
+                "id": 1710142648,
+                "name": "MIT Federal Credit Union",
+                "type": "bank",
+                "latitude": 42.3639623,
+                "longitude": -71.0929019
+            },
+            {
+                "id": 1884053775,
+                "name": "MIT Medical",
+                "type": "doctors",
+                "latitude": 42.3611856,
+                "longitude": -71.0865422
+            },
+            {
+                "id": 1884055322,
+                "name": "Forbes Family Cafe",
+                "type": "cafe",
+                "latitude": 42.3617308,
+                "longitude": -71.0900125
+            },
+            {
+                "id": 1884056372,
+                "name": "Bosworth's Cafe",
+                "type": "cafe",
+                "latitude": 42.3591037,
+                "longitude": -71.0930385
+            },
+            {
+                "id": 1982204860,
+                "name": "Bike Rack",
+                "type": "bicycle_parking",
+                "latitude": 42.3605752,
+                "longitude": -71.0866418
+            },
+            {
+                "id": 1982224208,
+                "name": "Barker Library",
+                "type": "library",
+                "latitude": 42.3597611,
+                "longitude": -71.0920607
+            },
+            {
+                "id": 1982225129,
+                "name": "Rotch Library",
+                "type": "library",
+                "latitude": 42.359247,
+                "longitude": -71.0933124
+            },
+            {
+                "id": 1982225149,
+                "name": "Dewey Library",
+                "type": "library",
+                "latitude": 42.3611465,
+                "longitude": -71.0837124
+            },
+            {
+                "id": 2446018087,
+                "name": "Dunkin'",
+                "type": "fast_food",
+                "latitude": 42.3588364,
+                "longitude": -71.0950171
+            },
+            {
+                "id": 2501058123,
+                "name": "Wong Auditorium",
+                "type": "theatre",
+                "latitude": 42.3607842,
+                "longitude": -71.0844461
+            },
+            {
+                "id": 2707976366,
+                "name": "Bank of America",
+                "type": "atm",
+                "latitude": 42.360366,
+                "longitude": -71.0948785
+            },
+            {
+                "id": 3061427060,
+                "name": "Blue Bikes - MIT Stata Center at Vassar St / Main St",
+                "type": "bicycle_rental",
+                "latitude": 42.3619245,
+                "longitude": -71.0915241
+            },
+            {
+                "id": 3061427061,
+                "name": "Blue Bikes - MIT at Mass Ave / Amherst St",
+                "type": "bicycle_rental",
+                "latitude": 42.3583015,
+                "longitude": -71.0932769
+            },
+            {
+                "id": 3869527706,
+                "name": "Blue Bikes - Main St at Ames St",
+                "type": "bicycle_rental",
+                "latitude": 42.362353,
+                "longitude": -71.0883144
+            },
+            {
+                "id": 4195245317,
+                "name": "The Black Sheep",
+                "type": "restaurant",
+                "latitude": 42.3623423,
+                "longitude": -71.0872229
+            },
+            {
+                "id": 4329266296,
+                "name": "Hayden Memorial Library",
+                "type": "library",
+                "latitude": 42.3590664,
+                "longitude": -71.0891802
+            },
+            {
+                "id": 4329266297,
+                "name": "Lewis Music Library",
+                "type": "library",
+                "latitude": 42.359328,
+                "longitude": -71.0890183
+            },
+            {
+                "id": 4330207677,
+                "name": "Fishbowl Athena Cluster",
+                "type": "computer_cluster",
+                "latitude": 42.3594111,
+                "longitude": -71.0926192
+            },
+            {
+                "id": 4378381010,
+                "name": "Cafe 4",
+                "type": "cafe",
+                "latitude": 42.3598525,
+                "longitude": -71.0913169
+            },
+            {
+                "id": 5633740689,
+                "name": "Al’s Cafe",
+                "type": "fast_food",
+                "latitude": 42.3631036,
+                "longitude": -71.0931925
+            },
+            {
+                "id": 5921721885,
+                "name": "TeaDo",
+                "type": "cafe",
+                "latitude": 42.3588746,
+                "longitude": -71.0947195
+            },
+            {
+                "id": 10053848378,
+                "name": "MIT Library Storage Annex",
+                "type": "library",
+                "latitude": 42.3627738,
+                "longitude": -71.0988449
+            },
+            {
+                "id": 11014629849,
+                "name": "MIT Police Station",
+                "type": "police",
+                "latitude": 42.3543686,
+                "longitude": -71.1043397
+            },
+            {
+                "id": 11173231405,
+                "name": "Ripple Cafe",
+                "type": "cafe",
+                "latitude": 42.3622285,
+                "longitude": -71.0863681
+            },
+            {
+                "id": 11543746984,
+                "name": "Sweetgreen",
+                "type": "fast_food",
+                "latitude": 42.3649341,
+                "longitude": -71.089081
+            },
+            {
+                "id": 11603506328,
+                "name": "Bluebikes",
+                "type": "bicycle_rental",
+                "latitude": 42.3605531,
+                "longitude": -71.0866281
+            },
+            {
+                "id": 24494029,
+                "name": "W16 Kresge Auditorium",
+                "type": "auditorium",
+                "latitude": 42.35814261813033,
+                "longitude": -71.09505493638706
+            },
+            {
+                "id": 24562763,
+                "name": "W15 MIT Chapel",
+                "type": "place_of_worship",
+                "latitude": 42.35833056115422,
+                "longitude": -71.0941286341662
+            },
+            {
+                "id": 29618959,
+                "name": "N4 Albany Garage",
+                "type": "parking",
+                "latitude": 42.36202809042652,
+                "longitude": -71.09277533900406
+            },
+            {
+                "id": 29890503,
+                "name": "W64 Koch Childcare Center",
+                "type": "childcare",
+                "latitude": 42.357717173414166,
+                "longitude": -71.1004141978726
+            },
+            {
+                "id": 187565435,
+                "name": "E51 Lot",
+                "type": "parking",
+                "latitude": 42.3605941585996,
+                "longitude": -71.08484998933186
+            },
+            {
+                "id": 226183329,
+                "name": "MIT Visitor Lot",
+                "type": "parking",
+                "latitude": 42.360458418000796,
+                "longitude": -71.09480512630742
+            },
+            {
+                "id": 249443672,
+                "name": "Westgate Lot",
+                "type": "parking",
+                "latitude": 42.355592655377905,
+                "longitude": -71.10249321791588
+            },
+            {
+                "id": 411917712,
+                "name": "MIT Main Lot",
+                "type": "parking",
+                "latitude": 42.358801099999994,
+                "longitude": -71.09265514999998
+            },
+            {
+                "id": 728110809,
+                "name": "N10 Lot",
+                "type": "parking",
+                "latitude": 42.36099185781042,
+                "longitude": -71.09491214547344
+            },
+            {
+                "id": 728110810,
+                "name": "158 Mass Ave Lot",
+                "type": "parking",
+                "latitude": 42.36047180650415,
+                "longitude": -71.09603960430641
+            },
+            {
+                "id": 824958051,
+                "name": "WW15 Lot",
+                "type": "parking",
+                "latitude": 42.355154770491644,
+                "longitude": -71.10887699799986
+            },
+            {
+                "id": 1052438049,
+                "name": "Ford Lot",
+                "type": "parking",
+                "latitude": 42.36220840473426,
+                "longitude": -71.08761451760215
+            },
+            {
+                "id": 367777182,
+                "name": "Center for Advanced Engineering Study",
+                "type": "nan",
+                "latitude": 42.3603751,
+                "longitude": -71.0939408
+            },
+            {
+                "id": 367777196,
+                "name": "Edgerton Germeshausen and Grier Education Center",
+                "type": "nan",
+                "latitude": 42.3612286,
+                "longitude": -71.0919942
+            },
+            {
+                "id": 367779845,
+                "name": "Atkinson Building",
+                "type": "nan",
+                "latitude": 42.3600075,
+                "longitude": -71.0870948
+            },
+            {
+                "id": 367780020,
+                "name": "Holman Building",
+                "type": "nan",
+                "latitude": 42.3600142,
+                "longitude": -71.086693
+            },
+            {
+                "id": 367780040,
+                "name": "Goodale Building",
+                "type": "nan",
+                "latitude": 42.3606214,
+                "longitude": -71.0882642
+            },
+            {
+                "id": 367780105,
+                "name": "East Campus Alumni Houses",
+                "type": "nan",
+                "latitude": 42.3602922,
+                "longitude": -71.0883821
+            },
+            {
+                "id": 367780128,
+                "name": "Crafts Building",
+                "type": "nan",
+                "latitude": 42.3597873,
+                "longitude": -71.086561
+            },
+            {
+                "id": 367780163,
+                "name": "Bitter National Magnet Laboratory",
+                "type": "nan",
+                "latitude": 42.3597824,
+                "longitude": -71.0980562
+            },
+            {
+                "id": 367780176,
+                "name": "Ware Building",
+                "type": "nan",
+                "latitude": 42.3599404,
+                "longitude": -71.0873199
+            },
+            {
+                "id": 367780186,
+                "name": "Wood Building",
+                "type": "nan",
+                "latitude": 42.3605019,
+                "longitude": -71.0888289
+            },
+            {
+                "id": 367780235,
+                "name": "Runkle House",
+                "type": "nan",
+                "latitude": 42.3600619,
+                "longitude": -71.0869188
+            },
+            {
+                "id": 367780253,
+                "name": "Parsons Laboratory for Water Resources and Hydrodynamics",
+                "type": "nan",
+                "latitude": 42.3623194,
+                "longitude": -71.0906074
+            },
+            {
+                "id": 367780267,
+                "name": "Nichols Building",
+                "type": "nan",
+                "latitude": 42.3598907,
+                "longitude": -71.0866135
+            },
+            {
+                "id": 17660188,
+                "name": "46 Brain and Cognitive Sciences",
+                "type": "nan",
+                "latitude": 42.36234204836442,
+                "longitude": -71.09164249018198
+            },
+            {
+                "id": 24493980,
+                "name": "18 Dreyfus Building",
+                "type": "nan",
+                "latitude": 42.36007558213619,
+                "longitude": -71.08981701423392
+            },
+            {
+                "id": 24493983,
+                "name": "54 Green Building",
+                "type": "nan",
+                "latitude": 42.360318698461164,
+                "longitude": -71.08934066716787
+            },
+            {
+                "id": 24494019,
+                "name": "W20 Stratton Student Center",
+                "type": "nan",
+                "latitude": 42.359049366470764,
+                "longitude": -71.09477053765782
+            },
+            {
+                "id": 24494050,
+                "name": "50 Walker Memorial",
+                "type": "nan",
+                "latitude": 42.35936568792787,
+                "longitude": -71.08830160732417
+            },
+            {
+                "id": 24494135,
+                "name": "E51 Tang Center",
+                "type": "nan",
+                "latitude": 42.36055084489348,
+                "longitude": -71.08448520787744
+            },
+            {
+                "id": 24494137,
+                "name": "E52 Morris & Sophie Chang Building",
+                "type": "nan",
+                "latitude": 42.36075055487839,
+                "longitude": -71.08367141962363
+            },
+            {
+                "id": 24494142,
+                "name": "E53 Hermann Building",
+                "type": "nan",
+                "latitude": 42.36119407752871,
+                "longitude": -71.08357631142076
+            },
+            {
+                "id": 24494174,
+                "name": "E60 Arthur D. Little Building",
+                "type": "nan",
+                "latitude": 42.3611687345166,
+                "longitude": -71.08216508163287
+            },
+            {
+                "id": 24808074,
+                "name": "64",
+                "type": "nan",
+                "latitude": 42.36040732545176,
+                "longitude": -71.08813602647982
+            },
+            {
+                "id": 24808162,
+                "name": "66 Landau Building",
+                "type": "nan",
+                "latitude": 42.36092400748847,
+                "longitude": -71.08902611473292
+            },
+            {
+                "id": 25679668,
+                "name": "NW86 Sidney Pacific",
+                "type": "nan",
+                "latitude": 42.35974256421064,
+                "longitude": -71.1022166295936
+            },
+            {
+                "id": 27078002,
+                "name": "32 Stata Center",
+                "type": "nan",
+                "latitude": 42.36162029340881,
+                "longitude": -71.09056960190081
+            },
+            {
+                "id": 27366069,
+                "name": "W71 Next House",
+                "type": "nan",
+                "latitude": 42.35471013916004,
+                "longitude": -71.10192402895669
+            },
+            {
+                "id": 29127301,
+                "name": "W84 Tang Hall",
+                "type": "nan",
+                "latitude": 42.35435114340639,
+                "longitude": -71.1034784748004
+            },
+            {
+                "id": 29127324,
+                "name": "W85ABC",
+                "type": "nan",
+                "latitude": 42.35498845237293,
+                "longitude": -71.1039021342069
+            },
+            {
+                "id": 29127326,
+                "name": "W85DE",
+                "type": "nan",
+                "latitude": 42.355379417432076,
+                "longitude": -71.10395021567885
+            },
+            {
+                "id": 29127327,
+                "name": "W92 Information Technology",
+                "type": "nan",
+                "latitude": 42.35492339858147,
+                "longitude": -71.10461902617105
+            },
+            {
+                "id": 29127330,
+                "name": "W91",
+                "type": "nan",
+                "latitude": 42.354324878236945,
+                "longitude": -71.10442681823787
+            },
+            {
+                "id": 29127348,
+                "name": "W85HJK",
+                "type": "nan",
+                "latitude": 42.355454823577006,
+                "longitude": -71.10315308925428
+            },
+            {
+                "id": 29127349,
+                "name": "W85FG",
+                "type": "nan",
+                "latitude": 42.3556272093562,
+                "longitude": -71.10360477196105
+            },
+            {
+                "id": 29127389,
+                "name": "W35 Zesiger Sports & Fitness Center",
+                "type": "nan",
+                "latitude": 42.358717210877174,
+                "longitude": -71.09573914264453
+            },
+            {
+                "id": 29127393,
+                "name": "W31 du Pont Athletic Gymnasium",
+                "type": "nan",
+                "latitude": 42.359632654260665,
+                "longitude": -71.09517794599132
+            },
+            {
+                "id": 29127425,
+                "name": "36 Fairchild Building",
+                "type": "nan",
+                "latitude": 42.361446217906675,
+                "longitude": -71.09166141320323
+            },
+            {
+                "id": 29127459,
+                "name": "24",
+                "type": "nan",
+                "latitude": 42.36067739635786,
+                "longitude": -71.0920026195902
+            },
+            {
+                "id": 29557595,
+                "name": "NW21 Plasma Science & Fusion Center",
+                "type": "nan",
+                "latitude": 42.35907317045344,
+                "longitude": -71.09913725090037
+            },
+            {
+                "id": 29559726,
+                "name": "N16 Cooling Tower",
+                "type": "nan",
+                "latitude": 42.36130280150584,
+                "longitude": -71.09401770274985
+            },
+            {
+                "id": 29566343,
+                "name": "NW16",
+                "type": "nan",
+                "latitude": 42.360039111519775,
+                "longitude": -71.09872293064565
+            },
+            {
+                "id": 29569108,
+                "name": "41",
+                "type": "nan",
+                "latitude": 42.360769867350214,
+                "longitude": -71.09416485517684
+            },
+            {
+                "id": 29585286,
+                "name": "W79 Simmons Hall",
+                "type": "nan",
+                "latitude": 42.357114322242936,
+                "longitude": -71.10151730577596
+            },
+            {
+                "id": 29602186,
+                "name": "W7 Baker House",
+                "type": "nan",
+                "latitude": 42.35668983277099,
+                "longitude": -71.09586110595195
+            },
+            {
+                "id": 29611119,
+                "name": "W11 Religious Activities Center",
+                "type": "nan",
+                "latitude": 42.35826730650551,
+                "longitude": -71.0935327512789
+            },
+            {
+                "id": 29618861,
+                "name": "E40",
+                "type": "nan",
+                "latitude": 42.36116964701327,
+                "longitude": -71.08485632477502
+            },
+            {
+                "id": 29620676,
+                "name": "The Kendall Hotel",
+                "type": "nan",
+                "latitude": 42.36220950289959,
+                "longitude": -71.0872611922218
+            },
+            {
+                "id": 29650626,
+                "name": "700 Technology Square",
+                "type": "nan",
+                "latitude": 42.36403310853823,
+                "longitude": -71.0927064895498
+            },
+            {
+                "id": 29650658,
+                "name": "N10 High Voltage Research Lab",
+                "type": "nan",
+                "latitude": 42.360868781514334,
+                "longitude": -71.09544377555603
+            },
+            {
+                "id": 29650662,
+                "name": "62",
+                "type": "nan",
+                "latitude": 42.36022438779609,
+                "longitude": -71.0886775499608
+            },
+            {
+                "id": 29680531,
+                "name": "NW32",
+                "type": "nan",
+                "latitude": 42.358585430198055,
+                "longitude": -71.10050751620571
+            },
+            {
+                "id": 29680534,
+                "name": "NW35 Ashdown House",
+                "type": "nan",
+                "latitude": 42.35879604640608,
+                "longitude": -71.10146172399763
+            },
+            {
+                "id": 29681495,
+                "name": "W59 Heinz Building",
+                "type": "nan",
+                "latitude": 42.35811268451498,
+                "longitude": -71.09953988624399
+            },
+            {
+                "id": 29708703,
+                "name": "NW22",
+                "type": "nan",
+                "latitude": 42.359715959370185,
+                "longitude": -71.0995672032142
+            },
+            {
+                "id": 29714576,
+                "name": "N16A",
+                "type": "nan",
+                "latitude": 42.36124176715894,
+                "longitude": -71.09435493770816
+            },
+            {
+                "id": 29739496,
+                "name": "N9 Superconducting Test Facility",
+                "type": "nan",
+                "latitude": 42.360954994474525,
+                "longitude": -71.09519380452974
+            },
+            {
+                "id": 29740162,
+                "name": "NE49",
+                "type": "nan",
+                "latitude": 42.36336962164212,
+                "longitude": -71.0931169637516
+            },
+            {
+                "id": 29742243,
+                "name": "E39",
+                "type": "nan",
+                "latitude": 42.361980225238376,
+                "longitude": -71.08546541310169
+            },
+            {
+                "id": 29802781,
+                "name": "W53 Carr Indoor Tennis",
+                "type": "nan",
+                "latitude": 42.356928965495484,
+                "longitude": -71.09780940007506
+            },
+            {
+                "id": 29803755,
+                "name": "48 Parsons Lab",
+                "type": "nan",
+                "latitude": 42.36242427898808,
+                "longitude": -71.09067026844014
+            },
+            {
+                "id": 29803811,
+                "name": "W2",
+                "type": "nan",
+                "latitude": 42.35725481606106,
+                "longitude": -71.09382303533745
+            },
+            {
+                "id": 29803955,
+                "name": "W41 Metropolitan Storage Warehouse",
+                "type": "nan",
+                "latitude": 42.3598307049535,
+                "longitude": -71.09606606305975
+            },
+            {
+                "id": 29809099,
+                "name": "NW61 Random Hall",
+                "type": "nan",
+                "latitude": 42.36184588532015,
+                "longitude": -71.09827955612025
+            },
+            {
+                "id": 29863317,
+                "name": "E48",
+                "type": "nan",
+                "latitude": 42.362063254342985,
+                "longitude": -71.0847225450677
+            },
+            {
+                "id": 29924888,
+                "name": "WW25",
+                "type": "nan",
+                "latitude": 42.35573960793088,
+                "longitude": -71.10632904561497
+            },
+            {
+                "id": 29929971,
+                "name": "NW30 The Warehouse",
+                "type": "nan",
+                "latitude": 42.35864645,
+                "longitude": -71.09997304999999
+            },
+            {
+                "id": 29947479,
+                "name": "No. 6",
+                "type": "nan",
+                "latitude": 42.355676701273865,
+                "longitude": -71.09876723837186
+            },
+            {
+                "id": 32499809,
+                "name": "9 Samuel Tak Lee Building",
+                "type": "nan",
+                "latitude": 42.35975997836086,
+                "longitude": -71.09356620350547
+            },
+            {
+                "id": 32517105,
+                "name": "13 Bush Building",
+                "type": "nan",
+                "latitude": 42.35994948325427,
+                "longitude": -71.09254698167057
+            },
+            {
+                "id": 32517230,
+                "name": "7 Rogers Building",
+                "type": "nan",
+                "latitude": 42.35929479813128,
+                "longitude": -71.0931787878845
+            },
+            {
+                "id": 32517290,
+                "name": "11 Homberg Building",
+                "type": "nan",
+                "latitude": 42.35952994455594,
+                "longitude": -71.09277022563825
+            },
+            {
+                "id": 32517406,
+                "name": "3",
+                "type": "nan",
+                "latitude": 42.359023798517185,
+                "longitude": -71.09240111773569
+            },
+            {
+                "id": 32517447,
+                "name": "1 Pierce Lab",
+                "type": "nan",
+                "latitude": 42.358100866471574,
+                "longitude": -71.0923433316705
+            },
+            {
+                "id": 32517556,
+                "name": "5",
+                "type": "nan",
+                "latitude": 42.35871061167805,
+                "longitude": -71.09291799114382
+            },
+            {
+                "id": 32517642,
+                "name": "10",
+                "type": "nan",
+                "latitude": 42.35968205201504,
+                "longitude": -71.09201481449563
+            },
+            {
+                "id": 32517654,
+                "name": "4",
+                "type": "nan",
+                "latitude": 42.359480943019335,
+                "longitude": -71.09110352256728
+            },
+            {
+                "id": 32517707,
+                "name": "2 Simons Building",
+                "type": "nan",
+                "latitude": 42.35883450924006,
+                "longitude": -71.09018385011177
+            },
+            {
+                "id": 32517817,
+                "name": "6 Eastman Labs",
+                "type": "nan",
+                "latitude": 42.359562490214266,
+                "longitude": -71.09045346917694
+            },
+            {
+                "id": 32517839,
+                "name": "8",
+                "type": "nan",
+                "latitude": 42.36000422417482,
+                "longitude": -71.09086376622712
+            },
+            {
+                "id": 32524914,
+                "name": "6C",
+                "type": "nan",
+                "latitude": 42.35967836270524,
+                "longitude": -71.09082882999303
+            },
+            {
+                "id": 32524923,
+                "name": "6B",
+                "type": "nan",
+                "latitude": 42.35941899330216,
+                "longitude": -71.0906730683855
+            },
+            {
+                "id": 32525033,
+                "name": "31 Sloan Labs",
+                "type": "nan",
+                "latitude": 42.36037540935853,
+                "longitude": -71.09306884564062
+            },
+            {
+                "id": 32525279,
+                "name": "37 McNair Building",
+                "type": "nan",
+                "latitude": 42.36069589330176,
+                "longitude": -71.09323547191704
+            },
+            {
+                "id": 32525350,
+                "name": "39 Brown Building",
+                "type": "nan",
+                "latitude": 42.36086683977144,
+                "longitude": -71.09272343088803
+            },
+            {
+                "id": 32525380,
+                "name": "38",
+                "type": "nan",
+                "latitude": 42.36109488002018,
+                "longitude": -71.09234125074103
+            },
+            {
+                "id": 32525583,
+                "name": "34",
+                "type": "nan",
+                "latitude": 42.36115071203012,
+                "longitude": -71.09194264272223
+            },
+            {
+                "id": 32525936,
+                "name": "26 Compton Labs",
+                "type": "nan",
+                "latitude": 42.36086262279381,
+                "longitude": -71.09114540538516
+            },
+            {
+                "id": 32526070,
+                "name": "16 Dorrance Building",
+                "type": "nan",
+                "latitude": 42.360442951768206,
+                "longitude": -71.09058362677102
+            },
+            {
+                "id": 32526121,
+                "name": "56 Whitaker Building",
+                "type": "nan",
+                "latitude": 42.36070561025183,
+                "longitude": -71.08985206336385
+            },
+            {
+                "id": 32526333,
+                "name": "57 Alumni Pool",
+                "type": "nan",
+                "latitude": 42.36115695025811,
+                "longitude": -71.09013523643969
+            },
+            {
+                "id": 32526782,
+                "name": "33 Guggenheim Lab",
+                "type": "nan",
+                "latitude": 42.36014581574672,
+                "longitude": -71.09378527883474
+            },
+            {
+                "id": 32526807,
+                "name": "35 Sloan Lab",
+                "type": "nan",
+                "latitude": 42.360390607400056,
+                "longitude": -71.09403199215802
+            },
+            {
+                "id": 46846324,
+                "name": "76 Koch Institute",
+                "type": "nan",
+                "latitude": 42.36230830603239,
+                "longitude": -71.08926380845949
+            },
+            {
+                "id": 132600539,
+                "name": "N51",
+                "type": "nan",
+                "latitude": 42.362234449611876,
+                "longitude": -71.09759574961335
+            },
+            {
+                "id": 132600541,
+                "name": "NW12 Nuclear Reactor Lab",
+                "type": "nan",
+                "latitude": 42.36009728471228,
+                "longitude": -71.09687972920932
+            },
+            {
+                "id": 132600542,
+                "name": "NW13",
+                "type": "nan",
+                "latitude": 42.35988450596366,
+                "longitude": -71.09735900197967
+            },
+            {
+                "id": 132600543,
+                "name": "NW14 Bitter Magnet Lab",
+                "type": "nan",
+                "latitude": 42.35963095926801,
+                "longitude": -71.09789389688696
+            },
+            {
+                "id": 132600544,
+                "name": "NW17",
+                "type": "nan",
+                "latitude": 42.35985984670755,
+                "longitude": -71.09913520106059
+            },
+            {
+                "id": 132601295,
+                "name": "E38",
+                "type": "nan",
+                "latitude": 42.36214070214677,
+                "longitude": -71.08585858461151
+            },
+            {
+                "id": 132601297,
+                "name": "42 Dickson Cogeneration Plant",
+                "type": "nan",
+                "latitude": 42.36110810897446,
+                "longitude": -71.09353317403999
+            },
+            {
+                "id": 132601298,
+                "name": "43 Plant Annex",
+                "type": "nan",
+                "latitude": 42.36115181396103,
+                "longitude": -71.0932060996629
+            },
+            {
+                "id": 132601562,
+                "name": "W32 du Pont Athletic Center",
+                "type": "nan",
+                "latitude": 42.359364566924896,
+                "longitude": -71.09512560754806
+            },
+            {
+                "id": 132601563,
+                "name": "W33 Rockwell Cage",
+                "type": "nan",
+                "latitude": 42.35918657757853,
+                "longitude": -71.09596860867653
+            },
+            {
+                "id": 132601564,
+                "name": "W34 Johnson Athletic Center",
+                "type": "nan",
+                "latitude": 42.35860237595756,
+                "longitude": -71.0965308226961
+            },
+            {
+                "id": 155437850,
+                "name": "Kendall/MIT Station",
+                "type": "nan",
+                "latitude": 42.3624031688403,
+                "longitude": -71.08576401003059
+            },
+            {
+                "id": 177921759,
+                "name": "E25 Whitaker College",
+                "type": "nan",
+                "latitude": 42.36167272000674,
+                "longitude": -71.08692788439959
+            },
+            {
+                "id": 177921760,
+                "name": "E23",
+                "type": "nan",
+                "latitude": 42.361034262869936,
+                "longitude": -71.0866266903313
+            },
+            {
+                "id": 177921761,
+                "name": "E14 Media Lab",
+                "type": "nan",
+                "latitude": 42.3604647184802,
+                "longitude": -71.08733725681205
+            },
+            {
+                "id": 177921762,
+                "name": "E15 Wiesner Building",
+                "type": "nan",
+                "latitude": 42.36084451618819,
+                "longitude": -71.0876316643143
+            },
+            {
+                "id": 220076812,
+                "name": "E18 Ford Building",
+                "type": "nan",
+                "latitude": 42.361773865605244,
+                "longitude": -71.08780038466568
+            },
+            {
+                "id": 220076879,
+                "name": "E19",
+                "type": "nan",
+                "latitude": 42.36214355840642,
+                "longitude": -71.08795279437429
+            },
+            {
+                "id": 220082897,
+                "name": "E17 Mudd Building",
+                "type": "nan",
+                "latitude": 42.361492846399315,
+                "longitude": -71.08789125073962
+            },
+            {
+                "id": 262724455,
+                "name": "W85 Westgate",
+                "type": "nan",
+                "latitude": 42.355001592776304,
+                "longitude": -71.10325779477577
+            },
+            {
+                "id": 435078056,
+                "name": "7A Rotch Library",
+                "type": "nan",
+                "latitude": 42.35950642431267,
+                "longitude": -71.09319115350648
+            },
+            {
+                "id": 765446749,
+                "name": "W46 New Vassar",
+                "type": "nan",
+                "latitude": 42.35880353266075,
+                "longitude": -71.09816106926392
+            },
+            {
+                "id": 824942622,
+                "name": "N16C",
+                "type": "nan",
+                "latitude": 42.3610918,
+                "longitude": -71.0944975
+            },
+            {
+                "id": 863538455,
+                "name": "NW36",
+                "type": "nan",
+                "latitude": 42.35809548281805,
+                "longitude": -71.10147299736859
+            },
+            {
+                "id": 863570911,
+                "name": "12 Su Building",
+                "type": "nan",
+                "latitude": 42.36026346352734,
+                "longitude": -71.09148547384528
+            },
+            {
+                "id": 864631218,
+                "name": "W5 Green Hall",
+                "type": "nan",
+                "latitude": 42.35692712338315,
+                "longitude": -71.09511000812978
+            },
+            {
+                "id": 980619102,
+                "name": "W70 New House",
+                "type": "nan",
+                "latitude": 42.35517467776055,
+                "longitude": -71.10051653402418
+            },
+            {
+                "id": 980718777,
+                "name": "W51 Burton Conner House",
+                "type": "nan",
+                "latitude": 42.35598488642429,
+                "longitude": -71.0981120073489
+            },
+            {
+                "id": 980718778,
+                "name": "Kappa Sigma",
+                "type": "nan",
+                "latitude": 42.35612583675831,
+                "longitude": -71.09736359427797
+            },
+            {
+                "id": 980718779,
+                "name": "Pi Beta Phi",
+                "type": "nan",
+                "latitude": 42.35619797982179,
+                "longitude": -71.09724172773126
+            },
+            {
+                "id": 980718780,
+                "name": "DKE",
+                "type": "nan",
+                "latitude": 42.35619355298847,
+                "longitude": -71.09699617939812
+            },
+            {
+                "id": 980718781,
+                "name": "Phi Beta Epsilon",
+                "type": "nan",
+                "latitude": 42.35631321127132,
+                "longitude": -71.09687579451963
+            },
+            {
+                "id": 980722692,
+                "name": "E1 Gray House",
+                "type": "nan",
+                "latitude": 42.359609553086834,
+                "longitude": -71.08696340325814
+            },
+            {
+                "id": 980722694,
+                "name": "E2 70 Amherst",
+                "type": "nan",
+                "latitude": 42.35996471708886,
+                "longitude": -71.08686162415489
+            },
+            {
+                "id": 1005738154,
+                "name": "100 Memorial Drive Apartments",
+                "type": "nan",
+                "latitude": 42.36018147177756,
+                "longitude": -71.08570301316107
+            },
+            {
+                "id": 1007111497,
+                "name": "NW10 Edgerton House",
+                "type": "nan",
+                "latitude": 42.360321501059595,
+                "longitude": -71.09814377457838
+            },
+            {
+                "id": 1007111503,
+                "name": "NW23",
+                "type": "nan",
+                "latitude": 42.359570287177334,
+                "longitude": -71.0998743381518
+            },
+            {
+                "id": 1011548273,
+                "name": "68 Koch Biology Building",
+                "type": "nan",
+                "latitude": 42.36164464405845,
+                "longitude": -71.08862695107211
+            },
+            {
+                "id": 1047765109,
+                "name": "E62",
+                "type": "nan",
+                "latitude": 42.36134798805415,
+                "longitude": -71.08265706774668
+            },
+            {
+                "id": 1089241940,
+                "name": "45 Schwarzman Building",
+                "type": "nan",
+                "latitude": 42.36166547903302,
+                "longitude": -71.09236809504506
+            },
+            {
+                "id": 1246607679,
+                "name": "W61 MacGregor House",
+                "type": "nan",
+                "latitude": 42.355473246395746,
+                "longitude": -71.0995405947694
+            },
+            {
+                "id": 1247264070,
+                "name": "W1 Maseeh Hall",
+                "type": "nan",
+                "latitude": 42.35762317538941,
+                "longitude": -71.093513172411
+            },
+            {
+                "id": 1249521123,
+                "name": "17 Wright Brothers Wind Tunnel",
+                "type": "nan",
+                "latitude": 42.36019750972113,
+                "longitude": -71.09355770611224
+            },
+            {
+                "id": 1254628669,
+                "name": "E28",
+                "type": "nan",
+                "latitude": 42.362118,
+                "longitude": -71.08666615
+            },
+            {
+                "id": 65411,
+                "name": "W4 McCormick Hall",
+                "type": "nan",
+                "latitude": 42.357178364382726,
+                "longitude": -71.09439984523982
+            },
+            {
+                "id": 5268202,
+                "name": "14",
+                "type": "nan",
+                "latitude": 42.35918351703336,
+                "longitude": -71.08931143829007
+            },
+            {
+                "id": 16848651,
+                "name": "N52",
+                "type": "nan",
+                "latitude": 42.36228304181287,
+                "longitude": -71.09719378343392
+            }
+        ]
+    }
+}

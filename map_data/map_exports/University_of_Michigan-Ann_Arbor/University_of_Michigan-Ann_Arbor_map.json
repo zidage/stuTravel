@@ -1,0 +1,2525 @@
+{
+    "id": 7851890043278252108,
+    "name": "密西根大学",
+    "address": "500 S State St, Ann Arbor, MI 48109美国",
+    "rating": 4.4,
+    "popularity": 60,
+    "data_path": "map_data/university_map/University_of_Michigan-Ann_Arbor",
+    "description": "密西根大学（英語：University of Michigan，简称：U-M、UMich或Michigan），简称密大，坐落于美国密西根州安娜堡市，是一所成立于1817年的公立研究型大学，为美洲大学协会的创始院校之一。\n密西根大学是世界顶尖的综合性研究型大学，在2020年自然指数的报告中，其研究输出位居美国第5位，仅次于哈佛大学、史丹福大学、麻省理工学院和加州大学伯克利分校。大学研究经费的数额为全美第2，美国联邦政府对大学研究资助的数额为全美第3。根据《US News》、世界大学学术排名、QS世界大学排名、泰晤士高等教育世界大学排名等主流学术排名，密西根大学的综合排名位居世界前30位。密西根大学是众多知名学术组织的成员，包括美洲大学协会（AAU）、大学研究协会（URA）等。密西根大学亦是最受学生欢迎的院校之一，每年的本科申请量超过80,000份，位列美国前10位。密西根大学医学院、法学院、工学院和教育学院都排在《US News》全美前10名。此外，根据《US News》的排名，密西根大学大部分专业都在全美前20名。除学术和科研之外，密西根大学也在泰晤士报评出的声誉排名中位列世界第15位。\n密西根大学自建校以来，在国际上一直享有很高声誉，素有「西部的哈佛大學」、「美國公立大學的母親」等美譽。《US News》大学排名在1987年第一次发布时，密西根大学位居美国第7位，法学院排名位居美国第3位，仅次于耶鲁法学院跟哈佛法学院。在政治学和心理学上，「密西根学派」是与芝加哥学派、哥伦比亚学派齐名的三大学派。该校每年都会公布密西根大学消费者信心指数，是密西根大学罗斯商学院的一项成果。在2006年发布的华尔街日报工商管理硕士（MBA）排名中，罗斯商学院位列全美第1位。体育方面，密西根大学是美国历史最悠久的高校体育联盟—十大联盟的成员学校之一。\n截止2020年10月，密西根大学的校友和教职研究人员中诞生了26名诺贝尔奖得主、6名图灵奖得主、2名菲尔兹奖得主、2名阿貝爾獎得主。\n密西根大学是培养优秀华人学者的摇篮和聚集地之一。著名校友包括八位國內外國家元首或政府首腦，它培养了47名美國參議員、 218名美國眾議院議員、42名美國內閣秘書、41位美國各州州長、和26位在世的億萬富翁。密西根培养了华裔诺贝尔奖得主丁肇中，中国工程院首任院长朱光亚、物理学家吴大猷、化学家张存浩、航天技术和火箭发动机专家任新民、美国国家科学院海外院士朱敬一、历史学家黄仁宇等。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/A_picture_of_the_University_of_Michigan_campus_in_Ann_Arbor%2C_Michigan%2C_USA.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/Alice_Freeman_Palmer%2C_1881-1887.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/21/Campus_University_of_Michigan_%28NBY_2827%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/99/ClaudeShannon_MFO3807.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/Engineering_Building_UOM_1905.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/History_of_the_University_of_Michigan_%281906%29_%2814576452150%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/James_Rowland_Angell_cph.3a51566.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e2/JasperCropseyUniversityOfMichigan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dc/Law_Building%2C_U._of_M.%2C_Ann_Arbor%2C_Mich._%28NBY_7895%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Library_and_Chapel%2C_University_of_Michigan%2C_Ann_Arbor_%28front_elevation%29_MET_DT369502.jpg"
+    ],
+    "amenity": {
+        "affiliation": 7851890043278252108,
+        "amenity_list": [
+            {
+                "id": 62621809,
+                "name": "可能感兴趣的地点",
+                "type": "parking_entrance",
+                "latitude": 42.2839954,
+                "longitude": -83.7361857
+            },
+            {
+                "id": 2832728522,
+                "name": "Mailbox",
+                "type": "post_box",
+                "latitude": 42.2430995,
+                "longitude": -83.7377704
+            },
+            {
+                "id": 2832728523,
+                "name": "Comerica Bank",
+                "type": "bank",
+                "latitude": 42.2428226,
+                "longitude": -83.7377261
+            },
+            {
+                "id": 3062441999,
+                "name": "Panda Express",
+                "type": "fast_food",
+                "latitude": 42.2907582,
+                "longitude": -83.7176809
+            },
+            {
+                "id": 3062442000,
+                "name": "Ahmo's",
+                "type": "fast_food",
+                "latitude": 42.2909209,
+                "longitude": -83.7178791
+            },
+            {
+                "id": 3062442001,
+                "name": "Fireside Café",
+                "type": "restaurant",
+                "latitude": 42.2909189,
+                "longitude": -83.7176483
+            },
+            {
+                "id": 3062442003,
+                "name": "Fireside Roast",
+                "type": "cafe",
+                "latitude": 42.2908776,
+                "longitude": -83.7176968
+            },
+            {
+                "id": 3065601646,
+                "name": "Blue Apple",
+                "type": "cafe",
+                "latitude": 42.2936353,
+                "longitude": -83.7212721
+            },
+            {
+                "id": 3065610483,
+                "name": "Bursley Dining Hall",
+                "type": "fast_food",
+                "latitude": 42.2938297,
+                "longitude": -83.7210029
+            },
+            {
+                "id": 3065610484,
+                "name": "Victors",
+                "type": "cafe",
+                "latitude": 42.2802225,
+                "longitude": -83.7317467
+            },
+            {
+                "id": 3065616343,
+                "name": "Mosher-Jordan Dining Hall",
+                "type": "fast_food",
+                "latitude": 42.2800791,
+                "longitude": -83.7315367
+            },
+            {
+                "id": 3068653993,
+                "name": "Bert's Cafe",
+                "type": "cafe",
+                "latitude": 42.2758825,
+                "longitude": -83.7371092
+            },
+            {
+                "id": 3068937737,
+                "name": "Markley Dining Hall",
+                "type": "fast_food",
+                "latitude": 42.2809618,
+                "longitude": -83.728802
+            },
+            {
+                "id": 3072665433,
+                "name": "Mujo Cafe",
+                "type": "cafe",
+                "latitude": 42.2914942,
+                "longitude": -83.7158408
+            },
+            {
+                "id": 3072665434,
+                "name": "Maizie's",
+                "type": "restaurant",
+                "latitude": 42.279008,
+                "longitude": -83.737422
+            },
+            {
+                "id": 3072665436,
+                "name": "M-36 Coffee Roasters",
+                "type": "cafe",
+                "latitude": 42.2751221,
+                "longitude": -83.7356467
+            },
+            {
+                "id": 5007708537,
+                "name": "Bank of America",
+                "type": "atm",
+                "latitude": 42.2751117,
+                "longitude": -83.7355221
+            },
+            {
+                "id": 5476186238,
+                "name": "Fifth Third Bank",
+                "type": "atm",
+                "latitude": 42.2751107,
+                "longitude": -83.7354697
+            },
+            {
+                "id": 6034786950,
+                "name": "Campus Police",
+                "type": "police",
+                "latitude": 42.2653427,
+                "longitude": -83.7441739
+            },
+            {
+                "id": 6795747839,
+                "name": "Hibachi san",
+                "type": "restaurant",
+                "latitude": 42.2908394,
+                "longitude": -83.717704
+            },
+            {
+                "id": 8645692238,
+                "name": "Gamma Phi Beta",
+                "type": "social_centre",
+                "latitude": 42.2749699,
+                "longitude": -83.7296289
+            },
+            {
+                "id": 8645692289,
+                "name": "Delta Phi Epsilon",
+                "type": "social_centre",
+                "latitude": 42.2749722,
+                "longitude": -83.7294648
+            },
+            {
+                "id": 9282163727,
+                "name": "WCBN-FM studio",
+                "type": "studio",
+                "latitude": 42.2765282,
+                "longitude": -83.7428708
+            },
+            {
+                "id": 9282163876,
+                "name": "UHS Clinic",
+                "type": "clinic",
+                "latitude": 42.2797711,
+                "longitude": -83.7367147
+            },
+            {
+                "id": 9403993530,
+                "name": "Joe's Pizza",
+                "type": "restaurant",
+                "latitude": 42.2752067,
+                "longitude": -83.7356682
+            },
+            {
+                "id": 9403993531,
+                "name": "PNC Bank",
+                "type": "bank",
+                "latitude": 42.27528,
+                "longitude": -83.7356728
+            },
+            {
+                "id": 10250051639,
+                "name": "Wilson Student Team Project Center",
+                "type": "laboratory",
+                "latitude": 42.2933092,
+                "longitude": -83.7106208
+            },
+            {
+                "id": 10942330076,
+                "name": "Sweetwaters",
+                "type": "cafe",
+                "latitude": 42.2751656,
+                "longitude": -83.7414418
+            },
+            {
+                "id": 11405539751,
+                "name": "BAM Organ Recital Hall",
+                "type": "theatre",
+                "latitude": 42.2896932,
+                "longitude": -83.7207314
+            },
+            {
+                "id": 11405539752,
+                "name": "McIntosh Theatre",
+                "type": "theatre",
+                "latitude": 42.2897745,
+                "longitude": -83.7208682
+            },
+            {
+                "id": 11405539753,
+                "name": "Britton Recital Hall",
+                "type": "theatre",
+                "latitude": 42.2899432,
+                "longitude": -83.7207904
+            },
+            {
+                "id": 11405539755,
+                "name": "Music Library",
+                "type": "library",
+                "latitude": 42.2904273,
+                "longitude": -83.7208012
+            },
+            {
+                "id": 5107838,
+                "name": "U-M Lot NC32",
+                "type": "parking",
+                "latitude": 42.292175712163406,
+                "longitude": -83.72382838139052
+            },
+            {
+                "id": 33690006,
+                "name": "U of M Lot NC 10",
+                "type": "parking",
+                "latitude": 42.289559438755,
+                "longitude": -83.72199438817647
+            },
+            {
+                "id": 82004462,
+                "name": "U of M Lot NC 46",
+                "type": "parking",
+                "latitude": 42.29573888138123,
+                "longitude": -83.70849393189512
+            },
+            {
+                "id": 82004603,
+                "name": "U of M Lot NC 28",
+                "type": "parking",
+                "latitude": 42.2948735035525,
+                "longitude": -83.71111825777612
+            },
+            {
+                "id": 82004729,
+                "name": "U of M Lot NC 21",
+                "type": "parking",
+                "latitude": 42.29368732436663,
+                "longitude": -83.71635515487164
+            },
+            {
+                "id": 82004730,
+                "name": "U of M Lot NC 20",
+                "type": "parking",
+                "latitude": 42.29369640947423,
+                "longitude": -83.71381413676008
+            },
+            {
+                "id": 82009863,
+                "name": "U of M Lot NC 60",
+                "type": "parking",
+                "latitude": 42.290975691721755,
+                "longitude": -83.71267620071683
+            },
+            {
+                "id": 82009972,
+                "name": "U of M Lot NC 53",
+                "type": "parking",
+                "latitude": 42.29486466749273,
+                "longitude": -83.70733656213747
+            },
+            {
+                "id": 82009974,
+                "name": "U of M Lot NC 26",
+                "type": "parking",
+                "latitude": 42.29396668605543,
+                "longitude": -83.70863933325208
+            },
+            {
+                "id": 82245561,
+                "name": "Pierpont Commons",
+                "type": "community_centre",
+                "latitude": 42.291143110726566,
+                "longitude": -83.71749773072935
+            },
+            {
+                "id": 82246290,
+                "name": "U of M Lot NC 90",
+                "type": "parking",
+                "latitude": 42.29673316632341,
+                "longitude": -83.70631134244212
+            },
+            {
+                "id": 82246737,
+                "name": "Walgreen Drama Center",
+                "type": "arts_centre",
+                "latitude": 42.29191623122929,
+                "longitude": -83.71748485589036
+            },
+            {
+                "id": 82246877,
+                "name": "Green Road Park & Ride Lot",
+                "type": "parking",
+                "latitude": 42.30011180076655,
+                "longitude": -83.69415672513898
+            },
+            {
+                "id": 82246919,
+                "name": "U of M Lot NC 5",
+                "type": "parking",
+                "latitude": 42.28811385820071,
+                "longitude": -83.71461939280887
+            },
+            {
+                "id": 82246920,
+                "name": "U of M Lot NC 16",
+                "type": "parking",
+                "latitude": 42.28951925783138,
+                "longitude": -83.71373615210572
+            },
+            {
+                "id": 97181955,
+                "name": "Hill Structure",
+                "type": "parking",
+                "latitude": 42.27234369770441,
+                "longitude": -83.7367886280887
+            },
+            {
+                "id": 99883665,
+                "name": "Shapiro Undergraduate Library",
+                "type": "library",
+                "latitude": 42.27562148385323,
+                "longitude": -83.73718316799037
+            },
+            {
+                "id": 99883671,
+                "name": "William L. Clements Library",
+                "type": "library",
+                "latitude": 42.27545698043049,
+                "longitude": -83.73800298756039
+            },
+            {
+                "id": 99883675,
+                "name": "Hatcher Graduate Library",
+                "type": "library",
+                "latitude": 42.27620420632597,
+                "longitude": -83.7381950278311
+            },
+            {
+                "id": 132574383,
+                "name": "Fletcher Structure",
+                "type": "parking",
+                "latitude": 42.280138897631694,
+                "longitude": -83.7360311292332
+            },
+            {
+                "id": 133385417,
+                "name": "U-M Lot SC7 / RV Lot",
+                "type": "parking",
+                "latitude": 42.264042644573216,
+                "longitude": -83.74351642613141
+            },
+            {
+                "id": 154202642,
+                "name": "Thayer Street Parking Structure",
+                "type": "parking",
+                "latitude": 42.27973369979412,
+                "longitude": -83.73995794637142
+            },
+            {
+                "id": 154202660,
+                "name": "Tappan Hall",
+                "type": "library",
+                "latitude": 42.275492389249315,
+                "longitude": -83.73928273875211
+            },
+            {
+                "id": 154202674,
+                "name": "Kresge Business Admin Library",
+                "type": "clinic",
+                "latitude": 42.272845224385335,
+                "longitude": -83.73688310510899
+            },
+            {
+                "id": 154202681,
+                "name": "Cook Legal Research Library",
+                "type": "clinic",
+                "latitude": 42.27382577716608,
+                "longitude": -83.73936984612374
+            },
+            {
+                "id": 154203557,
+                "name": "Hill Auditorium",
+                "type": "concert_hall",
+                "latitude": 42.27914566512838,
+                "longitude": -83.73906677501842
+            },
+            {
+                "id": 154203577,
+                "name": "Power Center for the Performing Arts",
+                "type": "theatre",
+                "latitude": 42.28087743881818,
+                "longitude": -83.73579652716845
+            },
+            {
+                "id": 154203582,
+                "name": "Michigan Union",
+                "type": "community_centre",
+                "latitude": 42.27516491952654,
+                "longitude": -83.74156377604368
+            },
+            {
+                "id": 158896613,
+                "name": "U-M Lot SC6",
+                "type": "parking",
+                "latitude": 42.265152014080115,
+                "longitude": -83.74508233426889
+            },
+            {
+                "id": 158896615,
+                "name": "U-M Lot SC4",
+                "type": "parking",
+                "latitude": 42.267139875659446,
+                "longitude": -83.74689208036389
+            },
+            {
+                "id": 190113113,
+                "name": "U-M Lot SC9",
+                "type": "parking",
+                "latitude": 42.272356585051426,
+                "longitude": -83.74533362273678
+            },
+            {
+                "id": 190113121,
+                "name": "U-M Lot SC38 (Elbel Field Locker Bldg)",
+                "type": "parking",
+                "latitude": 42.271333449351424,
+                "longitude": -83.74486884774191
+            },
+            {
+                "id": 192429436,
+                "name": "NC100",
+                "type": "parking",
+                "latitude": 42.301569571734056,
+                "longitude": -83.70562913549634
+            },
+            {
+                "id": 193813106,
+                "name": "U-M P2 M18 Taubman Structure",
+                "type": "parking",
+                "latitude": 42.283299955964864,
+                "longitude": -83.72753354448731
+            },
+            {
+                "id": 193910369,
+                "name": "U-M Lot P1 M15 North Entrance Structure",
+                "type": "parking",
+                "latitude": 42.28492226038848,
+                "longitude": -83.73249071295739
+            },
+            {
+                "id": 193911886,
+                "name": "U-M Lot M34",
+                "type": "parking",
+                "latitude": 42.27982668408905,
+                "longitude": -83.73064272657201
+            },
+            {
+                "id": 193911893,
+                "name": "U-M Lot M28",
+                "type": "parking",
+                "latitude": 42.28029490863544,
+                "longitude": -83.72867332122387
+            },
+            {
+                "id": 223569638,
+                "name": "U-M M61 Glen Structure",
+                "type": "parking",
+                "latitude": 42.28364328243498,
+                "longitude": -83.73648751045707
+            },
+            {
+                "id": 226571543,
+                "name": "Lot M75",
+                "type": "parking",
+                "latitude": 42.28682311357642,
+                "longitude": -83.72262681452816
+            },
+            {
+                "id": 226571631,
+                "name": "U of M Lot NC 78",
+                "type": "parking",
+                "latitude": 42.287671903956394,
+                "longitude": -83.72247893616608
+            },
+            {
+                "id": 230128786,
+                "name": "Duderstadt Center",
+                "type": "library",
+                "latitude": 42.29116256559188,
+                "longitude": -83.71572828941426
+            },
+            {
+                "id": 242389278,
+                "name": "NC82",
+                "type": "parking",
+                "latitude": 42.30156300998911,
+                "longitude": -83.70167014412942
+            },
+            {
+                "id": 242389279,
+                "name": "NC84",
+                "type": "parking",
+                "latitude": 42.30053812499903,
+                "longitude": -83.70353774049704
+            },
+            {
+                "id": 242389280,
+                "name": "NC86",
+                "type": "parking",
+                "latitude": 42.29925429858727,
+                "longitude": -83.7020415474734
+            },
+            {
+                "id": 242389281,
+                "name": "U of M Lot NC 91",
+                "type": "parking",
+                "latitude": 42.29692705089604,
+                "longitude": -83.70743474712587
+            },
+            {
+                "id": 265956889,
+                "name": "U of M Lot NC 51",
+                "type": "parking",
+                "latitude": 42.289127820720275,
+                "longitude": -83.70564791408637
+            },
+            {
+                "id": 265956891,
+                "name": "U of M Lot NC 52",
+                "type": "parking",
+                "latitude": 42.28838104999999,
+                "longitude": -83.70713015000001
+            },
+            {
+                "id": 270901208,
+                "name": "State Street Park and Ride",
+                "type": "parking",
+                "latitude": 42.248683731422446,
+                "longitude": -83.74069979104335
+            },
+            {
+                "id": 291926400,
+                "name": "Gerald R. Ford Presidential Library",
+                "type": "library",
+                "latitude": 42.288577212795396,
+                "longitude": -83.712295290459
+            },
+            {
+                "id": 291927192,
+                "name": "Bentley Historical Library",
+                "type": "library",
+                "latitude": 42.28956236839375,
+                "longitude": -83.71225643887257
+            },
+            {
+                "id": 292320670,
+                "name": "NC65",
+                "type": "parking",
+                "latitude": 42.29695208988685,
+                "longitude": -83.70241323521945
+            },
+            {
+                "id": 292322283,
+                "name": "NC34",
+                "type": "parking",
+                "latitude": 42.29741177439988,
+                "longitude": -83.70250530790736
+            },
+            {
+                "id": 292322288,
+                "name": "NC9",
+                "type": "parking",
+                "latitude": 42.29807811239735,
+                "longitude": -83.70209120637762
+            },
+            {
+                "id": 292333839,
+                "name": "NC99",
+                "type": "parking",
+                "latitude": 42.30148071050532,
+                "longitude": -83.70678485089311
+            },
+            {
+                "id": 298600690,
+                "name": "Ann Arbor Fire Department Station 5",
+                "type": "fire_station",
+                "latitude": 42.30055064059309,
+                "longitude": -83.71226170470227
+            },
+            {
+                "id": 302169787,
+                "name": "Taubman Health Sciences Library",
+                "type": "library",
+                "latitude": 42.28358327734774,
+                "longitude": -83.73453605778292
+            },
+            {
+                "id": 305031997,
+                "name": "U-M M86 Ann Structure",
+                "type": "parking",
+                "latitude": 42.28254578799528,
+                "longitude": -83.73474399187472
+            },
+            {
+                "id": 305031998,
+                "name": "U-M M5 Catherine Structure",
+                "type": "parking",
+                "latitude": 42.282922444993105,
+                "longitude": -83.73477410136445
+            },
+            {
+                "id": 305362452,
+                "name": "U of M Lot NC 22",
+                "type": "parking",
+                "latitude": 42.29314333167234,
+                "longitude": -83.70996229019191
+            },
+            {
+                "id": 305610779,
+                "name": "Ford Library Parking Lot NC 47",
+                "type": "parking",
+                "latitude": 42.28795467485966,
+                "longitude": -83.71233086112126
+            },
+            {
+                "id": 313502936,
+                "name": "Ambulatory Surgery and Medical Procedures Center",
+                "type": "clinic",
+                "latitude": 42.308764396546394,
+                "longitude": -83.67275126209948
+            },
+            {
+                "id": 313502937,
+                "name": "Rachel Upjohn Building",
+                "type": "clinic",
+                "latitude": 42.30764788469906,
+                "longitude": -83.67525518668656
+            },
+            {
+                "id": 313502938,
+                "name": "East Ann Arbor Health and Geriatric Center",
+                "type": "clinic",
+                "latitude": 42.30797749361654,
+                "longitude": -83.67382891276664
+            },
+            {
+                "id": 316162240,
+                "name": "U-M Lot M10",
+                "type": "parking",
+                "latitude": 42.2849470190139,
+                "longitude": -83.7281588081573
+            },
+            {
+                "id": 316162241,
+                "name": "U-M Lot M13",
+                "type": "parking",
+                "latitude": 42.28380224082363,
+                "longitude": -83.73043426789812
+            },
+            {
+                "id": 316162242,
+                "name": "U-M Lot M27",
+                "type": "parking",
+                "latitude": 42.28257588901859,
+                "longitude": -83.73398418977993
+            },
+            {
+                "id": 316162244,
+                "name": "U-M Lot M36",
+                "type": "parking",
+                "latitude": 42.28357343469522,
+                "longitude": -83.73520826794224
+            },
+            {
+                "id": 316162245,
+                "name": "U-M Lot M44",
+                "type": "parking",
+                "latitude": 42.28166677939353,
+                "longitude": -83.7314075911302
+            },
+            {
+                "id": 316162246,
+                "name": "U-M Lot M45",
+                "type": "parking",
+                "latitude": 42.28079356741742,
+                "longitude": -83.7313129548954
+            },
+            {
+                "id": 316162248,
+                "name": "U-M Lot M53",
+                "type": "parking",
+                "latitude": 42.28484884074824,
+                "longitude": -83.73081130347683
+            },
+            {
+                "id": 316162249,
+                "name": "U-M Lot M54",
+                "type": "parking",
+                "latitude": 42.28411732850352,
+                "longitude": -83.73517769660609
+            },
+            {
+                "id": 316162250,
+                "name": "U-M Lot M55",
+                "type": "parking",
+                "latitude": 42.28487565801293,
+                "longitude": -83.73320145038849
+            },
+            {
+                "id": 316162251,
+                "name": "U-M Lot M69",
+                "type": "parking",
+                "latitude": 42.284776993481,
+                "longitude": -83.7347225837337
+            },
+            {
+                "id": 316162253,
+                "name": "U-M Lot M83",
+                "type": "parking",
+                "latitude": 42.285502471179655,
+                "longitude": -83.73089496945798
+            },
+            {
+                "id": 316162254,
+                "name": "U-M Lot M89",
+                "type": "parking",
+                "latitude": 42.28216802291697,
+                "longitude": -83.73456983409345
+            },
+            {
+                "id": 316162256,
+                "name": "U-M Lot M95",
+                "type": "parking",
+                "latitude": 42.28100457653708,
+                "longitude": -83.72724347462601
+            },
+            {
+                "id": 316162257,
+                "name": "U-M P3 Structure",
+                "type": "parking",
+                "latitude": 42.282629464364845,
+                "longitude": -83.72728351874711
+            },
+            {
+                "id": 327467826,
+                "name": "VA Ann Arbor Healthcare System",
+                "type": "hospital",
+                "latitude": 42.28634893664628,
+                "longitude": -83.71473095503852
+            },
+            {
+                "id": 346916123,
+                "name": "Mcity Test Facility",
+                "type": "driver_training",
+                "latitude": 42.30056772208128,
+                "longitude": -83.6983420426557
+            },
+            {
+                "id": 382245084,
+                "name": "Thompson Structure",
+                "type": "parking",
+                "latitude": 42.275550919549715,
+                "longitude": -83.74364720016781
+            },
+            {
+                "id": 382593635,
+                "name": "Glick",
+                "type": "parking",
+                "latitude": 42.264293259033224,
+                "longitude": -83.74071770107265
+            },
+            {
+                "id": 382593637,
+                "name": "U-M Lot SC20 (Athletics Campus Grey Lot)",
+                "type": "parking",
+                "latitude": 42.26792939756622,
+                "longitude": -83.742924043677
+            },
+            {
+                "id": 382593638,
+                "name": "U-M Lot SC37 (Revelli Hall)",
+                "type": "parking",
+                "latitude": 42.269274392717584,
+                "longitude": -83.74521155608873
+            },
+            {
+                "id": 382593639,
+                "name": "U-M Lot SC5 / Champions East",
+                "type": "parking",
+                "latitude": 42.266083588969714,
+                "longitude": -83.7461001350169
+            },
+            {
+                "id": 445709912,
+                "name": "U-M Lot SC36 / Champions North",
+                "type": "parking",
+                "latitude": 42.26814728184607,
+                "longitude": -83.7496883176654
+            },
+            {
+                "id": 445709913,
+                "name": "U-M Lot SC2",
+                "type": "parking",
+                "latitude": 42.26846531263285,
+                "longitude": -83.74827003819861
+            },
+            {
+                "id": 445709917,
+                "name": "U-M Lot SC35 / Buffalo Lot",
+                "type": "parking",
+                "latitude": 42.26848970413741,
+                "longitude": -83.74873327592735
+            },
+            {
+                "id": 454598899,
+                "name": "Radiology",
+                "type": "clinic",
+                "latitude": 42.308566344979546,
+                "longitude": -83.67344393404237
+            },
+            {
+                "id": 460494756,
+                "name": "concessions",
+                "type": "fast_food",
+                "latitude": 42.26754690460376,
+                "longitude": -83.74833495465296
+            },
+            {
+                "id": 487058610,
+                "name": "Towsley Chidren House",
+                "type": "childcare",
+                "latitude": 42.2734362255236,
+                "longitude": -83.7335642681439
+            },
+            {
+                "id": 490236476,
+                "name": "First Aid",
+                "type": "clinic",
+                "latitude": 42.26746150450776,
+                "longitude": -83.74935068137029
+            },
+            {
+                "id": 501446761,
+                "name": "U-M Lot SC3",
+                "type": "parking",
+                "latitude": 42.26819964564529,
+                "longitude": -83.74709010704396
+            },
+            {
+                "id": 501446763,
+                "name": "U-M Lot SC14",
+                "type": "parking",
+                "latitude": 42.269744358731145,
+                "longitude": -83.74726002563888
+            },
+            {
+                "id": 504121174,
+                "name": "Central Campus Transit Center",
+                "type": "bus_station",
+                "latitude": 42.27794430035634,
+                "longitude": -83.73522763164063
+            },
+            {
+                "id": 506047601,
+                "name": "U-M Lot W13",
+                "type": "parking",
+                "latitude": 42.27716166913944,
+                "longitude": -83.74271431576308
+            },
+            {
+                "id": 537817000,
+                "name": "U-M Lot M7",
+                "type": "parking",
+                "latitude": 42.28515525670327,
+                "longitude": -83.73003306817164
+            },
+            {
+                "id": 537955543,
+                "name": "U-M Lot M52",
+                "type": "motorcycle_parking",
+                "latitude": 42.28182349817841,
+                "longitude": -83.7297721976166
+            },
+            {
+                "id": 537956100,
+                "name": "U-M Lot M16",
+                "type": "motorcycle_parking",
+                "latitude": 42.283246484838266,
+                "longitude": -83.728615725067
+            },
+            {
+                "id": 572941818,
+                "name": "University of Michigan Lot S5",
+                "type": "parking",
+                "latitude": 42.272514096903684,
+                "longitude": -83.7397480830387
+            },
+            {
+                "id": 578595792,
+                "name": "U-M Lot C2",
+                "type": "parking",
+                "latitude": 42.27814905448926,
+                "longitude": -83.73959794620862
+            },
+            {
+                "id": 582981041,
+                "name": "University of Michigan Medical Center",
+                "type": "hospital",
+                "latitude": 42.28359560271124,
+                "longitude": -83.73057818703639
+            },
+            {
+                "id": 589346688,
+                "name": "Service Center Lot S9",
+                "type": "parking",
+                "latitude": 42.2741473308625,
+                "longitude": -83.74027031186674
+            },
+            {
+                "id": 612103759,
+                "name": "Concessions",
+                "type": "fast_food",
+                "latitude": 42.26755647455818,
+                "longitude": -83.74907825321505
+            },
+            {
+                "id": 624463907,
+                "name": "Bentley Historical Library Visitor Parking U of M Lot NC 42",
+                "type": "parking",
+                "latitude": 42.28931139807779,
+                "longitude": -83.71247987425393
+            },
+            {
+                "id": 640615059,
+                "name": "Lot SC 16",
+                "type": "parking",
+                "latitude": 42.26550371662461,
+                "longitude": -83.7446389565137
+            },
+            {
+                "id": 661210612,
+                "name": "M Air",
+                "type": "laboratory",
+                "latitude": 42.29443679255365,
+                "longitude": -83.71045375157976
+            },
+            {
+                "id": 768781299,
+                "name": "UM Lot W9",
+                "type": "parking",
+                "latitude": 42.274455838250034,
+                "longitude": -83.74483287657064
+            },
+            {
+                "id": 768781300,
+                "name": "UM Lot W10",
+                "type": "parking",
+                "latitude": 42.2749974881847,
+                "longitude": -83.74566018628254
+            },
+            {
+                "id": 952438276,
+                "name": "U of M Lot EC 1",
+                "type": "parking",
+                "latitude": 42.30873161592664,
+                "longitude": -83.66988242271701
+            },
+            {
+                "id": 992493802,
+                "name": "NC85",
+                "type": "parking",
+                "latitude": 42.29914638410028,
+                "longitude": -83.70309863831237
+            },
+            {
+                "id": 993468113,
+                "name": "NCRC Vaccine Clinic Parking",
+                "type": "parking",
+                "latitude": 42.30170349745583,
+                "longitude": -83.70311502844646
+            },
+            {
+                "id": 1021817970,
+                "name": "U-M Lot SC34",
+                "type": "parking",
+                "latitude": 42.247950678933286,
+                "longitude": -83.74007366926426
+            },
+            {
+                "id": 1071788727,
+                "name": "U of M Lot NC 106",
+                "type": "parking",
+                "latitude": 42.294942028014596,
+                "longitude": -83.70938118515022
+            },
+            {
+                "id": 1072140421,
+                "name": "U of M Lot NC 56",
+                "type": "parking",
+                "latitude": 42.29293002482138,
+                "longitude": -83.70993671939785
+            },
+            {
+                "id": 1074056798,
+                "name": "U of M Lot NC 23",
+                "type": "parking",
+                "latitude": 42.29324799107215,
+                "longitude": -83.71032455726981
+            },
+            {
+                "id": 1074359322,
+                "name": "U of M Wind Tunnel Lab Parking",
+                "type": "parking",
+                "latitude": 42.293701810782345,
+                "longitude": -83.71066129982731
+            },
+            {
+                "id": 1075934292,
+                "name": "U of M Lot NC 29",
+                "type": "parking",
+                "latitude": 42.29446845334261,
+                "longitude": -83.71125537493275
+            },
+            {
+                "id": 1161121830,
+                "name": "U of M Service Center Lot NC 6",
+                "type": "parking",
+                "latitude": 42.28876178383058,
+                "longitude": -83.71403536689627
+            },
+            {
+                "id": 1163722019,
+                "name": "U of M Lot NC 8",
+                "type": "parking",
+                "latitude": 42.28800255000001,
+                "longitude": -83.71355075
+            },
+            {
+                "id": 1165291571,
+                "name": "U of M Service Center NC 71",
+                "type": "parking",
+                "latitude": 42.29248408168588,
+                "longitude": -83.70957929391759
+            },
+            {
+                "id": 1186536867,
+                "name": "U of M Lot NC 57",
+                "type": "parking",
+                "latitude": 42.29008592395541,
+                "longitude": -83.72129322887223
+            },
+            {
+                "id": 3999761,
+                "name": "U-M P4 M22 Simpson Circle Parking Structure",
+                "type": "parking",
+                "latitude": 42.28198016300666,
+                "longitude": -83.72920554704083
+            },
+            {
+                "id": 82246736,
+                "name": "Bob and Betty Beyster Building",
+                "type": "nan",
+                "latitude": 42.29296400974245,
+                "longitude": -83.71626680359543
+            },
+            {
+                "id": 82246798,
+                "name": "Herbert H. Dow Building",
+                "type": "nan",
+                "latitude": 42.29301702593856,
+                "longitude": -83.7154363591452
+            },
+            {
+                "id": 82249123,
+                "name": "Ann and Robert H. Lurie Tower",
+                "type": "nan",
+                "latitude": 42.29199707619029,
+                "longitude": -83.71618074897548
+            },
+            {
+                "id": 82249280,
+                "name": "G. G. Brown Building",
+                "type": "nan",
+                "latitude": 42.293244743510385,
+                "longitude": -83.71389830262581
+            },
+            {
+                "id": 99883661,
+                "name": "West Hall",
+                "type": "nan",
+                "latitude": 42.275901118214854,
+                "longitude": -83.73635270166173
+            },
+            {
+                "id": 99883679,
+                "name": "School of Kinesiology Building",
+                "type": "nan",
+                "latitude": 42.27807799524039,
+                "longitude": -83.73891980500326
+            },
+            {
+                "id": 112683517,
+                "name": "Wolverine Tower",
+                "type": "nan",
+                "latitude": 42.243259951710414,
+                "longitude": -83.73720718697534
+            },
+            {
+                "id": 128634894,
+                "name": "Yost Ice Arena",
+                "type": "nan",
+                "latitude": 42.267615144690794,
+                "longitude": -83.74102549561059
+            },
+            {
+                "id": 154202605,
+                "name": "Ruthven Building",
+                "type": "nan",
+                "latitude": 42.27829161090395,
+                "longitude": -83.73457689427907
+            },
+            {
+                "id": 154202607,
+                "name": "Kelsey Museum of Archaeology",
+                "type": "nan",
+                "latitude": 42.27674155196467,
+                "longitude": -83.741374353401
+            },
+            {
+                "id": 154202608,
+                "name": "Perry Building",
+                "type": "nan",
+                "latitude": 42.274516957056875,
+                "longitude": -83.7453680753749
+            },
+            {
+                "id": 154202613,
+                "name": "University of Michigan Museum of Art",
+                "type": "nan",
+                "latitude": 42.275594194688225,
+                "longitude": -83.73982679343611
+            },
+            {
+                "id": 154202629,
+                "name": "Frankel Cardiovascular Center",
+                "type": "nan",
+                "latitude": 42.28332384059253,
+                "longitude": -83.73111215486664
+            },
+            {
+                "id": 154202631,
+                "name": "Couzens Hall",
+                "type": "nan",
+                "latitude": 42.281924668262306,
+                "longitude": -83.73255236301854
+            },
+            {
+                "id": 154202651,
+                "name": "Helen Newberry Residence",
+                "type": "nan",
+                "latitude": 42.276939996661994,
+                "longitude": -83.74155786344102
+            },
+            {
+                "id": 154202652,
+                "name": "President's Residence",
+                "type": "nan",
+                "latitude": 42.275353305290835,
+                "longitude": -83.73863952669664
+            },
+            {
+                "id": 154202653,
+                "name": "Gerald R. Ford School of Public Policy - Weill Hall",
+                "type": "nan",
+                "latitude": 42.27239892907981,
+                "longitude": -83.74031325373836
+            },
+            {
+                "id": 154202662,
+                "name": "Blau Hall",
+                "type": "nan",
+                "latitude": 42.27309437313668,
+                "longitude": -83.73641484239795
+            },
+            {
+                "id": 154202668,
+                "name": "Molecular and Behavioral Neuroscience Institute",
+                "type": "nan",
+                "latitude": 42.28290454279701,
+                "longitude": -83.7340795453131
+            },
+            {
+                "id": 154202671,
+                "name": "Towsley Center For Continuing Medical Education",
+                "type": "nan",
+                "latitude": 42.28367462003273,
+                "longitude": -83.72892136470453
+            },
+            {
+                "id": 154202673,
+                "name": "Wyly Hall",
+                "type": "nan",
+                "latitude": 42.27238092549119,
+                "longitude": -83.73613016537759
+            },
+            {
+                "id": 154202677,
+                "name": "The Connector",
+                "type": "nan",
+                "latitude": 42.27458350856413,
+                "longitude": -83.74193317361883
+            },
+            {
+                "id": 154202689,
+                "name": "Randall Lab",
+                "type": "nan",
+                "latitude": 42.276644220493786,
+                "longitude": -83.73661666115309
+            },
+            {
+                "id": 154203570,
+                "name": "Victor Vaughan House",
+                "type": "nan",
+                "latitude": 42.28369256903038,
+                "longitude": -83.73505441676872
+            },
+            {
+                "id": 154203572,
+                "name": "Alice Lloyd Hall",
+                "type": "nan",
+                "latitude": 42.2812593124264,
+                "longitude": -83.7316823339478
+            },
+            {
+                "id": 154203574,
+                "name": "Sigma Chi",
+                "type": "nan",
+                "latitude": 42.274650372744325,
+                "longitude": -83.74120051008674
+            },
+            {
+                "id": 154203580,
+                "name": "Michigan League",
+                "type": "nan",
+                "latitude": 42.27931088165772,
+                "longitude": -83.73757539642973
+            },
+            {
+                "id": 154203581,
+                "name": "School of Social Work",
+                "type": "nan",
+                "latitude": 42.27459765136342,
+                "longitude": -83.73646277983018
+            },
+            {
+                "id": 154203584,
+                "name": "Lorch Hall",
+                "type": "nan",
+                "latitude": 42.27374408519734,
+                "longitude": -83.73745425938529
+            },
+            {
+                "id": 154203590,
+                "name": "Central Campus Recreation Building",
+                "type": "nan",
+                "latitude": 42.27822606221003,
+                "longitude": -83.73270806282578
+            },
+            {
+                "id": 154203632,
+                "name": "Modern Languages Building",
+                "type": "nan",
+                "latitude": 42.27987985956704,
+                "longitude": -83.73907907187247
+            },
+            {
+                "id": 154203634,
+                "name": "Samuel Trask Dana Natural Resources Building",
+                "type": "nan",
+                "latitude": 42.2773223522414,
+                "longitude": -83.73660900729124
+            },
+            {
+                "id": 154203635,
+                "name": "East Hall",
+                "type": "nan",
+                "latitude": 42.275756109802174,
+                "longitude": -83.73520299564508
+            },
+            {
+                "id": 154203645,
+                "name": "Betsy Barbour Residence",
+                "type": "nan",
+                "latitude": 42.27728465909451,
+                "longitude": -83.74155776161064
+            },
+            {
+                "id": 154203671,
+                "name": "Lawyer's Club",
+                "type": "nan",
+                "latitude": 42.27452484575562,
+                "longitude": -83.73944611624142
+            },
+            {
+                "id": 154203686,
+                "name": "Literature Science And The Arts",
+                "type": "nan",
+                "latitude": 42.27619997581003,
+                "longitude": -83.74135763900246
+            },
+            {
+                "id": 154203688,
+                "name": "Martha Cook",
+                "type": "nan",
+                "latitude": 42.27453993501174,
+                "longitude": -83.7379642213904
+            },
+            {
+                "id": 154203693,
+                "name": "Hutchins Hall",
+                "type": "nan",
+                "latitude": 42.273647555872905,
+                "longitude": -83.7402287246983
+            },
+            {
+                "id": 154203713,
+                "name": "Alpha Delta Phi",
+                "type": "nan",
+                "latitude": 42.274424527521816,
+                "longitude": -83.74127413663355
+            },
+            {
+                "id": 154232114,
+                "name": "Alumni Center",
+                "type": "nan",
+                "latitude": 42.28012232217882,
+                "longitude": -83.73765487687032
+            },
+            {
+                "id": 154232126,
+                "name": "Canham Natatorium",
+                "type": "nan",
+                "latitude": 42.26930131363883,
+                "longitude": -83.74376957417378
+            },
+            {
+                "id": 154232127,
+                "name": "Central Power Plant",
+                "type": "nan",
+                "latitude": 42.28077223254612,
+                "longitude": -83.7345055434478
+            },
+            {
+                "id": 154232130,
+                "name": "Cliff Keen Arena",
+                "type": "nan",
+                "latitude": 42.26936650077946,
+                "longitude": -83.74127378166773
+            },
+            {
+                "id": 154232131,
+                "name": "University Health Service",
+                "type": "nan",
+                "latitude": 42.279765890160505,
+                "longitude": -83.73668103177481
+            },
+            {
+                "id": 154232133,
+                "name": "Indoor Track Building",
+                "type": "nan",
+                "latitude": 42.26753558279758,
+                "longitude": -83.7437627396326
+            },
+            {
+                "id": 154232135,
+                "name": "Intramural Sports Building",
+                "type": "nan",
+                "latitude": 42.26939104067722,
+                "longitude": -83.74223650388413
+            },
+            {
+                "id": 154232137,
+                "name": "Life Sciences Institute",
+                "type": "nan",
+                "latitude": 42.27964607479848,
+                "longitude": -83.73419385706511
+            },
+            {
+                "id": 154232140,
+                "name": "Michigan News Building",
+                "type": "nan",
+                "latitude": 42.277463541278316,
+                "longitude": -83.7422829748637
+            },
+            {
+                "id": 154232145,
+                "name": "Palmer Commons",
+                "type": "nan",
+                "latitude": 42.28068888036574,
+                "longitude": -83.73387299273797
+            },
+            {
+                "id": 154232147,
+                "name": "Plant Services Building",
+                "type": "nan",
+                "latitude": 42.28052544999999,
+                "longitude": -83.73517779999999
+            },
+            {
+                "id": 154232148,
+                "name": "Stephen M. Ross Academic Center",
+                "type": "nan",
+                "latitude": 42.26859341361514,
+                "longitude": -83.74099261524339
+            },
+            {
+                "id": 154232149,
+                "name": "Ross School of Business Building",
+                "type": "nan",
+                "latitude": 42.2726736249295,
+                "longitude": -83.73759782493013
+            },
+            {
+                "id": 154232151,
+                "name": "South Quadrangle",
+                "type": "nan",
+                "latitude": 42.273690418426185,
+                "longitude": -83.74213391031644
+            },
+            {
+                "id": 154232154,
+                "name": "Stockwell",
+                "type": "nan",
+                "latitude": 42.27879060053051,
+                "longitude": -83.73162341479222
+            },
+            {
+                "id": 154232156,
+                "name": "Institute for Social Research",
+                "type": "nan",
+                "latitude": 42.27676616075413,
+                "longitude": -83.7436954156238
+            },
+            {
+                "id": 154232157,
+                "name": "Stanford Lipsey Student Publications Building",
+                "type": "nan",
+                "latitude": 42.27706764999999,
+                "longitude": -83.7422832
+            },
+            {
+                "id": 154232159,
+                "name": "Undergraduate Science Building",
+                "type": "nan",
+                "latitude": 42.279911072394675,
+                "longitude": -83.73505628009698
+            },
+            {
+                "id": 190113034,
+                "name": "Sports Coliseum",
+                "type": "nan",
+                "latitude": 42.27203913302471,
+                "longitude": -83.7459448354618
+            },
+            {
+                "id": 190113045,
+                "name": "Oosterbaan Field House",
+                "type": "nan",
+                "latitude": 42.26589814967073,
+                "longitude": -83.74234845306046
+            },
+            {
+                "id": 190113093,
+                "name": "Glick Field House",
+                "type": "nan",
+                "latitude": 42.26521545395737,
+                "longitude": -83.74110365435034
+            },
+            {
+                "id": 193357102,
+                "name": "Burton Tower",
+                "type": "nan",
+                "latitude": 42.279446199537645,
+                "longitude": -83.73871465339643
+            },
+            {
+                "id": 193805531,
+                "name": "Schembechler Hall",
+                "type": "nan",
+                "latitude": 42.266043697164164,
+                "longitude": -83.74114039647844
+            },
+            {
+                "id": 224112759,
+                "name": "Bursley Hall",
+                "type": "nan",
+                "latitude": 42.293751343324395,
+                "longitude": -83.71995675489086
+            },
+            {
+                "id": 224646230,
+                "name": "Mosher-Jordan Hall",
+                "type": "nan",
+                "latitude": 42.28010827200516,
+                "longitude": -83.73151373380675
+            },
+            {
+                "id": 226571545,
+                "name": "Mitchell Field Building",
+                "type": "nan",
+                "latitude": 42.28686103347345,
+                "longitude": -83.7230996698252
+            },
+            {
+                "id": 228374723,
+                "name": "Northwood II Service Building",
+                "type": "nan",
+                "latitude": 42.2977743,
+                "longitude": -83.71572985
+            },
+            {
+                "id": 242379149,
+                "name": "Electrical Engineering and Computer Science Building",
+                "type": "nan",
+                "latitude": 42.29241374255741,
+                "longitude": -83.7140324757399
+            },
+            {
+                "id": 242379150,
+                "name": "Environmental and Water Resources Engineering",
+                "type": "nan",
+                "latitude": 42.29277525667796,
+                "longitude": -83.71340787404566
+            },
+            {
+                "id": 249659008,
+                "name": "Weiser Hall",
+                "type": "nan",
+                "latitude": 42.276493562899596,
+                "longitude": -83.73500856363628
+            },
+            {
+                "id": 249659161,
+                "name": "Jeffries Hall",
+                "type": "nan",
+                "latitude": 42.27300286576998,
+                "longitude": -83.7400354227492
+            },
+            {
+                "id": 249660507,
+                "name": "Chrysler Center",
+                "type": "nan",
+                "latitude": 42.29092945169891,
+                "longitude": -83.71669554880451
+            },
+            {
+                "id": 249660520,
+                "name": "Francois‑Xavier Bagnoud Building",
+                "type": "nan",
+                "latitude": 42.29351567906364,
+                "longitude": -83.71196451723026
+            },
+            {
+                "id": 256664314,
+                "name": "Baits II Conger House",
+                "type": "nan",
+                "latitude": 42.29351511044758,
+                "longitude": -83.72317201454605
+            },
+            {
+                "id": 256664460,
+                "name": "Baits II Cross House",
+                "type": "nan",
+                "latitude": 42.29370687548301,
+                "longitude": -83.72386685275715
+            },
+            {
+                "id": 256664461,
+                "name": "Baits II Coman House",
+                "type": "nan",
+                "latitude": 42.29406297515894,
+                "longitude": -83.72331871499208
+            },
+            {
+                "id": 256664474,
+                "name": "Baits II Coman House Annex",
+                "type": "nan",
+                "latitude": 42.29406004802655,
+                "longitude": -83.72283181222288
+            },
+            {
+                "id": 256664640,
+                "name": "Baits II Ziwet House",
+                "type": "nan",
+                "latitude": 42.294359834733235,
+                "longitude": -83.72462442356093
+            },
+            {
+                "id": 256664760,
+                "name": "Baits II Thieme House",
+                "type": "nan",
+                "latitude": 42.29400851844155,
+                "longitude": -83.72497181585858
+            },
+            {
+                "id": 256664893,
+                "name": "Baits I",
+                "type": "nan",
+                "latitude": 42.29261920970859,
+                "longitude": -83.72339432964249
+            },
+            {
+                "id": 256665092,
+                "name": "Baits I",
+                "type": "nan",
+                "latitude": 42.29202943820546,
+                "longitude": -83.72279541045428
+            },
+            {
+                "id": 256665208,
+                "name": "Baits I",
+                "type": "nan",
+                "latitude": 42.2914190865655,
+                "longitude": -83.72277020431409
+            },
+            {
+                "id": 256665283,
+                "name": "Baits I",
+                "type": "nan",
+                "latitude": 42.290918205223896,
+                "longitude": -83.72275337684398
+            },
+            {
+                "id": 256665328,
+                "name": "Baits I",
+                "type": "nan",
+                "latitude": 42.29110210526989,
+                "longitude": -83.72328720680304
+            },
+            {
+                "id": 256667234,
+                "name": "Beta Theta Pi",
+                "type": "nan",
+                "latitude": 42.273886886510205,
+                "longitude": -83.74107558948045
+            },
+            {
+                "id": 256667299,
+                "name": "Outdoor Adventures",
+                "type": "nan",
+                "latitude": 42.27153707625985,
+                "longitude": -83.74471845992181
+            },
+            {
+                "id": 260513912,
+                "name": "Arbor Lakes 3",
+                "type": "nan",
+                "latitude": 42.31058291711611,
+                "longitude": -83.67566543589345
+            },
+            {
+                "id": 260513921,
+                "name": "Arbor Lakes 1",
+                "type": "nan",
+                "latitude": 42.31107988224641,
+                "longitude": -83.67627690693858
+            },
+            {
+                "id": 260513924,
+                "name": "Arbor Lakes 2",
+                "type": "nan",
+                "latitude": 42.31126498600372,
+                "longitude": -83.67550783907329
+            },
+            {
+                "id": 291762175,
+                "name": "Lay Automotive Engineering Laboratory",
+                "type": "nan",
+                "latitude": 42.29188690195547,
+                "longitude": -83.7139712366265
+            },
+            {
+                "id": 291762176,
+                "name": "Robert H. Lurie Engineering Center",
+                "type": "nan",
+                "latitude": 42.29152678672099,
+                "longitude": -83.71383202084931
+            },
+            {
+                "id": 291762177,
+                "name": "Industrial and Operations Engineering Building",
+                "type": "nan",
+                "latitude": 42.29107608966466,
+                "longitude": -83.71374980628222
+            },
+            {
+                "id": 291762178,
+                "name": "Cooley Laboratory",
+                "type": "nan",
+                "latitude": 42.29062594291976,
+                "longitude": -83.71366269922162
+            },
+            {
+                "id": 291923874,
+                "name": "North Campus Recreation Building",
+                "type": "nan",
+                "latitude": 42.29550654276269,
+                "longitude": -83.72017697827476
+            },
+            {
+                "id": 291965358,
+                "name": "Gerstacker Building",
+                "type": "nan",
+                "latitude": 42.28968298211603,
+                "longitude": -83.714455990065
+            },
+            {
+                "id": 291965359,
+                "name": "Bonisteel Interdisciplinary Research Building",
+                "type": "nan",
+                "latitude": 42.28994502687987,
+                "longitude": -83.71351444661595
+            },
+            {
+                "id": 291965361,
+                "name": "Lurie Biomedical Engineering Building",
+                "type": "nan",
+                "latitude": 42.28890041440815,
+                "longitude": -83.71359375738606
+            },
+            {
+                "id": 291965362,
+                "name": "Michigan Memorial Phoenix Project",
+                "type": "nan",
+                "latitude": 42.29086510743855,
+                "longitude": -83.71472293373346
+            },
+            {
+                "id": 291965654,
+                "name": "Engineering Research Building II",
+                "type": "nan",
+                "latitude": 42.2895597545291,
+                "longitude": -83.71519047769024
+            },
+            {
+                "id": 291965655,
+                "name": "Engineering Research Building I",
+                "type": "nan",
+                "latitude": 42.28950714079412,
+                "longitude": -83.7148830252352
+            },
+            {
+                "id": 291965656,
+                "name": "School of Information North",
+                "type": "nan",
+                "latitude": 42.28896671710136,
+                "longitude": -83.71441388590706
+            },
+            {
+                "id": 291967192,
+                "name": "Naval Architecture and Marine Engineering",
+                "type": "nan",
+                "latitude": 42.293083225626404,
+                "longitude": -83.70912471068924
+            },
+            {
+                "id": 292060477,
+                "name": "Radiation Sciences Lab #2",
+                "type": "nan",
+                "latitude": 42.29342532969853,
+                "longitude": -83.70914579822102
+            },
+            {
+                "id": 292060478,
+                "name": "Radiation Sciences Lab #1",
+                "type": "nan",
+                "latitude": 42.29339542537611,
+                "longitude": -83.70948706969259
+            },
+            {
+                "id": 292062565,
+                "name": "NC Chiller Plant",
+                "type": "nan",
+                "latitude": 42.29251435234561,
+                "longitude": -83.7091228205472
+            },
+            {
+                "id": 292062568,
+                "name": "Child Care Center",
+                "type": "nan",
+                "latitude": 42.288417753638875,
+                "longitude": -83.70777585101091
+            },
+            {
+                "id": 292062578,
+                "name": "Northwood I Service Building",
+                "type": "nan",
+                "latitude": 42.2957107,
+                "longitude": -83.71413574999998
+            },
+            {
+                "id": 292062579,
+                "name": "Northwood II Service Building",
+                "type": "nan",
+                "latitude": 42.297708899999996,
+                "longitude": -83.71369525000001
+            },
+            {
+                "id": 292063615,
+                "name": "Northwood II Service Building",
+                "type": "nan",
+                "latitude": 42.29671593486702,
+                "longitude": -83.71646314471545
+            },
+            {
+                "id": 292063619,
+                "name": "Northwood II Service Building",
+                "type": "nan",
+                "latitude": 42.29554914190958,
+                "longitude": -83.7155479403127
+            },
+            {
+                "id": 292064176,
+                "name": "Stearns Building",
+                "type": "nan",
+                "latitude": 42.29544971305611,
+                "longitude": -83.72602386789394
+            },
+            {
+                "id": 292318932,
+                "name": "North Campus Storage Building",
+                "type": "nan",
+                "latitude": 42.298591812211484,
+                "longitude": -83.69667943420478
+            },
+            {
+                "id": 292320668,
+                "name": "North Campus Administrative Complex",
+                "type": "nan",
+                "latitude": 42.2964130759164,
+                "longitude": -83.70292285724402
+            },
+            {
+                "id": 292322284,
+                "name": "Transportation Research Institute",
+                "type": "nan",
+                "latitude": 42.29804848216235,
+                "longitude": -83.70321141197721
+            },
+            {
+                "id": 292323781,
+                "name": "North Campus Housing Service Building",
+                "type": "nan",
+                "latitude": 42.298395521723634,
+                "longitude": -83.69588339342117
+            },
+            {
+                "id": 292323782,
+                "name": "North Campus Facilities Service Building",
+                "type": "nan",
+                "latitude": 42.29855661034941,
+                "longitude": -83.69788650986487
+            },
+            {
+                "id": 292323783,
+                "name": "Auxiliary Services Building 1",
+                "type": "nan",
+                "latitude": 42.299479149633456,
+                "longitude": -83.69386943550084
+            },
+            {
+                "id": 298600694,
+                "name": "Northwood IV Community Center",
+                "type": "nan",
+                "latitude": 42.297407283026786,
+                "longitude": -83.70911755094819
+            },
+            {
+                "id": 298600699,
+                "name": "Northwood II Service Building",
+                "type": "nan",
+                "latitude": 42.29863082595124,
+                "longitude": -83.71341548183968
+            },
+            {
+                "id": 299919497,
+                "name": "North Ingalls Building",
+                "type": "nan",
+                "latitude": 42.283476966545365,
+                "longitude": -83.73781447888796
+            },
+            {
+                "id": 300676078,
+                "name": "Angell Hall",
+                "type": "nan",
+                "latitude": 42.27669388937701,
+                "longitude": -83.73985862343397
+            },
+            {
+                "id": 300676079,
+                "name": "Mason Hall",
+                "type": "nan",
+                "latitude": 42.27706263615629,
+                "longitude": -83.7395113183242
+            },
+            {
+                "id": 300676080,
+                "name": "Haven Hall",
+                "type": "nan",
+                "latitude": 42.27648595368107,
+                "longitude": -83.73922342447842
+            },
+            {
+                "id": 300676081,
+                "name": "Tisch Hall",
+                "type": "nan",
+                "latitude": 42.27627998876132,
+                "longitude": -83.73958539341304
+            },
+            {
+                "id": 300681320,
+                "name": "Revelli Band Rehearsal Hall",
+                "type": "nan",
+                "latitude": 42.26925031416226,
+                "longitude": -83.74470191292721
+            },
+            {
+                "id": 300848284,
+                "name": "Medical Professional Building",
+                "type": "nan",
+                "latitude": 42.28209665,
+                "longitude": -83.72977590000002
+            },
+            {
+                "id": 300848288,
+                "name": "Mott Children's Hospital and Von Voigtlander Women's Hospital",
+                "type": "nan",
+                "latitude": 42.28204859633471,
+                "longitude": -83.72744420733947
+            },
+            {
+                "id": 300848289,
+                "name": "Cancer Center",
+                "type": "nan",
+                "latitude": 42.284449537224546,
+                "longitude": -83.73132242594853
+            },
+            {
+                "id": 300869095,
+                "name": "Observatory Hall",
+                "type": "nan",
+                "latitude": 42.280197470108234,
+                "longitude": -83.73070249546684
+            },
+            {
+                "id": 300870603,
+                "name": "Taubman Biomedical Science Research Building",
+                "type": "nan",
+                "latitude": 42.28188400830562,
+                "longitude": -83.73454333957497
+            },
+            {
+                "id": 302013294,
+                "name": "Gorguze Family Laboratory",
+                "type": "nan",
+                "latitude": 42.293195138164954,
+                "longitude": -83.71076670436584
+            },
+            {
+                "id": 302169785,
+                "name": "Medical Science Unit I",
+                "type": "nan",
+                "latitude": 42.28418165904303,
+                "longitude": -83.73261035259537
+            },
+            {
+                "id": 302169786,
+                "name": "Medical Sciences Research Building",
+                "type": "nan",
+                "latitude": 42.284609413840236,
+                "longitude": -83.73417146727317
+            },
+            {
+                "id": 302169788,
+                "name": "Medical Science Unit II",
+                "type": "nan",
+                "latitude": 42.284051824010845,
+                "longitude": -83.7338249832512
+            },
+            {
+                "id": 302169789,
+                "name": "Buhl Research Center for Human Genetics",
+                "type": "nan",
+                "latitude": 42.283446584904304,
+                "longitude": -83.73371480418109
+            },
+            {
+                "id": 302304851,
+                "name": "Boyer Building",
+                "type": "nan",
+                "latitude": 42.26975802455595,
+                "longitude": -83.74700595553796
+            },
+            {
+                "id": 302307924,
+                "name": "Taubman Health Care Center",
+                "type": "nan",
+                "latitude": 42.28360000824021,
+                "longitude": -83.72814193584705
+            },
+            {
+                "id": 302347135,
+                "name": "University Hospital",
+                "type": "nan",
+                "latitude": 42.28462880317566,
+                "longitude": -83.72939411891896
+            },
+            {
+                "id": 302347136,
+                "name": "Neuroscience Hospital",
+                "type": "nan",
+                "latitude": 42.283058418487244,
+                "longitude": -83.72939439708328
+            },
+            {
+                "id": 302431407,
+                "name": "Fletcher Hall",
+                "type": "nan",
+                "latitude": 42.27017827038518,
+                "longitude": -83.74275617516938
+            },
+            {
+                "id": 302435570,
+                "name": "School of Nursing Building",
+                "type": "nan",
+                "latitude": 42.2839610528303,
+                "longitude": -83.7377291688376
+            },
+            {
+                "id": 302527801,
+                "name": "Buhr Building",
+                "type": "nan",
+                "latitude": 42.27066799508493,
+                "longitude": -83.74692612805107
+            },
+            {
+                "id": 303371322,
+                "name": "Northwood I/II/III Community Center",
+                "type": "nan",
+                "latitude": 42.296889125170786,
+                "longitude": -83.71753929497667
+            },
+            {
+                "id": 303632984,
+                "name": "Business Administration Executive Dorm",
+                "type": "nan",
+                "latitude": 42.272768409942636,
+                "longitude": -83.73609077135592
+            },
+            {
+                "id": 306551604,
+                "name": "UM Tennis Center",
+                "type": "nan",
+                "latitude": 42.253526699999995,
+                "longitude": -83.74339445000001
+            },
+            {
+                "id": 306551605,
+                "name": "UM Gymnastics Center",
+                "type": "nan",
+                "latitude": 42.25255453973096,
+                "longitude": -83.7419858710239
+            },
+            {
+                "id": 306551606,
+                "name": "UM Wrestling Center",
+                "type": "nan",
+                "latitude": 42.252124310086714,
+                "longitude": -83.74305642284251
+            },
+            {
+                "id": 334625284,
+                "name": "Ronald McDonald House Charities of Ann Arbor",
+                "type": "nan",
+                "latitude": 42.28031503932617,
+                "longitude": -83.727229525857
+            },
+            {
+                "id": 372110885,
+                "name": "Weiser Tower",
+                "type": "nan",
+                "latitude": 42.27681254110379,
+                "longitude": -83.7353553331257
+            },
+            {
+                "id": 382245085,
+                "name": "523 South Division Building",
+                "type": "nan",
+                "latitude": 42.27550027579395,
+                "longitude": -83.74404948406857
+            },
+            {
+                "id": 382245086,
+                "name": "Munger Graduate Residences",
+                "type": "nan",
+                "latitude": 42.27471965065732,
+                "longitude": -83.74370826274918
+            },
+            {
+                "id": 384164266,
+                "name": "Detroit Observatory",
+                "type": "nan",
+                "latitude": 42.281975644303806,
+                "longitude": -83.73168032497901
+            },
+            {
+                "id": 384164268,
+                "name": "Simpson Memorial Institute",
+                "type": "nan",
+                "latitude": 42.281862225352256,
+                "longitude": -83.7307396432518
+            },
+            {
+                "id": 384167242,
+                "name": "202 South Thayer Building",
+                "type": "nan",
+                "latitude": 42.28009960769193,
+                "longitude": -83.73997434293948
+            },
+            {
+                "id": 384441488,
+                "name": "Campus Safety Services Building",
+                "type": "nan",
+                "latitude": 42.26519746745885,
+                "longitude": -83.74395479318031
+            },
+            {
+                "id": 393535456,
+                "name": "Junge Family Champions Center",
+                "type": "nan",
+                "latitude": 42.26553463672507,
+                "longitude": -83.74714224647032
+            },
+            {
+                "id": 393535457,
+                "name": "Marie Hartwig Building (Ticket Office)",
+                "type": "nan",
+                "latitude": 42.26895464098556,
+                "longitude": -83.74086457651974
+            },
+            {
+                "id": 393535461,
+                "name": "South Ferry Field Locker Complex",
+                "type": "nan",
+                "latitude": 42.26312883002847,
+                "longitude": -83.74087714324493
+            },
+            {
+                "id": 393535463,
+                "name": "Weidenbach Hall (Administration)",
+                "type": "nan",
+                "latitude": 42.26935476234914,
+                "longitude": -83.74086535575607
+            },
+            {
+                "id": 393535464,
+                "name": "William Davidson Player Development Center",
+                "type": "nan",
+                "latitude": 42.265193348809106,
+                "longitude": -83.745923370656
+            },
+            {
+                "id": 420814614,
+                "name": "Biological Sciences Building",
+                "type": "nan",
+                "latitude": 42.27897265041079,
+                "longitude": -83.73445827393755
+            },
+            {
+                "id": 443277789,
+                "name": "Division of Public Safety and Security",
+                "type": "nan",
+                "latitude": 42.274333999999996,
+                "longitude": -83.74786915000001
+            },
+            {
+                "id": 445709929,
+                "name": "The Institute of Continuing Legal Education",
+                "type": "nan",
+                "latitude": 42.26854984502582,
+                "longitude": -83.74793517584375
+            },
+            {
+                "id": 474868750,
+                "name": "Chabad House",
+                "type": "nan",
+                "latitude": 42.2721995622666,
+                "longitude": -83.73980970995892
+            },
+            {
+                "id": 493359073,
+                "name": "Athletic Operations Center",
+                "type": "nan",
+                "latitude": 42.262231845968046,
+                "longitude": -83.74073415733439
+            },
+            {
+                "id": 501503476,
+                "name": "Trotter Multicultural Center",
+                "type": "nan",
+                "latitude": 42.27454017932828,
+                "longitude": -83.7297995463555
+            },
+            {
+                "id": 502971269,
+                "name": "Chi Psi",
+                "type": "nan",
+                "latitude": 42.27356822804809,
+                "longitude": -83.74109699186342
+            },
+            {
+                "id": 519406620,
+                "name": "Gate 10",
+                "type": "nan",
+                "latitude": 42.26732221334085,
+                "longitude": -83.74782904156471
+            },
+            {
+                "id": 541403374,
+                "name": "Mcity (Mobility Transformation Center)",
+                "type": "nan",
+                "latitude": 42.2980422933649,
+                "longitude": -83.7019998668822
+            },
+            {
+                "id": 551330404,
+                "name": "Bursley Hall",
+                "type": "nan",
+                "latitude": 42.293681285052784,
+                "longitude": -83.72022141343669
+            },
+            {
+                "id": 551330405,
+                "name": "Bursley Hall",
+                "type": "nan",
+                "latitude": 42.29372291626371,
+                "longitude": -83.72093710702048
+            },
+            {
+                "id": 551330419,
+                "name": "Bursley Hall",
+                "type": "nan",
+                "latitude": 42.293756555687544,
+                "longitude": -83.72196495533449
+            },
+            {
+                "id": 560433246,
+                "name": "South Video Screen",
+                "type": "nan",
+                "latitude": 42.26475566174963,
+                "longitude": -83.74871069696141
+            },
+            {
+                "id": 560433247,
+                "name": "North Video Screen",
+                "type": "nan",
+                "latitude": 42.266999224819834,
+                "longitude": -83.74875016407864
+            },
+            {
+                "id": 590012064,
+                "name": "Trotter Multicultural Center",
+                "type": "nan",
+                "latitude": 42.2770862966203,
+                "longitude": -83.74110230064757
+            },
+            {
+                "id": 721963128,
+                "name": "University of Michigan Golf Course Clubhouse",
+                "type": "nan",
+                "latitude": 42.26284821772348,
+                "longitude": -83.74376531565318
+            },
+            {
+                "id": 905192719,
+                "name": "Ford Motor Company Robotics Building",
+                "type": "nan",
+                "latitude": 42.29463877023094,
+                "longitude": -83.70943799563392
+            },
+            {
+                "id": 993303260,
+                "name": "North Campus Support Facility",
+                "type": "nan",
+                "latitude": 42.298399824793485,
+                "longitude": -83.70176655666732
+            },
+            {
+                "id": 1020956721,
+                "name": "Central Campus Classroom Building",
+                "type": "nan",
+                "latitude": 42.27794362834557,
+                "longitude": -83.73397008171752
+            },
+            {
+                "id": 1021335897,
+                "name": "Markley Hall",
+                "type": "nan",
+                "latitude": 42.28089032916912,
+                "longitude": -83.72884854445782
+            },
+            {
+                "id": 1065350598,
+                "name": "Ingalls Substation",
+                "type": "nan",
+                "latitude": 42.28353712340047,
+                "longitude": -83.7371099524061
+            },
+            {
+                "id": 1073629320,
+                "name": "Construction site for the future Leinweber Computer Science Building",
+                "type": "nan",
+                "latitude": 42.29312776598039,
+                "longitude": -83.71715908704769
+            },
+            {
+                "id": 1073711941,
+                "name": "North Campus Switching Station",
+                "type": "nan",
+                "latitude": 42.2928478061264,
+                "longitude": -83.71159626460967
+            },
+            {
+                "id": 1160729163,
+                "name": "Nuclear Engineering Laboratory",
+                "type": "nan",
+                "latitude": 42.29127883324458,
+                "longitude": -83.71467746448485
+            },
+            {
+                "id": 1161548420,
+                "name": "Modular MRI Building",
+                "type": "nan",
+                "latitude": 42.289741698457526,
+                "longitude": -83.71388747029674
+            },
+            {
+                "id": 1163635547,
+                "name": "School of Information North",
+                "type": "nan",
+                "latitude": 42.28914102090646,
+                "longitude": -83.71435828599273
+            },
+            {
+                "id": 1185535306,
+                "name": "Dance Building",
+                "type": "nan",
+                "latitude": 42.2888837812276,
+                "longitude": -83.72162936210735
+            },
+            {
+                "id": 1429039,
+                "name": "Chemistry Building",
+                "type": "nan",
+                "latitude": 42.278049631341474,
+                "longitude": -83.73698982308085
+            },
+            {
+                "id": 1637002,
+                "name": "Michigan Stadium",
+                "type": "nan",
+                "latitude": 42.26587160085723,
+                "longitude": -83.74869901223178
+            },
+            {
+                "id": 2075393,
+                "name": "East Quadrangle",
+                "type": "nan",
+                "latitude": 42.272956434471006,
+                "longitude": -83.7351497074119
+            },
+            {
+                "id": 2075394,
+                "name": "1100 North University Building",
+                "type": "nan",
+                "latitude": 42.277410608449664,
+                "longitude": -83.73533327583601
+            },
+            {
+                "id": 2075410,
+                "name": "Rackham School of Graduate Studies",
+                "type": "nan",
+                "latitude": 42.28084244904548,
+                "longitude": -83.73828600628603
+            },
+            {
+                "id": 2075411,
+                "name": "West Quadrangle",
+                "type": "nan",
+                "latitude": 42.27493385404156,
+                "longitude": -83.74257588803601
+            },
+            {
+                "id": 2982493,
+                "name": "North Quadrangle",
+                "type": "nan",
+                "latitude": 42.2807592898536,
+                "longitude": -83.74008243025159
+            },
+            {
+                "id": 3877244,
+                "name": "Art & Architecture Building",
+                "type": "nan",
+                "latitude": 42.2895319829094,
+                "longitude": -83.71716266878767
+            },
+            {
+                "id": 3883610,
+                "name": "Climate and Space Research Building",
+                "type": "nan",
+                "latitude": 42.29439261743393,
+                "longitude": -83.71150716070576
+            },
+            {
+                "id": 3884150,
+                "name": "North Campus Research Complex",
+                "type": "nan",
+                "latitude": 42.29978881060438,
+                "longitude": -83.70518468261807
+            },
+            {
+                "id": 4015972,
+                "name": "5' x 7' Low Turbulence Wind Tunnel",
+                "type": "nan",
+                "latitude": 42.29378780161198,
+                "longitude": -83.71096243865367
+            },
+            {
+                "id": 4045357,
+                "name": "School of Education Building",
+                "type": "nan",
+                "latitude": 42.27386537200833,
+                "longitude": -83.73642670381645
+            },
+            {
+                "id": 7175620,
+                "name": "Student Activities Building",
+                "type": "nan",
+                "latitude": 42.2765849424581,
+                "longitude": -83.74257115586808
+            },
+            {
+                "id": 7360877,
+                "name": "Henry Vaughan Public Health Building",
+                "type": "nan",
+                "latitude": 42.280935607964366,
+                "longitude": -83.73048845131238
+            },
+            {
+                "id": 7360878,
+                "name": "Thomas Francis Jr. Public Health Building",
+                "type": "nan",
+                "latitude": 42.28023867355355,
+                "longitude": -83.73001351926005
+            },
+            {
+                "id": 8013180,
+                "name": "Dental Building and Kellogg Institute",
+                "type": "nan",
+                "latitude": 42.279246686445966,
+                "longitude": -83.73613829244096
+            },
+            {
+                "id": 16068956,
+                "name": "Earl V. Moore Building",
+                "type": "nan",
+                "latitude": 42.29025251952226,
+                "longitude": -83.72100764839932
+            }
+        ]
+    }
+}

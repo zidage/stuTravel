@@ -1,0 +1,537 @@
+{
+    "id": -7602934345391073860,
+    "name": "浙江大学",
+    "address": "中国浙江省杭州市西湖区余杭塘路866号 邮政编码: 310027",
+    "rating": 4.6,
+    "popularity": 60,
+    "data_path": "map_data/university_map/Zhejiang_University",
+    "description": "浙江大学簡称浙大，是一所直属中华人民共和国教育部的综合型研究型创新型大学，本部位于浙江省杭州市，拥有紫金港、玉泉、西溪、华家池、之江、舟山、海宁等7个校区。\n浙江大学前身可追溯至1897年时任杭州知府林启所设立的浙江省第一所国人自办的新式书院——求是书院。求是书院后改称浙江高等学堂，在辛亥革命后因学制问题而停办。1927年作为国立第三中山大学由求是、浙高校友于求是书院旧址重建，后于1928年改名为国立浙江大学。1936－1949年竺可桢校长任内，浙大延揽学衡社、科学社学者而成为学术重镇。抗战爆发后西迁贵州省，被当时访问该校的英国学者李约瑟赞誉为“东方剑桥”。中华人民共和国成立后，经历院系调整，文理学院被剥离，农学院、医学院各自独立建校，之江大学工学院系被并入，成为多科性工业大学。1998年，由浙江大学、浙江医科大学、浙江农业大学、杭州大学重新合并为一所综合性大学。\n浙江大学是中华人民共和国排名前列的高校之一，是“双一流A类”和原“985工程”、原“211工程”重点建设大学，現時屬於「QS世界百強大學」、「泰晤士高等教育世界百強大學」、「美國新聞與世界報道世界百強大學」及「軟科世界百強大學」，在2023软科世界大学学术排名中位居第33名，2023年QS世界大学排名中位居第42名，在2024年泰晤士高等教育世界大学排名中位居第55名，在2022美国新闻与世界报道中位居第93名。 在浙江省各地及北京、上海、郑州、三亚等地设有研究机构。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/Advanced_Data_Structures_Class_at_ZJU_Zijingang_West_Teaching_Area.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Platopainting.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/The_High_School_Affiliated_to_Zhejiang_University_2014-03.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Second_Affiliated_Hospital_of_Zhejiang_University_School_of_Medicine_6.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Women%27s_Hospital_of_Zhejiang_University_03.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9c/Yuquan_campus_18.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Yuquan_campus_20.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/99/Yuquan_campus_30.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cc/Yuquan_campus_76.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b0/Zhoushan_campus.jpg"
+    ],
+    "amenity": {
+        "affiliation": -7602934345391073860,
+        "amenity_list": [
+            {
+                "id": 1705321807,
+                "name": "浙江科技学院图书馆 Library of ZUST",
+                "type": "library",
+                "latitude": 30.222022,
+                "longitude": 120.0225573
+            },
+            {
+                "id": 1705322381,
+                "name": "浙江科技学院 ",
+                "type": "school",
+                "latitude": 30.2212618,
+                "longitude": 120.0229006
+            },
+            {
+                "id": 3392490129,
+                "name": "可能感兴趣的地点",
+                "type": "restaurant",
+                "latitude": 30.2173166,
+                "longitude": 120.0173566
+            },
+            {
+                "id": 5700934055,
+                "name": "浙江工业大学家人超市（东15店）",
+                "type": "marketplace",
+                "latitude": 30.2325928,
+                "longitude": 120.0394647
+            },
+            {
+                "id": 5700934056,
+                "name": "工大咖啡馆",
+                "type": "cafe",
+                "latitude": 30.2332091,
+                "longitude": 120.0393199
+            },
+            {
+                "id": 305157253,
+                "name": "浙江工业大学图书馆",
+                "type": "library",
+                "latitude": 30.22735559347165,
+                "longitude": 120.02999537369575
+            },
+            {
+                "id": 331784574,
+                "name": "Kantine",
+                "type": "restaurant",
+                "latitude": 30.222879829014367,
+                "longitude": 120.0192251190529
+            },
+            {
+                "id": 340429646,
+                "name": "郁文停车场",
+                "type": "parking",
+                "latitude": 30.224487805117594,
+                "longitude": 120.02769519512097
+            },
+            {
+                "id": 415494705,
+                "name": "养贤府",
+                "type": "restaurant",
+                "latitude": 30.231861644873852,
+                "longitude": 120.03991457993186
+            },
+            {
+                "id": 543842182,
+                "name": "集贤廊",
+                "type": "shelter",
+                "latitude": 30.23198953887084,
+                "longitude": 120.03879883886373
+            },
+            {
+                "id": 549381311,
+                "name": "家和堂",
+                "type": "restaurant",
+                "latitude": 30.231578975256703,
+                "longitude": 120.03590927188681
+            },
+            {
+                "id": 305150818,
+                "name": "浙江工业大学体育馆",
+                "type": "nan",
+                "latitude": 30.22752874578906,
+                "longitude": 120.03457256788455
+            },
+            {
+                "id": 306534031,
+                "name": "法学楼",
+                "type": "nan",
+                "latitude": 30.224512108617304,
+                "longitude": 120.02660081670267
+            },
+            {
+                "id": 306534460,
+                "name": "语林楼",
+                "type": "nan",
+                "latitude": 30.22638640195119,
+                "longitude": 120.0321932399191
+            },
+            {
+                "id": 532917149,
+                "name": "实验中心",
+                "type": "nan",
+                "latitude": 30.224118970616075,
+                "longitude": 120.02355790734958
+            },
+            {
+                "id": 543809047,
+                "name": "畅远楼",
+                "type": "nan",
+                "latitude": 30.22551104217974,
+                "longitude": 120.02763711772683
+            },
+            {
+                "id": 543809048,
+                "name": "仁和楼",
+                "type": "nan",
+                "latitude": 30.225087270089514,
+                "longitude": 120.02753651003874
+            },
+            {
+                "id": 543842176,
+                "name": "致远楼",
+                "type": "nan",
+                "latitude": 30.22597622976966,
+                "longitude": 120.03219016869087
+            },
+            {
+                "id": 543885023,
+                "name": "博易楼B",
+                "type": "nan",
+                "latitude": 30.2252661277871,
+                "longitude": 120.02890830048078
+            },
+            {
+                "id": 543885024,
+                "name": "博易楼A",
+                "type": "nan",
+                "latitude": 30.224845549647757,
+                "longitude": 120.02891960373204
+            },
+            {
+                "id": 543885025,
+                "name": "郁文楼B",
+                "type": "nan",
+                "latitude": 30.224003817870678,
+                "longitude": 120.02775518592769
+            },
+            {
+                "id": 543885027,
+                "name": "郁文楼A",
+                "type": "nan",
+                "latitude": 30.223770724847963,
+                "longitude": 120.02707118109316
+            },
+            {
+                "id": 543885029,
+                "name": "理学楼C",
+                "type": "nan",
+                "latitude": 30.226106268623465,
+                "longitude": 120.03115949268539
+            },
+            {
+                "id": 543885031,
+                "name": "理学楼B",
+                "type": "nan",
+                "latitude": 30.225761321537796,
+                "longitude": 120.03116108884689
+            },
+            {
+                "id": 543885033,
+                "name": "理学楼A",
+                "type": "nan",
+                "latitude": 30.225337675519004,
+                "longitude": 120.03098024903319
+            },
+            {
+                "id": 544342576,
+                "name": "广知楼C",
+                "type": "nan",
+                "latitude": 30.22801960234053,
+                "longitude": 120.0329573747257
+            },
+            {
+                "id": 544342578,
+                "name": "广知楼B",
+                "type": "nan",
+                "latitude": 30.227522624825458,
+                "longitude": 120.03294137228596
+            },
+            {
+                "id": 544342580,
+                "name": "广知楼A",
+                "type": "nan",
+                "latitude": 30.227050172617318,
+                "longitude": 120.03294325457246
+            },
+            {
+                "id": 544342581,
+                "name": "健行楼C",
+                "type": "nan",
+                "latitude": 30.227706883750482,
+                "longitude": 120.03195316342142
+            },
+            {
+                "id": 544342584,
+                "name": "健行楼B",
+                "type": "nan",
+                "latitude": 30.227336797671224,
+                "longitude": 120.03190002479293
+            },
+            {
+                "id": 544342585,
+                "name": "健行楼A",
+                "type": "nan",
+                "latitude": 30.226925549999997,
+                "longitude": 120.03190004999999
+            },
+            {
+                "id": 544342596,
+                "name": "博易楼C",
+                "type": "nan",
+                "latitude": 30.22565367483644,
+                "longitude": 120.0288930750009
+            },
+            {
+                "id": 544342598,
+                "name": "演播厅",
+                "type": "nan",
+                "latitude": 30.223661851262417,
+                "longitude": 120.02785108176025
+            },
+            {
+                "id": 549381312,
+                "name": "东1",
+                "type": "nan",
+                "latitude": 30.233154074822703,
+                "longitude": 120.03753112388266
+            },
+            {
+                "id": 549381313,
+                "name": "东2",
+                "type": "nan",
+                "latitude": 30.232708499999998,
+                "longitude": 120.03752169999997
+            },
+            {
+                "id": 549381314,
+                "name": "东3",
+                "type": "nan",
+                "latitude": 30.232263675069603,
+                "longitude": 120.03751872379463
+            },
+            {
+                "id": 549381315,
+                "name": "东4",
+                "type": "nan",
+                "latitude": 30.23230802520709,
+                "longitude": 120.03690738420623
+            },
+            {
+                "id": 549381316,
+                "name": "东5",
+                "type": "nan",
+                "latitude": 30.2317366775985,
+                "longitude": 120.03743144790596
+            },
+            {
+                "id": 549381317,
+                "name": "东6",
+                "type": "nan",
+                "latitude": 30.233646057331267,
+                "longitude": 120.03813789499078
+            },
+            {
+                "id": 549381318,
+                "name": "东7",
+                "type": "nan",
+                "latitude": 30.233140300000006,
+                "longitude": 120.03824954999999
+            },
+            {
+                "id": 549381319,
+                "name": "东8",
+                "type": "nan",
+                "latitude": 30.232700799999996,
+                "longitude": 120.03825305
+            },
+            {
+                "id": 549381320,
+                "name": "东9",
+                "type": "nan",
+                "latitude": 30.2322546,
+                "longitude": 120.0382252
+            },
+            {
+                "id": 549381321,
+                "name": "东10",
+                "type": "nan",
+                "latitude": 30.231815,
+                "longitude": 120.0382245
+            },
+            {
+                "id": 549381322,
+                "name": "东11",
+                "type": "nan",
+                "latitude": 30.2313689,
+                "longitude": 120.0382245
+            },
+            {
+                "id": 549381325,
+                "name": "土木楼",
+                "type": "nan",
+                "latitude": 30.233900452561237,
+                "longitude": 120.04188292798005
+            },
+            {
+                "id": 549381327,
+                "name": "机械楼",
+                "type": "nan",
+                "latitude": 30.235513195110624,
+                "longitude": 120.0419156232533
+            },
+            {
+                "id": 549381328,
+                "name": "计算机楼",
+                "type": "nan",
+                "latitude": 30.235510964561186,
+                "longitude": 120.04295227707476
+            },
+            {
+                "id": 549381329,
+                "name": "信息楼",
+                "type": "nan",
+                "latitude": 30.233923655978792,
+                "longitude": 120.04286258932869
+            },
+            {
+                "id": 549381330,
+                "name": "艺术楼",
+                "type": "nan",
+                "latitude": 30.23470023474458,
+                "longitude": 120.04398516162907
+            },
+            {
+                "id": 549381331,
+                "name": "东13",
+                "type": "nan",
+                "latitude": 30.23364844483625,
+                "longitude": 120.03955975265076
+            },
+            {
+                "id": 549381333,
+                "name": "东15",
+                "type": "nan",
+                "latitude": 30.232707324911892,
+                "longitude": 120.03944352693838
+            },
+            {
+                "id": 549381334,
+                "name": "东16",
+                "type": "nan",
+                "latitude": 30.233146575002177,
+                "longitude": 120.04004972880337
+            },
+            {
+                "id": 549381335,
+                "name": "东17",
+                "type": "nan",
+                "latitude": 30.232709,
+                "longitude": 120.04005484999998
+            },
+            {
+                "id": 549381336,
+                "name": "东18",
+                "type": "nan",
+                "latitude": 30.232560470741028,
+                "longitude": 120.04059875835513
+            },
+            {
+                "id": 549381337,
+                "name": "东12",
+                "type": "nan",
+                "latitude": 30.23094882652013,
+                "longitude": 120.0380181550268
+            },
+            {
+                "id": 563997413,
+                "name": "西13",
+                "type": "nan",
+                "latitude": 30.23074154486432,
+                "longitude": 120.03681568105381
+            },
+            {
+                "id": 563997414,
+                "name": "西14",
+                "type": "nan",
+                "latitude": 30.231101900138434,
+                "longitude": 120.03667555213109
+            },
+            {
+                "id": 563997415,
+                "name": "西10",
+                "type": "nan",
+                "latitude": 30.22996317503292,
+                "longitude": 120.03605782235894
+            },
+            {
+                "id": 563997416,
+                "name": "西6",
+                "type": "nan",
+                "latitude": 30.230331076739397,
+                "longitude": 120.03535290738706
+            },
+            {
+                "id": 563997417,
+                "name": "西15",
+                "type": "nan",
+                "latitude": 30.22994065,
+                "longitude": 120.03670343930706
+            },
+            {
+                "id": 564001990,
+                "name": "西1",
+                "type": "nan",
+                "latitude": 30.23137244087557,
+                "longitude": 120.03499364145021
+            },
+            {
+                "id": 577098943,
+                "name": "西12",
+                "type": "nan",
+                "latitude": 30.23036197429613,
+                "longitude": 120.03657317329692
+            },
+            {
+                "id": 577098944,
+                "name": "西11",
+                "type": "nan",
+                "latitude": 30.23040378706858,
+                "longitude": 120.03715101799249
+            },
+            {
+                "id": 651998978,
+                "name": "东14",
+                "type": "nan",
+                "latitude": 30.233149822313518,
+                "longitude": 120.03947299971976
+            },
+            {
+                "id": 1053653145,
+                "name": "东19",
+                "type": "nan",
+                "latitude": 30.234121469756264,
+                "longitude": 120.03879669331359
+            },
+            {
+                "id": 1053664351,
+                "name": "西9",
+                "type": "nan",
+                "latitude": 30.229228854023205,
+                "longitude": 120.03598282550912
+            },
+            {
+                "id": 1053664354,
+                "name": "西8",
+                "type": "nan",
+                "latitude": 30.229597350000002,
+                "longitude": 120.03575600000002
+            },
+            {
+                "id": 1053664355,
+                "name": "西7",
+                "type": "nan",
+                "latitude": 30.22996682550997,
+                "longitude": 120.03545167051942
+            },
+            {
+                "id": 1053664356,
+                "name": "西5",
+                "type": "nan",
+                "latitude": 30.230685445815375,
+                "longitude": 120.03547892480388
+            },
+            {
+                "id": 1053664357,
+                "name": "西4",
+                "type": "nan",
+                "latitude": 30.2310386206153,
+                "longitude": 120.0354839413818
+            },
+            {
+                "id": 1053664358,
+                "name": "西2",
+                "type": "nan",
+                "latitude": 30.230994087022363,
+                "longitude": 120.03498583853045
+            },
+            {
+                "id": 1053664359,
+                "name": "西3",
+                "type": "nan",
+                "latitude": 30.23064524381664,
+                "longitude": 120.03497749801213
+            },
+            {
+                "id": 1128373960,
+                "name": "板球场看台",
+                "type": "nan",
+                "latitude": 30.22888167049513,
+                "longitude": 120.0323383758701
+            }
+        ]
+    }
+}

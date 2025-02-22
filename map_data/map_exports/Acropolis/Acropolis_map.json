@@ -1,0 +1,21 @@
+{
+    "id": -206426698255890307,
+    "name": "雅典卫城",
+    "address": "Athens 105 58希腊",
+    "rating": 4.8,
+    "popularity": 60,
+    "data_path": "map_data/university_map/Acropolis",
+    "description": "雅典衛城（希臘語：Ακρόπολη，英語：Acropolis of Athens）位於希臘首都雅典，是最著名的衛城（要塞城市）之一。衛城是由平頂岩構成，位於海拔157米（536英呎）。\n雅典衛城現存的建築群共包含幾座具有重大建築和歷史意義的古代建築遺跡，其中最著名的是帕德嫩神廟。「衛城」該詞則是來自希臘文「ἄκρον」（akron，亦為『最高點，極端』）和「πόλις」（polis，亦為『城市』）的結合。衛城一詞是通用的，在古希臘時期時，儘管希臘還有許多其他衛城，而在雅典衛城其亦被命名為西哥羅佩（Cecropia），以紀念常被描繪為半人半蛇的雅典首任國王凱克洛普斯。\n有證據表明雅典衛城早在公元前四千年就有人居住，後則於伯里克利在公元前五世紀推動了建築物的建造，目前雅典衛城的遺跡是世界上最重要的古文明遺址，也被聯合國教科文組織指定為世界文化遺產。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/69/Acropolis_Of_Athens_Greece_04.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Acropolis_of_Athens_01361.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2d/Acropolis_of_Athens_01391.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Acropolis_viewing_from_Temple_Of_Zeus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/Akropolis_by_Leo_von_Klenze-award-3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/85/Map_The_Acropolis_of_Athens_and_its_slopes_1928-1940_-_Touring_Club_Italiano_CART-TRC-37.jpg"
+    ],
+    "amenity": {
+        "affiliation": -206426698255890307,
+        "amenity_list": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": 6777639097963856397,
+    "name": "广州天河体育中心体育场",
+    "address": "中国广东省广州市天河区天河路299号 邮政编码: 510620",
+    "rating": 4.3,
+    "popularity": 80,
+    "data_path": "map_data/university_map/Tianhe_Sports_Centre",
+    "description": "广州天河体育中心（英語：Guangzhou Tianhe Sports Center），简称天体，位于中国广州市天河区天河路北侧，占地面积58.8万平方米，于1987年8月30日正式落成，是广州目前最大的体育场馆，也是广州城市新中轴线的一部分。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1f/Tianhe_Stadium.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Yuexiu_Park_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c8/%E6%97%B6%E5%B0%9A%E5%A4%A9%E6%B2%B3%E9%80%9F%E9%A9%AC%E8%B5%AB%E5%8D%A1%E4%B8%81%E8%BD%A6.jpg"
+    ],
+    "amenity": {
+        "affiliation": 6777639097963856397,
+        "amenity_list": []
+    }
+}

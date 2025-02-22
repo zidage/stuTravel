@@ -1,0 +1,1088 @@
+{
+    "id": 897026151466466891,
+    "name": "洛桑联邦理工学院",
+    "address": "Rte Cantonale, 1015 Lausanne, 瑞士",
+    "rating": 4.7,
+    "popularity": 56,
+    "data_path": "map_data/university_map/EPFL",
+    "description": "洛桑联邦理工学院（EPFL）（法語：École polytechnique fédérale de Lausanne，缩写EPFL），是一所世界顶尖的理工院校，最早成立於1853年，后在於1969年从洛桑大学独立。學校位於瑞士的法語區，與位於德語區的苏黎世联邦理工學院是姐妹校，也是瑞士僅有的兩所聯邦理工學院，直接由瑞士聯邦政府管理。2016在校生約10500名(大學生、碩士生、博士生以及博士後研究員)，340多名教授和5800多名教职员工分布于建筑设计系，基础科学系，工程系，计算机与通信科学系，生命科学系，管理系，人文系,7个系内。在教学与研究之外，洛桑联邦理工学院还负责操作核反应堆CROCUS，一个托卡马克聚变反应堆（Tokamak Fusion reactor），一台Blue Gene/Q超级计算机以及P3 bio-hazard设施等。学校以其师生比例，国际视野以及科研影响力而闻名。学校一系列高水平研究项目更加推动了学校作为一个研究型大学的声誉。其中最值得一提的是2013年的藍腦計畫（Blue Brain Project），学校从欧盟获得了5亿欧元的经费。建校宗旨：培养工程师和科学家、成為國家的科學與科技中心、並促進產學合作。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/Vue_a%C3%A9rienne_EPFL_07-2009.jpg"
+    ],
+    "amenity": {
+        "affiliation": 897026151466466891,
+        "amenity_list": [
+            {
+                "id": 311934443,
+                "name": "SDIS EPFL",
+                "type": "fire_station",
+                "latitude": 46.520271,
+                "longitude": 6.5710476
+            },
+            {
+                "id": 330358519,
+                "name": "L'esplanade",
+                "type": "restaurant",
+                "latitude": 46.5201327,
+                "longitude": 6.5654592
+            },
+            {
+                "id": 330358555,
+                "name": "Satellite",
+                "type": "pub",
+                "latitude": 46.5204587,
+                "longitude": 6.567817
+            },
+            {
+                "id": 334500409,
+                "name": "Piano",
+                "type": "restaurant",
+                "latitude": 46.520841,
+                "longitude": 6.5643819
+            },
+            {
+                "id": 334500410,
+                "name": "Le Parmentier",
+                "type": "restaurant",
+                "latitude": 46.5203721,
+                "longitude": 6.5672157
+            },
+            {
+                "id": 334500411,
+                "name": "Le Vinci",
+                "type": "restaurant",
+                "latitude": 46.520374,
+                "longitude": 6.5675081
+            },
+            {
+                "id": 334500412,
+                "name": "Le Copernic",
+                "type": "restaurant",
+                "latitude": 46.520333,
+                "longitude": 6.5688234
+            },
+            {
+                "id": 335557769,
+                "name": "Ecublens (VD) EPFL / Parking de l´Esplanade",
+                "type": "car_sharing",
+                "latitude": 46.52001,
+                "longitude": 6.56609
+            },
+            {
+                "id": 335557772,
+                "name": "Ecublens (VD) EPFL / Parking Rivier",
+                "type": "car_sharing",
+                "latitude": 46.521509,
+                "longitude": 6.5645481
+            },
+            {
+                "id": 335557774,
+                "name": "Ecublens (VD) EPFL / Parking Argand",
+                "type": "car_sharing",
+                "latitude": 46.51999,
+                "longitude": 6.57086
+            },
+            {
+                "id": 335557775,
+                "name": "Ecublens (VD) EPFL / Parking Barrage",
+                "type": "car_sharing",
+                "latitude": 46.5218,
+                "longitude": 6.56572
+            },
+            {
+                "id": 360437654,
+                "name": "可能感兴趣的地点",
+                "type": "bench",
+                "latitude": 46.5204966,
+                "longitude": 6.5717482
+            },
+            {
+                "id": 415933197,
+                "name": "Cafétéria NIKI",
+                "type": "cafe",
+                "latitude": 46.5196529,
+                "longitude": 6.5647162
+            },
+            {
+                "id": 415933224,
+                "name": "Borne électrique",
+                "type": "bicycle_parking",
+                "latitude": 46.5203468,
+                "longitude": 6.5638097
+            },
+            {
+                "id": 423801204,
+                "name": "Self-service Hopper",
+                "type": "cafe",
+                "latitude": 46.5183541,
+                "longitude": 6.5620608
+            },
+            {
+                "id": 429581998,
+                "name": "PubliBike",
+                "type": "bicycle_rental",
+                "latitude": 46.5189318,
+                "longitude": 6.562186
+            },
+            {
+                "id": 429581999,
+                "name": "Piccard",
+                "type": "bicycle_rental",
+                "latitude": 46.5206552,
+                "longitude": 6.5682803
+            },
+            {
+                "id": 660391336,
+                "name": "PSE",
+                "type": "parking",
+                "latitude": 46.5179761,
+                "longitude": 6.5619634
+            },
+            {
+                "id": 1593537111,
+                "name": "Rivier",
+                "type": "bicycle_rental",
+                "latitude": 46.5219769,
+                "longitude": 6.5648909
+            },
+            {
+                "id": 1973834231,
+                "name": "Hong Thai Rung",
+                "type": "fast_food",
+                "latitude": 46.5191678,
+                "longitude": 6.5672354
+            },
+            {
+                "id": 1973868411,
+                "name": "L'Atlantide",
+                "type": "restaurant",
+                "latitude": 46.5204437,
+                "longitude": 6.567002
+            },
+            {
+                "id": 1978496509,
+                "name": "Paul Klee",
+                "type": "cafe",
+                "latitude": 46.5182086,
+                "longitude": 6.5680231
+            },
+            {
+                "id": 1978496514,
+                "name": "L'Ornithorynque",
+                "type": "restaurant",
+                "latitude": 46.5200508,
+                "longitude": 6.5636699
+            },
+            {
+                "id": 1978496518,
+                "name": "Cyber Café SV",
+                "type": "cafe",
+                "latitude": 46.5200213,
+                "longitude": 6.5638979
+            },
+            {
+                "id": 1978496521,
+                "name": "La Table de Vallotton",
+                "type": "restaurant",
+                "latitude": 46.517884,
+                "longitude": 6.5688787
+            },
+            {
+                "id": 1978513795,
+                "name": "Puur Innovation",
+                "type": "restaurant",
+                "latitude": 46.5163226,
+                "longitude": 6.5621224
+            },
+            {
+                "id": 1978513805,
+                "name": "Bibliothèque de l'EPFL",
+                "type": "library",
+                "latitude": 46.5184121,
+                "longitude": 6.5684654
+            },
+            {
+                "id": 1978513819,
+                "name": "La Nanosphère",
+                "type": "kindergarten",
+                "latitude": 46.5162896,
+                "longitude": 6.5614572
+            },
+            {
+                "id": 1978532294,
+                "name": "Postfinance",
+                "type": "atm",
+                "latitude": 46.5199858,
+                "longitude": 6.5687766
+            },
+            {
+                "id": 1978532295,
+                "name": "PolyGrill",
+                "type": "bbq",
+                "latitude": 46.5178806,
+                "longitude": 6.5668126
+            },
+            {
+                "id": 1996662841,
+                "name": "Ecublens (VD) EPFL / Quartier de l´Innovation",
+                "type": "car_sharing",
+                "latitude": 46.5169177,
+                "longitude": 6.5612517
+            },
+            {
+                "id": 2123860084,
+                "name": "Cafétéria ZAHA",
+                "type": "cafe",
+                "latitude": 46.5185684,
+                "longitude": 6.56336
+            },
+            {
+                "id": 2123860085,
+                "name": "Cafétéria MX",
+                "type": "cafe",
+                "latitude": 46.5191968,
+                "longitude": 6.5636255
+            },
+            {
+                "id": 2123865072,
+                "name": "Cafétéria Giacometti",
+                "type": "fast_food",
+                "latitude": 46.520747,
+                "longitude": 6.5644918
+            },
+            {
+                "id": 2123872819,
+                "name": "Maharaja",
+                "type": "fast_food",
+                "latitude": 46.5191623,
+                "longitude": 6.5669603
+            },
+            {
+                "id": 2123887098,
+                "name": "L'Arcadie",
+                "type": "cafe",
+                "latitude": 46.520415,
+                "longitude": 6.5694217
+            },
+            {
+                "id": 2151809962,
+                "name": "Credit Suisse",
+                "type": "atm",
+                "latitude": 46.5204391,
+                "longitude": 6.5662707
+            },
+            {
+                "id": 2490721480,
+                "name": "Quartier de l'innovation",
+                "type": "bicycle_rental",
+                "latitude": 46.5172426,
+                "longitude": 6.561216
+            },
+            {
+                "id": 4152679289,
+                "name": "Forum Rolex",
+                "type": "community_centre",
+                "latitude": 46.5180043,
+                "longitude": 6.5674133
+            },
+            {
+                "id": 4447700832,
+                "name": "L'Epicure",
+                "type": "cafe",
+                "latitude": 46.5196747,
+                "longitude": 6.5688004
+            },
+            {
+                "id": 4456204595,
+                "name": "Marché de l'EPFL",
+                "type": "marketplace",
+                "latitude": 46.5203409,
+                "longitude": 6.5658833
+            },
+            {
+                "id": 4604892664,
+                "name": "Sushizen",
+                "type": "restaurant",
+                "latitude": 46.5195259,
+                "longitude": 6.5667973
+            },
+            {
+                "id": 4859743100,
+                "name": "Montreux Jazz Café",
+                "type": "cafe",
+                "latitude": 46.5178487,
+                "longitude": 6.5658619
+            },
+            {
+                "id": 5820883819,
+                "name": "Laboratory for Multiscale Mechanics Modeling",
+                "type": "research_institute",
+                "latitude": 46.5193637,
+                "longitude": 6.5665491
+            },
+            {
+                "id": 6640225937,
+                "name": "Forel",
+                "type": "bicycle_rental",
+                "latitude": 46.5202138,
+                "longitude": 6.5717527
+            },
+            {
+                "id": 6915842594,
+                "name": "Ecublens (VD) EPFL / Parking BS",
+                "type": "parking_entrance",
+                "latitude": 46.5199563,
+                "longitude": 6.5713665
+            },
+            {
+                "id": 9919117848,
+                "name": "GOFAST EPFL",
+                "type": "charging_station",
+                "latitude": 46.5185249,
+                "longitude": 6.5650971
+            },
+            {
+                "id": 11381442021,
+                "name": "CE 1 515",
+                "type": "community_centre",
+                "latitude": 46.5204013,
+                "longitude": 6.5688616
+            },
+            {
+                "id": 28407421,
+                "name": "Colladon",
+                "type": "parking",
+                "latitude": 46.51758128850502,
+                "longitude": 6.563523863060296
+            },
+            {
+                "id": 28407426,
+                "name": "Mercier",
+                "type": "parking",
+                "latitude": 46.52087322514081,
+                "longitude": 6.570733016135363
+            },
+            {
+                "id": 30403028,
+                "name": "PSE A",
+                "type": "science_park",
+                "latitude": 46.51779501624368,
+                "longitude": 6.562620677171817
+            },
+            {
+                "id": 30404104,
+                "name": "PSE B",
+                "type": "science_park",
+                "latitude": 46.51778677487911,
+                "longitude": 6.561950670283667
+            },
+            {
+                "id": 30404108,
+                "name": "PSE C",
+                "type": "science_park",
+                "latitude": 46.5173588252741,
+                "longitude": 6.56274901239345
+            },
+            {
+                "id": 30404110,
+                "name": "PPH",
+                "type": "science_park",
+                "latitude": 46.51762066350434,
+                "longitude": 6.564415722142002
+            },
+            {
+                "id": 30404111,
+                "name": "TCV",
+                "type": "science_park",
+                "latitude": 46.51767893829087,
+                "longitude": 6.565058754065227
+            },
+            {
+                "id": 30404114,
+                "name": "PPB",
+                "type": "science_park",
+                "latitude": 46.51717722584218,
+                "longitude": 6.564704101404291
+            },
+            {
+                "id": 35468395,
+                "name": "Barrage",
+                "type": "parking",
+                "latitude": 46.52154670452272,
+                "longitude": 6.5657605246271835
+            },
+            {
+                "id": 35469250,
+                "name": "Esplanade",
+                "type": "parking",
+                "latitude": 46.52017755227667,
+                "longitude": 6.565904163624877
+            },
+            {
+                "id": 51739569,
+                "name": "QI G",
+                "type": "science_park",
+                "latitude": 46.51755818368216,
+                "longitude": 6.561396925253415
+            },
+            {
+                "id": 51739571,
+                "name": "QI H",
+                "type": "science_park",
+                "latitude": 46.51680712529533,
+                "longitude": 6.560856554192386
+            },
+            {
+                "id": 201762387,
+                "name": "Innovation",
+                "type": "parking",
+                "latitude": 46.517195272764276,
+                "longitude": 6.56109593146327
+            },
+            {
+                "id": 305061676,
+                "name": "CRPP",
+                "type": "parking",
+                "latitude": 46.51766045000001,
+                "longitude": 6.564699850000001
+            },
+            {
+                "id": 984703441,
+                "name": "Taxi Services - EPFL",
+                "type": "taxi",
+                "latitude": 46.518642150000005,
+                "longitude": 6.565538349999999
+            },
+            {
+                "id": 1571303,
+                "name": "Rolex Learning Center",
+                "type": "parking",
+                "latitude": 46.51829967866755,
+                "longitude": 6.568286610665094
+            },
+            {
+                "id": 30088194,
+                "name": "BC",
+                "type": "nan",
+                "latitude": 46.51853376342912,
+                "longitude": 6.5619316298723085
+            },
+            {
+                "id": 30333343,
+                "name": "INR",
+                "type": "nan",
+                "latitude": 46.51834477264166,
+                "longitude": 6.5625626717999985
+            },
+            {
+                "id": 30333344,
+                "name": "INN",
+                "type": "nan",
+                "latitude": 46.51873231466108,
+                "longitude": 6.5625555805978895
+            },
+            {
+                "id": 30333345,
+                "name": "INJ",
+                "type": "nan",
+                "latitude": 46.518355898083406,
+                "longitude": 6.563786479120081
+            },
+            {
+                "id": 30333346,
+                "name": "INF",
+                "type": "nan",
+                "latitude": 46.51874225822487,
+                "longitude": 6.563794688748558
+            },
+            {
+                "id": 30333347,
+                "name": "ELH",
+                "type": "nan",
+                "latitude": 46.51873758171386,
+                "longitude": 6.565090483903128
+            },
+            {
+                "id": 30333348,
+                "name": "ELG",
+                "type": "nan",
+                "latitude": 46.51874848378374,
+                "longitude": 6.564464868443102
+            },
+            {
+                "id": 30333692,
+                "name": "ELE",
+                "type": "nan",
+                "latitude": 46.51908781487838,
+                "longitude": 6.565116938025393
+            },
+            {
+                "id": 30333693,
+                "name": "ELD",
+                "type": "nan",
+                "latitude": 46.519088442102074,
+                "longitude": 6.56447228117919
+            },
+            {
+                "id": 30333694,
+                "name": "MXH",
+                "type": "nan",
+                "latitude": 46.51925271102843,
+                "longitude": 6.5624441065792825
+            },
+            {
+                "id": 30333695,
+                "name": "MXG",
+                "type": "nan",
+                "latitude": 46.519272732637866,
+                "longitude": 6.563156912069773
+            },
+            {
+                "id": 30333696,
+                "name": "MXE",
+                "type": "nan",
+                "latitude": 46.51966044275035,
+                "longitude": 6.5624403220363074
+            },
+            {
+                "id": 30333697,
+                "name": "MXD",
+                "type": "nan",
+                "latitude": 46.519660815952776,
+                "longitude": 6.563151110264396
+            },
+            {
+                "id": 30333698,
+                "name": "MXC",
+                "type": "nan",
+                "latitude": 46.51966553541373,
+                "longitude": 6.563870890461863
+            },
+            {
+                "id": 30333699,
+                "name": "ELB",
+                "type": "nan",
+                "latitude": 46.51953058722621,
+                "longitude": 6.565098852727682
+            },
+            {
+                "id": 30333701,
+                "name": "MXF",
+                "type": "nan",
+                "latitude": 46.51924415697181,
+                "longitude": 6.563598199049778
+            },
+            {
+                "id": 30333702,
+                "name": "ELA",
+                "type": "nan",
+                "latitude": 46.51950580636043,
+                "longitude": 6.5646209312752966
+            },
+            {
+                "id": 30333703,
+                "name": "CO",
+                "type": "nan",
+                "latitude": 46.52001679279448,
+                "longitude": 6.565332217976531
+            },
+            {
+                "id": 30334080,
+                "name": "SV",
+                "type": "nan",
+                "latitude": 46.520077190598236,
+                "longitude": 6.563233979258265
+            },
+            {
+                "id": 30334082,
+                "name": "AI",
+                "type": "nan",
+                "latitude": 46.52044170731876,
+                "longitude": 6.5635374842831125
+            },
+            {
+                "id": 30334083,
+                "name": "SG",
+                "type": "nan",
+                "latitude": 46.52090834920345,
+                "longitude": 6.564169769477753
+            },
+            {
+                "id": 30334084,
+                "name": "AAD",
+                "type": "nan",
+                "latitude": 46.52111479898928,
+                "longitude": 6.563382125126729
+            },
+            {
+                "id": 30334085,
+                "name": "AAC",
+                "type": "nan",
+                "latitude": 46.52090835,
+                "longitude": 6.563314599999994
+            },
+            {
+                "id": 30334086,
+                "name": "AAB",
+                "type": "nan",
+                "latitude": 46.52069539921672,
+                "longitude": 6.563245725389935
+            },
+            {
+                "id": 30334087,
+                "name": "BP",
+                "type": "nan",
+                "latitude": 46.52147332590907,
+                "longitude": 6.564817696984849
+            },
+            {
+                "id": 30334088,
+                "name": "BM",
+                "type": "nan",
+                "latitude": 46.52119831059637,
+                "longitude": 6.565268932541114
+            },
+            {
+                "id": 30403026,
+                "name": "ELL",
+                "type": "nan",
+                "latitude": 46.5183655000888,
+                "longitude": 6.565237147752106
+            },
+            {
+                "id": 35468394,
+                "name": "GC H",
+                "type": "nan",
+                "latitude": 46.52170862271746,
+                "longitude": 6.566177311464287
+            },
+            {
+                "id": 35468396,
+                "name": "GC G",
+                "type": "nan",
+                "latitude": 46.52133377561583,
+                "longitude": 6.566324658587334
+            },
+            {
+                "id": 35468397,
+                "name": "GC F",
+                "type": "nan",
+                "latitude": 46.52147739187095,
+                "longitude": 6.566735058238434
+            },
+            {
+                "id": 35468401,
+                "name": "GR C",
+                "type": "nan",
+                "latitude": 46.52124276950275,
+                "longitude": 6.567859772550805
+            },
+            {
+                "id": 35468402,
+                "name": "GR B",
+                "type": "nan",
+                "latitude": 46.52087589236652,
+                "longitude": 6.567525643901064
+            },
+            {
+                "id": 35468403,
+                "name": "GR A",
+                "type": "nan",
+                "latitude": 46.52079857920116,
+                "longitude": 6.567891468125272
+            },
+            {
+                "id": 35468404,
+                "name": "GC D",
+                "type": "nan",
+                "latitude": 46.520820196200596,
+                "longitude": 6.565641381638655
+            },
+            {
+                "id": 35468405,
+                "name": "GC C",
+                "type": "nan",
+                "latitude": 46.520816435056,
+                "longitude": 6.566037492628126
+            },
+            {
+                "id": 35468406,
+                "name": "GC B",
+                "type": "nan",
+                "latitude": 46.52086751847079,
+                "longitude": 6.566430739245085
+            },
+            {
+                "id": 35468407,
+                "name": "GC A",
+                "type": "nan",
+                "latitude": 46.52081094411848,
+                "longitude": 6.566769609962542
+            },
+            {
+                "id": 35468408,
+                "name": "CM",
+                "type": "nan",
+                "latitude": 46.52049175129897,
+                "longitude": 6.5669267167642245
+            },
+            {
+                "id": 35468409,
+                "name": "ME C",
+                "type": "nan",
+                "latitude": 46.52008350470815,
+                "longitude": 6.566425913801685
+            },
+            {
+                "id": 35468414,
+                "name": "MA A",
+                "type": "nan",
+                "latitude": 46.520019134672495,
+                "longitude": 6.567915884088138
+            },
+            {
+                "id": 35468415,
+                "name": "MA B",
+                "type": "nan",
+                "latitude": 46.51964201341787,
+                "longitude": 6.567921357055477
+            },
+            {
+                "id": 35468416,
+                "name": "MA B",
+                "type": "nan",
+                "latitude": 46.519383502380954,
+                "longitude": 6.567936231248308
+            },
+            {
+                "id": 35468418,
+                "name": "PO",
+                "type": "nan",
+                "latitude": 46.52147963584361,
+                "longitude": 6.568986749376415
+            },
+            {
+                "id": 35468436,
+                "name": "BS",
+                "type": "nan",
+                "latitude": 46.52052341123723,
+                "longitude": 6.57141115338
+            },
+            {
+                "id": 35538125,
+                "name": "ODY",
+                "type": "nan",
+                "latitude": 46.51829683777375,
+                "longitude": 6.571651709678813
+            },
+            {
+                "id": 45542224,
+                "name": "QI K",
+                "type": "nan",
+                "latitude": 46.516561612842814,
+                "longitude": 6.562680195409335
+            },
+            {
+                "id": 45542226,
+                "name": "QI F",
+                "type": "nan",
+                "latitude": 46.516780705684184,
+                "longitude": 6.561648179889858
+            },
+            {
+                "id": 45542227,
+                "name": "QI E",
+                "type": "nan",
+                "latitude": 46.51694683454007,
+                "longitude": 6.562254669784433
+            },
+            {
+                "id": 45542228,
+                "name": "PSE D",
+                "type": "nan",
+                "latitude": 46.51733740982185,
+                "longitude": 6.56197165275122
+            },
+            {
+                "id": 51739573,
+                "name": "QI I",
+                "type": "nan",
+                "latitude": 46.51632309784376,
+                "longitude": 6.561324726433668
+            },
+            {
+                "id": 51739574,
+                "name": "QI J",
+                "type": "nan",
+                "latitude": 46.516393339948024,
+                "longitude": 6.5620309162489345
+            },
+            {
+                "id": 80418195,
+                "name": "CO",
+                "type": "nan",
+                "latitude": 46.52005022710452,
+                "longitude": 6.564573359746331
+            },
+            {
+                "id": 186639272,
+                "name": "ME A",
+                "type": "nan",
+                "latitude": 46.520062195088535,
+                "longitude": 6.567132985380433
+            },
+            {
+                "id": 186639273,
+                "name": "ME B",
+                "type": "nan",
+                "latitude": 46.52008664210926,
+                "longitude": 6.566758859052899
+            },
+            {
+                "id": 407504253,
+                "name": "ME D",
+                "type": "nan",
+                "latitude": 46.51955822649799,
+                "longitude": 6.566947477148125
+            },
+            {
+                "id": 492125154,
+                "name": "INM",
+                "type": "nan",
+                "latitude": 46.51854270576685,
+                "longitude": 6.563167045516568
+            },
+            {
+                "id": 582940672,
+                "name": "Point Vélo",
+                "type": "nan",
+                "latitude": 46.5217438479217,
+                "longitude": 6.567790976554777
+            },
+            {
+                "id": 582941060,
+                "name": "GA",
+                "type": "nan",
+                "latitude": 46.51957457046052,
+                "longitude": 6.57136217338935
+            },
+            {
+                "id": 686343067,
+                "name": "Agora Lombard Odier",
+                "type": "nan",
+                "latitude": 46.518749905348066,
+                "longitude": 6.566647856589358
+            },
+            {
+                "id": 869054291,
+                "name": "Nouveaux Batiment RTS",
+                "type": "nan",
+                "latitude": 46.51846334324645,
+                "longitude": 6.570613166814116
+            },
+            {
+                "id": 869061403,
+                "name": "RTS: Logistique et garage",
+                "type": "nan",
+                "latitude": 46.51806013121265,
+                "longitude": 6.570569342075721
+            },
+            {
+                "id": 869061404,
+                "name": "RTS: Radio et ouverture au public",
+                "type": "nan",
+                "latitude": 46.51836124999999,
+                "longitude": 6.570232499999998
+            },
+            {
+                "id": 869061405,
+                "name": "RTS: Administration et restaurant",
+                "type": "nan",
+                "latitude": 46.51872464973447,
+                "longitude": 6.570371816834933
+            },
+            {
+                "id": 869061406,
+                "name": "RTS: Studios radio et télévision",
+                "type": "nan",
+                "latitude": 46.51868450576498,
+                "longitude": 6.570955224677159
+            },
+            {
+                "id": 965866288,
+                "name": "STF",
+                "type": "nan",
+                "latitude": 46.5171182,
+                "longitude": 6.564300699999999
+            },
+            {
+                "id": 1071073719,
+                "name": "PPH",
+                "type": "nan",
+                "latitude": 46.518018772819076,
+                "longitude": 6.564588923641056
+            },
+            {
+                "id": 153242,
+                "name": "LE",
+                "type": "nan",
+                "latitude": 46.52175443077705,
+                "longitude": 6.567337484147666
+            },
+            {
+                "id": 331569,
+                "name": "Rolex Learning Center",
+                "type": "nan",
+                "latitude": 46.51836768501533,
+                "longitude": 6.568305565202273
+            },
+            {
+                "id": 409394,
+                "name": "PH C",
+                "type": "nan",
+                "latitude": 46.520890277291194,
+                "longitude": 6.5698087324374645
+            },
+            {
+                "id": 409395,
+                "name": "PH B",
+                "type": "nan",
+                "latitude": 46.52087548989062,
+                "longitude": 6.569412452510896
+            },
+            {
+                "id": 409396,
+                "name": "PH D",
+                "type": "nan",
+                "latitude": 46.52083673037307,
+                "longitude": 6.57014256432437
+            },
+            {
+                "id": 409397,
+                "name": "CE",
+                "type": "nan",
+                "latitude": 46.520486232076635,
+                "longitude": 6.569738873386212
+            },
+            {
+                "id": 409398,
+                "name": "PH A",
+                "type": "nan",
+                "latitude": 46.52082135543217,
+                "longitude": 6.568997112526682
+            },
+            {
+                "id": 409399,
+                "name": "PH H",
+                "type": "nan",
+                "latitude": 46.52110140093672,
+                "longitude": 6.568994233355507
+            },
+            {
+                "id": 409402,
+                "name": "CH A",
+                "type": "nan",
+                "latitude": 46.52012260067251,
+                "longitude": 6.569801706129134
+            },
+            {
+                "id": 409403,
+                "name": "CH B",
+                "type": "nan",
+                "latitude": 46.52017393619762,
+                "longitude": 6.5701862692266415
+            },
+            {
+                "id": 409404,
+                "name": "CH C",
+                "type": "nan",
+                "latitude": 46.520152245590964,
+                "longitude": 6.570509413977233
+            },
+            {
+                "id": 409405,
+                "name": "STT",
+                "type": "nan",
+                "latitude": 46.52012085,
+                "longitude": 6.570794150000001
+            },
+            {
+                "id": 409406,
+                "name": "CH J",
+                "type": "nan",
+                "latitude": 46.519807662733974,
+                "longitude": 6.570826811697703
+            },
+            {
+                "id": 409407,
+                "name": "CH H",
+                "type": "nan",
+                "latitude": 46.51965070175741,
+                "longitude": 6.570476494163005
+            },
+            {
+                "id": 409408,
+                "name": "CH G",
+                "type": "nan",
+                "latitude": 46.51965041588572,
+                "longitude": 6.570136625201621
+            },
+            {
+                "id": 409409,
+                "name": "CH F",
+                "type": "nan",
+                "latitude": 46.51963696960528,
+                "longitude": 6.569763156239534
+            },
+            {
+                "id": 409410,
+                "name": "PH J",
+                "type": "nan",
+                "latitude": 46.52125851663695,
+                "longitude": 6.569602821708852
+            },
+            {
+                "id": 409411,
+                "name": "PH K",
+                "type": "nan",
+                "latitude": 46.521259781949375,
+                "longitude": 6.569979599745442
+            },
+            {
+                "id": 409412,
+                "name": "PH L",
+                "type": "nan",
+                "latitude": 46.52128510670264,
+                "longitude": 6.570490686701365
+            },
+            {
+                "id": 6683878,
+                "name": "PAVILION A",
+                "type": "nan",
+                "latitude": 46.51954962704193,
+                "longitude": 6.565732830257631
+            },
+            {
+                "id": 6683879,
+                "name": "PAVILION B",
+                "type": "nan",
+                "latitude": 46.5186334092154,
+                "longitude": 6.565800285541831
+            },
+            {
+                "id": 6683880,
+                "name": "PAVILION C",
+                "type": "nan",
+                "latitude": 46.51793440764872,
+                "longitude": 6.565832449060971
+            },
+            {
+                "id": 12671742,
+                "name": "BI",
+                "type": "nan",
+                "latitude": 46.51986239773398,
+                "longitude": 6.568980635759323
+            }
+        ]
+    }
+}

@@ -1,0 +1,1729 @@
+{
+    "id": 4347444397972654915,
+    "name": "南洋理工大学",
+    "address": "50 Nanyang Ave, 新加坡 639798",
+    "rating": 4.5,
+    "popularity": 88,
+    "data_path": "map_data/university_map/Nanyang_Technological_University,_Singapore",
+    "description": "南洋理工大学（英語：Nanyang Technological University，缩写：NTU），简称南大，是新加坡一所综合类研究型大学。其校址前身是成立于1955年的南洋大学。南洋理工大学在2022年QS世界大学排名榜上名列全球第12位。\n南大的主要校园被称为“云南园”，位于新加坡的西南部，占地200公顷。南大主校区经常被列入全球十大最美丽的大学校园之列，并有57个绿色标志认证（相当于LEED认证）建筑，其中54个获得Green Mark Platinum认证，另外其在新加坡医疗区诺维娜也设有校园。\n南大是一所商科和工科并重的综合类大学，其中南洋商学院连续第三年在英国《金融时报》全球MBA排名上升，2018年在世界各大商学院中排名第22位。南大工程学院也是世界规模最大的工程学院之一，并在2022年QS世界大学学科领域排行榜中名列全球第4名。在2023年《美国新闻与世界报道》（U.S. News & World Report）世界大学排名中名列全球第30名，亚洲第3名；在2023年泰晤士高等教育世界大学排名中名列全球第36名。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a2/NTU_Administration_Building.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/0/07/NTU_North_Spine.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/NTU_former_administrative_building_front.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Platopainting.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/The_Hive%2C_NTU_%28I%29.jpg"
+    ],
+    "amenity": {
+        "affiliation": 4347444397972654915,
+        "amenity_list": [
+            {
+                "id": 1305546363,
+                "name": "可能感兴趣的地点",
+                "type": "parking_entrance",
+                "latitude": 1.3467749,
+                "longitude": 103.6791182
+            },
+            {
+                "id": 2059516825,
+                "name": "McDonald's",
+                "type": "fast_food",
+                "latitude": 1.3468981,
+                "longitude": 103.6802831
+            },
+            {
+                "id": 2207661023,
+                "name": "Canteen 2",
+                "type": "food_court",
+                "latitude": 1.3483769,
+                "longitude": 103.6854467
+            },
+            {
+                "id": 2247504654,
+                "name": "Lee Wee Nam Library",
+                "type": "library",
+                "latitude": 1.347689,
+                "longitude": 103.6809281
+            },
+            {
+                "id": 2668136108,
+                "name": "Canteen 1",
+                "type": "food_court",
+                "latitude": 1.3464473,
+                "longitude": 103.6860133
+            },
+            {
+                "id": 3199837388,
+                "name": "Canteen 4",
+                "type": "restaurant",
+                "latitude": 1.3442156,
+                "longitude": 103.6853982
+            },
+            {
+                "id": 3405194137,
+                "name": "Koufu @ the South Spine",
+                "type": "restaurant",
+                "latitude": 1.3424541,
+                "longitude": 103.6823317
+            },
+            {
+                "id": 3421785682,
+                "name": "Canteen 13",
+                "type": "food_court",
+                "latitude": 1.3517135,
+                "longitude": 103.6810558
+            },
+            {
+                "id": 3421844749,
+                "name": "Canteen 9",
+                "type": "food_court",
+                "latitude": 1.3524651,
+                "longitude": 103.6854664
+            },
+            {
+                "id": 3922461042,
+                "name": "Starbucks",
+                "type": "cafe",
+                "latitude": 1.3469027,
+                "longitude": 103.6801219
+            },
+            {
+                "id": 3922461043,
+                "name": "Popeyes",
+                "type": "fast_food",
+                "latitude": 1.3473747,
+                "longitude": 103.6801213
+            },
+            {
+                "id": 3922461044,
+                "name": "Encik Tan",
+                "type": "restaurant",
+                "latitude": 1.3473438,
+                "longitude": 103.680161
+            },
+            {
+                "id": 3922461045,
+                "name": "Subway",
+                "type": "fast_food",
+                "latitude": 1.346901,
+                "longitude": 103.6802059
+            },
+            {
+                "id": 3922461048,
+                "name": "North Spine Food Court",
+                "type": "food_court",
+                "latitude": 1.3470031,
+                "longitude": 103.6800715
+            },
+            {
+                "id": 3922461056,
+                "name": "Frank by OCBC",
+                "type": "bank",
+                "latitude": 1.3471517,
+                "longitude": 103.6806197
+            },
+            {
+                "id": 3922463557,
+                "name": "Paik's Bibim",
+                "type": "restaurant",
+                "latitude": 1.3468692,
+                "longitude": 103.6806775
+            },
+            {
+                "id": 3922463558,
+                "name": "Mixed Greens",
+                "type": "restaurant",
+                "latitude": 1.3425699,
+                "longitude": 103.6822847
+            },
+            {
+                "id": 3922463559,
+                "name": "umisushi",
+                "type": "restaurant",
+                "latitude": 1.3469695,
+                "longitude": 103.680847
+            },
+            {
+                "id": 3922463562,
+                "name": "Zitimama's",
+                "type": "restaurant",
+                "latitude": 1.3441917,
+                "longitude": 103.6804846
+            },
+            {
+                "id": 3922463563,
+                "name": "Art Pastry @ ADM",
+                "type": "cafe",
+                "latitude": 1.3496947,
+                "longitude": 103.6838395
+            },
+            {
+                "id": 3922463565,
+                "name": "Spruce Bistro Bar @ NTU",
+                "type": "restaurant",
+                "latitude": 1.3445744,
+                "longitude": 103.6799757
+            },
+            {
+                "id": 3922463590,
+                "name": "NIE Canteen",
+                "type": "food_court",
+                "latitude": 1.34849,
+                "longitude": 103.6776455
+            },
+            {
+                "id": 3922463591,
+                "name": "Canteen 11",
+                "type": "food_court",
+                "latitude": 1.3547697,
+                "longitude": 103.6863135
+            },
+            {
+                "id": 3922463592,
+                "name": "Canteen 14",
+                "type": "food_court",
+                "latitude": 1.3527791,
+                "longitude": 103.6821887
+            },
+            {
+                "id": 3922463593,
+                "name": "Canteen 16",
+                "type": "food_court",
+                "latitude": 1.3501936,
+                "longitude": 103.681074
+            },
+            {
+                "id": 3922463594,
+                "name": "Pioneer Canteen",
+                "type": "restaurant",
+                "latitude": 1.3460763,
+                "longitude": 103.6884075
+            },
+            {
+                "id": 4015458363,
+                "name": "OCBC",
+                "type": "atm",
+                "latitude": 1.3481946,
+                "longitude": 103.6854371
+            },
+            {
+                "id": 4015460949,
+                "name": "DBS",
+                "type": "atm",
+                "latitude": 1.342753,
+                "longitude": 103.682005
+            },
+            {
+                "id": 4094613072,
+                "name": "National Institute of Education, Singapore",
+                "type": "college",
+                "latitude": 1.3487577,
+                "longitude": 103.6784309
+            },
+            {
+                "id": 4208133205,
+                "name": "Air Traffic Management Research Institute",
+                "type": "school",
+                "latitude": 1.3473411,
+                "longitude": 103.6823534
+            },
+            {
+                "id": 4208133206,
+                "name": "The Soup Spoon Union",
+                "type": "restaurant",
+                "latitude": 1.3469626,
+                "longitude": 103.6806
+            },
+            {
+                "id": 4275263720,
+                "name": "Fusion Spoon",
+                "type": "restaurant",
+                "latitude": 1.3504441,
+                "longitude": 103.6879758
+            },
+            {
+                "id": 4584793408,
+                "name": "Gethin-Jones Medical Practice",
+                "type": "doctors",
+                "latitude": 1.3430696,
+                "longitude": 103.6819925
+            },
+            {
+                "id": 4638215531,
+                "name": "Co-op@NTU Cafe",
+                "type": "cafe",
+                "latitude": 1.3432489,
+                "longitude": 103.6825786
+            },
+            {
+                "id": 4751149020,
+                "name": "Each-A-Cup",
+                "type": "cafe",
+                "latitude": 1.3468483,
+                "longitude": 103.6808489
+            },
+            {
+                "id": 4751158428,
+                "name": "Pen & Inc",
+                "type": "restaurant",
+                "latitude": 1.3472826,
+                "longitude": 103.6799473
+            },
+            {
+                "id": 4755243794,
+                "name": "June's Breathe Cafe",
+                "type": "cafe",
+                "latitude": 1.344709,
+                "longitude": 103.6783322
+            },
+            {
+                "id": 4913953581,
+                "name": "LiHO",
+                "type": "cafe",
+                "latitude": 1.3436331,
+                "longitude": 103.6833192
+            },
+            {
+                "id": 4965046619,
+                "name": "Blue Ocean Kopi & Toast",
+                "type": "restaurant",
+                "latitude": 1.3469031,
+                "longitude": 103.6800377
+            },
+            {
+                "id": 5057668231,
+                "name": "Ribs Wings Burgers",
+                "type": "restaurant",
+                "latitude": 1.3541199,
+                "longitude": 103.6881311
+            },
+            {
+                "id": 5057668232,
+                "name": "Top Pot- Steamboat & Mookata",
+                "type": "restaurant",
+                "latitude": 1.3540192,
+                "longitude": 103.6881309
+            },
+            {
+                "id": 5177435126,
+                "name": "Ananda Kitchen",
+                "type": "restaurant",
+                "latitude": 1.3541209,
+                "longitude": 103.6877749
+            },
+            {
+                "id": 5233718610,
+                "name": "Foodgle Food Court",
+                "type": "food_court",
+                "latitude": 1.3551694,
+                "longitude": 103.6850323
+            },
+            {
+                "id": 7169785192,
+                "name": "Business Library",
+                "type": "library",
+                "latitude": 1.3466374,
+                "longitude": 103.6799653
+            },
+            {
+                "id": 7169785194,
+                "name": "Mr Bean",
+                "type": "fast_food",
+                "latitude": 1.3466439,
+                "longitude": 103.6806811
+            },
+            {
+                "id": 7321337674,
+                "name": "The Quad",
+                "type": "food_court",
+                "latitude": 1.3449084,
+                "longitude": 103.6798638
+            },
+            {
+                "id": 10687611430,
+                "name": "Pasta Express",
+                "type": "restaurant",
+                "latitude": 1.3469341,
+                "longitude": 103.6807925
+            },
+            {
+                "id": 10687611431,
+                "name": "The Crowded Bowl",
+                "type": "restaurant",
+                "latitude": 1.3468252,
+                "longitude": 103.68079
+            },
+            {
+                "id": 10687611432,
+                "name": "Wok Express",
+                "type": "restaurant",
+                "latitude": 1.3467359,
+                "longitude": 103.6808173
+            },
+            {
+                "id": 10687611433,
+                "name": "The House Steam Boat Restaurant",
+                "type": "restaurant",
+                "latitude": 1.3466786,
+                "longitude": 103.6808183
+            },
+            {
+                "id": 10687611434,
+                "name": "Venture Drive Coffee",
+                "type": "cafe",
+                "latitude": 1.3469781,
+                "longitude": 103.6805214
+            },
+            {
+                "id": 10687611435,
+                "name": "Boost Juice",
+                "type": "fast_food",
+                "latitude": 1.3471611,
+                "longitude": 103.6805164
+            },
+            {
+                "id": 10687611436,
+                "name": "Connect 71 Cafe",
+                "type": "cafe",
+                "latitude": 1.3482745,
+                "longitude": 103.6816276
+            },
+            {
+                "id": 10687611437,
+                "name": "The Tea Party",
+                "type": "cafe",
+                "latitude": 1.3477155,
+                "longitude": 103.6816406
+            },
+            {
+                "id": 10837019613,
+                "name": "CHICHA San Chen",
+                "type": "cafe",
+                "latitude": 1.3470082,
+                "longitude": 103.6802064
+            },
+            {
+                "id": 10837019614,
+                "name": "Yilin Likes Tea",
+                "type": "cafe",
+                "latitude": 1.3472263,
+                "longitude": 103.6807038
+            },
+            {
+                "id": 11174329979,
+                "name": "Domino's",
+                "type": "fast_food",
+                "latitude": 1.3466004,
+                "longitude": 103.6859813
+            },
+            {
+                "id": 49968787,
+                "name": "University Health Service",
+                "type": "clinic",
+                "latitude": 1.3453915815671116,
+                "longitude": 103.68266070178515
+            },
+            {
+                "id": 83888985,
+                "name": "Campus Club House",
+                "type": "restaurant",
+                "latitude": 1.3506030964443527,
+                "longitude": 103.6880310724899
+            },
+            {
+                "id": 83890523,
+                "name": "Car Park F",
+                "type": "parking",
+                "latitude": 1.3468823665914558,
+                "longitude": 103.68342276287474
+            },
+            {
+                "id": 115344685,
+                "name": "Car Park G",
+                "type": "parking",
+                "latitude": 1.345592554613022,
+                "longitude": 103.6832167363753
+            },
+            {
+                "id": 115591942,
+                "name": "Car Park N2.1",
+                "type": "parking",
+                "latitude": 1.3469398342242003,
+                "longitude": 103.67910982382173
+            },
+            {
+                "id": 115707224,
+                "name": "Car Park A",
+                "type": "parking",
+                "latitude": 1.3459517444388864,
+                "longitude": 103.68085522985308
+            },
+            {
+                "id": 389084394,
+                "name": "Car Park 5",
+                "type": "parking",
+                "latitude": 1.3504897192184553,
+                "longitude": 103.67758036546763
+            },
+            {
+                "id": 389084395,
+                "name": "Car Park 4",
+                "type": "parking",
+                "latitude": 1.3494959614279116,
+                "longitude": 103.67669555271833
+            },
+            {
+                "id": 429629947,
+                "name": "Car Park L",
+                "type": "parking",
+                "latitude": 1.3484433238811666,
+                "longitude": 103.68601284151649
+            },
+            {
+                "id": 482272681,
+                "name": "Car Park C",
+                "type": "parking",
+                "latitude": 1.3457326775882992,
+                "longitude": 103.68142046496703
+            },
+            {
+                "id": 482272682,
+                "name": "Car Park E",
+                "type": "parking",
+                "latitude": 1.3475901086045428,
+                "longitude": 103.68211312599064
+            },
+            {
+                "id": 482272684,
+                "name": "Car Park B",
+                "type": "parking",
+                "latitude": 1.3433249000000003,
+                "longitude": 103.68150375
+            },
+            {
+                "id": 499763028,
+                "name": "Car Park Q",
+                "type": "parking",
+                "latitude": 1.3441172766940888,
+                "longitude": 103.68258957987852
+            },
+            {
+                "id": 499764860,
+                "name": "Car Park 7",
+                "type": "parking",
+                "latitude": 1.3503476996840371,
+                "longitude": 103.67912041330774
+            },
+            {
+                "id": 499765696,
+                "name": "Car Park 3",
+                "type": "parking",
+                "latitude": 1.3476297688578514,
+                "longitude": 103.67726371326852
+            },
+            {
+                "id": 499765697,
+                "name": "Car Park 2",
+                "type": "parking",
+                "latitude": 1.3475214226666596,
+                "longitude": 103.67891556039984
+            },
+            {
+                "id": 499765698,
+                "name": "Car Park 1",
+                "type": "parking",
+                "latitude": 1.3494245499999977,
+                "longitude": 103.68096329999999
+            },
+            {
+                "id": 518497755,
+                "name": "North Hill Food Court",
+                "type": "restaurant",
+                "latitude": 1.354409681157483,
+                "longitude": 103.68822246286456
+            },
+            {
+                "id": 1094682730,
+                "name": "Chinese Pavilion",
+                "type": "shelter",
+                "latitude": 1.3427633750081975,
+                "longitude": 103.6848557499962
+            },
+            {
+                "id": 1201146195,
+                "name": "Hall 1 Carpark",
+                "type": "parking",
+                "latitude": 1.3466826787551676,
+                "longitude": 103.6865522350896
+            },
+            {
+                "id": 4751154964,
+                "name": "Binjai Hall (19A, 19B)",
+                "type": "nan",
+                "latitude": 1.3537325,
+                "longitude": 103.6877816
+            },
+            {
+                "id": 4751154965,
+                "name": "Banyan Hall (21A, 21B)",
+                "type": "nan",
+                "latitude": 1.3538124,
+                "longitude": 103.6884861
+            },
+            {
+                "id": 4751154966,
+                "name": "Tanjong Hall (20A, 20B)",
+                "type": "nan",
+                "latitude": 1.3537549,
+                "longitude": 103.688126
+            },
+            {
+                "id": 49967705,
+                "name": "North Spine",
+                "type": "nan",
+                "latitude": 1.346481487258457,
+                "longitude": 103.68086207569277
+            },
+            {
+                "id": 49967706,
+                "name": "South Spine",
+                "type": "nan",
+                "latitude": 1.343231057980686,
+                "longitude": 103.68160086561582
+            },
+            {
+                "id": 49967805,
+                "name": "Nanyang Business School (S3)",
+                "type": "nan",
+                "latitude": 1.343743453957878,
+                "longitude": 103.68278847678727
+            },
+            {
+                "id": 49967806,
+                "name": "S. Rajaratnam School of International Studies (S4)",
+                "type": "nan",
+                "latitude": 1.3443404589988623,
+                "longitude": 103.68215209759492
+            },
+            {
+                "id": 49967807,
+                "name": "School of Physical and Mathematical Sciences",
+                "type": "nan",
+                "latitude": 1.3419929676580662,
+                "longitude": 103.68188564653387
+            },
+            {
+                "id": 49967820,
+                "name": "School of Electrical and Electronic Engineering (S2)",
+                "type": "nan",
+                "latitude": 1.3423502444255113,
+                "longitude": 103.68076537341345
+            },
+            {
+                "id": 49967822,
+                "name": "School of Electrical and Electronic Engineering (S1)",
+                "type": "nan",
+                "latitude": 1.3430192499999998,
+                "longitude": 103.68016970000001
+            },
+            {
+                "id": 49967851,
+                "name": "Wee Kim Wee School of Communication and Information (WKWSCI)",
+                "type": "nan",
+                "latitude": 1.3421591168657065,
+                "longitude": 103.67982224361468
+            },
+            {
+                "id": 49967856,
+                "name": "School of Humanities and Social Sciences",
+                "type": "nan",
+                "latitude": 1.3437881922034023,
+                "longitude": 103.68337263422193
+            },
+            {
+                "id": 49967874,
+                "name": "Research Techno Plaza",
+                "type": "nan",
+                "latitude": 1.3432705278289192,
+                "longitude": 103.67942036517395
+            },
+            {
+                "id": 49967875,
+                "name": "School of Mechnical and Aerospace Engineering",
+                "type": "nan",
+                "latitude": 1.3470512326422153,
+                "longitude": 103.68206466271464
+            },
+            {
+                "id": 49967883,
+                "name": "School of Computer Science and Engineering",
+                "type": "nan",
+                "latitude": 1.3461882641497582,
+                "longitude": 103.68208531972662
+            },
+            {
+                "id": 49967895,
+                "name": "School of Materials Science and Engineering",
+                "type": "nan",
+                "latitude": 1.3466190410903467,
+                "longitude": 103.68279973303041
+            },
+            {
+                "id": 49967975,
+                "name": "School of Civil and Environmental Engineering",
+                "type": "nan",
+                "latitude": 1.345737275626515,
+                "longitude": 103.67970338288507
+            },
+            {
+                "id": 49968001,
+                "name": "School of Chemical and Biomedical Engineering (SCBE - CBE)",
+                "type": "nan",
+                "latitude": 1.3453774301901902,
+                "longitude": 103.67908745584992
+            },
+            {
+                "id": 49968067,
+                "name": "School of Biological Sciences",
+                "type": "nan",
+                "latitude": 1.3447309659326618,
+                "longitude": 103.67937961632016
+            },
+            {
+                "id": 49968075,
+                "name": "Asian School of the Environment",
+                "type": "nan",
+                "latitude": 1.3466182838958793,
+                "longitude": 103.6796906814354
+            },
+            {
+                "id": 49968086,
+                "name": "Research Support Building",
+                "type": "nan",
+                "latitude": 1.345216942585677,
+                "longitude": 103.67819866564125
+            },
+            {
+                "id": 49968559,
+                "name": "School of Art, Design and Media",
+                "type": "nan",
+                "latitude": 1.349387525122268,
+                "longitude": 103.68392393088735
+            },
+            {
+                "id": 49968619,
+                "name": "Nanyang Auditorium",
+                "type": "nan",
+                "latitude": 1.3441007643762555,
+                "longitude": 103.68012319779486
+            },
+            {
+                "id": 49968758,
+                "name": "NTU Administration Building",
+                "type": "nan",
+                "latitude": 1.3445158484602622,
+                "longitude": 103.68097552074822
+            },
+            {
+                "id": 49968763,
+                "name": "Chinese Heritage Centre",
+                "type": "nan",
+                "latitude": 1.3437875219112685,
+                "longitude": 103.68402200112249
+            },
+            {
+                "id": 49968776,
+                "name": "Student Services Centre",
+                "type": "nan",
+                "latitude": 1.3453085901644843,
+                "longitude": 103.68338453568309
+            },
+            {
+                "id": 49968849,
+                "name": "SIMTECH Valley Block",
+                "type": "nan",
+                "latitude": 1.3487439638399805,
+                "longitude": 103.68280743434376
+            },
+            {
+                "id": 49969010,
+                "name": "New Innovation Centre",
+                "type": "nan",
+                "latitude": 1.3482945724999336,
+                "longitude": 103.68167551014345
+            },
+            {
+                "id": 49989264,
+                "name": "Nanyang House",
+                "type": "nan",
+                "latitude": 1.3498290616771396,
+                "longitude": 103.68686221680136
+            },
+            {
+                "id": 49989555,
+                "name": "Electromagnetic Effects Research Lab",
+                "type": "nan",
+                "latitude": 1.3517617376664877,
+                "longitude": 103.67901171234554
+            },
+            {
+                "id": 83889023,
+                "name": "Nanyang Executive Center",
+                "type": "nan",
+                "latitude": 1.3512637719728493,
+                "longitude": 103.68795105665724
+            },
+            {
+                "id": 83889088,
+                "name": "PUB Service Reservoir",
+                "type": "nan",
+                "latitude": 1.3508943767480075,
+                "longitude": 103.68305661239557
+            },
+            {
+                "id": 83889089,
+                "name": "PUB Service Reservoir",
+                "type": "nan",
+                "latitude": 1.3513940500000001,
+                "longitude": 103.68416045000001
+            },
+            {
+                "id": 83889090,
+                "name": "PUB Service Reservoir",
+                "type": "nan",
+                "latitude": 1.3529023500000001,
+                "longitude": 103.68426060000002
+            },
+            {
+                "id": 83889958,
+                "name": "The Arc - Learning Hub North",
+                "type": "nan",
+                "latitude": 1.3475789647191785,
+                "longitude": 103.68165670230343
+            },
+            {
+                "id": 83889960,
+                "name": "Academic Block North",
+                "type": "nan",
+                "latitude": 1.3466099097782092,
+                "longitude": 103.68208302537884
+            },
+            {
+                "id": 83890075,
+                "name": "LT2A",
+                "type": "nan",
+                "latitude": 1.3466149864583976,
+                "longitude": 103.68135367141562
+            },
+            {
+                "id": 115096970,
+                "name": "Nanyang Meadows Staff Housing NTU",
+                "type": "nan",
+                "latitude": 1.352198720139317,
+                "longitude": 103.68896859838884
+            },
+            {
+                "id": 115331320,
+                "name": "Nanyang Heights",
+                "type": "nan",
+                "latitude": 1.3506896451917854,
+                "longitude": 103.68727984814191
+            },
+            {
+                "id": 115331322,
+                "name": "Lien ying chow drive",
+                "type": "nan",
+                "latitude": 1.3560979819560797,
+                "longitude": 103.68962300586442
+            },
+            {
+                "id": 115331324,
+                "name": "Nanyang Heights",
+                "type": "nan",
+                "latitude": 1.350820252852251,
+                "longitude": 103.68619211746632
+            },
+            {
+                "id": 115331325,
+                "name": "Nanyang Heights",
+                "type": "nan",
+                "latitude": 1.3513066748009892,
+                "longitude": 103.68647462439486
+            },
+            {
+                "id": 255774307,
+                "name": "Sport Hall",
+                "type": "nan",
+                "latitude": 1.3492146499999997,
+                "longitude": 103.68771000000001
+            },
+            {
+                "id": 322643975,
+                "name": "Maple Residences",
+                "type": "nan",
+                "latitude": 1.3403661975488468,
+                "longitude": 103.68177942990258
+            },
+            {
+                "id": 368766322,
+                "name": "Block 44",
+                "type": "nan",
+                "latitude": 1.3515367792271535,
+                "longitude": 103.68547859193967
+            },
+            {
+                "id": 368769216,
+                "name": "Common block",
+                "type": "nan",
+                "latitude": 1.350866312208438,
+                "longitude": 103.68514438872238
+            },
+            {
+                "id": 368769217,
+                "name": "Block 45",
+                "type": "nan",
+                "latitude": 1.352050094817438,
+                "longitude": 103.68487577306362
+            },
+            {
+                "id": 389084379,
+                "name": "LT19A",
+                "type": "nan",
+                "latitude": 1.346165575297837,
+                "longitude": 103.68046099515861
+            },
+            {
+                "id": 389084380,
+                "name": "The Hive",
+                "type": "nan",
+                "latitude": 1.3432096047550603,
+                "longitude": 103.68273993104906
+            },
+            {
+                "id": 405664349,
+                "name": "Lee Kong Chian School of Medicine (Yunan Campus)",
+                "type": "nan",
+                "latitude": 1.3443869414342973,
+                "longitude": 103.67851272326398
+            },
+            {
+                "id": 407413186,
+                "name": "Building 1 (Administration)",
+                "type": "nan",
+                "latitude": 1.3491003562964345,
+                "longitude": 103.68062946867337
+            },
+            {
+                "id": 407413203,
+                "name": "Student Hub",
+                "type": "nan",
+                "latitude": 1.3485510532208616,
+                "longitude": 103.67812685485319
+            },
+            {
+                "id": 407413566,
+                "name": "Lab Block",
+                "type": "nan",
+                "latitude": 1.34980715,
+                "longitude": 103.67914329999999
+            },
+            {
+                "id": 416673855,
+                "name": "Blk 11",
+                "type": "nan",
+                "latitude": 1.3481138500000003,
+                "longitude": 103.68385925000001
+            },
+            {
+                "id": 416673856,
+                "name": "Blk 6",
+                "type": "nan",
+                "latitude": 1.3475114777813972,
+                "longitude": 103.68400655099433
+            },
+            {
+                "id": 416673857,
+                "name": "Blk 5",
+                "type": "nan",
+                "latitude": 1.3476953394671853,
+                "longitude": 103.68422596965117
+            },
+            {
+                "id": 416675155,
+                "name": "Blk 10",
+                "type": "nan",
+                "latitude": 1.3482814500000084,
+                "longitude": 103.68403775
+            },
+            {
+                "id": 416675156,
+                "name": "Blk 9",
+                "type": "nan",
+                "latitude": 1.3484135500000085,
+                "longitude": 103.6842329
+            },
+            {
+                "id": 428426534,
+                "name": "Swimming Pool Building",
+                "type": "nan",
+                "latitude": 1.3497211141697383,
+                "longitude": 103.68805009006297
+            },
+            {
+                "id": 433828842,
+                "name": "Block 17",
+                "type": "nan",
+                "latitude": 1.3459653500000062,
+                "longitude": 103.68737454999999
+            },
+            {
+                "id": 433828843,
+                "name": "Block 15",
+                "type": "nan",
+                "latitude": 1.3458017,
+                "longitude": 103.6871072
+            },
+            {
+                "id": 433829079,
+                "name": "Block 16",
+                "type": "nan",
+                "latitude": 1.3463548117863258,
+                "longitude": 103.68672448538163
+            },
+            {
+                "id": 433832086,
+                "name": "Yunnan Corner",
+                "type": "nan",
+                "latitude": 1.3469842914514554,
+                "longitude": 103.68557926238876
+            },
+            {
+                "id": 433835345,
+                "name": "Block 13",
+                "type": "nan",
+                "latitude": 1.344668657251924,
+                "longitude": 103.68693770739502
+            },
+            {
+                "id": 480561924,
+                "name": "The Wave Sport Hall",
+                "type": "nan",
+                "latitude": 1.349131855655269,
+                "longitude": 103.68935264628651
+            },
+            {
+                "id": 494313868,
+                "name": "Blk 8",
+                "type": "nan",
+                "latitude": 1.34857345,
+                "longitude": 103.68443990000002
+            },
+            {
+                "id": 494313869,
+                "name": "Blk 7",
+                "type": "nan",
+                "latitude": 1.34872735,
+                "longitude": 103.6846204
+            },
+            {
+                "id": 494313870,
+                "name": "Blk 4",
+                "type": "nan",
+                "latitude": 1.3477451577855513,
+                "longitude": 103.68437566607486
+            },
+            {
+                "id": 494313871,
+                "name": "Blk 1",
+                "type": "nan",
+                "latitude": 1.3478058631998238,
+                "longitude": 103.68618603469884
+            },
+            {
+                "id": 494313877,
+                "name": "Blk 3",
+                "type": "nan",
+                "latitude": 1.3477302589465896,
+                "longitude": 103.6847652582725
+            },
+            {
+                "id": 494313878,
+                "name": "Blk 2",
+                "type": "nan",
+                "latitude": 1.3478520511824845,
+                "longitude": 103.68539472334629
+            },
+            {
+                "id": 494471325,
+                "name": "Block 18",
+                "type": "nan",
+                "latitude": 1.3452539758533564,
+                "longitude": 103.68784636363638
+            },
+            {
+                "id": 494471326,
+                "name": "Block 14",
+                "type": "nan",
+                "latitude": 1.3452378991147154,
+                "longitude": 103.68748195641894
+            },
+            {
+                "id": 494471327,
+                "name": "Block 12",
+                "type": "nan",
+                "latitude": 1.3452028829095324,
+                "longitude": 103.6854307833004
+            },
+            {
+                "id": 494471328,
+                "name": "SAF-NTU Academy",
+                "type": "nan",
+                "latitude": 1.3438269917790309,
+                "longitude": 103.68226203666785
+            },
+            {
+                "id": 494471332,
+                "name": "Maritime Enegry Testbed",
+                "type": "nan",
+                "latitude": 1.3542956462071793,
+                "longitude": 103.6894455020021
+            },
+            {
+                "id": 498970468,
+                "name": "Block 52",
+                "type": "nan",
+                "latitude": 1.3546207281516507,
+                "longitude": 103.68537357620757
+            },
+            {
+                "id": 498970469,
+                "name": "Block 49",
+                "type": "nan",
+                "latitude": 1.3538950444279743,
+                "longitude": 103.68590860363746
+            },
+            {
+                "id": 498970471,
+                "name": "Block 50",
+                "type": "nan",
+                "latitude": 1.3537803243803979,
+                "longitude": 103.68543959424922
+            },
+            {
+                "id": 498970472,
+                "name": "Block 51",
+                "type": "nan",
+                "latitude": 1.3541833924881799,
+                "longitude": 103.68501408479537
+            },
+            {
+                "id": 499764859,
+                "name": "Nanyang Playhouse",
+                "type": "nan",
+                "latitude": 1.3477462,
+                "longitude": 103.6787166
+            },
+            {
+                "id": 499765699,
+                "name": "Green House",
+                "type": "nan",
+                "latitude": 1.3503472,
+                "longitude": 103.67960264999998
+            },
+            {
+                "id": 499767254,
+                "name": "Art Gallery",
+                "type": "nan",
+                "latitude": 1.3476980500000002,
+                "longitude": 103.67836905000001
+            },
+            {
+                "id": 500015538,
+                "name": "Building 3 (Arts)",
+                "type": "nan",
+                "latitude": 1.3481389897418423,
+                "longitude": 103.67817962715718
+            },
+            {
+                "id": 500015539,
+                "name": "Building 2 (Education)",
+                "type": "nan",
+                "latitude": 1.3485809832253173,
+                "longitude": 103.67975118604402
+            },
+            {
+                "id": 500015541,
+                "name": "Building 7 (Science)",
+                "type": "nan",
+                "latitude": 1.3492746086515308,
+                "longitude": 103.67938966074394
+            },
+            {
+                "id": 500015542,
+                "name": "Building 5 (Physical Education)",
+                "type": "nan",
+                "latitude": 1.3495437822536194,
+                "longitude": 103.67741707659918
+            },
+            {
+                "id": 500015543,
+                "name": "NIE Library",
+                "type": "nan",
+                "latitude": 1.3486637285759546,
+                "longitude": 103.67747092384589
+            },
+            {
+                "id": 500032226,
+                "name": "Blk N2.1",
+                "type": "nan",
+                "latitude": 1.3461859480408556,
+                "longitude": 103.67901424583403
+            },
+            {
+                "id": 500300128,
+                "name": "Blk 17B",
+                "type": "nan",
+                "latitude": 1.3462543813529997,
+                "longitude": 103.68836746079727
+            },
+            {
+                "id": 500300129,
+                "name": "Blk 18B",
+                "type": "nan",
+                "latitude": 1.3462789187475195,
+                "longitude": 103.68892561727574
+            },
+            {
+                "id": 500300130,
+                "name": "Blk 17A",
+                "type": "nan",
+                "latitude": 1.3464632647181694,
+                "longitude": 103.68791586152304
+            },
+            {
+                "id": 500300131,
+                "name": "Blk 17C",
+                "type": "nan",
+                "latitude": 1.3457302381034997,
+                "longitude": 103.68837417200139
+            },
+            {
+                "id": 500300132,
+                "name": "Blk 17D",
+                "type": "nan",
+                "latitude": 1.3460425070163846,
+                "longitude": 103.68792579331144
+            },
+            {
+                "id": 500300133,
+                "name": "Blk 18C",
+                "type": "nan",
+                "latitude": 1.3457520759454562,
+                "longitude": 103.68887760451798
+            },
+            {
+                "id": 500300134,
+                "name": "Blk 18D",
+                "type": "nan",
+                "latitude": 1.3461001379758333,
+                "longitude": 103.68931527806922
+            },
+            {
+                "id": 500300135,
+                "name": "Blk 18A",
+                "type": "nan",
+                "latitude": 1.346474060254906,
+                "longitude": 103.68933174286403
+            },
+            {
+                "id": 506855835,
+                "name": "Tan Chin Tuan Lecture Theatre",
+                "type": "nan",
+                "latitude": 1.3452315688585281,
+                "longitude": 103.68109860692282
+            },
+            {
+                "id": 508384940,
+                "name": "Nanyang Grove",
+                "type": "nan",
+                "latitude": 1.3538667342816983,
+                "longitude": 103.68702127338564
+            },
+            {
+                "id": 508384941,
+                "name": "Blk 21",
+                "type": "nan",
+                "latitude": 1.353160305460452,
+                "longitude": 103.6866978209188
+            },
+            {
+                "id": 508384942,
+                "name": "Blk 23",
+                "type": "nan",
+                "latitude": 1.3535302308476478,
+                "longitude": 103.68692129620696
+            },
+            {
+                "id": 508384943,
+                "name": "Blk 25",
+                "type": "nan",
+                "latitude": 1.353539626644796,
+                "longitude": 103.68727600798653
+            },
+            {
+                "id": 508384944,
+                "name": "Blk 27",
+                "type": "nan",
+                "latitude": 1.3538168716372039,
+                "longitude": 103.68736848445043
+            },
+            {
+                "id": 508384945,
+                "name": "Blk 29",
+                "type": "nan",
+                "latitude": 1.3541127311313947,
+                "longitude": 103.68726476486088
+            },
+            {
+                "id": 508384946,
+                "name": "Blk 19A",
+                "type": "nan",
+                "latitude": 1.354203952155068,
+                "longitude": 103.68768906070848
+            },
+            {
+                "id": 508384947,
+                "name": "Blk 19B",
+                "type": "nan",
+                "latitude": 1.3536245334058128,
+                "longitude": 103.68775717308588
+            },
+            {
+                "id": 508384948,
+                "name": "Tanjong Hall Blk 20A",
+                "type": "nan",
+                "latitude": 1.3540320396748144,
+                "longitude": 103.68807485430818
+            },
+            {
+                "id": 508384949,
+                "name": "Tanjong Hall Blk 20B",
+                "type": "nan",
+                "latitude": 1.3535770466529229,
+                "longitude": 103.68824751594296
+            },
+            {
+                "id": 508384950,
+                "name": "Blk 20B",
+                "type": "nan",
+                "latitude": 1.3533308747657253,
+                "longitude": 103.68823091960847
+            },
+            {
+                "id": 508384951,
+                "name": "Blk 21A",
+                "type": "nan",
+                "latitude": 1.354200797881268,
+                "longitude": 103.68845114943895
+            },
+            {
+                "id": 508384952,
+                "name": "21B",
+                "type": "nan",
+                "latitude": 1.3536032603111923,
+                "longitude": 103.68877064897771
+            },
+            {
+                "id": 508384953,
+                "name": "21B",
+                "type": "nan",
+                "latitude": 1.3533443959527454,
+                "longitude": 103.68880815407984
+            },
+            {
+                "id": 508384954,
+                "name": "Carpark",
+                "type": "nan",
+                "latitude": 1.353182177964314,
+                "longitude": 103.68863354951276
+            },
+            {
+                "id": 518158328,
+                "name": "Block 55",
+                "type": "nan",
+                "latitude": 1.3554749021448922,
+                "longitude": 103.686447559261
+            },
+            {
+                "id": 518158330,
+                "name": "Block 56",
+                "type": "nan",
+                "latitude": 1.3551032636673712,
+                "longitude": 103.68692680603147
+            },
+            {
+                "id": 518158333,
+                "name": "Block 54",
+                "type": "nan",
+                "latitude": 1.3551209149031103,
+                "longitude": 103.68594503423903
+            },
+            {
+                "id": 518158336,
+                "name": "Block 53",
+                "type": "nan",
+                "latitude": 1.354382690874584,
+                "longitude": 103.68646287692279
+            },
+            {
+                "id": 518158340,
+                "name": "Block 48",
+                "type": "nan",
+                "latitude": 1.3529838326935983,
+                "longitude": 103.68578162005166
+            },
+            {
+                "id": 518158343,
+                "name": "Block 47",
+                "type": "nan",
+                "latitude": 1.3530243998036744,
+                "longitude": 103.68531855727619
+            },
+            {
+                "id": 518158345,
+                "name": "Block 46",
+                "type": "nan",
+                "latitude": 1.3525463503229687,
+                "longitude": 103.68491103492144
+            },
+            {
+                "id": 518953435,
+                "name": "Block 43",
+                "type": "nan",
+                "latitude": 1.3514553352982193,
+                "longitude": 103.68496089478218
+            },
+            {
+                "id": 518953436,
+                "name": "Block 42",
+                "type": "nan",
+                "latitude": 1.3509249297691854,
+                "longitude": 103.68472607677256
+            },
+            {
+                "id": 518953437,
+                "name": "Block 41",
+                "type": "nan",
+                "latitude": 1.3504270868158583,
+                "longitude": 103.68470417561295
+            },
+            {
+                "id": 518953946,
+                "name": "Blk 72",
+                "type": "nan",
+                "latitude": 1.3541199105964286,
+                "longitude": 103.68365754839726
+            },
+            {
+                "id": 518953947,
+                "name": "Blk 71",
+                "type": "nan",
+                "latitude": 1.3538598457445061,
+                "longitude": 103.68328370647889
+            },
+            {
+                "id": 518953948,
+                "name": "Blk 70",
+                "type": "nan",
+                "latitude": 1.3535717728328642,
+                "longitude": 103.68288526668505
+            },
+            {
+                "id": 518953949,
+                "name": "Blk 69",
+                "type": "nan",
+                "latitude": 1.3531383862996815,
+                "longitude": 103.6828261348769
+            },
+            {
+                "id": 519191752,
+                "name": "Blk 67",
+                "type": "nan",
+                "latitude": 1.3523218684089777,
+                "longitude": 103.68241927467888
+            },
+            {
+                "id": 519191753,
+                "name": "Blk 66",
+                "type": "nan",
+                "latitude": 1.35211899729197,
+                "longitude": 103.68200812170117
+            },
+            {
+                "id": 519191754,
+                "name": "Blk 68",
+                "type": "nan",
+                "latitude": 1.3525708492642348,
+                "longitude": 103.68281816476245
+            },
+            {
+                "id": 519191755,
+                "name": "Blk 65",
+                "type": "nan",
+                "latitude": 1.352571175023771,
+                "longitude": 103.68165855368916
+            },
+            {
+                "id": 519191756,
+                "name": "Blk 65A",
+                "type": "nan",
+                "latitude": 1.3527646114107286,
+                "longitude": 103.68191133153694
+            },
+            {
+                "id": 519191758,
+                "name": "Blk 61",
+                "type": "nan",
+                "latitude": 1.3521736769184833,
+                "longitude": 103.68102450414818
+            },
+            {
+                "id": 519191759,
+                "name": "Blk 62",
+                "type": "nan",
+                "latitude": 1.352130768489802,
+                "longitude": 103.68137583897112
+            },
+            {
+                "id": 519191761,
+                "name": "Blk 63",
+                "type": "nan",
+                "latitude": 1.3518320065548053,
+                "longitude": 103.68117910727935
+            },
+            {
+                "id": 533741380,
+                "name": "North Spine",
+                "type": "nan",
+                "latitude": 1.3446444453127067,
+                "longitude": 103.68068869937264
+            },
+            {
+                "id": 535570087,
+                "name": "Learning Vision NTU",
+                "type": "nan",
+                "latitude": 1.3529692865579006,
+                "longitude": 103.68924831837207
+            },
+            {
+                "id": 535570088,
+                "name": "Blk 32",
+                "type": "nan",
+                "latitude": 1.3483121660457726,
+                "longitude": 103.6869311294092
+            },
+            {
+                "id": 535570089,
+                "name": "Blk 33",
+                "type": "nan",
+                "latitude": 1.348238119748715,
+                "longitude": 103.6873707993849
+            },
+            {
+                "id": 535570090,
+                "name": "Blk 34",
+                "type": "nan",
+                "latitude": 1.3473125334341227,
+                "longitude": 103.68684850715117
+            },
+            {
+                "id": 535570091,
+                "name": "Blk 35",
+                "type": "nan",
+                "latitude": 1.3471374898817194,
+                "longitude": 103.687592674247
+            },
+            {
+                "id": 535632984,
+                "name": "Hall of Residence 7",
+                "type": "nan",
+                "latitude": 1.354636245976392,
+                "longitude": 103.68415774911605
+            },
+            {
+                "id": 535632986,
+                "name": "Saraca Hall",
+                "type": "nan",
+                "latitude": 1.3551408590488716,
+                "longitude": 103.68494772748906
+            },
+            {
+                "id": 536528533,
+                "name": "Blk 57",
+                "type": "nan",
+                "latitude": 1.3513646000000001,
+                "longitude": 103.6803141
+            },
+            {
+                "id": 536528534,
+                "name": "Blk 58",
+                "type": "nan",
+                "latitude": 1.3510481455621366,
+                "longitude": 103.6804136030445
+            },
+            {
+                "id": 536528536,
+                "name": "Blk 59",
+                "type": "nan",
+                "latitude": 1.3512510011591539,
+                "longitude": 103.68068469806018
+            },
+            {
+                "id": 536528537,
+                "name": "Blk 16B",
+                "type": "nan",
+                "latitude": 1.3502845204961282,
+                "longitude": 103.68114540926311
+            },
+            {
+                "id": 536528538,
+                "name": "Blk 16A",
+                "type": "nan",
+                "latitude": 1.3505247811853416,
+                "longitude": 103.68142177171653
+            },
+            {
+                "id": 536528539,
+                "name": "Blk 3C",
+                "type": "nan",
+                "latitude": 1.350731175956872,
+                "longitude": 103.68157125778085
+            },
+            {
+                "id": 536528540,
+                "name": "Blk 3A",
+                "type": "nan",
+                "latitude": 1.3511947606353307,
+                "longitude": 103.6820567545482
+            },
+            {
+                "id": 536528541,
+                "name": "Blk 3B",
+                "type": "nan",
+                "latitude": 1.3510546640222436,
+                "longitude": 103.68179443489485
+            },
+            {
+                "id": 536528542,
+                "name": "Blk 3E",
+                "type": "nan",
+                "latitude": 1.3507952793288844,
+                "longitude": 103.68214624202615
+            },
+            {
+                "id": 536528543,
+                "name": "Blk 3D",
+                "type": "nan",
+                "latitude": 1.350516558057605,
+                "longitude": 103.6819578114474
+            },
+            {
+                "id": 536531444,
+                "name": "Blk 16C",
+                "type": "nan",
+                "latitude": 1.3501620489895076,
+                "longitude": 103.6815462158748
+            },
+            {
+                "id": 536531445,
+                "name": "Blk 16D",
+                "type": "nan",
+                "latitude": 1.3499471845555389,
+                "longitude": 103.68134778339864
+            },
+            {
+                "id": 536531446,
+                "name": "Blk 16E",
+                "type": "nan",
+                "latitude": 1.3497079761035995,
+                "longitude": 103.68144194383166
+            },
+            {
+                "id": 536531447,
+                "name": "Blk 60",
+                "type": "nan",
+                "latitude": 1.3507112209957326,
+                "longitude": 103.68087516193081
+            },
+            {
+                "id": 536531448,
+                "name": "Blk 64",
+                "type": "nan",
+                "latitude": 1.3517066060070733,
+                "longitude": 103.68176750295335
+            },
+            {
+                "id": 544832228,
+                "name": "School of Chemical and Biomedical Engineering (SCBE - BIE)",
+                "type": "nan",
+                "latitude": 1.345347450762105,
+                "longitude": 103.680233776737
+            },
+            {
+                "id": 592155556,
+                "name": "Tamarind Hall",
+                "type": "nan",
+                "latitude": 1.3545891213194565,
+                "longitude": 103.68472368005636
+            },
+            {
+                "id": 1094685152,
+                "name": "Chinese Pavilion",
+                "type": "shelter",
+                "latitude": 1.3420980500033706,
+                "longitude": 103.68475272499805
+            },
+            {
+                "id": 1094685153,
+                "name": "Chinese Pavilion",
+                "type": "shelter",
+                "latitude": 1.342708173617062,
+                "longitude": 103.68553265933924
+            },
+            {
+                "id": 1094685154,
+                "name": "Chinese Pavilion",
+                "type": "shelter",
+                "latitude": 1.3433107874931287,
+                "longitude": 103.68554456250207
+            },
+            {
+                "id": 1094685155,
+                "name": "Chinese Pavilion",
+                "type": "shelter",
+                "latitude": 1.3433655999999998,
+                "longitude": 103.6861753
+            },
+            {
+                "id": 1094687238,
+                "name": "Chinese Pavilion",
+                "type": "shelter",
+                "latitude": 1.3422254643963039,
+                "longitude": 103.68417249562651
+            },
+            {
+                "id": 1094687239,
+                "name": "Chinese Pavilion",
+                "type": "shelter",
+                "latitude": 1.3417781500007464,
+                "longitude": 103.68414782499387
+            },
+            {
+                "id": 15522104,
+                "name": "Gaia",
+                "type": "nan",
+                "latitude": 1.3420523434287608,
+                "longitude": 103.68334924631219
+            }
+        ]
+    }
+}

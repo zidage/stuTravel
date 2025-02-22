@@ -1,0 +1,222 @@
+{
+    "id": -5537161119289724639,
+    "name": "厦门大学",
+    "address": "中国福建省厦门市思明区思明南路422号 邮政编码: 361005",
+    "rating": 4.5,
+    "popularity": 88,
+    "data_path": "map_data/university_map/Xiamen_University",
+    "description": "厦门大学（英语：Xiamen University，缩写：XMU，建校初期为Amoy University），简称厦大，1921年4月由爱国华侨领袖陈嘉庚创办，初名私立厦门大学，是中国近代教育史上第一所华侨创办的大学。1937年7月，厦门大学由私立改为国立，更名国立厦门大学。\n厦门大学是中华人民共和国顶尖高校之一，是“双一流A类”和原“985工程”、原“211工程”重点建设大学，是中华人民共和国教育部直属，由教育部、福建省和厦门市共建。厦门大学主校区依山傍海，有着“中国最美大学”的美誉。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b9/ChinaXiamenUniversity.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/df/Jiannan_Auditorium_of_XMU.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Platopainting.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Shaw_Building%2CXiamen_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/Swimming_pool_xmu.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_soccer_court_of_xmu.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/Xia_Men_University_Western_Gate.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/XiamenUniversityStudentHall.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Xiamen_University%2C_view_from_Hongshan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Xiamenuniversityconcert.jpg"
+    ],
+    "amenity": {
+        "affiliation": -5537161119289724639,
+        "amenity_list": [
+            {
+                "id": 1761690575,
+                "name": "Villa 6",
+                "type": "restaurant",
+                "latitude": 24.44182,
+                "longitude": 118.0936374
+            },
+            {
+                "id": 3050323615,
+                "name": "可能感兴趣的地点",
+                "type": "cafe",
+                "latitude": 24.4415524,
+                "longitude": 118.0933978
+            },
+            {
+                "id": 3051160184,
+                "name": "芙蓉餐厅",
+                "type": "restaurant",
+                "latitude": 24.4381454,
+                "longitude": 118.0973197
+            },
+            {
+                "id": 3051160188,
+                "name": "中国建设银行",
+                "type": "bank",
+                "latitude": 24.437648,
+                "longitude": 118.0964627
+            },
+            {
+                "id": 3051160192,
+                "name": "中国工商银行",
+                "type": "bank",
+                "latitude": 24.4378654,
+                "longitude": 118.0963639
+            },
+            {
+                "id": 3196515472,
+                "name": "厦门大学管理学院",
+                "type": "school",
+                "latitude": 24.4406761,
+                "longitude": 118.0927283
+            },
+            {
+                "id": 3841272927,
+                "name": "东苑餐厅",
+                "type": "restaurant",
+                "latitude": 24.4384482,
+                "longitude": 118.0971948
+            },
+            {
+                "id": 409154036,
+                "name": "厦门大学图书馆",
+                "type": "library",
+                "latitude": 24.441304095352297,
+                "longitude": 118.09163089596686
+            },
+            {
+                "id": 911425801,
+                "name": "厦大(南普陀)",
+                "type": "bus_station",
+                "latitude": 24.44195139779583,
+                "longitude": 118.09254694962368
+            },
+            {
+                "id": 154987217,
+                "name": "芙蓉四",
+                "type": "nan",
+                "latitude": 24.438234043285487,
+                "longitude": 118.09592535718171
+            },
+            {
+                "id": 154987221,
+                "name": "芙蓉二",
+                "type": "nan",
+                "latitude": 24.439270149999995,
+                "longitude": 118.095388
+            },
+            {
+                "id": 154987224,
+                "name": "南光餐厅",
+                "type": "nan",
+                "latitude": 24.437675757653057,
+                "longitude": 118.0945983432013
+            },
+            {
+                "id": 154987227,
+                "name": "芙蓉一",
+                "type": "nan",
+                "latitude": 24.437817651703433,
+                "longitude": 118.09437288940784
+            },
+            {
+                "id": 154987228,
+                "name": "厦门大学学生活动中心（自钦楼）",
+                "type": "nan",
+                "latitude": 24.43836273660995,
+                "longitude": 118.09517076559709
+            },
+            {
+                "id": 156122773,
+                "name": "钟铭选楼",
+                "type": "nan",
+                "latitude": 24.43897010195131,
+                "longitude": 118.09196331423459
+            },
+            {
+                "id": 156122775,
+                "name": "映雪楼",
+                "type": "nan",
+                "latitude": 24.438692250000003,
+                "longitude": 118.09170929999999
+            },
+            {
+                "id": 156122776,
+                "name": "嘉庚楼群",
+                "type": "nan",
+                "latitude": 24.440264819157836,
+                "longitude": 118.09249799653256
+            },
+            {
+                "id": 156122777,
+                "name": "群贤二",
+                "type": "nan",
+                "latitude": 24.439738674411068,
+                "longitude": 118.09061132405026
+            },
+            {
+                "id": 156122784,
+                "name": "群贤楼群",
+                "type": "nan",
+                "latitude": 24.439325061592477,
+                "longitude": 118.09041586156324
+            },
+            {
+                "id": 156122793,
+                "name": "囊萤楼",
+                "type": "nan",
+                "latitude": 24.439875684936176,
+                "longitude": 118.08906348021779
+            },
+            {
+                "id": 156122801,
+                "name": "集美二",
+                "type": "nan",
+                "latitude": 24.439377899999997,
+                "longitude": 118.09133614999998
+            },
+            {
+                "id": 156165997,
+                "name": "厦门大学化学化工学院",
+                "type": "nan",
+                "latitude": 24.44083071786426,
+                "longitude": 118.09001865087102
+            },
+            {
+                "id": 156166982,
+                "name": "芙蓉三",
+                "type": "nan",
+                "latitude": 24.440513043774224,
+                "longitude": 118.09477354547296
+            },
+            {
+                "id": 409154035,
+                "name": "厦门大学经济学院",
+                "type": "nan",
+                "latitude": 24.441849940273602,
+                "longitude": 118.08950046840313
+            },
+            {
+                "id": 459839525,
+                "name": "国光三",
+                "type": "nan",
+                "latitude": 24.443332637789386,
+                "longitude": 118.0940132358831
+            },
+            {
+                "id": 459839526,
+                "name": "国光第二",
+                "type": "nan",
+                "latitude": 24.442966293157973,
+                "longitude": 118.0938551976282
+            },
+            {
+                "id": 459839527,
+                "name": "国光第一",
+                "type": "nan",
+                "latitude": 24.442482668030934,
+                "longitude": 118.093622205024
+            },
+            {
+                "id": 1213243560,
+                "name": "厦大访客中心",
+                "type": "nan",
+                "latitude": 24.439115248686,
+                "longitude": 118.08819949338361
+            }
+        ]
+    }
+}

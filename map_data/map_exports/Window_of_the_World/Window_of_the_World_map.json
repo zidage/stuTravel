@@ -1,0 +1,54 @@
+{
+    "id": -9204189681114725377,
+    "name": "世界之窗售票处",
+    "address": "中国广东省深圳市南山区华侨城深南大道 邮政编码: 518058",
+    "rating": 4.4,
+    "popularity": 84,
+    "data_path": "map_data/university_map/Window_of_the_World",
+    "description": "三清山位于中国江西省上饶市玉山县与德兴市交界处，距玉山县城50公里，距上饶市78公里。三清山为怀玉山脉主峰，因玉京、玉虚、玉华“三峰峻拔、如三清列坐其巅”而得其名，三峰中以玉京峰为最高，海拔1816.9米，是江西第五高峰，也是信江的源头之一。\n三清山风景秀美，同时又是道教名山。1988年被列为国家重点风景名胜区，2005年被列为国家地质公园，2008年被列为世界自然遗产，2011年被列国家AAAAA级旅游区，2012年被列为世界地质公园。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/SanQingShan1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/75/SanQingShan10.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/ba/SanQingShan11.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/SanQingShan12.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/SanQingShan13.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/SanQingShan14.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c9/SanQingShan15.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b7/SanQingShan2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/SanQingShan3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/SanQingShan4.jpg"
+    ],
+    "amenity": {
+        "affiliation": -9204189681114725377,
+        "amenity_list": [
+            {
+                "id": 4809251648,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 22.5370578,
+                "longitude": 113.9711694
+            },
+            {
+                "id": 10705991370,
+                "name": "四大洲喷泉微缩模型",
+                "type": "fountain",
+                "latitude": 22.5357266,
+                "longitude": 113.968864
+            },
+            {
+                "id": 10705991372,
+                "name": "世界地图喷泉",
+                "type": "fountain",
+                "latitude": 22.5379769,
+                "longitude": 113.9698535
+            },
+            {
+                "id": 264353569,
+                "name": "世界广场环球舞台",
+                "type": "theatre",
+                "latitude": 22.537872014734024,
+                "longitude": 113.9697772634689
+            }
+        ]
+    }
+}

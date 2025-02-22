@@ -1,0 +1,306 @@
+{
+    "id": 9185110955475436681,
+    "name": "中国农业大学",
+    "address": "北京市海淀区清华东路17号 邮政编码: 100084",
+    "rating": 4.4,
+    "popularity": 68,
+    "data_path": "map_data/university_map/China_Agricultural_University_",
+    "description": "中国农业大学（英语：China Agricultural University，缩写：CAU），是一所以农学、生命科学和农业工程为特色和优势的研究型大学，是“双一流A类”和原“985工程”、原“211工程”重点建设大学，是教育部直属，由教育部、农业部和北京市共同建设。",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b3/GZFiveRams.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/South_China_Agricultural_University.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Yuexiu_Park_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/%E4%B8%81%E9%A2%96%E6%95%99%E6%8E%88%E5%A1%91%E5%83%8F.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%9F%B3%E7%89%8C%E6%97%A7%E5%9D%80%E5%BB%BA%E7%AD%91-%E5%86%9C%E5%AD%A6%E9%99%A2%E5%A5%A0%E5%9F%BA%E7%9F%B3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%9F%B3%E7%89%8C%E6%97%A7%E5%9D%80%E5%BB%BA%E7%AD%91-%E5%A4%A9%E6%96%87%E5%8F%B0.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%9F%B3%E7%89%8C%E6%97%A7%E5%9D%80%E5%BB%BA%E7%AD%91-%E6%AD%A3%E9%97%A8%E7%89%8C%E5%9D%8A%EF%BC%882017%EF%BC%89.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/70/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%9F%B3%E7%89%8C%E6%97%A7%E5%9D%80%E5%BB%BA%E7%AD%91-%E7%8B%AE%E5%A4%B4%E5%96%B7%E6%B0%B4%E6%B1%A0.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/04/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%9F%B3%E7%89%8C%E6%97%A7%E5%9D%80%E5%BB%BA%E7%AD%91-%E7%A0%94%E7%A9%B6%E9%99%A2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ae/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A616%E5%8F%B7%E6%A5%BC.jpg"
+    ],
+    "amenity": {
+        "affiliation": 9185110955475436681,
+        "amenity_list": [
+            {
+                "id": 2285740581,
+                "name": "中国农业大学校医院",
+                "type": "hospital",
+                "latitude": 40.02634,
+                "longitude": 116.2750777
+            },
+            {
+                "id": 226511792,
+                "name": "中国农业大学图书馆",
+                "type": "library",
+                "latitude": 40.02363548922579,
+                "longitude": 116.2742743896244
+            },
+            {
+                "id": 226694685,
+                "name": "和园",
+                "type": "restaurant",
+                "latitude": 40.0269448,
+                "longitude": 116.27235530000003
+            },
+            {
+                "id": 226695443,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 40.02712864890941,
+                "longitude": 116.2710577103389
+            },
+            {
+                "id": 1145919340,
+                "name": "中国农业大学动物医院",
+                "type": "hospital",
+                "latitude": 40.02933994137625,
+                "longitude": 116.27592105448777
+            },
+            {
+                "id": 226511794,
+                "name": "中国农业大学主楼",
+                "type": "nan",
+                "latitude": 40.023650055427325,
+                "longitude": 116.27590632674901
+            },
+            {
+                "id": 226511844,
+                "name": "中国农业大学实验楼",
+                "type": "nan",
+                "latitude": 40.02274908473684,
+                "longitude": 116.27533529490631
+            },
+            {
+                "id": 226512101,
+                "name": "6号楼",
+                "type": "nan",
+                "latitude": 40.02635916014911,
+                "longitude": 116.2738752736316
+            },
+            {
+                "id": 226512102,
+                "name": "5号楼",
+                "type": "nan",
+                "latitude": 40.025942890195125,
+                "longitude": 116.27440957637776
+            },
+            {
+                "id": 226512103,
+                "name": "7号楼",
+                "type": "nan",
+                "latitude": 40.0269241091721,
+                "longitude": 116.273392400574
+            },
+            {
+                "id": 226512104,
+                "name": "8号楼",
+                "type": "nan",
+                "latitude": 40.027444205846585,
+                "longitude": 116.27307829060112
+            },
+            {
+                "id": 226512108,
+                "name": "颐园",
+                "type": "nan",
+                "latitude": 40.02657436697981,
+                "longitude": 116.27265854194228
+            },
+            {
+                "id": 226694303,
+                "name": "报告厅",
+                "type": "nan",
+                "latitude": 40.024440063619245,
+                "longitude": 116.27354100272667
+            },
+            {
+                "id": 226694544,
+                "name": "旧教学楼",
+                "type": "nan",
+                "latitude": 40.024577895500265,
+                "longitude": 116.274861713351
+            },
+            {
+                "id": 226694753,
+                "name": "12号楼",
+                "type": "nan",
+                "latitude": 40.02759557315933,
+                "longitude": 116.27405132716224
+            },
+            {
+                "id": 226695622,
+                "name": "13号楼",
+                "type": "nan",
+                "latitude": 40.02844215167557,
+                "longitude": 116.27415511750029
+            },
+            {
+                "id": 226695659,
+                "name": "11号楼",
+                "type": "nan",
+                "latitude": 40.027033038128636,
+                "longitude": 116.27450212460263
+            },
+            {
+                "id": 226695704,
+                "name": "10号楼",
+                "type": "nan",
+                "latitude": 40.02667251081014,
+                "longitude": 116.2748170765813
+            },
+            {
+                "id": 226695806,
+                "name": "澡堂",
+                "type": "nan",
+                "latitude": 40.02594065784881,
+                "longitude": 116.27544483949782
+            },
+            {
+                "id": 226695836,
+                "name": "1号楼",
+                "type": "nan",
+                "latitude": 40.0251535,
+                "longitude": 116.27284200000001
+            },
+            {
+                "id": 226695839,
+                "name": "2号楼",
+                "type": "nan",
+                "latitude": 40.025596804972565,
+                "longitude": 116.27247093877476
+            },
+            {
+                "id": 226696018,
+                "name": "3号楼",
+                "type": "nan",
+                "latitude": 40.02616713832885,
+                "longitude": 116.2719580720248
+            },
+            {
+                "id": 226696147,
+                "name": "4号楼",
+                "type": "nan",
+                "latitude": 40.02663864630507,
+                "longitude": 116.27155031308973
+            },
+            {
+                "id": 226696321,
+                "name": "农学楼",
+                "type": "nan",
+                "latitude": 40.02282729730781,
+                "longitude": 116.27630244635382
+            },
+            {
+                "id": 226696717,
+                "name": "植保楼",
+                "type": "nan",
+                "latitude": 40.02324033977156,
+                "longitude": 116.2776556509689
+            },
+            {
+                "id": 226696833,
+                "name": "玉米楼",
+                "type": "nan",
+                "latitude": 40.02249165,
+                "longitude": 116.27698894999999
+            },
+            {
+                "id": 1145919315,
+                "name": "神内楼",
+                "type": "nan",
+                "latitude": 40.02808150549612,
+                "longitude": 116.27958792545641
+            },
+            {
+                "id": 1145919322,
+                "name": "科学园",
+                "type": "nan",
+                "latitude": 40.02883502339441,
+                "longitude": 116.2818399308885
+            },
+            {
+                "id": 1145919331,
+                "name": "农业资源高效利用教学科研温室",
+                "type": "nan",
+                "latitude": 40.02804264691499,
+                "longitude": 116.28037200939838
+            },
+            {
+                "id": 1145919334,
+                "name": "兔场",
+                "type": "nan",
+                "latitude": 40.0296125,
+                "longitude": 116.28123255
+            },
+            {
+                "id": 1145919335,
+                "name": "牧草种子实验室",
+                "type": "nan",
+                "latitude": 40.028976982815344,
+                "longitude": 116.28083025811436
+            },
+            {
+                "id": 1145919342,
+                "name": "国家饲料工程研究中心",
+                "type": "nan",
+                "latitude": 40.02913770000001,
+                "longitude": 116.27819980000001
+            },
+            {
+                "id": 1145919343,
+                "name": "中国农业大学饲料博物馆",
+                "type": "nan",
+                "latitude": 40.02921157829315,
+                "longitude": 116.2788962605049
+            },
+            {
+                "id": 1145919344,
+                "name": "药械与施药技术研究中心",
+                "type": "nan",
+                "latitude": 40.029303377535506,
+                "longitude": 116.27952591947952
+            },
+            {
+                "id": 1145919350,
+                "name": "资源与环境学院",
+                "type": "nan",
+                "latitude": 40.02421307701846,
+                "longitude": 116.27703206197369
+            },
+            {
+                "id": 1145919351,
+                "name": "土地科学与技术学院",
+                "type": "nan",
+                "latitude": 40.023596257664586,
+                "longitude": 116.27728612726979
+            },
+            {
+                "id": 1145919353,
+                "name": "畜牧楼",
+                "type": "nan",
+                "latitude": 40.02518825088483,
+                "longitude": 116.27566596871986
+            },
+            {
+                "id": 1191959313,
+                "name": "杨胜楼",
+                "type": "nan",
+                "latitude": 40.02736219335009,
+                "longitude": 116.27191971973382
+            },
+            {
+                "id": 1191960919,
+                "name": "近邻宝",
+                "type": "nan",
+                "latitude": 40.02552857884869,
+                "longitude": 116.27195476258458
+            },
+            {
+                "id": 15481561,
+                "name": "动物医学院",
+                "type": "nan",
+                "latitude": 40.028594544819974,
+                "longitude": 116.27877002534277
+            }
+        ]
+    }
+}

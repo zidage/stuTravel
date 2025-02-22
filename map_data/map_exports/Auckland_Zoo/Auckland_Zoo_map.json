@@ -1,0 +1,197 @@
+{
+    "id": 1220629262219176482,
+    "name": "Auckland Zoo",
+    "address": "Motions Rd, Western Springs, Auckland 1022新西兰",
+    "rating": 4.5,
+    "popularity": 68,
+    "data_path": "map_data/university_map/Auckland_Zoo",
+    "description": "小圆壳螺科（学名：Orbitestellidae）是腹足綱異鰓亞綱下異鰓類下綱之下的一個科，其物種皆為微小貝海螺。",
+    "images": [],
+    "amenity": {
+        "affiliation": 1220629262219176482,
+        "amenity_list": [
+            {
+                "id": 1035364691,
+                "name": "可能感兴趣的地点",
+                "type": "post_box",
+                "latitude": -36.8642532,
+                "longitude": 174.7195558
+            },
+            {
+                "id": 6167891485,
+                "name": "Old Elephant House",
+                "type": "cafe",
+                "latitude": -36.861216,
+                "longitude": 174.7202314
+            },
+            {
+                "id": 6167891707,
+                "name": "Te Puna",
+                "type": "cafe",
+                "latitude": -36.8628569,
+                "longitude": 174.719802
+            },
+            {
+                "id": 8757138032,
+                "name": "Rakau",
+                "type": "events_venue",
+                "latitude": -36.8632737,
+                "longitude": 174.7194437
+            },
+            {
+                "id": 8757138033,
+                "name": "Kahurangi",
+                "type": "events_venue",
+                "latitude": -36.8633488,
+                "longitude": 174.7195483
+            },
+            {
+                "id": 89207837,
+                "name": "Zoo Carpark",
+                "type": "parking",
+                "latitude": -36.864990882735235,
+                "longitude": 174.71975494884387
+            },
+            {
+                "id": 183544348,
+                "name": "Wētāpunga Café",
+                "type": "cafe",
+                "latitude": -36.86399764261347,
+                "longitude": 174.71942795228807
+            },
+            {
+                "id": 658696279,
+                "name": "The Watering Hole Café",
+                "type": "cafe",
+                "latitude": -36.86410513475389,
+                "longitude": 174.721989250742
+            },
+            {
+                "id": 658696350,
+                "name": "Cotton Top Tamarin Shelter",
+                "type": "events_venue",
+                "latitude": -36.86176481073627,
+                "longitude": 174.7203111969028
+            },
+            {
+                "id": 893874842,
+                "name": "The Domes",
+                "type": "events_venue",
+                "latitude": -36.86366404251522,
+                "longitude": 174.71945870812323
+            },
+            {
+                "id": 945942745,
+                "name": "Lion Viewing Shelter",
+                "type": "events_venue",
+                "latitude": -36.86420044265591,
+                "longitude": 174.72123611201587
+            },
+            {
+                "id": 945942746,
+                "name": "The Lookout Café",
+                "type": "ice_cream",
+                "latitude": -36.86218295,
+                "longitude": 174.72215379999997
+            },
+            {
+                "id": 1096921126,
+                "name": "The Islands",
+                "type": "shelter",
+                "latitude": -36.862350199218646,
+                "longitude": 174.7220038637311
+            },
+            {
+                "id": 82378154,
+                "name": "Education Centre",
+                "type": "nan",
+                "latitude": -36.86336374610289,
+                "longitude": 174.71919608324555
+            },
+            {
+                "id": 82378279,
+                "name": "Kidzone",
+                "type": "nan",
+                "latitude": -36.863401849361324,
+                "longitude": 174.72027704785935
+            },
+            {
+                "id": 97079779,
+                "name": "Old Elephant House",
+                "type": "events_venue",
+                "latitude": -36.86107575046947,
+                "longitude": 174.72031198830922
+            },
+            {
+                "id": 183544317,
+                "name": "New Zealand Centre for Conservation Medicine",
+                "type": "nan",
+                "latitude": -36.86292793797218,
+                "longitude": 174.7189523592765
+            },
+            {
+                "id": 658696299,
+                "name": "The Band Rotunda",
+                "type": "nan",
+                "latitude": -36.86209031866888,
+                "longitude": 174.71959022598102
+            },
+            {
+                "id": 658696327,
+                "name": "brown kiwi",
+                "type": "nan",
+                "latitude": -36.86168955228581,
+                "longitude": 174.72140295895693
+            },
+            {
+                "id": 658696340,
+                "name": "Tarantula House",
+                "type": "nan",
+                "latitude": -36.86152820054454,
+                "longitude": 174.72055523316035
+            },
+            {
+                "id": 658696358,
+                "name": "Wild Work Centre",
+                "type": "nan",
+                "latitude": -36.862037453534974,
+                "longitude": 174.72171976246622
+            },
+            {
+                "id": 816557426,
+                "name": "Pumphouse",
+                "type": "nan",
+                "latitude": -36.862921904238696,
+                "longitude": 174.72114198098095
+            },
+            {
+                "id": 893874841,
+                "name": "Te Puna",
+                "type": "events_venue",
+                "latitude": -36.862855294389604,
+                "longitude": 174.71990468541753
+            },
+            {
+                "id": 971093558,
+                "name": "Zoo Administration Building",
+                "type": "nan",
+                "latitude": -36.86459458896617,
+                "longitude": 174.7202012707651
+            },
+            {
+                "id": 1091735442,
+                "name": "The Lowlands",
+                "type": "nan",
+                "latitude": -36.86257510907712,
+                "longitude": 174.71938499673087
+            },
+            {
+                "id": 1096921053,
+                "name": "Zoo Shop",
+                "type": "nan",
+                "latitude": -36.86403357910173,
+                "longitude": 174.71966682963378
+            }
+        ]
+    }
+}

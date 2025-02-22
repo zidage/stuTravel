@@ -1,0 +1,31 @@
+{
+    "id": -3226332747688131611,
+    "name": "上海财经大学",
+    "address": "中国上海市杨浦区五角场武川路318号 邮政编码: 200437",
+    "rating": 4.6,
+    "popularity": 88,
+    "data_path": "map_data/university_map/Shanghai_University_of_Finance_and_Economics",
+    "description": "上海财经大学（英語：Shanghai University of Finance and Economics，縮寫：SUFE），是位于中国上海市的一所大学，教育部直属211工程大学。以经济管理学科为主，经、管、法、文、理协调发展的多科性大学。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/zh/4/4d/Shanghai_University_of_Finance_and_Economics_logo.jpg"
+    ],
+    "amenity": {
+        "affiliation": -3226332747688131611,
+        "amenity_list": [
+            {
+                "id": 538441462,
+                "name": "上海市肺科医院",
+                "type": "hospital",
+                "latitude": 31.304227850755247,
+                "longitude": 121.49749138476686
+            },
+            {
+                "id": 971533570,
+                "name": "可能感兴趣的地点",
+                "type": "parking",
+                "latitude": 31.30959562608428,
+                "longitude": 121.49679485772887
+            }
+        ]
+    }
+}

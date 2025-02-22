@@ -1,0 +1,284 @@
+{
+    "id": 3479122029641202869,
+    "name": "杜甫草堂（西南门）",
+    "address": "中国四川省成都市青羊区青羊宫商圈草堂路 邮政编码: 610074",
+    "rating": 4.4,
+    "popularity": 64,
+    "data_path": "map_data/university_map/Du_Fu_Thatched_Cottage",
+    "description": "草堂北路站位于中国四川省成都市青羊区，是成都地铁4号线的地下车站。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/Artwall_in_Concourse_of_Caotang_Road_North_Station.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Platform_of_Caotang_Road_North_Station.jpg"
+    ],
+    "amenity": {
+        "affiliation": 3479122029641202869,
+        "amenity_list": [
+            {
+                "id": 4788029431,
+                "name": "草堂寺",
+                "type": "place_of_worship",
+                "latitude": 30.6619323,
+                "longitude": 104.026383
+            },
+            {
+                "id": 486537062,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 30.662444299999997,
+                "longitude": 104.0251107
+            },
+            {
+                "id": 486068053,
+                "name": "工部祠",
+                "type": "nan",
+                "latitude": 30.662996683586762,
+                "longitude": 104.02486143730994
+            },
+            {
+                "id": 486069117,
+                "name": "大雅堂",
+                "type": "nan",
+                "latitude": 30.662179099999996,
+                "longitude": 104.0263301
+            },
+            {
+                "id": 486070907,
+                "name": "草堂寺山门",
+                "type": "nan",
+                "latitude": 30.661223972852525,
+                "longitude": 104.02639500590865
+            },
+            {
+                "id": 486534220,
+                "name": "万福楼",
+                "type": "nan",
+                "latitude": 30.66167532953052,
+                "longitude": 104.0278079482561
+            },
+            {
+                "id": 486534808,
+                "name": "唐代遗址",
+                "type": "nan",
+                "latitude": 30.664056577709104,
+                "longitude": 104.02588124196707
+            },
+            {
+                "id": 486535606,
+                "name": "藏书楼",
+                "type": "nan",
+                "latitude": 30.6638409172544,
+                "longitude": 104.02540511196538
+            },
+            {
+                "id": 486536181,
+                "name": "柴门",
+                "type": "nan",
+                "latitude": 30.66281856328546,
+                "longitude": 104.02474595070633
+            },
+            {
+                "id": 486536534,
+                "name": "水竹居",
+                "type": "nan",
+                "latitude": 30.662804086615026,
+                "longitude": 104.02497128099874
+            },
+            {
+                "id": 486536701,
+                "name": "恰受航轩",
+                "type": "nan",
+                "latitude": 30.662957662768743,
+                "longitude": 104.02462572138865
+            },
+            {
+                "id": 486536890,
+                "name": "大廨",
+                "type": "nan",
+                "latitude": 30.662352098919808,
+                "longitude": 104.02441217773604
+            },
+            {
+                "id": 486538627,
+                "name": "少陵草堂碑亭",
+                "type": "nan",
+                "latitude": 30.662890896776375,
+                "longitude": 104.02511218137106
+            },
+            {
+                "id": 486538736,
+                "name": "茅屋故居",
+                "type": "nan",
+                "latitude": 30.66324911742657,
+                "longitude": 104.02529326776414
+            },
+            {
+                "id": 486540193,
+                "name": "浣花祠",
+                "type": "nan",
+                "latitude": 30.662630967667045,
+                "longitude": 104.02560681059857
+            },
+            {
+                "id": 486540561,
+                "name": "草堂研究会",
+                "type": "nan",
+                "latitude": 30.663585383145257,
+                "longitude": 104.02519801940808
+            },
+            {
+                "id": 486540769,
+                "name": "草堂寺藏经阁",
+                "type": "nan",
+                "latitude": 30.662779320078037,
+                "longitude": 104.02625593805053
+            },
+            {
+                "id": 486542306,
+                "name": "听秋轩",
+                "type": "nan",
+                "latitude": 30.664102778249273,
+                "longitude": 104.02515676400051
+            },
+            {
+                "id": 486542599,
+                "name": "杜陵春茶铺",
+                "type": "nan",
+                "latitude": 30.664182586481633,
+                "longitude": 104.02473806823602
+            },
+            {
+                "id": 486544095,
+                "name": "一览亭",
+                "type": "nan",
+                "latitude": 30.663661784083224,
+                "longitude": 104.02398687260418
+            },
+            {
+                "id": 486544169,
+                "name": "草堂山门",
+                "type": "nan",
+                "latitude": 30.662024599239167,
+                "longitude": 104.02413941726627
+            },
+            {
+                "id": 486544217,
+                "name": "草堂影壁",
+                "type": "nan",
+                "latitude": 30.66190915,
+                "longitude": 104.02404785
+            },
+            {
+                "id": 486569631,
+                "name": "诗史堂",
+                "type": "nan",
+                "latitude": 30.662601631154736,
+                "longitude": 104.02458227644182
+            },
+            {
+                "id": 486570095,
+                "name": "连廊",
+                "type": "nan",
+                "latitude": 30.662410207801205,
+                "longitude": 104.02464094908731
+            },
+            {
+                "id": 486570449,
+                "name": "连廊",
+                "type": "nan",
+                "latitude": 30.66254939148091,
+                "longitude": 104.02436369669167
+            },
+            {
+                "id": 486572606,
+                "name": "诗圣著千秋",
+                "type": "nan",
+                "latitude": 30.66245198012968,
+                "longitude": 104.02484243316665
+            },
+            {
+                "id": 486573143,
+                "name": "草堂留后世",
+                "type": "nan",
+                "latitude": 30.66268329176985,
+                "longitude": 104.024320687248
+            },
+            {
+                "id": 486574317,
+                "name": "水槛",
+                "type": "nan",
+                "latitude": 30.662873831839573,
+                "longitude": 104.02439288811492
+            },
+            {
+                "id": 486575714,
+                "name": "草堂寺大雄宝殿",
+                "type": "nan",
+                "latitude": 30.66245997272977,
+                "longitude": 104.02627892642766
+            },
+            {
+                "id": 486575808,
+                "name": "唐风遗韵",
+                "type": "nan",
+                "latitude": 30.6622431,
+                "longitude": 104.02600164999998
+            },
+            {
+                "id": 486575966,
+                "name": "西厢房",
+                "type": "nan",
+                "latitude": 30.662525114165984,
+                "longitude": 104.0259849818993
+            },
+            {
+                "id": 486576165,
+                "name": "浣花深处",
+                "type": "nan",
+                "latitude": 30.661572202324148,
+                "longitude": 104.02496145023767
+            },
+            {
+                "id": 486576763,
+                "name": "水榭",
+                "type": "nan",
+                "latitude": 30.664005589110307,
+                "longitude": 104.02451126042662
+            },
+            {
+                "id": 486583795,
+                "name": "草堂北邻",
+                "type": "nan",
+                "latitude": 30.663346,
+                "longitude": 104.02559265000001
+            },
+            {
+                "id": 486584022,
+                "name": "草堂南邻",
+                "type": "nan",
+                "latitude": 30.66261563589389,
+                "longitude": 104.02540417074357
+            },
+            {
+                "id": 486684428,
+                "name": "仰止堂",
+                "type": "nan",
+                "latitude": 30.662371644539224,
+                "longitude": 104.02742857252339
+            },
+            {
+                "id": 486684694,
+                "name": "曾经是学校",
+                "type": "nan",
+                "latitude": 30.662357490113568,
+                "longitude": 104.02768957285888
+            },
+            {
+                "id": 619395934,
+                "name": "展厅",
+                "type": "nan",
+                "latitude": 30.661711548004128,
+                "longitude": 104.02636057649359
+            }
+        ]
+    }
+}

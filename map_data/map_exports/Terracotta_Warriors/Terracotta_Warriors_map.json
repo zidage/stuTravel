@@ -1,0 +1,67 @@
+{
+    "id": 4124363484921210845,
+    "name": "秦始皇帝陵博物院",
+    "address": "中国陕西省西安市临潼区 邮政编码: 710612",
+    "rating": 4.6,
+    "popularity": 68,
+    "data_path": "map_data/university_map/Terracotta_Warriors",
+    "description": "秦始皇帝陵是秦朝始皇帝的陵墓，位于中国陕西省西安市市中心以东31公里临潼区骊山，原名骊山園。现存陵冢高76米，陵冢位于内城西南，坐西面东，放置棺椁和陪葬器物的地方为秦始皇陵建筑群的核心，目前尚未发掘。\n\n",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/96/Char_en_bronze.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1f/Xian-Terrakotta-Armee-18-2012-gje.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Xian-Terrakotta-Armee-34-2012-gje.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ac/Xian-Terrakotta-Armee-46-2012-gje.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Xian-Terrakotta-Armee-48-2012-gje.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/Xian-Terrakotta-Armee-56-2012-gje.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/Xian-Terrakotta-Armee-Pit2-12-2012-gje.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/Xian-Terrakotta-Armee-Streitwagen-18-2012-gje.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%B8%9D%E9%99%B5%C2%B7%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%C2%B7%E8%A5%BF%E5%AE%89%E8%87%A8%E6%BD%BC%C2%B7%EF%BC%88%E5%B0%81%E5%9C%9F%E6%AD%A3%E5%8C%97%E5%81%B4%EF%BC%89.jpg"
+    ],
+    "amenity": {
+        "affiliation": 4124363484921210845,
+        "amenity_list": [
+            {
+                "id": 3111964535,
+                "name": "可能感兴趣的地点",
+                "type": "toilets",
+                "latitude": 34.3842857,
+                "longitude": 109.2737145
+            },
+            {
+                "id": 71235668,
+                "name": "秦始皇兵马俑博物馆第1停车场",
+                "type": "parking",
+                "latitude": 34.390805832090535,
+                "longitude": 109.2804888900293
+            },
+            {
+                "id": 60126645,
+                "name": "秦兵马俑一号坑",
+                "type": "nan",
+                "latitude": 34.38496602569408,
+                "longitude": 109.2731572291832
+            },
+            {
+                "id": 71235684,
+                "name": "秦兵马俑二号坑",
+                "type": "nan",
+                "latitude": 34.38589924744271,
+                "longitude": 109.27395699705473
+            },
+            {
+                "id": 71235685,
+                "name": "秦兵马俑三号坑",
+                "type": "nan",
+                "latitude": 34.38559943277487,
+                "longitude": 109.27228470793058
+            },
+            {
+                "id": 71235692,
+                "name": "秦始皇帝陵文物陈列厅",
+                "type": "nan",
+                "latitude": 34.38612274646229,
+                "longitude": 109.27544751158804
+            }
+        ]
+    }
+}
