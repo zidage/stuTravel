@@ -1,6 +1,6 @@
 # 项目介绍
 ### 项目文档 
-[文档链接](https://markdown.com.cn](https://28-zu.gitbook.io/shu-ju-jie-gou-ke-cheng-she-ji-28-zu-xiang-mu-wen-dang)
+[文档链接](https://28-zu.gitbook.io/shu-ju-jie-gou-ke-cheng-she-ji-28-zu-xiang-mu-wen-dang)
 ### 开发技术栈选项
 
 后端/数据库/前端
